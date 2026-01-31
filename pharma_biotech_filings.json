@@ -1,0 +1,4202 @@
+[
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-11-14",
+    "accession_number": "0001104659-25-111935",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000110465925111935/srrk-20250930x10q.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2025-11-07",
+    "accession_number": "0000882095-25-000047",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209525000047/gild-20250930.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2025-11-07",
+    "accession_number": "0001104659-25-107976",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000110465925107976/ntra-20250930x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2025-11-07",
+    "accession_number": "0001628280-25-050332",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000162828025050332/txg-20250930.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2025-11-06",
+    "accession_number": "0001682852-25-000075",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000075/mrna-20250930.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-11-06",
+    "accession_number": "0001193125-25-269436",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000119312525269436/srpt-20250930.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2025-11-05",
+    "accession_number": "0000310158-25-000059",
+    "description": "3Q25 FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015825000059/mrk-20250930.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2025-11-05",
+    "accession_number": "0000318154-25-000072",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000072/amgn-20250930.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2025-11-04",
+    "accession_number": "0000078003-25-000150",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000150/pfe-20250928.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2025-11-04",
+    "accession_number": "0001551152-25-000049",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000049/abbv-20250930.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2025-11-04",
+    "accession_number": "0000875320-25-000232",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532025000232/vrtx-20250930.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2025-11-04",
+    "accession_number": "0001628280-25-048559",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828025048559/mdgl-20250930.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2025-11-03",
+    "accession_number": "0001124140-25-000091",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414025000091/exas-20250930.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2025-10-31",
+    "accession_number": "0001110803-25-000073",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000073/ilmn-20250928.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2025-10-30",
+    "accession_number": "0000014272-25-000149",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000149/bmy-20250930.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2025-10-30",
+    "accession_number": "0000059478-25-000254",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/lly-20250930.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2025-10-30",
+    "accession_number": "0000875045-25-000049",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504525000049/biib-20250930.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2025-10-30",
+    "accession_number": "0001628280-25-047345",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828025047345/alny-20250930.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2025-10-29",
+    "accession_number": "0000874015-25-000266",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-Q 9-30-2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401525000266/form10q.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2025-10-28",
+    "accession_number": "0000872589-25-000028",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000087258925000028/regn-20250930.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2025-10-28",
+    "accession_number": "0001048477-25-000107",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847725000107/bmrn-20250930.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2025-10-28",
+    "accession_number": "0000879169-25-000118",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000118/incy-20250930.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2025-10-28",
+    "accession_number": "0000914475-25-000181",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447525000181/nbix-20250930.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2025-10-22",
+    "accession_number": "0000200406-25-000209",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/jnj-20250928.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-10-22",
+    "accession_number": "0001674101-25-000024",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000024/vrt-20250930.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2025-08-08",
+    "accession_number": "0001558370-25-010829",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837025010829/ntra-20250630x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2025-08-08",
+    "accession_number": "0001770787-25-000051",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078725000051/txg-20250630.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2025-08-07",
+    "accession_number": "0000059478-25-000204",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/lly-20250630.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2025-08-07",
+    "accession_number": "0000882095-25-000032",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209525000032/gild-20250630.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "accession_number": "0000318154-25-000056",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000056/amgn-20250630.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "accession_number": "0001124140-25-000083",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414025000083/exas-20250630.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "accession_number": "0000950170-25-103971",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017025103971/srpt-20250630.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "accession_number": "0001558370-25-010400",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837025010400/srrk-20250630x10q.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2025-08-05",
+    "accession_number": "0000078003-25-000138",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000138/pfe-20250629.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2025-08-05",
+    "accession_number": "0000310158-25-000014",
+    "description": "2Q25 FORM 10-Q (6.30.25)",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015825000014/mrk-20250630.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2025-08-05",
+    "accession_number": "0000875320-25-000216",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532025000216/vrtx-20250630.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2025-08-05",
+    "accession_number": "0001628280-25-037613",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828025037613/mdgl-20250630.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2025-08-05",
+    "accession_number": "0001048477-25-000090",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847725000090/bmrn-20250630.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2025-08-04",
+    "accession_number": "0001551152-25-000040",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000040/abbv-20250630.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2025-08-01",
+    "accession_number": "0000872589-25-000019",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000087258925000019/regn-20250630.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2025-08-01",
+    "accession_number": "0001682852-25-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000044/mrna-20250630.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2025-08-01",
+    "accession_number": "0001110803-25-000060",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000060/ilmn-20250629.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2025-07-31",
+    "accession_number": "0000014272-25-000131",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000131/bmy-20250630.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2025-07-31",
+    "accession_number": "0000875045-25-000033",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504525000033/biib-20250630.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2025-07-31",
+    "accession_number": "0001178670-25-000090",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000090/alny-20250630.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2025-07-30",
+    "accession_number": "0000914475-25-000158",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447525000158/nbix-20250630.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2025-07-30",
+    "accession_number": "0000874015-25-000167",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-Q 6-30-2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401525000167/form10q.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-07-30",
+    "accession_number": "0001674101-25-000008",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000008/vrt-20250630.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2025-07-29",
+    "accession_number": "0000879169-25-000103",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000103/incy-20250630.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2025-07-24",
+    "accession_number": "0000200406-25-000178",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/jnj-20250629.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-05-14",
+    "accession_number": "0001558370-25-007655",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837025007655/srrk-20250331x10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2025-05-09",
+    "accession_number": "0001551152-25-000029",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000029/abbv-20250331.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2025-05-09",
+    "accession_number": "0001110803-25-000046",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000046/ilmn-20250330.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2025-05-09",
+    "accession_number": "0001558370-25-007036",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837025007036/ntra-20250331x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2025-05-09",
+    "accession_number": "0001770787-25-000032",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078725000032/txg-20250331.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2025-05-07",
+    "accession_number": "0000882095-25-000012",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209525000012/gild-20250331.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2025-05-06",
+    "accession_number": "0000875320-25-000192",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532025000192/vrtx-20250331.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-05-06",
+    "accession_number": "0000950170-25-064412",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017025064412/srpt-20250331.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2025-05-05",
+    "accession_number": "0000078003-25-000114",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000114/pfe-20250330.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2025-05-05",
+    "accession_number": "0000914475-25-000100",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447525000100/nbix-20250331.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2025-05-02",
+    "accession_number": "0001628280-25-021834",
+    "description": "1Q25 FORM 10-Q (3.31.25)",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828025021834/mrk-20250331.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2025-05-02",
+    "accession_number": "0000318154-25-000020",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000020/amgn-20250331.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2025-05-02",
+    "accession_number": "0001048477-25-000051",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847725000051/bmrn-20250331.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0000059478-25-000132",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/lly-20250331.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0001682852-25-000034",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000034/mrna-20250331.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0000875045-25-000018",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504525000018/biib-20250331.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0001628280-25-021356",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828025021356/mdgl-20250331.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0001124140-25-000043",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414025000043/exas-20250331.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0001178670-25-000052",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000052/alny-20250331.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2025-05-01",
+    "accession_number": "0001558370-25-006108",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837025006108/bpmc-20250331x10q.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2025-04-30",
+    "accession_number": "0000874015-25-000123",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-Q 3-31-2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401525000123/form10q.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2025-04-29",
+    "accession_number": "0001804220-25-000022",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422025000022/regn-20250331.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2025-04-29",
+    "accession_number": "0000879169-25-000056",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000056/incy-20250331.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2025-04-24",
+    "accession_number": "0000014272-25-000091",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000091/bmy-20250331.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2025-04-23",
+    "accession_number": "0000200406-25-000119",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/jnj-20250330.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2025-04-23",
+    "accession_number": "0001628280-25-019372",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025019372/vrt-20250331.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-K",
+    "filing_date": "2025-02-28",
+    "accession_number": "0000882095-25-000006",
+    "description": "FORM 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209525000006/gild-20241231.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-K",
+    "filing_date": "2025-02-28",
+    "accession_number": "0000950170-25-029973",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017025029973/srpt-20241231.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-K",
+    "filing_date": "2025-02-28",
+    "accession_number": "0001558370-25-001869",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837025001869/ntra-20241231x10k.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-K",
+    "filing_date": "2025-02-27",
+    "accession_number": "0000078003-25-000054",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000054/pfe-20241231.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-K",
+    "filing_date": "2025-02-27",
+    "accession_number": "0001558370-25-001682",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837025001682/srrk-20241231x10k.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-K",
+    "filing_date": "2025-02-26",
+    "accession_number": "0001628280-25-007980",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828025007980/mdgl-20241231.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-K",
+    "filing_date": "2025-02-25",
+    "accession_number": "0001628280-25-007732",
+    "description": "10-K FOR THE FISCAL YEAR ENDED DECEMBER 31, 2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828025007732/mrk-20241231.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-K",
+    "filing_date": "2025-02-24",
+    "accession_number": "0001048477-25-000007",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847725000007/bmrn-20241231.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-K",
+    "filing_date": "2025-02-21",
+    "accession_number": "0001682852-25-000022",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-K",
+    "filing_date": "2025-02-19",
+    "accession_number": "0000059478-25-000067",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-K",
+    "filing_date": "2025-02-19",
+    "accession_number": "0001124140-25-000020",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414025000020/exas-20241231.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2025-02-19",
+    "accession_number": "0000874015-25-000089",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-K 12-31-2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401525000089/form10k.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-K",
+    "filing_date": "2025-02-18",
+    "accession_number": "0001628280-25-005905",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025005905/vrt-20241231.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-K",
+    "filing_date": "2025-02-14",
+    "accession_number": "0001551152-25-000020",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-K",
+    "filing_date": "2025-02-14",
+    "accession_number": "0000318154-25-000010",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000010/amgn-20241231.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-K",
+    "filing_date": "2025-02-13",
+    "accession_number": "0000200406-25-000038",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/jnj-20241229.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2025-02-13",
+    "accession_number": "0000875320-25-000053",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532025000053/vrtx-20241231.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-K",
+    "filing_date": "2025-02-13",
+    "accession_number": "0001178670-25-000026",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny-20241231.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-K",
+    "filing_date": "2025-02-13",
+    "accession_number": "0001558370-25-000953",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837025000953/bpmc-20241231x10k.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-K",
+    "filing_date": "2025-02-13",
+    "accession_number": "0001770787-25-000013",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078725000013/txg-20241231.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-K",
+    "filing_date": "2025-02-12",
+    "accession_number": "0000014272-25-000039",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/bmy-20241231.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-K",
+    "filing_date": "2025-02-12",
+    "accession_number": "0000875045-25-000009",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504525000009/biib-20241231.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-K",
+    "filing_date": "2025-02-12",
+    "accession_number": "0001110803-25-000019",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000019/ilmn-20241229.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-K",
+    "filing_date": "2025-02-10",
+    "accession_number": "0001628280-25-004633",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000162828025004633/incy-20241231.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-K",
+    "filing_date": "2025-02-10",
+    "accession_number": "0000914475-25-000037",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447525000037/nbix-20241231.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-K",
+    "filing_date": "2025-02-05",
+    "accession_number": "0001804220-25-000011",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422025000011/regn-20241231.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2024-11-12",
+    "accession_number": "0000882095-24-000028",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209524000028/gild-20240930.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-11-12",
+    "accession_number": "0001558370-24-015155",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837024015155/srrk-20240930x10q.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2024-11-12",
+    "accession_number": "0001558370-24-015325",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837024015325/ntra-20240930x10q.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2024-11-07",
+    "accession_number": "0001682852-24-000060",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000060/mrna-20240930.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2024-11-06",
+    "accession_number": "0001628280-24-045689",
+    "description": "3Q24 FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828024045689/mrk-20240930.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2024-11-06",
+    "accession_number": "0001110803-24-000052",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000052/ilmn-20240929.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-11-06",
+    "accession_number": "0000950170-24-122239",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017024122239/srpt-20240930.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2024-11-06",
+    "accession_number": "0000874015-24-000232",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-Q 9-30-2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401524000232/form10q.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2024-11-05",
+    "accession_number": "0000875320-24-000223",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532024000223/vrtx-20240930.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2024-11-05",
+    "accession_number": "0001124140-24-000083",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414024000083/exas-20240930.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2024-11-04",
+    "accession_number": "0000078003-24-000191",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000191/pfe-20240929.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2024-11-04",
+    "accession_number": "0001551152-24-000040",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000040/abbv-20240930.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "accession_number": "0000014272-24-000147",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000147/bmy-20240930.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "accession_number": "0000318154-24-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000044/amgn-20240930.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "accession_number": "0001804220-24-000040",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422024000040/regn-20240930.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "accession_number": "0001628280-24-044445",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828024044445/mdgl-20240930.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "accession_number": "0001048477-24-000152",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847724000152/bmrn-20240930.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2024-10-31",
+    "accession_number": "0001178670-24-000053",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000053/alny-20240930.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "accession_number": "0000059478-24-000245",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/lly-20240930.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "accession_number": "0000875045-24-000032",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504524000032/biib-20240930.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "accession_number": "0000914475-24-000211",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447524000211/nbix-20240930.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2024-10-30",
+    "accession_number": "0001558370-24-013960",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837024013960/bpmc-20240930x10q.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2024-10-29",
+    "accession_number": "0000879169-24-000172",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000172/incy-20240930.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2024-10-29",
+    "accession_number": "0001770787-24-000073",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078724000073/txg-20240930.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-10-25",
+    "accession_number": "0001628280-24-043698",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024043698/vrt-20240930.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2024-10-23",
+    "accession_number": "0000200406-24-000096",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/jnj-20240929.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2024-08-09",
+    "accession_number": "0001558370-24-011666",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837024011666/ntra-20240630x10q.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2024-08-08",
+    "accession_number": "0000059478-24-000187",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/lly-20240630.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2024-08-08",
+    "accession_number": "0000882095-24-000022",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209524000022/gild-20240630.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-08-08",
+    "accession_number": "0001558370-24-011461",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837024011461/srrk-20240630x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2024-08-08",
+    "accession_number": "0001770787-24-000060",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078724000060/txg-20240630.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2024-08-07",
+    "accession_number": "0001551152-24-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000031/abbv-20240630.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2024-08-07",
+    "accession_number": "0000318154-24-000035",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000035/amgn-20240630.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2024-08-07",
+    "accession_number": "0001110803-24-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000044/ilmn-20240630.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2024-08-07",
+    "accession_number": "0001628280-24-035400",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828024035400/mdgl-20240630.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-08-07",
+    "accession_number": "0000950170-24-092720",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017024092720/srpt-20240630.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2024-08-05",
+    "accession_number": "0000078003-24-000166",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000166/pfe-20240630.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2024-08-05",
+    "accession_number": "0001628280-24-034715",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828024034715/mrk-20240630.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2024-08-05",
+    "accession_number": "0001048477-24-000126",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847724000126/bmrn-20240630.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2024-08-02",
+    "accession_number": "0000875320-24-000198",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532024000198/vrtx-20240630.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0001804220-24-000028",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422024000028/regn-20240630.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0001682852-24-000046",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000046/mrna-20240630.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0000875045-24-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504524000025/biib-20240630.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0001178670-24-000041",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000041/alny-20240630.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0000914475-24-000181",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447524000181/nbix-20240630.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0000874015-24-000187",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 6-30-2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401524000187/form10q.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2024-08-01",
+    "accession_number": "0001558370-24-010615",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837024010615/bpmc-20240630x10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2024-07-31",
+    "accession_number": "0001124140-24-000069",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414024000069/exas-20240630.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2024-07-30",
+    "accession_number": "0000879169-24-000149",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000149/incy-20240630.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2024-07-26",
+    "accession_number": "0000014272-24-000123",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000123/bmy-20240630.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-07-26",
+    "accession_number": "0001628280-24-033173",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024033173/vrt-20240630.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2024-07-25",
+    "accession_number": "0000200406-24-000075",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/jnj-20240630.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2024-05-10",
+    "accession_number": "0001558370-24-007686",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837024007686/ntra-20240331x10q.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2024-05-08",
+    "accession_number": "0000078003-24-000107",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000107/pfe-20240331.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2024-05-08",
+    "accession_number": "0000882095-24-000013",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209524000013/gild-20240331.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2024-05-08",
+    "accession_number": "0001124140-24-000046",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414024000046/exas-20240331.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2024-05-07",
+    "accession_number": "0000875320-24-000139",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532024000139/vrtx-20240331.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2024-05-07",
+    "accession_number": "0001628280-24-020865",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828024020865/mdgl-20240331.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2024-05-07",
+    "accession_number": "0000874015-24-000142",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 3-31-2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401524000142/form10q.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-05-07",
+    "accession_number": "0001558370-24-006908",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837024006908/srrk-20240331x10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2024-05-03",
+    "accession_number": "0001628280-24-020283",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828024020283/mrk-20240331.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2024-05-03",
+    "accession_number": "0001551152-24-000020",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000020/abbv-20240331.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2024-05-03",
+    "accession_number": "0000318154-24-000020",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000020/amgn-20240331.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2024-05-03",
+    "accession_number": "0001110803-24-000024",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000024/ilmn-20240331.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2024-05-02",
+    "accession_number": "0001804220-24-000017",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422024000017/regn-20240331.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2024-05-02",
+    "accession_number": "0001682852-24-000027",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000027/mrna-20240331.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2024-05-02",
+    "accession_number": "0001178670-24-000023",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000023/alny-20240331.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2024-05-02",
+    "accession_number": "0001558370-24-006563",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837024006563/bpmc-20240331x10q.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2024-05-01",
+    "accession_number": "0000200406-24-000049",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/jnj-20240331.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2024-05-01",
+    "accession_number": "0000914475-24-000117",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447524000117/nbix-20240331.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-05-01",
+    "accession_number": "0000950170-24-051234",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017024051234/srpt-20240331.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2024-04-30",
+    "accession_number": "0000059478-24-000118",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/lly-20240331.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2024-04-30",
+    "accession_number": "0000879169-24-000077",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000077/incy-20240331.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2024-04-30",
+    "accession_number": "0001770787-24-000036",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078724000036/txg-20240331.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2024-04-26",
+    "accession_number": "0001048477-24-000070",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847724000070/bmrn-20240331.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2024-04-26",
+    "accession_number": "0001628280-24-018417",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024018417/vrt-20240331.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2024-04-25",
+    "accession_number": "0000014272-24-000096",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000096/bmy-20240331.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2024-04-24",
+    "accession_number": "0000875045-24-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504524000016/biib-20240331.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-K/A",
+    "filing_date": "2024-04-11",
+    "accession_number": "0001193125-24-093194",
+    "description": "10-K/A",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000119312524093194/d807955d10ka.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-K",
+    "filing_date": "2024-03-19",
+    "accession_number": "0001558370-24-003540",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837024003540/srrk-20231231x10k.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-K",
+    "filing_date": "2024-02-29",
+    "accession_number": "0001558370-24-002083",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837024002083/ntra-20231231x10k.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-K",
+    "filing_date": "2024-02-28",
+    "accession_number": "0001628280-24-007376",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000162828024007376/mdgl-20231231.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-K",
+    "filing_date": "2024-02-28",
+    "accession_number": "0000950170-24-022036",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017024022036/srpt-20231231.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-K",
+    "filing_date": "2024-02-26",
+    "accession_number": "0001628280-24-006850",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828024006850/mrk-20231231.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-K",
+    "filing_date": "2024-02-26",
+    "accession_number": "0001048477-24-000016",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847724000016/bmrn-20231231.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-K",
+    "filing_date": "2024-02-23",
+    "accession_number": "0000882095-24-000007",
+    "description": "FORM 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209524000007/gild-20231231.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-K",
+    "filing_date": "2024-02-23",
+    "accession_number": "0001682852-24-000015",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000015/mrna-20231231.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-K",
+    "filing_date": "2024-02-23",
+    "accession_number": "0001628280-24-006498",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024006498/vrt-20231231.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-K",
+    "filing_date": "2024-02-22",
+    "accession_number": "0000078003-24-000039",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000039/pfe-20231231.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-K",
+    "filing_date": "2024-02-21",
+    "accession_number": "0000059478-24-000065",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-K",
+    "filing_date": "2024-02-21",
+    "accession_number": "0001124140-24-000012",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414024000012/exas-20231231.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2024-02-21",
+    "accession_number": "0000874015-24-000116",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-K 12-31-2023",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401524000116/form10k.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-K",
+    "filing_date": "2024-02-20",
+    "accession_number": "0001551152-24-000011",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-K",
+    "filing_date": "2024-02-16",
+    "accession_number": "0000200406-24-000013",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/jnj-20231231.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-K",
+    "filing_date": "2024-02-16",
+    "accession_number": "0001110803-24-000010",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000010/ilmn-20231231.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-K/A",
+    "filing_date": "2024-02-16",
+    "accession_number": "0000879169-24-000062",
+    "description": "10-K/A",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000062/incy-20231231.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2024-02-15",
+    "accession_number": "0000875320-24-000062",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532024000062/vrtx-20231231.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-K",
+    "filing_date": "2024-02-15",
+    "accession_number": "0001178670-24-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000008/alny-20231231.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-K",
+    "filing_date": "2024-02-15",
+    "accession_number": "0001558370-24-001254",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837024001254/bpmc-20231231x10k.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-K",
+    "filing_date": "2024-02-15",
+    "accession_number": "0001770787-24-000017",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078724000017/txg-20231231.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-K",
+    "filing_date": "2024-02-14",
+    "accession_number": "0000318154-24-000011",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000011/amgn-20231231.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-K",
+    "filing_date": "2024-02-14",
+    "accession_number": "0000875045-24-000009",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504524000009/biib-20231231.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-K",
+    "filing_date": "2024-02-13",
+    "accession_number": "0000014272-24-000044",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000044/bmy-20231231.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-K",
+    "filing_date": "2024-02-13",
+    "accession_number": "0000879169-24-000045",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000045/incy-20231231.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-K",
+    "filing_date": "2024-02-09",
+    "accession_number": "0000914475-24-000054",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447524000054/nbix-20231231.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-K",
+    "filing_date": "2024-02-05",
+    "accession_number": "0001804220-24-000009",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422024000009/regn-20231231.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2023-11-13",
+    "accession_number": "0001110803-23-000086",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080323000086/ilmn-20231001.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2023-11-09",
+    "accession_number": "0001558370-23-018379",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837023018379/ntra-20230930x10q.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2023-11-08",
+    "accession_number": "0000078003-23-000115",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000115/pfe-20231001.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2023-11-08",
+    "accession_number": "0000875045-23-000038",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504523000038/biib-20230930.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2023-11-07",
+    "accession_number": "0000882095-23-000031",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209523000031/gild-20230930.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2023-11-07",
+    "accession_number": "0000875320-23-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532023000031/vrtx-20230930.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-11-07",
+    "accession_number": "0001558370-23-017854",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837023017854/srrk-20230930x10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2023-11-06",
+    "accession_number": "0001551152-23-000045",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000045/abbv-20230930.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2023-11-06",
+    "accession_number": "0001193125-23-270803",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312523270803/d907859d10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2023-11-03",
+    "accession_number": "0001628280-23-036717",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828023036717/mrk-20230930.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2023-11-03",
+    "accession_number": "0001682852-23-000042",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000042/mrna-20230930.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2023-11-03",
+    "accession_number": "0001770787-23-000053",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078723000053/txg-20230930.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2023-11-02",
+    "accession_number": "0000059478-23-000284",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/lly-20230930.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2023-11-02",
+    "accession_number": "0001804220-23-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422023000031/regn-20230930.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2023-11-02",
+    "accession_number": "0001048477-23-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847723000044/bmrn-20230930.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2023-11-02",
+    "accession_number": "0001178670-23-000023",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000023/alny-20230930.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2023-11-02",
+    "accession_number": "0000874015-23-000209",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 9-30-2023",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401523000209/form10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2023-11-01",
+    "accession_number": "0001124140-23-000090",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414023000090/exas-20230930.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-11-01",
+    "accession_number": "0000950170-23-057414",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017023057414/srpt-20230930.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2023-10-31",
+    "accession_number": "0000318154-23-000064",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815423000064/amgn-20230930.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2023-10-31",
+    "accession_number": "0000879169-23-000041",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000041/incy-20230930.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2023-10-31",
+    "accession_number": "0000914475-23-000073",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447523000073/nbix-20230930.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2023-10-27",
+    "accession_number": "0000200406-23-000102",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/jnj-20231001.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-10-27",
+    "accession_number": "0001628280-23-035351",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023035351/vrt-20230930.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2023-10-26",
+    "accession_number": "0000014272-23-000181",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000181/bmy-20230930.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2023-10-26",
+    "accession_number": "0001558370-23-016845",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837023016845/bpmc-20230930x10q.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2023-08-10",
+    "accession_number": "0001110803-23-000064",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080323000064/ilmn-20230702.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2023-08-09",
+    "accession_number": "0000078003-23-000088",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000088/pfe-20230702.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2023-08-09",
+    "accession_number": "0000874015-23-000186",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 6-30-2023",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401523000186/form10q.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-08-09",
+    "accession_number": "0001558370-23-014293",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837023014293/srrk-20230630x10q.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2023-08-08",
+    "accession_number": "0000059478-23-000221",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/lly-20230630.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2023-08-08",
+    "accession_number": "0001193125-23-205535",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312523205535/d530762d10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2023-08-07",
+    "accession_number": "0001628280-23-027770",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828023027770/mrk-20230630.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2023-08-07",
+    "accession_number": "0001551152-23-000033",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000033/abbv-20230630.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2023-08-04",
+    "accession_number": "0000318154-23-000053",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815423000053/amgn-20230630.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2023-08-04",
+    "accession_number": "0000882095-23-000025",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209523000025/gild-20230630.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2023-08-04",
+    "accession_number": "0001558370-23-013289",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837023013289/ntra-20230630x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2023-08-04",
+    "accession_number": "0001770787-23-000047",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078723000047/txg-20230630.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2023-08-03",
+    "accession_number": "0001804220-23-000023",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422023000023/regn-20230630.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2023-08-03",
+    "accession_number": "0001682852-23-000027",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000027/mrna-20230630.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2023-08-03",
+    "accession_number": "0001178670-23-000015",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000015/alny-20230630.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "accession_number": "0000875320-23-000021",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532023000021/vrtx-20230630.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "accession_number": "0001048477-23-000029",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847723000029/bmrn-20230630.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "accession_number": "0000950170-23-037125",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017023037125/srpt-20230630.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "accession_number": "0001558370-23-012897",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837023012897/bpmc-20230630x10q.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-08-02",
+    "accession_number": "0001628280-23-026777",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023026777/vrt-20230630.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2023-08-01",
+    "accession_number": "0000879169-23-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000025/incy-20230630.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2023-08-01",
+    "accession_number": "0001124140-23-000082",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414023000082/exas-20230630.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2023-08-01",
+    "accession_number": "0000914475-23-000057",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447523000057/nbix-20230630.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2023-07-31",
+    "accession_number": "0000200406-23-000082",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/jnj-20230702.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2023-07-27",
+    "accession_number": "0000014272-23-000152",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000152/bmy-20230630.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2023-07-25",
+    "accession_number": "0000875045-23-000030",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504523000030/biib-20230630.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2023-05-10",
+    "accession_number": "0001628280-23-017196",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000162828023017196/pfe-20230402.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2023-05-10",
+    "accession_number": "0001558370-23-008938",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837023008938/ntra-20230331x10q.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2023-05-09",
+    "accession_number": "0001193125-23-138863",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312523138863/d431523d10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2023-05-09",
+    "accession_number": "0001124140-23-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414023000044/exas-20230331.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-05-09",
+    "accession_number": "0001558370-23-008674",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837023008674/srrk-20230331x10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2023-05-05",
+    "accession_number": "0001628280-23-015990",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828023015990/mrk-20230331.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2023-05-05",
+    "accession_number": "0001551152-23-000023",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000023/abbv-20230331.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2023-05-05",
+    "accession_number": "0001110803-23-000035",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080323000035/ilmn-20230402.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2023-05-04",
+    "accession_number": "0001804220-23-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422023000016/regn-20230331.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2023-05-04",
+    "accession_number": "0001682852-23-000021",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000021/mrna-20230331.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2023-05-04",
+    "accession_number": "0001178670-23-000011",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000011/alny-20230331.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2023-05-04",
+    "accession_number": "0001558370-23-008120",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837023008120/bpmc-20230331x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2023-05-04",
+    "accession_number": "0001770787-23-000029",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078723000029/txg-20230331.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2023-05-03",
+    "accession_number": "0000882095-23-000017",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209523000017/gild-20230331.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2023-05-03",
+    "accession_number": "0000914475-23-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447523000044/nbix-20230331.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2023-05-03",
+    "accession_number": "0000874015-23-000136",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 3-31-2023",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401523000136/form10q.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2023-05-02",
+    "accession_number": "0000875320-23-000012",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532023000012/vrtx-20230331.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2023-05-02",
+    "accession_number": "0000879169-23-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000016/incy-20230331.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-05-02",
+    "accession_number": "0000950170-23-016654",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017023016654/srpt-20230331.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2023-04-28",
+    "accession_number": "0000200406-23-000056",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/jnj-20230402.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2023-04-28",
+    "accession_number": "0000318154-23-000029",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815423000029/amgn-20230331.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2023-04-28",
+    "accession_number": "0001048477-23-000020",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847723000020/bmrn-20230331.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2023-04-28",
+    "accession_number": "0001628280-23-013730",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023013730/vrt-20230331.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2023-04-27",
+    "accession_number": "0000014272-23-000104",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000104/bmy-20230331.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2023-04-27",
+    "accession_number": "0000059478-23-000162",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/lly-20230331.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2023-04-25",
+    "accession_number": "0000875045-23-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504523000016/biib-20230331.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-K",
+    "filing_date": "2023-03-07",
+    "accession_number": "0001558370-23-002992",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837023002992/srrk-20221231x10k.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-K/A",
+    "filing_date": "2023-03-03",
+    "accession_number": "0001193125-23-060052",
+    "description": "10-K/A",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312523060052/d468763d10ka.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-K",
+    "filing_date": "2023-03-01",
+    "accession_number": "0001558370-23-002460",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837023002460/ntra-20221231x10k.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-K",
+    "filing_date": "2023-02-28",
+    "accession_number": "0000950170-23-005062",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017023005062/srpt-20221231.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-K",
+    "filing_date": "2023-02-27",
+    "accession_number": "0001048477-23-000009",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847723000009/bmrn-20221231.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-K",
+    "filing_date": "2023-02-27",
+    "accession_number": "0001628280-23-005248",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023005248/vrt-20221231.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-K",
+    "filing_date": "2023-02-24",
+    "accession_number": "0001628280-23-005061",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000162828023005061/mrk-20221231.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-K",
+    "filing_date": "2023-02-24",
+    "accession_number": "0001682852-23-000011",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000011/mrna-20221231.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-K",
+    "filing_date": "2023-02-23",
+    "accession_number": "0000078003-23-000024",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000024/pfe-20221231.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-K",
+    "filing_date": "2023-02-23",
+    "accession_number": "0001193125-23-045575",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312523045575/d437449d10k.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-K",
+    "filing_date": "2023-02-23",
+    "accession_number": "0001178670-23-000005",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny-20221231.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-K",
+    "filing_date": "2023-02-22",
+    "accession_number": "0000059478-23-000082",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/lly-20221231.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-K",
+    "filing_date": "2023-02-22",
+    "accession_number": "0000882095-23-000007",
+    "description": "FORM 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209523000007/gild-20221231.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2023-02-22",
+    "accession_number": "0000874015-23-000105",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-K 12-31-2022",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401523000105/form10k.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-K",
+    "filing_date": "2023-02-21",
+    "accession_number": "0001124140-23-000014",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414023000014/exas-20221231.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-K",
+    "filing_date": "2023-02-17",
+    "accession_number": "0001551152-23-000011",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/abbv-20221231.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-K",
+    "filing_date": "2023-02-17",
+    "accession_number": "0001110803-23-000023",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080323000023/ilmn-20230101.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-K",
+    "filing_date": "2023-02-16",
+    "accession_number": "0000200406-23-000016",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/jnj-20230101.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-K",
+    "filing_date": "2023-02-16",
+    "accession_number": "0001558370-23-001465",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837023001465/bpmc-20221231x10k.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-K",
+    "filing_date": "2023-02-16",
+    "accession_number": "0001770787-23-000012",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078723000012/txg-20221231.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-K",
+    "filing_date": "2023-02-15",
+    "accession_number": "0000875045-23-000009",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504523000009/biib-20221231.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-K",
+    "filing_date": "2023-02-14",
+    "accession_number": "0000014272-23-000046",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000046/bmy-20221231.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2023-02-10",
+    "accession_number": "0000875320-23-000007",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532023000007/vrtx-20221231.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-K",
+    "filing_date": "2023-02-09",
+    "accession_number": "0000318154-23-000017",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815423000017/amgn-20221231.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-K",
+    "filing_date": "2023-02-09",
+    "accession_number": "0000914475-23-000011",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447523000011/nbix-20221231.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-K",
+    "filing_date": "2023-02-07",
+    "accession_number": "0000879169-23-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000008/incy-20221231.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-K",
+    "filing_date": "2023-02-06",
+    "accession_number": "0001804220-23-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422023000008/regn-20221231.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-11-14",
+    "accession_number": "0001558370-22-017598",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837022017598/srrk-20220930x10q.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2022-11-09",
+    "accession_number": "0000078003-22-000101",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000101/pfe-20221002.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2022-11-09",
+    "accession_number": "0000874015-22-000168",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 9-30-2022",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401522000168/form10q.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2022-11-09",
+    "accession_number": "0001558370-22-016984",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837022016984/ntra-20220930x10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2022-11-04",
+    "accession_number": "0001551152-22-000045",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000045/abbv-20220930.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2022-11-04",
+    "accession_number": "0000318154-22-000055",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815422000055/amgn-20220930.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2022-11-04",
+    "accession_number": "0001110803-22-000047",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080322000047/ilmn-20221002.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2022-11-03",
+    "accession_number": "0000310158-22-000034",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015822000034/mrk-20220930.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2022-11-03",
+    "accession_number": "0001804220-22-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422022000031/regn-20220930.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2022-11-03",
+    "accession_number": "0001682852-22-000051",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000051/mrna-20220930.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2022-11-03",
+    "accession_number": "0001193125-22-276468",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312522276468/d403221d10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2022-11-03",
+    "accession_number": "0001124140-22-000071",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414022000071/exas-20220930.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2022-11-03",
+    "accession_number": "0001770787-22-000057",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078722000057/txg-20220930.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2022-11-02",
+    "accession_number": "0000882095-22-000027",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209522000027/gild-20220930.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-11-02",
+    "accession_number": "0000950170-22-021213",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017022021213/srpt-20220930.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2022-11-01",
+    "accession_number": "0000059478-22-000250",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/lly-20220930.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2022-11-01",
+    "accession_number": "0000879169-22-000010",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916922000010/incy-20220930.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2022-11-01",
+    "accession_number": "0000914475-22-000058",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447522000058/nbix-20220930.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2022-11-01",
+    "accession_number": "0001558370-22-015808",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837022015808/bpmc-20220930x10q.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-10-31",
+    "accession_number": "0001628280-22-027344",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828022027344/vrt-20220930.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2022-10-28",
+    "accession_number": "0000875320-22-000038",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532022000038/vrtx-20220930.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2022-10-28",
+    "accession_number": "0001048477-22-000033",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847722000033/bmrn-20220930.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2022-10-27",
+    "accession_number": "0000200406-22-000086",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/jnj-20221002.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2022-10-27",
+    "accession_number": "0001178670-22-000026",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000026/alny-20220930.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2022-10-26",
+    "accession_number": "0000014272-22-000196",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000196/bmy-20220930.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2022-10-25",
+    "accession_number": "0000875045-22-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504522000031/biib-20220930.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2022-08-11",
+    "accession_number": "0001110803-22-000041",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080322000041/ilmn-20220703.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2022-08-10",
+    "accession_number": "0000078003-22-000094",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000094/pfe-20220703.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2022-08-09",
+    "accession_number": "0000874015-22-000148",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 6-30-2022",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401522000148/form10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2022-08-09",
+    "accession_number": "0001770787-22-000049",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078722000049/txg-20220630.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2022-08-08",
+    "accession_number": "0000882095-22-000019",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209522000019/gild-20220630.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-08-08",
+    "accession_number": "0001558370-22-012641",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837022012641/srrk-20220630x10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2022-08-05",
+    "accession_number": "0000310158-22-000030",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015822000030/mrk-20220630.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2022-08-05",
+    "accession_number": "0000318154-22-000041",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815422000041/amgn-20220630.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2022-08-05",
+    "accession_number": "0000875320-22-000030",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532022000030/vrtx-20220630.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2022-08-05",
+    "accession_number": "0001558370-22-012331",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837022012331/ntra-20220630x10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2022-08-04",
+    "accession_number": "0001551152-22-000030",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000030/abbv-20220630.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2022-08-04",
+    "accession_number": "0000059478-22-000196",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/lly-20220630.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2022-08-04",
+    "accession_number": "0001193125-22-211757",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312522211757/d235479d10q.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2022-08-04",
+    "accession_number": "0001048477-22-000027",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847722000027/bmrn-20220630.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2022-08-04",
+    "accession_number": "0000914475-22-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447522000044/nbix-20220630.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2022-08-03",
+    "accession_number": "0001804220-22-000023",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422022000023/regn-20220630.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2022-08-03",
+    "accession_number": "0001682852-22-000042",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000042/mrna-20220630.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-08-03",
+    "accession_number": "0001628280-22-020322",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828022020322/vrt-20220630.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2022-08-02",
+    "accession_number": "0001558370-22-011631",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837022011631/incy-20220630x10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2022-08-02",
+    "accession_number": "0001124140-22-000061",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414022000061/exas-20220630.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-08-02",
+    "accession_number": "0000950170-22-013863",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017022013863/srpt-20220630.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2022-08-02",
+    "accession_number": "0001558370-22-011648",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837022011648/bpmc-20220630x10q.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2022-07-29",
+    "accession_number": "0000200406-22-000071",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/jnj-20220703.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2022-07-28",
+    "accession_number": "0001178670-22-000020",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000020/alny-20220630.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2022-07-27",
+    "accession_number": "0000014272-22-000166",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000166/bmy-20220630.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2022-07-20",
+    "accession_number": "0000875045-22-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504522000025/biib-20220630.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-05-16",
+    "accession_number": "0001558370-22-008975",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837022008975/srrk-20220331x10q.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2022-05-11",
+    "accession_number": "0000078003-22-000071",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000071/pfe-20220403.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2022-05-09",
+    "accession_number": "0001193125-22-144674",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312522144674/d329315d10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2022-05-06",
+    "accession_number": "0001551152-22-000017",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000017/abbv-20220331.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2022-05-06",
+    "accession_number": "0000875320-22-000014",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532022000014/vrtx-20220331.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2022-05-06",
+    "accession_number": "0001558370-22-007500",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837022007500/ntra-20220331x10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2022-05-05",
+    "accession_number": "0000310158-22-000011",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015822000011/mrk-20220331.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2022-05-05",
+    "accession_number": "0001110803-22-000021",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080322000021/ilmn-20220403.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2022-05-05",
+    "accession_number": "0001770787-22-000029",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078722000029/txg-20220331.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "accession_number": "0000882095-22-000013",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209522000013/gild-20220331.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "accession_number": "0001804220-22-000015",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422022000015/regn-20220331.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "accession_number": "0001682852-22-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000025/mrna-20220331.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "accession_number": "0000914475-22-000022",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447522000022/nbix-20220331.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "accession_number": "0000950170-22-007375",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017022007375/srpt-20220331.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2022-05-04",
+    "accession_number": "0000874015-22-000104",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 3-31-2022",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401522000104/form10q.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2022-05-03",
+    "accession_number": "0000875045-22-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504522000016/biib-20220331.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2022-05-03",
+    "accession_number": "0001558370-22-006808",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837022006808/incy-20220331x10q.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2022-05-03",
+    "accession_number": "0001558370-22-006801",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837022006801/bpmc-20220331x10q.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2022-05-02",
+    "accession_number": "0001628280-22-011733",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828022011733/vrt-20220331.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2022-04-29",
+    "accession_number": "0000200406-22-000048",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/jnj-20220403.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2022-04-29",
+    "accession_number": "0000014272-22-000114",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000114/bmy-20220331.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2022-04-29",
+    "accession_number": "0000059478-22-000133",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/lly-20220331.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2022-04-29",
+    "accession_number": "0001048477-22-000018",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847722000018/bmrn-20220331.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2022-04-28",
+    "accession_number": "0000318154-22-000021",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815422000021/amgn-20220331.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2022-04-28",
+    "accession_number": "0001178670-22-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000016/alny-20220331.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2022-04-26",
+    "accession_number": "0001124140-22-000030",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414022000030/exas-20220331.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-K",
+    "filing_date": "2022-03-07",
+    "accession_number": "0001558370-22-002928",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837022002928/srrk-20211231x10k.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-K",
+    "filing_date": "2022-03-01",
+    "accession_number": "0000950170-22-002517",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017022002517/srpt-20211231.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-K",
+    "filing_date": "2022-03-01",
+    "accession_number": "0001628280-22-004533",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828022004533/vrt-20211231.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-K",
+    "filing_date": "2022-02-25",
+    "accession_number": "0000310158-22-000003",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015822000003/mrk-20211231.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-K",
+    "filing_date": "2022-02-25",
+    "accession_number": "0001682852-22-000012",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/mrna-20211231.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-K",
+    "filing_date": "2022-02-25",
+    "accession_number": "0001048477-22-000012",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847722000012/bmrn-20211231.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2022-02-25",
+    "accession_number": "0000874015-22-000079",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-K 12-31-2021",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401522000079/form10k.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-K",
+    "filing_date": "2022-02-25",
+    "accession_number": "0001558370-22-002022",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837022002022/ntra-20211231x10k.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-K",
+    "filing_date": "2022-02-24",
+    "accession_number": "0000078003-22-000027",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000027/pfe-20211231.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-K",
+    "filing_date": "2022-02-24",
+    "accession_number": "0001193125-22-051569",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312522051569/d243442d10k.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-K",
+    "filing_date": "2022-02-23",
+    "accession_number": "0000059478-22-000068",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-K",
+    "filing_date": "2022-02-23",
+    "accession_number": "0000882095-22-000007",
+    "description": "FORM 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209522000007/gild-20211231.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-K",
+    "filing_date": "2022-02-22",
+    "accession_number": "0001124140-22-000022",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414022000022/exas-20211231.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-K",
+    "filing_date": "2022-02-18",
+    "accession_number": "0001551152-22-000007",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000007/abbv-20211231.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-K",
+    "filing_date": "2022-02-18",
+    "accession_number": "0001110803-22-000013",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080322000013/ilmn-20220102.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-K",
+    "filing_date": "2022-02-18",
+    "accession_number": "0001770787-22-000015",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078722000015/txg-20211231.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-K",
+    "filing_date": "2022-02-17",
+    "accession_number": "0000200406-22-000022",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-K",
+    "filing_date": "2022-02-17",
+    "accession_number": "0001558370-22-001316",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837022001316/bpmc-20211231x10k.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-K",
+    "filing_date": "2022-02-16",
+    "accession_number": "0000318154-22-000010",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815422000010/amgn-20211231.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-K",
+    "filing_date": "2022-02-11",
+    "accession_number": "0000914475-22-000013",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447522000013/nbix-20211231.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-K",
+    "filing_date": "2022-02-10",
+    "accession_number": "0001178670-22-000013",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000013/alny-20211231.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-K",
+    "filing_date": "2022-02-09",
+    "accession_number": "0000014272-22-000051",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000051/bmy-20211231.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2022-02-09",
+    "accession_number": "0000875320-22-000007",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532022000007/vrtx-20211231.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-K",
+    "filing_date": "2022-02-08",
+    "accession_number": "0001558370-22-000902",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837022000902/incy-20211231x10k.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-K",
+    "filing_date": "2022-02-07",
+    "accession_number": "0001804220-22-000007",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422022000007/regn-20211231.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-K",
+    "filing_date": "2022-02-03",
+    "accession_number": "0000875045-22-000007",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504522000007/biib-20211231.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2021-11-12",
+    "accession_number": "0000078003-21-000107",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000107/pfe-20211003.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-11-09",
+    "accession_number": "0001558370-21-015180",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837021015180/srrk-20210930x10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2021-11-05",
+    "accession_number": "0000310158-21-000032",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015821000032/mrk-20210930.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2021-11-05",
+    "accession_number": "0001110803-21-000046",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080321000046/ilmn-20211003.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2021-11-05",
+    "accession_number": "0001558370-21-014721",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837021014721/ntra-20210930x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2021-11-05",
+    "accession_number": "0001770787-21-000054",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078721000054/txg-20210930.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2021-11-04",
+    "accession_number": "0001804220-21-000033",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422021000033/regn-20210930.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2021-11-04",
+    "accession_number": "0001682852-21-000027",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000027/mrna-20210930.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2021-11-04",
+    "accession_number": "0001193125-21-319159",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312521319159/d249406d10q.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2021-11-03",
+    "accession_number": "0000318154-21-000045",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000045/amgn-20210930.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2021-11-03",
+    "accession_number": "0000882095-21-000029",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209521000029/gild-20210930.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2021-11-03",
+    "accession_number": "0000875320-21-000033",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532021000033/vrtx-20210930.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-11-03",
+    "accession_number": "0000950170-21-002815",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000095017021002815/srpt-20210930.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2021-11-03",
+    "accession_number": "0000874015-21-000166",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 9-30-2021",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401521000166/form10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2021-11-02",
+    "accession_number": "0001551152-21-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000031/abbv-20210930.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2021-11-02",
+    "accession_number": "0001558370-21-014131",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837021014131/incy-20210930x10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2021-11-02",
+    "accession_number": "0001124140-21-000097",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414021000097/exas-20210930.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2021-11-01",
+    "accession_number": "0000914475-21-000058",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447521000058/nbix-20210930.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-11-01",
+    "accession_number": "0001628280-21-020992",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828021020992/vrt-20210930.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2021-10-29",
+    "accession_number": "0000200406-21-000070",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/jnj-20211003.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2021-10-29",
+    "accession_number": "0001048477-21-000032",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847721000032/bmrn-20210930.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2021-10-28",
+    "accession_number": "0001178670-21-000028",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867021000028/alny-20210930.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2021-10-28",
+    "accession_number": "0001558370-21-013719",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837021013719/bpmc-20210930x10q.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2021-10-27",
+    "accession_number": "0000014272-21-000224",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427221000224/bmy-20210930.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2021-10-27",
+    "accession_number": "0000059478-21-000216",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/lly-20210930.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2021-10-20",
+    "accession_number": "0000875045-21-000052",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504521000052/biib-20210930.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2021-08-12",
+    "accession_number": "0000078003-21-000093",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000093/pfe-20210704.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-08-10",
+    "accession_number": "0001558370-21-011162",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837021011162/srrk-20210630x10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2021-08-09",
+    "accession_number": "0000310158-21-000028",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015821000028/mrk-20210630.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2021-08-06",
+    "accession_number": "0001110803-21-000042",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080321000042/ilmn-20210704.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2021-08-06",
+    "accession_number": "0001558370-21-010673",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837021010673/ntra-20210630x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2021-08-06",
+    "accession_number": "0001770787-21-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078721000044/txg-20210630.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2021-08-05",
+    "accession_number": "0000882095-21-000021",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209521000021/gild-20210630.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2021-08-05",
+    "accession_number": "0001804220-21-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422021000025/regn-20210630.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2021-08-05",
+    "accession_number": "0001682852-21-000022",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000022/mrna-20210630.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2021-08-05",
+    "accession_number": "0001193125-21-236933",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312521236933/d181533d10q.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2021-08-04",
+    "accession_number": "0000318154-21-000034",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000034/amgn-20210630.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-08-04",
+    "accession_number": "0001564590-21-040787",
+    "description": "SRPT Q2 2021 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000156459021040787/srpt-10q_20210630.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2021-08-04",
+    "accession_number": "0000874015-21-000144",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 6-30-2021",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401521000144/form10q.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2021-08-03",
+    "accession_number": "0000059478-21-000171",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/lly-20210630.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2021-08-03",
+    "accession_number": "0001558370-21-009975",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837021009975/incy-20210630x10q.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2021-08-03",
+    "accession_number": "0001178670-21-000024",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867021000024/alny-20210630.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2021-08-03",
+    "accession_number": "0000914475-21-000047",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447521000047/nbix-20210630.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2021-08-02",
+    "accession_number": "0001551152-21-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000025/abbv-20210630.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-08-02",
+    "accession_number": "0001628280-21-015172",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828021015172/vrt-20210630.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2021-07-30",
+    "accession_number": "0000875320-21-000027",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532021000027/vrtx-20210630.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2021-07-30",
+    "accession_number": "0001048477-21-000025",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847721000025/bmrn-20210630.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2021-07-29",
+    "accession_number": "0000200406-21-000057",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/jnj-20210704.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2021-07-29",
+    "accession_number": "0001558370-21-009606",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837021009606/bpmc-20210630x10q.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2021-07-28",
+    "accession_number": "0000014272-21-000186",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427221000186/bmy-20210630.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2021-07-28",
+    "accession_number": "0001124140-21-000083",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414021000083/exas-20210630.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2021-07-22",
+    "accession_number": "0000875045-21-000044",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504521000044/biib-20210630.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-Q",
+    "filing_date": "2021-05-13",
+    "accession_number": "0000078003-21-000065",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000065/pfe-20210404.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-05-13",
+    "accession_number": "0001558370-21-007006",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837021007006/srrk-20210331x10q.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-Q",
+    "filing_date": "2021-05-07",
+    "accession_number": "0001551152-21-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000016/abbv-20210331.htm"
+  },
+  {
+    "company": "Natera",
+    "form": "10-Q",
+    "filing_date": "2021-05-07",
+    "accession_number": "0001558370-21-006346",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000155837021006346/ntra-20210331x10q.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-Q",
+    "filing_date": "2021-05-07",
+    "accession_number": "0001770787-21-000031",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078721000031/txg-20210331.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-Q",
+    "filing_date": "2021-05-06",
+    "accession_number": "0000882095-21-000013",
+    "description": "FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209521000013/gild-20210331.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-Q",
+    "filing_date": "2021-05-06",
+    "accession_number": "0001804220-21-000017",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422021000017/regn-20210331.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-Q",
+    "filing_date": "2021-05-06",
+    "accession_number": "0001682852-21-000017",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000017/mrna-20210331.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-Q",
+    "filing_date": "2021-05-06",
+    "accession_number": "0001193125-21-152386",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312521152386/d168724d10q.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-Q",
+    "filing_date": "2021-05-05",
+    "accession_number": "0000310158-21-000009",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015821000009/mrk-20210331.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-Q",
+    "filing_date": "2021-05-05",
+    "accession_number": "0000914475-21-000036",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447521000036/nbix-20210331.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-05-05",
+    "accession_number": "0001564590-21-024018",
+    "description": "SRPT Q1 2021 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000156459021024018/srpt-10q_20210331.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2021-05-05",
+    "accession_number": "0000874015-21-000074",
+    "description": "IONIS PHARMACEUTICALS INC 10-Q 3-31-2021",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401521000074/form10q.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-Q",
+    "filing_date": "2021-05-04",
+    "accession_number": "0001558370-21-005692",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837021005692/incy-20210331x10q.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-Q",
+    "filing_date": "2021-05-04",
+    "accession_number": "0001124140-21-000052",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414021000052/exas-20210331.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-Q",
+    "filing_date": "2021-05-03",
+    "accession_number": "0001628280-21-008627",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828021008627/vrt-20210331.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-Q",
+    "filing_date": "2021-04-30",
+    "accession_number": "0000200406-21-000036",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/jnj-20210404.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-Q",
+    "filing_date": "2021-04-30",
+    "accession_number": "0000059478-21-000122",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/lly-20210331.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-Q",
+    "filing_date": "2021-04-30",
+    "accession_number": "0000875320-21-000015",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532021000015/vrtx-20210331.htm"
+  },
+  {
+    "company": "Alexion/AstraZeneca",
+    "form": "10-Q",
+    "filing_date": "2021-04-30",
+    "accession_number": "0000899866-21-000039",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/899866/000089986621000039/alxn-20210331.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-Q",
+    "filing_date": "2021-04-30",
+    "accession_number": "0001048477-21-000016",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847721000016/bmrn-20210331.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-K/A",
+    "filing_date": "2021-04-30",
+    "accession_number": "0001628280-21-008318",
+    "description": "10-K/A",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828021008318/vrt-20201231.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-Q",
+    "filing_date": "2021-04-29",
+    "accession_number": "0000014272-21-000126",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427221000126/bmy-20210331.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-Q",
+    "filing_date": "2021-04-29",
+    "accession_number": "0001178670-21-000017",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867021000017/alny-20210331.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-Q",
+    "filing_date": "2021-04-29",
+    "accession_number": "0001558370-21-005262",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837021005262/bpmc-20210331x10q.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-Q",
+    "filing_date": "2021-04-28",
+    "accession_number": "0000318154-21-000019",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000019/amgn-20210331.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-Q",
+    "filing_date": "2021-04-28",
+    "accession_number": "0001110803-21-000030",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080321000030/ilmn-20210404.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-K/A",
+    "filing_date": "2021-04-23",
+    "accession_number": "0001770787-21-000023",
+    "description": "10-K/A",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078721000023/txg-20201231.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-Q",
+    "filing_date": "2021-04-22",
+    "accession_number": "0000875045-21-000028",
+    "description": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504521000028/biib-20210331.htm"
+  },
+  {
+    "company": "Karuna Therapeutics",
+    "form": "10-K",
+    "filing_date": "2021-03-09",
+    "accession_number": "0001558370-21-002641",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000155837021002641/srrk-20201231x10k.htm"
+  },
+  {
+    "company": "Sarepta Therapeutics",
+    "form": "10-K",
+    "filing_date": "2021-03-01",
+    "accession_number": "0001564590-21-009835",
+    "description": "SRPT 12/31/2020 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/873303/000156459021009835/srpt-10k_20201231.htm"
+  },
+  {
+    "company": "CRISPR Therapeutics",
+    "form": "10-K",
+    "filing_date": "2021-03-01",
+    "accession_number": "0001628280-21-003604",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828021003604/vrt-20201231.htm"
+  },
+  {
+    "company": "Moderna",
+    "form": "10-K",
+    "filing_date": "2021-02-26",
+    "accession_number": "0001682852-21-000006",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000006/mrna-20201231.htm"
+  },
+  {
+    "company": "BioMarin",
+    "form": "10-K",
+    "filing_date": "2021-02-26",
+    "accession_number": "0001048477-21-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847721000008/bmrn-20201231.htm"
+  },
+  {
+    "company": "10x Genomics",
+    "form": "10-K",
+    "filing_date": "2021-02-26",
+    "accession_number": "0001770787-21-000009",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770787/000177078721000009/txg-20201231.htm"
+  },
+  {
+    "company": "Pfizer",
+    "form": "10-K",
+    "filing_date": "2021-02-25",
+    "accession_number": "0000078003-21-000038",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000038/pfe-20201231.htm"
+  },
+  {
+    "company": "Merck",
+    "form": "10-K",
+    "filing_date": "2021-02-25",
+    "accession_number": "0000310158-21-000004",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015821000004/mrk-20201231.htm"
+  },
+  {
+    "company": "Gilead Sciences",
+    "form": "10-K",
+    "filing_date": "2021-02-25",
+    "accession_number": "0000882095-21-000008",
+    "description": "FORM 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209521000008/gild-20201231.htm"
+  },
+  {
+    "company": "Seagen",
+    "form": "10-K",
+    "filing_date": "2021-02-25",
+    "accession_number": "0001193125-21-056164",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1157601/000119312521056164/d103755d10k.htm"
+  },
+  {
+    "company": "Ionis Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2021-02-24",
+    "accession_number": "0000874015-21-000056",
+    "description": "IONIS PHARMACEUTICALS, INC. 10-K 12-31-2020",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401521000056/form10k.htm"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "form": "10-K",
+    "filing_date": "2021-02-22",
+    "accession_number": "0000200406-21-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/jnj-20210103.htm"
+  },
+  {
+    "company": "AbbVie",
+    "form": "10-K",
+    "filing_date": "2021-02-19",
+    "accession_number": "0001551152-21-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000008/abbv-20201231.htm"
+  },
+  {
+    "company": "Eli Lilly",
+    "form": "10-K",
+    "filing_date": "2021-02-17",
+    "accession_number": "0000059478-21-000083",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/lly-20201231.htm"
+  },
+  {
+    "company": "Illumina",
+    "form": "10-K",
+    "filing_date": "2021-02-17",
+    "accession_number": "0001110803-21-000015",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080321000015/ilmn-20210103.htm"
+  },
+  {
+    "company": "Blueprint Medicines",
+    "form": "10-K",
+    "filing_date": "2021-02-17",
+    "accession_number": "0001558370-21-001141",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1597264/000155837021001141/bpmc-20201231x10k.htm"
+  },
+  {
+    "company": "Alexion/AstraZeneca",
+    "form": "10-K/A",
+    "filing_date": "2021-02-16",
+    "accession_number": "0000899866-21-000018",
+    "description": "10-K/A",
+    "url": "https://www.sec.gov/Archives/edgar/data/899866/000089986621000018/alxn-20201231.htm"
+  },
+  {
+    "company": "Exact Sciences",
+    "form": "10-K",
+    "filing_date": "2021-02-16",
+    "accession_number": "0001124140-21-000029",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1124140/000112414021000029/exas-20201231.htm"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "form": "10-K",
+    "filing_date": "2021-02-11",
+    "accession_number": "0000875320-21-000006",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532021000006/vrtx-20201231.htm"
+  },
+  {
+    "company": "Alnylam",
+    "form": "10-K",
+    "filing_date": "2021-02-11",
+    "accession_number": "0001178670-21-000010",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867021000010/alny-20201231.htm"
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "form": "10-K",
+    "filing_date": "2021-02-10",
+    "accession_number": "0000014272-21-000066",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427221000066/bmy-20201231.htm"
+  },
+  {
+    "company": "Amgen",
+    "form": "10-K",
+    "filing_date": "2021-02-09",
+    "accession_number": "0000318154-21-000010",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000010/amgn-20201231.htm"
+  },
+  {
+    "company": "Incyte",
+    "form": "10-K",
+    "filing_date": "2021-02-09",
+    "accession_number": "0001558370-21-000825",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837021000825/incy-20201231x10k.htm"
+  },
+  {
+    "company": "Regeneron",
+    "form": "10-K",
+    "filing_date": "2021-02-08",
+    "accession_number": "0001804220-21-000008",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/872589/000180422021000008/regn-20201231.htm"
+  },
+  {
+    "company": "Alexion/AstraZeneca",
+    "form": "10-K",
+    "filing_date": "2021-02-08",
+    "accession_number": "0000899866-21-000014",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm"
+  },
+  {
+    "company": "Neurocrine Biosciences",
+    "form": "10-K",
+    "filing_date": "2021-02-05",
+    "accession_number": "0000914475-21-000020",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/914475/000091447521000020/nbix-20201231.htm"
+  },
+  {
+    "company": "Biogen",
+    "form": "10-K",
+    "filing_date": "2021-02-03",
+    "accession_number": "0000875045-21-000010",
+    "description": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504521000010/biib-20201231.htm"
+  }
+]
