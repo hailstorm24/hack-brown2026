@@ -16,7 +16,10 @@ import requests
 from opensky_api import OpenSkyApi
 
 # Rate limit: official API uses 10s (anon) / 5s (auth) for get_states; flights may differ
-REQUEST_DELAY_SEC = 1.2
+REQUEST_DELAY_SEC = 2.0
+# Backoff when we hit 429 Too Many Requests
+RETRY_429_WAIT_SEC = 60
+RETRY_429_MAX = 5
 # OpenSky API: "You can only query across 2 partitions (days)" per request; use 1-day chunks to be safe
 MAX_DAYS_PER_REQUEST = 1
 TOKEN_URL = "https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token"
@@ -149,6 +152,7 @@ def main():
     parser.add_argument("--password", help="OpenSky password (or set OPENSKY_PASSWORD)")
     parser.add_argument("--client-id", help="OpenSky OAuth2 client ID (or set CLIENT_ID)")
     parser.add_argument("--client-secret", help="OpenSky OAuth2 client secret (or set CLIENT_SECRET)")
+    parser.add_argument("--resume", action="store_true", help="Resume from existing output file (skip days already fetched)")
     args = parser.parse_args()
 
     # Auth precedence: client credentials (token) > username/password > anonymous
@@ -206,10 +210,38 @@ def main():
     begin_dt = end_dt - timedelta(days=args.days)
     begin_ts = int(begin_dt.timestamp())
     end_ts = int(end_dt.timestamp())
-    print(f"Querying flights from {begin_dt.date()} to {end_dt.date()} ({args.days} days) ...")
-
     out_path = Path(args.output or f"{args.registration_or_icao.replace(' ', '_')}_flights.json")
     flights_data = []
+    chunk_begin = begin_ts
+
+    # Resume: continue from where the previous run left off (same file, same icao24)
+    if args.resume and out_path.exists():
+        try:
+            with open(out_path) as f:
+                existing = json.load(f)
+            if existing.get("icao24") == icao24:
+                q = existing.get("query", {})
+                flights_data = list(existing.get("flights", []))
+                # Use the file's range so we continue the same run
+                begin_ts = q.get("begin_ts", begin_ts)
+                end_ts = q.get("end_ts", end_ts)
+                args.days = q.get("days", args.days)
+                chunk_begin = q.get("last_chunk_end_ts")
+                if chunk_begin is None:
+                    # No progress marker: resume from day after last chunk we have data for
+                    if flights_data:
+                        latest_first = max(f.get("firstSeen") or 0 for f in flights_data)
+                        # Chunks are [begin_ts + n*86400, begin_ts + (n+1)*86400); start after that
+                        n = (latest_first - begin_ts) // 86400
+                        chunk_begin = begin_ts + (n + 1) * 86400
+                        chunk_begin = min(chunk_begin, end_ts)
+                    else:
+                        chunk_begin = begin_ts
+                if chunk_begin < end_ts:
+                    print(f"Resuming: {len(flights_data)} flights already, continuing from {datetime.utcfromtimestamp(chunk_begin).date()} to {datetime.utcfromtimestamp(end_ts).date()} ...")
+        except (json.JSONDecodeError, OSError):
+            pass
+
     out = {
         "icao24": icao24,
         "registration_or_icao": args.registration_or_icao,
@@ -217,33 +249,42 @@ def main():
         "flights": flights_data,
     }
 
-    def write_json():
+    def write_json(last_end_ts):
+        out["query"]["last_chunk_end_ts"] = last_end_ts
         with open(out_path, "w") as f:
             json.dump(out, f, indent=2)
 
+    print(f"Querying flights from {datetime.utcfromtimestamp(chunk_begin).date()} to {end_dt.date()} ({args.days} days) ...")
+
     # Chunk requests; API allows max 2 partitions (days) per request
-    chunk_begin = begin_ts
     while chunk_begin < end_ts:
         chunk_end = min(chunk_begin + MAX_DAYS_PER_REQUEST * 86400, end_ts)
-        try:
-            chunk = api.get_flights_by_aircraft(icao24, chunk_begin, chunk_end)
-        except ValueError as e:
-            print(f"OpenSky API error: {e}")
-            return 1
-        if chunk is None:
+        for attempt in range(RETRY_429_MAX + 1):
+            try:
+                chunk = api.get_flights_by_aircraft(icao24, chunk_begin, chunk_end)
+            except ValueError as e:
+                print(f"OpenSky API error: {e}")
+                return 1
+            if chunk is not None:
+                break
             code = getattr(api, "_last_status_code", None)
+            if code == 429 and attempt < RETRY_429_MAX:
+                wait = RETRY_429_WAIT_SEC * (attempt + 1)
+                print(f"Rate limited (429). Waiting {wait}s before retry {attempt + 1}/{RETRY_429_MAX} ...")
+                time.sleep(wait)
+                continue
             body = getattr(api, "_last_response_body", None)
             msg = "OpenSky API returned no data."
             if code is not None:
                 msg += f" (HTTP {code})"
             if body:
                 msg += f"\nResponse: {body[:500]}"
-            msg += "\nTry CLIENT_ID/CLIENT_SECRET or OPENSKY_USERNAME/OPENSKY_PASSWORD (see README)."
+            msg += "\nTry CLIENT_ID/CLIENT_SECRET or OPENSKY_USERNAME/OPENSKY_PASSWORD (see README). Use --resume to continue later."
             print(msg)
             return 1
         for f in chunk:
             flights_data.append(flight_to_dict(f))
-        write_json()
+        write_json(chunk_end)
         chunk_begin = chunk_end
         if chunk_begin < end_ts:
             time.sleep(REQUEST_DELAY_SEC)
@@ -267,7 +308,7 @@ def main():
                 except ValueError:
                     pass
                 time.sleep(REQUEST_DELAY_SEC)
-        write_json()
+        write_json(end_ts)
 
     print(f"Wrote {out_path}")
     return 0

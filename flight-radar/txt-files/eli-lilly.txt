@@ -1,0 +1,2958 @@
+ —
+ 31 Jan 2026
+ 0:26
+Landed 10:48 AM
+STD
+10:45 AM
+
+ATD
+10:21 AM
+
+STA
+11:21 AM
+
+FROM
+North Kingstown (NCO)
+
+TO
+Bedford (BED)
+
+ —
+ 31 Jan 2026
+ 0:35
+Landed 10:13 AM
+STD
+9:00 AM
+
+ATD
+9:37 AM
+
+STA
+9:35 AM
+
+FROM
+Bedford (BED)
+
+TO
+North Kingstown (NCO)
+
+ —
+ 23 Jan 2026
+ 0:22
+Landed 10:05 AM
+STD
+9:43 AM
+
+ATD
+9:43 AM
+
+STA
+10:05 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Bedford (BED)
+
+ —
+ 19 Jan 2026
+ 0:44
+Landed 5:04 PM
+STD
+4:37 PM
+
+ATD
+4:21 PM
+
+STA
+5:20 PM
+
+FROM
+Martha's Vineyard (MVY)
+
+TO
+Bedford (BED)
+
+ —
+ 19 Jan 2026
+ 0:59
+Landed 4:11 PM
+STD
+3:21 PM
+
+ATD
+3:12 PM
+
+STA
+4:31 PM
+
+FROM
+Farmingdale (FRG)
+
+TO
+Martha's Vineyard (MVY)
+
+ —
+ 19 Jan 2026
+ 0:31
+Landed 3:04 PM
+STD
+2:30 PM
+
+ATD
+2:33 PM
+
+STA
+3:06 PM
+
+FROM
+Toms River (MJX)
+
+TO
+Farmingdale (FRG)
+
+ —
+ 19 Jan 2026
+ 1:38
+Landed 11:39 AM
+STD
+10:01 AM
+
+ATD
+10:01 AM
+
+STA
+11:39 AM
+
+FROM
+New York (JFK)
+
+TO
+Toms River (MJX)
+
+ —
+ 18 Jan 2026
+ -
+Estimated departure 3:10 PM
+STD
+3:00 PM
+
+ATD
+—
+
+STA
+4:30 PM
+
+FROM
+Pittsfield (PSF)
+
+TO
+New York (JFK)
+
+ —
+ 18 Jan 2026
+ -
+JFK "> Diverted to JFK
+STD
+2:00 PM
+
+ATD
+2:37 PM
+
+STA
+3:06 PM
+
+FROM
+Burlington (BTV)
+
+TO
+Pittsfield (PSF)
+
+ —
+ 18 Jan 2026
+ -
+Unknown
+STD
+10:24 AM
+
+ATD
+—
+
+STA
+11:14 AM
+
+FROM
+Laconia (LCI)
+
+TO
+Burlington (BTV)
+
+ —
+ 18 Jan 2026
+ -
+BTV "> Diverted to BTV
+STD
+9:30 AM
+
+ATD
+10:32 AM
+
+STA
+10:06 AM
+
+FROM
+Bedford (BED)
+
+TO
+Laconia (LCI)
+
+ —
+ 17 Jan 2026
+ -
+BED "> Diverted to BED
+STD
+1:30 PM
+
+ATD
+2:35 PM
+
+STA
+2:04 PM
+
+FROM
+Bedford (BED)
+
+TO
+New Bedford (EWB)
+
+ —
+ 12 Jan 2026
+ -
+Unknown
+STD
+11:57 AM
+
+ATD
+11:57 AM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 12 Jan 2026
+ 1:41
+Landed 11:52 AM
+STD
+10:11 AM
+
+ATD
+10:11 AM
+
+STA
+11:52 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 10 Jan 2026
+ 1:35
+Landed 12:25 PM
+STD
+3:51 PM
+
+ATD
+3:51 PM
+
+STA
+12:25 PM
+
+FROM
+Not available
+
+TO
+Bedford (BED)
+
+ —
+ 10 Jan 2026
+ -
+Unknown
+STD
+8:48 AM
+
+ATD
+8:48 AM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 09 Jan 2026
+ 1:01
+Landed 11:52 AM
+STD
+10:00 AM
+
+ATD
+10:50 AM
+
+STA
+11:58 AM
+
+FROM
+Augusta (AUG)
+
+TO
+Bedford (BED)
+
+ —
+ 09 Jan 2026
+ 0:52
+Landed 10:39 AM
+STD
+9:00 AM
+
+ATD
+9:47 AM
+
+STA
+10:20 AM
+
+FROM
+Bedford (BED)
+
+TO
+Augusta (AUG)
+
+ —
+ 28 Dec 2025
+ 0:13
+Landed 10:37 AM
+STD
+10:42 AM
+
+ATD
+10:24 AM
+
+STA
+10:37 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 28 Dec 2025
+ 0:24
+Landed 10:19 AM
+STD
+10:19 AM
+
+ATD
+9:55 AM
+
+STA
+10:19 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 26 Dec 2025
+ 1:04
+Landed 9:10 AM
+STD
+9:10 AM
+
+ATD
+8:06 AM
+
+STA
+9:10 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 20 Dec 2025
+ 0:20
+Landed 11:46 AM
+STD
+11:54 AM
+
+ATD
+11:27 AM
+
+STA
+12:31 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 18 Dec 2025
+ 0:16
+Landed 4:15 PM
+STD
+9:15 PM
+
+ATD
+8:59 PM
+
+STA
+4:15 PM
+
+FROM
+Not available
+
+TO
+Bedford (BED)
+
+ —
+ 18 Dec 2025
+ 0:52
+Landed 7:57 PM
+STD
+2:57 PM
+
+ATD
+2:05 PM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 15 Dec 2025
+ 1:11
+Landed 1:19 PM
+STD
+1:19 PM
+
+ATD
+12:09 PM
+
+STA
+1:19 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 12 Dec 2025
+ 1:19
+Landed 3:43 PM
+STD
+3:43 PM
+
+ATD
+2:24 PM
+
+STA
+3:43 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 09 Dec 2025
+ 0:19
+Landed 6:02 PM
+STD
+6:03 PM
+
+ATD
+5:44 PM
+
+STA
+6:02 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Bedford (BED)
+
+ —
+ 09 Dec 2025
+ 1:46
+Landed 12:08 PM
+STD
+12:13 PM
+
+ATD
+10:22 AM
+
+STA
+12:08 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 08 Dec 2025
+ -
+Unknown
+STD
+10:45 AM
+
+ATD
+9:56 AM
+
+STA
+—
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 24 Nov 2025
+ 1:17
+Landed 10:41 AM
+STD
+10:43 AM
+
+ATD
+9:24 AM
+
+STA
+10:41 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 20 Nov 2025
+ 0:20
+Landed 10:49 AM
+STD
+10:50 AM
+
+ATD
+10:29 AM
+
+STA
+10:49 AM
+
+FROM
+Hyannis (HYA)
+
+TO
+Plymouth (PYM)
+
+ —
+ 20 Nov 2025
+ 0:03
+Landed 10:23 AM
+STD
+10:28 AM
+
+ATD
+10:20 AM
+
+STA
+10:23 AM
+
+FROM
+Hyannis (HYA)
+
+TO
+Hyannis (HYA)
+
+ —
+ 20 Nov 2025
+ -
+Unknown
+STD
+10:12 AM
+
+ATD
+10:12 AM
+
+STA
+—
+
+FROM
+Hyannis (HYA)
+
+TO
+Not available
+
+ —
+ 20 Nov 2025
+ 0:14
+Landed 10:06 AM
+STD
+10:12 AM
+
+ATD
+9:52 AM
+
+STA
+10:06 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Hyannis (HYA)
+
+ —
+ 19 Nov 2025
+ 0:11
+Landed 10:56 AM
+STD
+11:00 AM
+
+ATD
+10:45 AM
+
+STA
+10:56 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 19 Nov 2025
+ 0:55
+Landed 10:38 AM
+STD
+10:39 AM
+
+ATD
+9:43 AM
+
+STA
+10:38 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 18 Nov 2025
+ -
+Unknown
+STD
+11:24 AM
+
+ATD
+9:52 AM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Plymouth (PYM)
+
+ —
+ 18 Nov 2025
+ 0:24
+Landed 9:34 AM
+STD
+9:35 AM
+
+ATD
+9:10 AM
+
+STA
+9:34 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Bedford (BED)
+
+ —
+ 15 Nov 2025
+ -
+Unknown
+STD
+10:47 AM
+
+ATD
+9:11 AM
+
+STA
+—
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 14 Nov 2025
+ 1:24
+Landed 5:52 PM
+STD
+4:10 PM
+
+ATD
+4:28 PM
+
+STA
+5:57 PM
+
+FROM
+Allentown (ABE)
+
+TO
+Plymouth (PYM)
+
+ —
+ 14 Nov 2025
+ 1:49
+Landed 4:18 PM
+STD
+1:40 PM
+
+ATD
+2:29 PM
+
+STA
+3:17 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Allentown (ABE)
+
+ —
+ 13 Nov 2025
+ 1:22
+Landed 12:44 PM
+STD
+12:49 PM
+
+ATD
+11:23 AM
+
+STA
+12:44 PM
+
+FROM
+Bedford (BED)
+
+TO
+Plymouth (PYM)
+
+ —
+ 13 Nov 2025
+ 0:27
+Landed 11:03 AM
+STD
+11:03 AM
+
+ATD
+10:36 AM
+
+STA
+11:03 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Bedford (BED)
+
+ —
+ 12 Nov 2025
+ 1:11
+Landed 12:04 PM
+STD
+12:05 PM
+
+ATD
+10:53 AM
+
+STA
+12:04 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 11 Nov 2025
+ 2:17
+Landed 11:31 AM
+STD
+11:32 AM
+
+ATD
+9:14 AM
+
+STA
+11:31 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 07 Nov 2025
+ 1:20
+Landed 12:13 PM
+STD
+12:17 PM
+
+ATD
+10:53 AM
+
+STA
+12:13 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 06 Nov 2025
+ 2:21
+Landed 12:39 PM
+STD
+9:45 AM
+
+ATD
+10:18 AM
+
+STA
+10:48 AM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 05 Nov 2025
+ 1:56
+Landed 12:17 PM
+STD
+12:21 PM
+
+ATD
+10:20 AM
+
+STA
+12:17 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Plymouth (PYM)
+
+ —
+ 05 Nov 2025
+ 0:18
+Landed 7:38 AM
+STD
+7:12 AM
+
+ATD
+7:20 AM
+
+STA
+7:38 AM
+
+FROM
+Bedford (BED)
+
+TO
+Plymouth (PYM)
+
+ —
+ 26 Oct 2025
+ 0:50
+Landed 3:06 PM
+STD
+11:06 AM
+
+ATD
+10:16 AM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 22 Oct 2025
+ 0:52
+Landed 9:03 PM
+STD
+10:03 PM
+
+ATD
+9:11 PM
+
+STA
+9:03 PM
+
+FROM
+Poughkeepsie (POU)
+
+TO
+Bedford (BED)
+
+ —
+ 22 Oct 2025
+ 0:57
+Landed 8:00 PM
+STD
+9:01 PM
+
+ATD
+8:03 PM
+
+STA
+8:00 PM
+
+FROM
+Bedford (BED)
+
+TO
+Poughkeepsie (POU)
+
+ —
+ 19 Oct 2025
+ 0:18
+Landed 9:40 AM
+STD
+10:40 AM
+
+ATD
+10:22 AM
+
+STA
+9:40 AM
+
+FROM
+Worcester (ORH)
+
+TO
+Bedford (BED)
+
+ —
+ 19 Oct 2025
+ 0:06
+Landed 9:17 AM
+STD
+10:21 AM
+
+ATD
+10:11 AM
+
+STA
+9:17 AM
+
+FROM
+Worcester (ORH)
+
+TO
+Worcester (ORH)
+
+ —
+ 19 Oct 2025
+ 0:42
+Landed 9:05 AM
+STD
+10:06 AM
+
+ATD
+9:23 AM
+
+STA
+9:05 AM
+
+FROM
+Bedford (BED)
+
+TO
+Worcester (ORH)
+
+ —
+ 18 Oct 2025
+ 0:21
+Landed 1:46 PM
+STD
+1:46 PM
+
+ATD
+1:25 PM
+
+STA
+1:46 PM
+
+FROM
+Fitchburg (QTI)
+
+TO
+Bedford (BED)
+
+ —
+ 18 Oct 2025
+ 0:37
+Landed 11:16 AM
+STD
+12:17 PM
+
+ATD
+11:39 AM
+
+STA
+11:16 AM
+
+FROM
+Fitchburg (QTI)
+
+TO
+Fitchburg (QTI)
+
+ —
+ 18 Oct 2025
+ 0:30
+Landed 10:08 AM
+STD
+11:09 AM
+
+ATD
+10:38 AM
+
+STA
+10:08 AM
+
+FROM
+Fitchburg (QTI)
+
+TO
+Fitchburg (QTI)
+
+ —
+ 18 Oct 2025
+ 0:16
+Landed 6:49 AM
+STD
+8:50 AM
+
+ATD
+8:32 AM
+
+STA
+6:49 AM
+
+FROM
+Bedford (BED)
+
+TO
+Fitchburg (QTI)
+
+ —
+ 17 Oct 2025
+ 1:32
+Landed 7:21 PM
+STD
+3:21 PM
+
+ATD
+1:48 PM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 11 Oct 2025
+ 0:58
+Landed 2:07 PM
+STD
+1:00 PM
+
+ATD
+1:09 PM
+
+STA
+2:24 PM
+
+FROM
+Bedford (BED)
+
+TO
+Rockland (RKD)
+
+ —
+ 11 Oct 2025
+ 0:30
+Landed 10:30 AM
+STD
+11:30 AM
+
+ATD
+11:00 AM
+
+STA
+10:30 AM
+
+FROM
+Nashua (ASH)
+
+TO
+Bedford (BED)
+
+ —
+ 11 Oct 2025
+ 0:53
+Landed 10:00 AM
+STD
+11:00 AM
+
+ATD
+10:07 AM
+
+STA
+10:00 AM
+
+FROM
+Bedford (BED)
+
+TO
+Nashua (ASH)
+
+ —
+ 10 Oct 2025
+ 0:54
+Landed 10:56 AM
+STD
+11:56 AM
+
+ATD
+11:02 AM
+
+STA
+10:56 AM
+
+FROM
+Brunswick (NHZ)
+
+TO
+Bedford (BED)
+
+ —
+ 10 Oct 2025
+ 0:51
+Landed 9:53 AM
+STD
+10:54 AM
+
+ATD
+10:02 AM
+
+STA
+9:53 AM
+
+FROM
+Bedford (BED)
+
+TO
+Brunswick (NHZ)
+
+ —
+ 06 Oct 2025
+ 1:07
+Landed 9:31 AM
+STD
+10:31 AM
+
+ATD
+9:25 AM
+
+STA
+9:31 AM
+
+FROM
+Bedford (BED)
+
+TO
+Nashua (ASH)
+
+ —
+ 04 Oct 2025
+ 1:00
+Landed 10:59 AM
+STD
+10:59 AM
+
+ATD
+9:59 AM
+
+STA
+10:59 AM
+
+FROM
+Fitchburg (QTI)
+
+TO
+Bedford (BED)
+
+ —
+ 04 Oct 2025
+ 0:19
+Landed 7:24 AM
+STD
+9:25 AM
+
+ATD
+9:05 AM
+
+STA
+7:24 AM
+
+FROM
+Bedford (BED)
+
+TO
+Fitchburg (QTI)
+
+ —
+ 03 Oct 2025
+ 0:37
+Landed 12:27 PM
+STD
+1:27 PM
+
+ATD
+12:50 PM
+
+STA
+12:27 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 02 Oct 2025
+ 0:14
+Landed 9:28 PM
+STD
+10:33 PM
+
+ATD
+10:14 PM
+
+STA
+9:28 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 02 Oct 2025
+ -
+Unknown
+STD
+10:08 PM
+
+ATD
+10:08 PM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 02 Oct 2025
+ -
+Unknown
+STD
+10:04 PM
+
+ATD
+10:02 PM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 02 Oct 2025
+ -
+Unknown
+STD
+9:56 PM
+
+ATD
+9:55 PM
+
+STA
+—
+
+FROM
+Bedford (BED)
+
+TO
+Not available
+
+ —
+ 02 Oct 2025
+ 0:21
+Landed 8:54 PM
+STD
+9:54 PM
+
+ATD
+9:33 PM
+
+STA
+8:54 PM
+
+FROM
+Portsmouth (PSM)
+
+TO
+Bedford (BED)
+
+ —
+ 02 Oct 2025
+ 0:24
+Landed 8:32 PM
+STD
+9:32 PM
+
+ATD
+9:08 PM
+
+STA
+8:32 PM
+
+FROM
+Bedford (BED)
+
+TO
+Portsmouth (PSM)
+
+ —
+ 02 Oct 2025
+ 1:21
+Landed 2:40 PM
+STD
+3:40 PM
+
+ATD
+2:19 PM
+
+STA
+2:40 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 27 Sep 2025
+ 1:11
+Landed 5:31 PM
+STD
+4:00 PM
+
+ATD
+4:20 PM
+
+STA
+5:21 PM
+
+FROM
+Caldwell (CDW)
+
+TO
+Bedford (BED)
+
+ —
+ 27 Sep 2025
+ 1:10
+Landed 10:43 AM
+STD
+9:00 AM
+
+ATD
+9:33 AM
+
+STA
+10:46 AM
+
+FROM
+Bedford (BED)
+
+TO
+Caldwell (CDW)
+
+ —
+ 21 Sep 2025
+ 0:46
+Landed 10:49 AM
+STD
+11:49 AM
+
+ATD
+11:03 AM
+
+STA
+10:49 AM
+
+FROM
+Brunswick (NHZ)
+
+TO
+Bedford (BED)
+
+ —
+ 21 Sep 2025
+ 0:43
+Landed 9:51 AM
+STD
+9:00 AM
+
+ATD
+9:08 AM
+
+STA
+10:12 AM
+
+FROM
+Bedford (BED)
+
+TO
+Brunswick (NHZ)
+
+ —
+ 20 Sep 2025
+ 1:09
+Landed 4:44 PM
+STD
+2:45 PM
+
+ATD
+3:35 PM
+
+STA
+4:04 PM
+
+FROM
+Bangor (BGR)
+
+TO
+Bedford (BED)
+
+ —
+ 20 Sep 2025
+ 1:14
+Landed 2:30 PM
+STD
+1:00 PM
+
+ATD
+1:16 PM
+
+STA
+2:45 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bangor (BGR)
+
+ —
+ 20 Sep 2025
+ 1:17
+Landed 9:12 AM
+STD
+10:12 AM
+
+ATD
+8:54 AM
+
+STA
+9:12 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 19 Sep 2025
+ 0:20
+Landed 12:09 PM
+STD
+1:09 PM
+
+ATD
+12:49 PM
+
+STA
+12:09 PM
+
+FROM
+Plymouth (PYM)
+
+TO
+Bedford (BED)
+
+ —
+ 26 Aug 2025
+ 0:22
+Landed 12:39 PM
+STD
+1:40 PM
+
+ATD
+1:16 PM
+
+STA
+12:39 PM
+
+FROM
+Bedford (BED)
+
+TO
+Plymouth (PYM)
+
+ —
+ 26 Aug 2025
+ 1:35
+Landed 10:16 AM
+STD
+11:16 AM
+
+ATD
+9:41 AM
+
+STA
+10:16 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 24 Aug 2025
+ 0:22
+Landed 3:56 PM
+STD
+4:56 PM
+
+ATD
+4:34 PM
+
+STA
+3:56 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 23 Aug 2025
+ 0:25
+Landed 1:39 PM
+STD
+2:39 PM
+
+ATD
+2:14 PM
+
+STA
+1:39 PM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 23 Aug 2025
+ 1:06
+Landed 10:05 AM
+STD
+11:05 AM
+
+ATD
+9:59 AM
+
+STA
+10:05 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 22 Aug 2025
+ 1:57
+Landed 10:59 AM
+STD
+11:59 AM
+
+ATD
+10:03 AM
+
+STA
+10:59 AM
+
+FROM
+Bedford (BED)
+
+TO
+Bedford (BED)
+
+ —
+ 21 Aug 2025
+ 1:01
+Landed 10:16 AM
+STD
+9:00 AM
+
+ATD
+9:15 AM
+
+STA
+10:13 AM
+
+FROM
+Burlington (BTV)
+
+TO
+Bedford (BED)
+
+ —
+ 21 Aug 2025
+ 0:59
+Landed 8:43 AM
+STD
+7:06 AM
+
+ATD
+7:44 AM
+
+STA
+8:37 AM
+
+FROM
+Bedford (BED)
+
+TO
+Burlington (BTV)
+
+ —
+ 18 Aug 2025
+ -
+Unknown
+STD
+10:32 AM
+
+ATD
+—
+
+STA
+—
+
+FROM
+Nashua (ASH)
+
+TO
+Not available
+
+ —
+ 18 Aug 2025
+ 0:14
+Landed 9:55 AM
+STD
+11:00 AM
+
+ATD
+10:41 AM
+
+STA
+9:55 AM
+
+FROM
+Nashua (ASH)
+
+TO
+Bedford (BED)
+
+ —
+ 18 Aug 2025
+ -
+Unknown
+STD
+2:15 PM
+
+ATD
+—
+
+STA
+—
+
+FROM
+Not available
+
+TO
+Not available
+
+ —
+ 18 Aug 2025
+ 0:10
+Landed 9:33 AM
+STD
+10:36 AM
+
+ATD
+10:22 AM
+
+STA
+9:33 AM
+
+FROM
+Nashua (ASH)
+
+TO
+Nashua (ASH)
+
+ —
+ 18 Aug 2025
+ 0:19
+Landed 9:09 AM
+STD
+10:09 AM
+
+ATD
+9:49 AM
+
+STA
+9:09 AM
+
+FROM
+Bedford (BED)
+
+TO
+Nashua (ASH)
+
+ —
+ 15 Aug 2025
+ 3:11
+Landed 8:18 PM
+STD
+8:18 PM
+
+ATD
+5:07 PM
+
+STA
+9:57 PM
+
+FROM
+Lynchburg (LYH)
+
+TO
+Bedford (BED)
+
+ —
+ 15 Aug 2025
+ 4:36
+Landed 3:06 PM
+STD
+4:06 PM
+
+ATD
+11:31 AM
+
+STA
+3:06 PM
+
+FROM
+Fort Lauderdale (FXE)
+
+TO
+Lynchburg (LYH)
+
+ —
+ 12 Aug 2025
+ 3:10
+Landed 4:37 PM
+STD
+5:42 PM
+
+ATD
+2:27 PM
+
+STA
+4:37 PM
+
+FROM
+Martinsburg (MRB)
+
+TO
+Statesboro (TBR)
+
+ —
+12 Aug 2025
+ 2:27
+Landed 4:31 PM
+12:31 PM10:03 AM11:31 AM
+FROM
+
+Bedford (BED)
+TO
+
+Martinsburg (MRB)
+ —
+11 Aug 2025
+ 1:32
+Landed 8:51 PM
+4:51 PM3:19 PM3:51 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+11 Aug 2025
+ 3:03
+Landed 3:44 PM
+11:45 AM8:41 AM10:44 AM
+FROM
+
+Laconia (LCI)
+TO
+
+Bedford (BED)
+ —
+10 Aug 2025
+ 0:31
+Landed 7:10 PM
+3:10 PM2:40 PM2:10 PM
+FROM
+
+Bedford (BED)
+TO
+
+Laconia (LCI)
+ —
+03 Aug 2025
+ 4:55
+Landed 10:04 PM
+6:04 PM1:09 PM5:04 PM
+FROM
+
+Beaufort (BFT)
+TO
+
+Bedford (BED)
+ —
+30 Jul 2025
+ 5:02
+Landed 11:11 PM
+7:11 PM2:09 PM6:11 PM
+FROM
+
+Bedford (BED)
+TO
+
+Beaufort (BFT)
+ —
+30 Jul 2025
+ 1:11
+Landed 2:31 PM
+9:00 AM9:20 AM10:22 AM
+FROM
+
+Bangor (BGR)
+TO
+
+Bedford (BED)
+ —
+30 Jul 2025
+ 1:10
+Landed 12:43 PM
+7:30 AM7:33 AM9:06 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bangor (BGR)
+ —
+26 Jul 2025
+ 1:04
+Landed 7:42 PM
+3:42 PM2:38 PM2:42 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+19 Jul 2025
+ 1:16
+Landed 11:41 PM
+7:41 PM6:25 PM6:41 PM
+FROM
+
+Binghamton (BGM)
+TO
+
+Bedford (BED)
+ —
+19 Jul 2025
+ 1:32
+Landed 4:47 PM
+12:47 PM11:15 AM11:47 AM
+FROM
+
+Bedford (BED)
+TO
+
+Binghamton (BGM)
+ —
+12 Jul 2025
+ 0:12
+Landed 7:07 PM
+3:12 PM2:55 PM2:07 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+12 Jul 2025
+ 1:12
+Landed 6:50 PM
+2:50 PM1:37 PM1:50 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+05 Jul 2025
+ 1:25
+Landed 7:30 PM
+3:30 PM2:05 PM2:30 PM
+FROM
+
+Rockland (RKD)
+TO
+
+Bedford (BED)
+ —
+05 Jul 2025
+ 1:01
+Landed 4:12 PM
+12:13 PM11:11 AM11:12 AM
+FROM
+
+Bedford (BED)
+TO
+
+Rockland (RKD)
+ —
+02 Jul 2025
+ 0:29
+Landed 10:04 PM
+6:04 PM5:35 PM5:04 PM
+FROM
+
+Hyannis (HYA)
+TO
+
+Bedford (BED)
+ —
+02 Jul 2025
+ 0:19
+Landed 7:37 PM
+3:38 PM3:18 PM2:37 PM
+FROM
+
+Hyannis (HYA)
+TO
+
+Hyannis (HYA)
+ —
+02 Jul 2025
+ 0:23
+Landed 1:01 PM
+9:05 AM8:38 AM8:01 AM
+FROM
+
+Bedford (BED)
+TO
+
+Plymouth (PYM)
+ —
+29 Jun 2025
+ 0:37
+Landed 8:45 PM
+3:30 PM4:08 PM4:25 PM
+FROM
+
+Portland (PWM)
+TO
+
+Bedford (BED)
+ —
+29 Jun 2025
+ 0:45
+Landed 4:28 PM
+9:30 AM11:43 AM10:33 AM
+FROM
+
+Bedford (BED)
+TO
+
+Portland (PWM)
+ —
+28 Jun 2025
+ 1:19
+Landed 4:09 PM
+10:30 AM10:50 AM11:37 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+26 Jun 2025
+ 1:11
+Landed 7:18 PM
+1:35 PM2:07 PM2:36 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+26 Jun 2025
+ 0:32
+Landed 2:44 PM
+10:49 AM10:12 AM9:44 AM
+FROM
+
+Bedford (BED)
+TO
+
+Sanford (SFM)
+ —
+21 Jun 2025
+ 0:14
+Landed 8:01 PM
+4:06 PM3:46 PM3:01 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+21 Jun 2025
+ 0:36
+Landed 7:46 PM
+3:46 PM3:09 PM2:46 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+11 Jun 2025
+ -
+Unknown
+STD
+
+—
+ATD
+
+—
+STA
+
+—
+FROM
+
+Not available
+TO
+
+Not available
+ —
+11 Jun 2025
+ 1:03
+Landed 6:46 PM
+2:47 PM1:42 PM1:46 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+03 Jun 2025
+ 2:09
+Landed 4:10 PM
+10:00 AM10:02 AM11:10 AM
+FROM
+
+Toronto (YTZ)
+TO
+
+Bedford (BED)
+ —
+02 Jun 2025
+ 2:37
+Landed 11:31 PM
+4:30 PM4:55 PM7:36 PM
+FROM
+
+Bedford (BED)
+TO
+
+Toronto (YTZ)
+ —
+02 Jun 2025
+ 0:58
+Landed 7:01 PM
+3:02 PM2:03 PM2:01 PM
+FROM
+
+Islip (ISP)
+TO
+
+Plymouth (PYM)
+ —
+02 Jun 2025
+ 0:22
+Landed 3:17 PM
+11:18 AM10:54 AM10:17 AM
+FROM
+
+Bedford (BED)
+TO
+
+Plymouth (PYM)
+ —
+02 Jun 2025
+ 0:49
+Landed 4:31 AM
+12:31 AM11:42 PM11:31 PM
+FROM
+
+Nantucket (ACK)
+TO
+
+Bedford (BED)
+ —
+01 Jun 2025
+ 1:02
+Landed 3:40 AM
+11:40 PM10:39 PM10:40 PM
+FROM
+
+Islip (ISP)
+TO
+
+Nantucket (ACK)
+ —
+01 Jun 2025
+ 0:59
+Landed 2:38 AM
+10:38 PM9:39 PM9:38 PM
+FROM
+
+Bedford (BED)
+TO
+
+Islip (ISP)
+ —
+30 May 2025
+ 1:11
+Landed 8:17 PM
+4:17 PM3:06 PM3:17 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+28 May 2025
+ 0:27
+Landed 8:08 PM
+4:08 PM3:41 PM3:08 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+18 May 2025
+ 1:01
+Landed 7:45 PM
+1:30 PM2:43 PM2:40 PM
+FROM
+
+Rockland (RKD)
+TO
+
+Bedford (BED)
+ —
+18 May 2025
+ 1:04
+Landed 3:44 PM
+9:00 AM10:39 AM10:24 AM
+FROM
+
+Bedford (BED)
+TO
+
+Rockland (RKD)
+ —
+11 May 2025
+ 1:11
+Landed 8:50 PM
+3:30 PM3:39 PM4:50 PM
+FROM
+
+Bar Harbor (BHB)
+TO
+
+Bedford (BED)
+ —
+11 May 2025
+ 1:15
+Landed 2:44 PM
+9:30 AM9:29 AM11:12 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bar Harbor (BHB)
+ —
+04 May 2025
+ 0:27
+Landed 6:07 PM
+1:30 PM1:40 PM2:13 PM
+FROM
+
+Bedford (BED)
+TO
+
+North Kingstown (NCO)
+ —
+03 May 2025
+ 0:50
+Landed 5:04 PM
+2:00 PM12:14 PM12:57 PM
+FROM
+
+Brunswick (NHZ)
+TO
+
+Bedford (BED)
+ —
+03 May 2025
+ 0:43
+Landed 1:59 PM
+9:00 AM9:16 AM10:07 AM
+FROM
+
+Bedford (BED)
+TO
+
+Brunswick (NHZ)
+ —
+01 May 2025
+ 0:39
+Landed 8:12 PM
+4:13 PM3:33 PM2:12 PM
+FROM
+
+Bedford (BED)
+TO
+
+Fitchburg (QTI)
+ —
+25 Apr 2025
+ 0:15
+Landed 9:54 PM
+5:54 PM5:38 PM4:54 PM
+FROM
+
+Worcester (ORH)
+TO
+
+Bedford (BED)
+ —
+25 Apr 2025
+ 0:16
+Landed 9:34 PM
+4:30 PM5:18 PM4:56 PM
+FROM
+
+Bedford (BED)
+TO
+
+Worcester (ORH)
+ —
+25 Apr 2025
+ 0:22
+Landed 3:18 PM
+11:19 AM10:56 AM10:18 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+24 Apr 2025
+ 0:34
+Landed 5:01 PM
+1:02 PM12:27 PM12:01 PM
+FROM
+
+Portland (PWM)
+TO
+
+Bedford (BED)
+ —
+24 Apr 2025
+ 0:36
+Landed 1:48 PM
+9:49 AM9:12 AM8:48 AM
+FROM
+
+Bedford (BED)
+TO
+
+Portland (PWM)
+ —
+17 Apr 2025
+ 1:10
+Landed 3:03 PM
+11:03 AM9:53 AM10:03 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+14 Apr 2025
+ 0:42
+Landed 1:48 AM
+9:48 PM9:06 PM8:48 PM
+FROM
+
+Portland (PWM)
+TO
+
+Bedford (BED)
+ —
+14 Apr 2025
+ 0:34
+Landed 12:52 AM
+8:53 PM8:18 PM7:52 PM
+FROM
+
+Bedford (BED)
+TO
+
+Portland (PWM)
+ —
+14 Apr 2025
+ 1:06
+Landed 8:28 PM
+4:28 PM3:22 PM3:28 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+14 Apr 2025
+ 0:52
+Landed 5:53 PM
+1:53 PM1:01 PM12:53 PM
+FROM
+
+Bridgeport (BDR)
+TO
+
+Bedford (BED)
+ —
+14 Apr 2025
+ 0:42
+Landed 1:57 PM
+9:00 AM9:15 AM10:17 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bridgeport (BDR)
+ —
+09 Apr 2025
+ 0:49
+Landed 8:31 PM
+4:32 PM3:42 PM3:31 PM
+FROM
+
+Bedford (BED)
+TO
+
+Portland (PWM)
+ —
+06 Apr 2025
+ 0:47
+Landed 7:25 PM
+2:30 PM2:39 PM3:23 PM
+FROM
+
+Bedford (BED)
+TO
+
+Westfield (BAF)
+ —
+04 Apr 2025
+ 0:41
+Landed 6:21 PM
+2:21 PM1:40 PM1:21 PM
+FROM
+
+Martha's Vineyard (MVY)
+TO
+
+Bedford (BED)
+ —
+03 Apr 2025
+ -
+Unknown
+STD
+
+—
+ATD
+
+—
+STA
+
+—
+FROM
+
+Not available
+TO
+
+Not available
+ —
+03 Apr 2025
+ -
+Unknown
+STD
+
+—
+ATD
+
+—
+STA
+
+—
+FROM
+
+Not available
+TO
+
+Not available
+ —
+02 Apr 2025
+ 0:19
+Landed 12:30 AM
+8:31 PM8:11 PM7:30 PM
+FROM
+
+Plymouth (PYM)
+TO
+
+Bedford (BED)
+ —
+02 Apr 2025
+ 0:42
+Landed 11:57 PM
+7:58 PM7:15 PM6:57 PM
+FROM
+
+Bedford (BED)
+TO
+
+Plymouth (PYM)
+ —
+26 Mar 2025
+ 1:00
+Landed 11:04 PM
+7:05 PM6:04 PM6:04 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+19 Mar 2025
+ 1:00
+Landed 9:13 PM
+4:15 PM4:13 PM5:19 PM
+FROM
+
+Morrisville (MVL)
+TO
+
+Bedford (BED)
+ —
+19 Mar 2025
+ 0:50
+Landed 6:38 PM
+2:38 PM1:48 PM1:38 PM
+FROM
+
+Bedford (BED)
+TO
+
+Morrisville (MVL)
+ —
+19 Mar 2025
+ 0:48
+Landed 1:23 PM
+9:27 AM8:35 AM8:23 AM
+FROM
+
+Bedford (BED)
+TO
+
+Augusta (AUG)
+ —
+18 Mar 2025
+ 0:25
+Landed 10:02 PM
+4:30 PM5:37 PM5:18 PM
+FROM
+
+Bedford (BED)
+TO
+
+New Bedford (EWB)
+ —
+14 Mar 2025
+ -
+Unknown
+STD
+
+—
+ATD
+
+—
+STA
+
+—
+FROM
+
+Not available
+TO
+
+Not available
+ —
+14 Mar 2025
+ 0:19
+Landed 3:14 PM
+11:15 AM10:55 AM10:14 AM
+FROM
+
+Plymouth (PYM)
+TO
+
+New Bedford (EWB)
+ —
+14 Mar 2025
+ 0:24
+Landed 2:35 PM
+9:45 AM10:11 AM10:21 AM
+FROM
+
+Bedford (BED)
+TO
+
+Plymouth (PYM)
+ —
+10 Mar 2025
+ 0:24
+Landed 10:26 PM
+6:26 PM6:03 PM5:26 PM
+FROM
+
+Plymouth (PYM)
+TO
+
+Bedford (BED)
+ —
+26 Feb 2025
+ 0:21
+Landed 1:26 PM
+8:27 AM8:05 AM8:26 AM
+FROM
+
+Bedford (BED)
+TO
+
+Plymouth (PYM)
+ —
+26 Feb 2025
+ -
+Unknown
+7:57 AM7:56 AM
+STA
+
+—
+FROM
+
+Bedford (BED)
+TO
+
+Not available
+ —
+25 Feb 2025
+ 0:30
+Landed 3:44 PM
+10:44 AM10:13 AM10:44 AM
+FROM
+
+Hartford (HFD)
+TO
+
+Bedford (BED)
+ —
+25 Feb 2025
+ 0:20
+Landed 3:05 PM
+10:06 AM9:46 AM10:05 AM
+FROM
+
+New London (GON)
+TO
+
+Hartford (HFD)
+ —
+25 Feb 2025
+ 0:31
+Landed 2:06 PM
+9:07 AM8:35 AM9:06 AM
+FROM
+
+Bedford (BED)
+TO
+
+Martha's Vineyard (MVY)
+ —
+24 Feb 2025
+ 0:53
+Landed 3:02 PM
+9:00 AM9:09 AM10:11 AM
+FROM
+
+Burlington (BTV)
+TO
+
+Bedford (BED)
+ —
+21 Feb 2025
+ 0:32
+Landed 9:33 PM
+3:50 PM4:02 PM4:28 PM
+FROM
+
+Lebanon (LEB)
+TO
+
+Burlington (BTV)
+ —
+21 Feb 2025
+ 0:43
+Landed 8:34 PM
+2:40 PM2:51 PM3:46 PM
+FROM
+
+Bedford (BED)
+TO
+
+Lebanon (LEB)
+ —
+21 Feb 2025
+ 0:35
+Landed 6:40 PM
+1:40 PM1:05 PM1:40 PM
+FROM
+
+Martha's Vineyard (MVY)
+TO
+
+Bedford (BED)
+ —
+20 Feb 2025
+ 0:23
+Landed 6:43 PM
+1:15 PM1:20 PM1:47 PM
+FROM
+
+Plymouth (PYM)
+TO
+
+Bedford (BED)
+ —
+20 Feb 2025
+ 0:44
+Landed 5:09 PM
+12:10 PM11:25 AM12:09 PM
+FROM
+
+Norwood (OWD)
+TO
+
+Plymouth (PYM)
+ —
+20 Feb 2025
+ 0:19
+Landed 3:54 PM
+10:54 AM10:35 AM10:54 AM
+FROM
+
+Bedford (BED)
+TO
+
+Norwood (OWD)
+ —
+19 Feb 2025
+ 1:30
+Landed 5:46 PM
+12:48 PM11:17 AM12:46 PM
+FROM
+
+Bedford (BED)
+TO
+
+Portland (PWM)
+ —
+11 Feb 2025
+ 2:12
+Landed 3:47 PM
+8:45 AM8:35 AM10:54 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+10 Feb 2025
+ 1:11
+Landed 4:16 PM
+10:00 AM10:05 AM11:23 AM
+FROM
+
+Bangor (BGR)
+TO
+
+Bedford (BED)
+ —
+10 Feb 2025
+ 1:03
+Landed 2:35 PM
+8:00 AM8:31 AM9:39 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bangor (BGR)
+ —
+08 Feb 2025
+ 1:19
+Landed 8:27 PM
+3:27 PM2:08 PM3:27 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+08 Feb 2025
+ 1:37
+Landed 4:43 PM
+11:44 AM10:06 AM11:43 AM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)
+ —
+05 Feb 2025
+ 0:50
+Landed 7:58 PM
+2:10 PM2:08 PM3:07 PM
+FROM
+
+Morrisville (MVL)
+TO
+
+Bedford (BED)
+ —
+05 Feb 2025
+ 1:05
+Landed 6:55 PM
+12:20 PM12:50 PM1:55 PM
+FROM
+
+Bedford (BED)
+TO
+
+Morrisville (MVL)
+ —
+02 Feb 2025
+ 0:33
+Landed 11:10 PM
+6:11 PM5:37 PM6:10 PM
+FROM
+
+Martha's Vineyard (MVY)
+TO
+
+Bedford (BED)
+ —
+02 Feb 2025
+ -
+Diverted to MVY
+4:00 PM4:29 PM5:30 PM
+FROM
+
+Bedford (BED)
+TO
+
+Bedford (BED)

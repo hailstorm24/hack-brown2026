@@ -1,0 +1,1231 @@
+Flight history for aircraft - N784QS
+AIRCRAFT
+Bombardier Challenger 350
+AIRLINE
+NetJets
+OPERATOR
+NetJets
+TYPE CODE
+CL35
+Code
+EJA
+Code
+EJA
+MODE S
+AAA0D1
+SERIAL NUMBER (MSN)
+20575
+AGE (2015)
+11 years
+© Sebastian Sowa | JetphotosA picture of N784QS - Bombardier Challenger 350 - NetJets - © Sebastian Sowa© Jason Whitebird | JetphotosA picture of N784QS - Bombardier Challenger 350 - NetJets - © Jason Whitebird
+ 	DATE	FROM	TO	FLIGHT	FLIGHT TIME	STD	ATD	STA		STATUS		 
+ 	18 Jan 2026	Scottsdale (SCF)	La Romana (LRM)	(N784QS)	—	5:30 AM	—	1:54 PM	
+Estimated departure 5:36 AM		 
+ 	10 Jan 2026	Tucson (AVW)	Scottsdale (SCF)	EJA784	0:29	6:54 PM	6:22 PM	7:30 PM	
+Landed 6:51 PM	  	 
+ 	10 Jan 2026	Scottsdale (SCF)	Tucson (AVW)	EJA784	0:25	5:12 PM	5:24 PM	5:54 PM	
+Landed 5:49 PM	  	 
+ 	10 Jan 2026	Kahului (OGG)	Scottsdale (SCF)	(N784QS)	5:35	8:00 AM	8:06 AM	4:36 PM	
+Landed 4:41 PM	  	 
+ 	09 Jan 2026	Santa Ana (SNA)	Kahului (OGG)	(N784QS)	5:16	10:45 AM	10:49 AM	2:33 PM	
+Landed 2:05 PM	  	 
+ 	08 Jan 2026	Teterboro (TEB)	Santa Ana (SNA)	EJA784	5:22	6:00 PM	6:25 PM	10:00 PM	
+Landed 8:46 PM	  	 
+ 	05 Jan 2026	Teterboro (TEB)	Philadelphia (PHL)	EJA784	—	10:48 PM	—	11:42 PM	
+Estimated departure 10:54 PM	  	 
+ 	05 Jan 2026	Bermuda (BDA)	Teterboro (TEB)	(N784QS)	2:29	8:24 PM	8:24 PM	9:42 PM	
+Landed 9:54 PM	  	 
+ 	05 Jan 2026	North Kingstown (NCO)	Bermuda (BDA)	(N784QS)	1:33	4:30 PM	4:19 PM	7:18 PM	
+Landed 6:51 PM	  	 
+ 	05 Jan 2026	Windsor Locks (BDL)	North Kingstown (NCO)	EJA784	0:21	2:48 PM	2:43 PM	3:24 PM	
+Landed 3:03 PM	  	 
+ 	04 Jan 2026	Fort Lauderdale (FXE)	Windsor Locks (BDL)	EJA784	2:32	6:18 PM	9:06 PM	9:06 PM	
+Landed 11:38 PM	  	 
+ 	04 Jan 2026	Canouan (CIW)	Fort Lauderdale (FXE)	(N784QS)	3:40	3:00 PM	5:14 PM	3:42 PM	
+Landed 7:53 PM	  	 
+ 	04 Jan 2026	Naples (APF)	Canouan (CIW)	(N784QS)	3:01	9:33 AM	12:04 PM	1:54 PM	
+Landed 4:05 PM	  	 
+ 	03 Jan 2026	North Eleuthera (ELH)	New York (EWR)	(N784QS)	—	4:00 PM	—	6:36 PM	
+Estimated departure 4:06 PM		 
+ 	03 Jan 2026	Miami (MIA)	Naples (APF)	EJA784	0:25	2:19 PM	2:25 PM	3:01 PM	
+Landed 2:51 PM	  	 
+ 	03 Jan 2026	White Plains (HPN)	North Eleuthera (ELH)	(N784QS)	—	12:48 PM	—	3:36 PM	
+Estimated departure 12:54 PM		 
+ 	02 Jan 2026	New Orleans (NEW)	Miami (MIA)	EJA784	1:36	4:02 PM	4:02 PM	6:38 PM	
+Landed 6:38 PM	  	 
+ 	02 Jan 2026	Charleston (JZI)	New Orleans (NEW)	EJA784	1:37	2:00 PM	2:09 PM	2:46 PM	
+Landed 2:46 PM	  	 
+ 	02 Jan 2026	Teterboro (TEB)	Charleston (JZI)	EJA784	1:46	8:00 AM	10:13 AM	11:58 AM	
+Landed 11:58 AM	  	 
+ 	30 Dec 2025	Miami (MIA)	Teterboro (TEB)	EJA784	2:28	4:17 PM	4:17 PM	6:45 PM	
+Landed 6:45 PM	  	 
+ 	30 Dec 2025	Boca Raton (BCT)	Miami (MIA)	EJA784	0:22	1:48 PM	2:17 PM	2:18 PM	
+Landed 2:39 PM	  	 
+ 	30 Dec 2025	Little Rock (LIT)	Boca Raton (BCT)	EJA784	1:53	9:30 AM	10:24 AM	12:42 PM	
+Landed 1:17 PM	  	 
+ 	29 Dec 2025	Nashville (BNA)	Little Rock (LIT)	EJA784	1:02	3:14 PM	2:07 PM	3:09 PM	
+Landed 3:09 PM	  	 
+ 	29 Dec 2025	Charleston (CHS)	Nashville (BNA)	EJA784	1:20	11:48 AM	11:24 AM	12:12 PM	
+Landed 11:44 AM	  	 
+ 	29 Dec 2025	Charlotte (CLT)	Charleston (CHS)	EJA784	0:31	10:00 AM	10:17 AM	10:42 AM	
+Landed 10:49 AM	  	 
+ 	28 Dec 2025	Fort Lauderdale (FLL)	Charlotte (CLT)	EJA784	1:34	4:30 PM	4:27 PM	7:42 PM	
+Landed 6:02 PM	  	 
+ 	28 Dec 2025	Philadelphia (PNE)	Fort Lauderdale (FLL)	EJA784	2:44	12:30 PM	12:41 PM	3:12 PM	
+Landed 3:26 PM	  	 
+ 	28 Dec 2025	Albany (ALB)	Philadelphia (PNE)	EJA784	0:49	11:00 AM	10:51 AM	11:54 AM	
+Landed 11:40 AM	  	 
+ 	28 Dec 2025	Fort Myers (RSW)	Albany (ALB)	EJA784	2:38	7:00 AM	7:06 AM	9:54 AM	
+Landed 9:44 AM	  	 
+ 	27 Dec 2025	Chicago (PWK)	Fort Myers (RSW)	EJA784	2:25	5:54 PM	3:24 PM	6:49 PM	
+Landed 6:49 PM	  	 
+ 	27 Dec 2025	Houston (SGR)	Chicago (PWK)	EJA784	2:09	9:00 AM	9:32 AM	11:18 AM	
+Landed 11:41 AM	  	 
+ 	26 Dec 2025	Laredo (LRD)	Houston (SGR)	EJA784	0:43	6:59 PM	7:00 PM	7:43 PM	
+Landed 7:43 PM	  	 
+ 	26 Dec 2025	Manzanillo (ZLO)	Laredo (LRD)	(N784QS)	1:36	4:24 PM	4:20 PM	6:06 PM	
+Landed 5:56 PM	  	 
+ 	26 Dec 2025	Teterboro (TEB)	Manzanillo (ZLO)	(N784QS)	5:04	10:00 AM	10:54 AM	2:48 PM	
+Landed 2:58 PM	  	 
+ 	25 Dec 2025	Fort Lauderdale (FLL)	Teterboro (TEB)	EJA784	2:41	12:00 PM	11:47 AM	2:36 PM	
+Landed 2:28 PM	  	 
+ 	24 Dec 2025	The Valley (AXA)	Fort Lauderdale (FLL)	(N784QS)	2:53	1:48 PM	2:55 PM	4:49 PM	
+Landed 4:49 PM	  	 
+ 	24 Dec 2025	White Plains (HPN)	The Valley (AXA)	(N784QS)	3:04	8:00 AM	9:37 AM	12:42 PM	
+Landed 1:41 PM	  	 
+ 	23 Dec 2025	Westhampton Beach (FOK)	White Plains (HPN)	EJA784	0:22	5:03 PM	5:20 PM	6:18 PM	
+Landed 5:42 PM	  	 
+ 	23 Dec 2025	Liberia (LIR)	Westhampton Beach (FOK)	(N784QS)	4:31	11:00 AM	10:49 AM	4:42 PM	
+Landed 4:20 PM	  	 
+ 	23 Dec 2025	Fort Lauderdale (FLL)	Liberia (LIR)	(N784QS)	2:34	8:06 AM	7:54 AM	9:54 AM	
+Landed 9:28 AM	  	 
+ 	22 Dec 2025	Oranjestad (AUA)	Fort Lauderdale (FLL)	(N784QS)	2:49	4:24 PM	4:56 PM	6:24 PM	
+Landed 6:44 PM	  	 
+ 	22 Dec 2025	Washington (IAD)	Oranjestad (AUA)	(N784QS)	3:45	2:19 PM	10:33 AM	3:19 PM	
+Landed 3:19 PM	  	 
+ 	21 Dec 2025	Chicago (UGN)	Washington (IAD)	EJA784	1:16	7:00 PM	6:55 PM	9:30 PM	
+Landed 9:11 PM	  	 
+ 	21 Dec 2025	Santa Ana (SNA)	Chicago (UGN)	EJA784	3:14	3:57 PM	12:43 PM	5:57 PM	
+Landed 5:57 PM	  	 
+ 	21 Dec 2025	Provo (PVU)	Santa Ana (SNA)	EJA784	1:27	11:09 AM	11:07 AM	11:35 AM	
+Landed 11:35 AM	  	 
+ 	21 Dec 2025	Las Vegas (LAS)	Provo (PVU)	EJA784	0:47	7:00 AM	7:51 AM	11:18 AM	
+Landed 9:39 AM	  	 
+ 	20 Dec 2025	Rifle (RIL)	Las Vegas (LAS)	EJA784	1:11	1:06 PM	3:14 PM	1:36 PM	
+Landed 3:24 PM	  	 
+ 	20 Dec 2025	Teterboro (TEB)	Seattle (BFI)	EJA784	—	9:24 AM	10:14 AM	12:30 PM	
+Diverted to RIL	  	 
+ 	20 Dec 2025	Fort Lauderdale (FLL)	Teterboro (TEB)	EJA784	2:28	6:00 AM	6:19 AM	9:36 AM	
+Landed 8:47 AM	  	 
+ 	19 Dec 2025	Vero Beach (VRB)	Fort Lauderdale (FLL)	EJA784	0:31	6:42 PM	6:26 PM	7:18 PM	
+Landed 6:57 PM	  	 
+ 	19 Dec 2025	Chicago (PWK)	Vero Beach (VRB)	EJA784	2:07	4:25 PM	2:18 PM	5:25 PM	
+Landed 5:25 PM	  	 
+ 	19 Dec 2025	Oklahoma City (OKC)	Chicago (PWK)	EJA784	1:45	10:00 AM	9:56 AM	2:42 PM	
+Landed 11:42 AM	  	 
+ 	18 Dec 2025	Houston (DWH)	Oklahoma City (OKC)	EJA784	1:01	10:09 PM	9:08 PM	10:09 PM	
+Landed 10:09 PM	  	 
+ 	18 Dec 2025	Murrieta (RBK)	Houston (DWH)	EJA784	2:34	12:42 PM	1:49 PM	5:24 PM	
+Landed 6:23 PM	  	 
+ 	18 Dec 2025	Provo (PVU)	Murrieta (RBK)	EJA784	1:15	11:00 AM	11:07 AM	11:36 AM	
+Landed 11:22 AM	  	 
+ 	17 Dec 2025	Chicago (MDW)	Provo (PVU)	EJA784	2:58	6:00 PM	6:20 PM	8:12 PM	
+Landed 8:17 PM	  	 
+ 	17 Dec 2025	Fort Lauderdale (FLL)	Chicago (MDW)	EJA784	2:39	1:00 PM	3:09 PM	12:00 PM	
+Landed 4:49 PM	  	 
+ 	16 Dec 2025	Sint Maarten (SXM)	Fort Lauderdale (FLL)	(N784QS)	2:54	3:00 PM	3:13 PM	4:58 PM	
+Landed 5:06 PM	  	 
+ 	16 Dec 2025	Teterboro (TEB)	Sint Maarten (SXM)	(N784QS)	3:33	9:00 AM	9:31 AM	1:54 PM	
+Landed 2:05 PM	  	 
+ 	15 Dec 2025	Indianapolis (TYQ)	Teterboro (TEB)	EJA784	1:26	6:06 PM	5:43 PM	7:08 PM	
+Landed 7:08 PM	  	 
+ 	15 Dec 2025	Las Vegas (LAS)	Indianapolis (TYQ)	EJA784	3:06	10:30 AM	10:38 AM	5:00 PM	
+Landed 4:44 PM	  	 
+ 	14 Dec 2025	Santa Ana (SNA)	Las Vegas (LAS)	EJA784	0:41	3:48 PM	3:33 PM	4:48 PM	
+Landed 4:13 PM	  	 
+ 	14 Dec 2025	Salt Lake City (SLC)	Santa Ana (SNA)	EJA784	1:30	2:00 PM	1:50 PM	2:42 PM	
+Landed 2:21 PM	  	 
+ 	14 Dec 2025	Denver (BJC)	Salt Lake City (SLC)	EJA784	0:57	11:42 AM	11:40 AM	12:37 PM	
+Landed 12:37 PM	  	 
+ 	13 Dec 2025	San Diego (SAN)	—	EJA784	—	1:26 PM	11:37 AM	—	
+Unknown	  	 
+ 	13 Dec 2025	Van Nuys (VNY)	San Diego (SAN)	EJA784	0:31	9:27 AM	9:19 AM	10:15 AM	
+Landed 9:49 AM	  	 
+ 	12 Dec 2025	Dallas (DAL)	Teterboro (TEB)	EJA784	—	5:00 PM	3:55 PM	8:54 PM	
+Diverted to VNY	  	 
+ 	12 Dec 2025	San Jose del Cabo (SJD)	Dallas (DAL)	(N784QS)	2:16	10:59 AM	10:44 AM	2:23 PM	
+Landed 2:00 PM	  	 
+ 	11 Dec 2025	San Francisco (SFO)	San Jose del Cabo (SJD)	(N784QS)	2:40	5:00 PM	5:29 PM	8:54 PM	
+Landed 9:09 PM	  	 
+ 	11 Dec 2025	Van Nuys (VNY)	San Francisco (SFO)	EJA784	0:54	1:36 PM	1:44 PM	2:48 PM	
+Landed 2:38 PM	  	 
+ 	11 Dec 2025	San Jose (SJC)	Van Nuys (VNY)	EJA784	0:47	12:33 PM	11:46 AM	12:33 PM	
+Landed 12:33 PM	  	 
+ 	10 Dec 2025	San Francisco (SFO)	San Jose (SJC)	EJA784	0:16	4:30 PM	4:24 PM	5:00 PM	
+Landed 4:41 PM	  	 
+ 	10 Dec 2025	Santa Barbara (SBA)	San Francisco (SFO)	EJA784	0:47	3:32 PM	2:45 PM	3:32 PM	
+Landed 3:32 PM	  	 
+ 	10 Dec 2025	San Jose (SJC)	Santa Barbara (SBA)	EJA784	0:41	4:15 PM	12:35 PM	5:33 PM	
+Landed 1:16 PM	  	 
+ 	09 Dec 2025	Kansas City (MKC)	San Jose (SJC)	EJA784	3:10	12:36 AM	9:26 PM	10:36 PM	
+Landed 10:36 PM	  	 
+ 	08 Dec 2025	Milwaukee (MKE)	Kansas City (MKC)	EJA784	1:08	5:54 PM	5:48 PM	6:57 PM	
+Landed 6:57 PM	  	 
+ 	08 Dec 2025	Harrisburg (MDT)	Milwaukee (MKE)	EJA784	1:30	4:00 PM	4:12 PM	4:48 PM	
+Landed 4:42 PM	  	 
+ 	08 Dec 2025	Pittsburgh (PIT)	Harrisburg (MDT)	EJA784	0:32	2:18 PM	1:41 PM	3:00 PM	
+Landed 2:13 PM	  	 
+ 	08 Dec 2025	Portland (HIO)	Pittsburgh (PIT)	EJA784	3:50	6:00 AM	6:13 AM	1:12 PM	
+Landed 1:04 PM	  	 
+ 	07 Dec 2025	Seattle (BFI)	Portland (HIO)	EJA784	0:32	6:00 PM	8:50 PM	6:42 PM	
+Landed 9:23 PM	  	 
+ 	07 Dec 2025	Teterboro (TEB)	Seattle (BFI)	EJA784	5:45	4:30 PM	5:17 PM	4:54 PM	
+Landed 8:02 PM	  	 
+ 	07 Dec 2025	Reading (RDG)	Teterboro (TEB)	EJA784	0:34	1:24 PM	3:15 PM	3:49 PM	
+Landed 3:49 PM	  	 
+ 	07 Dec 2025	Charleston (CHS)	Teterboro (TEB)	EJA784	—	11:30 AM	12:04 PM	12:48 PM	
+Diverted to RDG	  	 
+ 	06 Dec 2025	Atlanta (PDK)	Charleston (CHS)	EJA784	0:49	7:00 PM	6:17 PM	8:18 PM	
+Landed 7:06 PM	  	 
+ 	06 Dec 2025	Lafayette (LAF)	Atlanta (PDK)	EJA784	1:07	5:36 PM	4:30 PM	5:36 PM	
+Landed 5:36 PM	  	 
+ 	06 Dec 2025	Little Rock (LIT)	Lafayette (LAF)	EJA784	1:06	1:12 PM	12:46 PM	2:52 PM	
+Landed 2:52 PM	  	 
+ 	05 Dec 2025	Rochester (RST)	Little Rock (LIT)	EJA784	1:24	4:30 PM	4:38 PM	7:48 PM	
+Landed 6:02 PM	  	 
+ 	05 Dec 2025	Buffalo (BUF)	Rochester (RST)	EJA784	1:52	2:00 PM	1:51 PM	3:00 PM	
+Landed 2:44 PM	  	 
+ 	05 Dec 2025	New Orleans (MSY)	Buffalo (BUF)	EJA784	2:00	9:36 AM	9:26 AM	10:24 AM	
+Landed 12:26 PM	  	 
+ 	04 Dec 2025	Santa Ana (SNA)	New Orleans (MSY)	EJA784	3:02	1:00 PM	1:07 PM	6:24 PM	
+Landed 6:08 PM	  	 
+ 	04 Dec 2025	San Francisco (SFO)	San Jose (SJC)	EJA784	—	9:15 AM	9:21 AM	10:24 AM	
+Diverted to SNA	  	 
+ 	03 Dec 2025	Kansas City (MKC)	San Francisco (SFO)	EJA784	3:09	6:12 PM	6:18 PM	8:54 PM	
+Landed 7:27 PM	  	 
+ 	03 Dec 2025	Chicago (PWK)	Kansas City (MKC)	EJA784	1:24	2:00 PM	2:40 PM	3:18 PM	
+Landed 4:04 PM	  	 
+ 	02 Dec 2025	Dallas (DFW)	Chicago (PWK)	EJA784	1:55	2:30 PM	2:43 PM	5:36 PM	
+Landed 4:38 PM	  	 
+ 	02 Dec 2025	San Jose (SJO)	Dallas (DFW)	(N784QS)	3:47	9:00 AM	9:01 AM	1:06 PM	
+Landed 12:48 PM	  	 
+ 	01 Dec 2025	San Diego (SAN)	San Jose (SJO)	(N784QS)	5:17	9:10 AM	9:31 AM	4:47 PM	
+Landed 4:47 PM	  	 
+ 	01 Dec 2025	San Jose (SJC)	San Diego (SAN)	EJA784	1:01	6:15 AM	6:19 AM	7:33 AM	
+Landed 7:20 AM	  	 
+ 	30 Nov 2025	Napa (APC)	San Jose (SJC)	EJA784	0:25	7:42 PM	6:55 PM	8:18 PM	
+Landed 7:20 PM	  	 
+ 	30 Nov 2025	Cleveland (BKL)	Napa (APC)	EJA784	4:42	5:00 PM	4:47 PM	7:06 PM	
+Landed 6:29 PM	  	 
+ 	30 Nov 2025	Kansas City (MKC)	Cleveland (BKL)	EJA784	1:26	1:06 PM	1:26 PM	3:54 PM	
+Landed 3:52 PM	  	 
+ 	30 Nov 2025	Naples (APF)	Kansas City (MKC)	EJA784	2:54	10:00 AM	10:28 AM	12:00 PM	
+Landed 12:22 PM	  	 
+ 	30 Nov 2025	Chattanooga (CHA)	Naples (APF)	EJA784	1:24	7:12 AM	7:18 AM	8:54 AM	
+Landed 8:42 AM	  	 
+ 	29 Nov 2025	Houston (QSE)	Chattanooga (CHA)	EJA784	1:29	3:30 PM	1:47 PM	6:18 PM	
+Landed 4:15 PM	  	 
+ 	29 Nov 2025	Dallas (DAL)	Houston (QSE)	EJA784	0:38	1:00 PM	12:32 PM	1:54 PM	
+Landed 1:10 PM	  	 
+ 	29 Nov 2025	Burlington (QQY)	Dallas (DAL)	EJA784	2:27	10:00 AM	10:04 AM	11:54 AM	
+Landed 11:31 AM	  	 
+ 	29 Nov 2025	Washington (IAD)	Burlington (QQY)	EJA784	0:38	7:48 AM	8:05 AM	8:54 AM	
+Landed 8:43 AM	  	 
+ 	28 Nov 2025	Austin (AUS)	Washington (IAD)	EJA784	2:34	12:00 PM	12:16 PM	5:54 PM	
+Landed 3:51 PM	  	 
+ 	28 Nov 2025	Dallas (DAL)	Austin (AUS)	EJA784	0:41	10:06 AM	10:22 AM	10:54 AM	
+Landed 11:03 AM	  	 
+ 	26 Nov 2025	Denver (BJC)	Dallas (DAL)	EJA784	1:29	5:55 PM	4:26 PM	6:55 PM	
+Landed 6:55 PM	  	 
+ 	26 Nov 2025	Kelowna (YLW)	Denver (BJC)	EJA784	1:49	12:00 PM	11:53 AM	2:42 PM	
+Landed 2:42 PM	  	 
+ 	26 Nov 2025	Des Moines (DSM)	Kelowna (YLW)	EJA784	3:16	9:30 AM	9:29 AM	10:48 AM	
+Landed 10:45 AM	  	 
+ 	25 Nov 2025	Burbank (BUR)	Des Moines (DSM)	EJA784	6:16	3:19 PM	9:03 AM	5:19 PM	
+Landed 5:19 PM	  	 
+ 	24 Nov 2025	Van Nuys (VNY)	Burbank (BUR)	EJA784	0:12	2:32 PM	2:00 PM	2:50 PM	
+Landed 2:12 PM	  	 
+ 	24 Nov 2025	Las Vegas (LAS)	Van Nuys (VNY)	EJA784	0:43	12:20 PM	12:15 PM	1:32 PM	
+Landed 12:59 PM	  	 
+ 	24 Nov 2025	St. George (SGU)	Las Vegas (LAS)	EJA784	0:24	10:00 AM	9:53 AM	9:12 AM	
+Landed 9:17 AM	  	 
+ 	24 Nov 2025	Salt Lake City (SLC)	St. George (SGU)	EJA784	0:41	8:00 AM	8:29 AM	8:24 AM	
+Landed 9:10 AM	  	 
+ 	23 Nov 2025	Los Angeles (LAX)	Salt Lake City (SLC)	EJA784	1:26	4:18 PM	3:52 PM	6:54 PM	
+Landed 6:19 PM	  	 
+ 	23 Nov 2025	Scottsdale (SCF)	Los Angeles (LAX)	EJA784	0:59	3:00 PM	3:17 PM	3:12 PM	
+Landed 3:16 PM	  	 
+ 	23 Nov 2025	San Diego (SAN)	Scottsdale (SCF)	EJA784	0:57	12:00 PM	12:29 PM	2:00 PM	
+Landed 2:26 PM	  	 
+ 	23 Nov 2025	Seattle (BFI)	San Diego (SAN)	EJA784	2:12	8:15 AM	7:59 AM	10:45 AM	
+Landed 10:11 AM	  	 
+ 	22 Nov 2025	Cleveland (CGF)	Seattle (BFI)	EJA784	4:40	7:41 PM	3:01 PM	4:41 PM	
+Landed 4:41 PM	  	 
+ 	22 Nov 2025	State College (SCE)	Cleveland (CGF)	EJA784	0:37	1:06 PM	12:29 PM	1:06 PM	
+Landed 1:06 PM	  	 
+ 	21 Nov 2025	Denver (BJC)	State College (SCE)	EJA784	2:31	6:00 PM	5:49 PM	11:00 PM	
+Landed 10:21 PM	  	 
+ 	21 Nov 2025	Fort Collins (FNL)	Denver (BJC)	EJA784	0:15	4:00 PM	3:27 PM	4:24 PM	
+Landed 3:42 PM	  	 
+ 	21 Nov 2025	North Platte (LBF)	Fort Collins (FNL)	EJA784	0:41	3:00 PM	3:11 PM	2:54 PM	
+Landed 2:51 PM	  	 
+ 	21 Nov 2025	Omaha (OMA)	North Platte (LBF)	EJA784	0:43	1:00 PM	12:36 PM	2:00 PM	
+Landed 1:19 PM	  	 
+ 	20 Nov 2025	Phoenix (PHX)	Omaha (OMA)	EJA784	2:05	12:30 PM	12:53 PM	5:54 PM	
+Landed 3:58 PM	  	 
+ 	19 Nov 2025	Santa Ana (SNA)	Phoenix (PHX)	EJA784	0:54	7:30 PM	7:14 PM	10:27 PM	
+Landed 9:08 PM	  	 
+ 	19 Nov 2025	Las Vegas (LAS)	Santa Ana (SNA)	EJA784	0:42	5:36 PM	5:28 PM	6:48 PM	
+Landed 6:10 PM	  	 
+ 	19 Nov 2025	Dallas (DAL)	Las Vegas (LAS)	EJA784	2:32	3:30 PM	3:28 PM	4:30 PM	
+Landed 4:00 PM	  	 
+ 	18 Nov 2025	Houston (HOU)	Dallas (DAL)	EJA784	0:44	11:45 PM	11:09 PM	12:39 AM	
+Landed 11:53 PM	  	 
+ 	18 Nov 2025	Dallas (DAL)	Fort Lauderdale (FLL)	EJA784	-	7:30 PM	9:44 PM	12:54 AM	
+Diverted to HOU	  	 
+ 	18 Nov 2025	Naples (APF)	Dallas (DAL)	EJA784	2:31	11:00 AM	12:42 PM	2:54 PM	
+Landed 2:13 PM	  	 
+ 	18 Nov 2025	Miami (MIA)	Naples (APF)	EJA784	0:32	9:18 AM	9:21 AM	9:54 AM	
+Landed 9:52 AM	  	 
+ 	17 Nov 2025	Teterboro (TEB)	Miami (MIA)	EJA784	2:29	5:30 PM	6:33 PM	8:36 PM	
+Landed 9:03 PM	  	 
+ 	17 Nov 2025	Washington (IAD)	Teterboro (TEB)	EJA784	1:09	11:00 AM	2:39 PM	3:48 PM	
+Landed 3:48 PM	  	 
+ 	17 Nov 2025	Teterboro (TEB)	Washington (IAD)	EJA784	0:49	12:30 PM	12:37 PM	1:36 PM	
+Landed 1:26 PM	  	 
+ 	16 Nov 2025	San Francisco (SFO)	Teterboro (TEB)	EJA784	4:40	1:00 PM	1:19 PM	9:00 PM	
+Landed 8:59 PM	  	 
+ 	14 Nov 2025	Kailua-Kona (KOA)	San Francisco (SFO)	(N784QS)	5:02	9:42 AM	10:01 AM	4:24 PM	
+Landed 5:03 PM	  	 
+ 	13 Nov 2025	Oakland (OAK)	Kailua-Kona (KOA)	(N784QS)	4:45	12:00 PM	12:19 PM	3:24 PM	
+Landed 3:04 PM	  	 
+ 	13 Nov 2025	San Jose (SJC)	Oakland (OAK)	EJA784	0:20	10:30 AM	10:34 AM	10:54 AM	
+Landed 10:54 AM	  	 
+ 	12 Nov 2025	Long Beach (LGB)	San Jose (SJC)	EJA784	0:54	6:30 PM	6:53 PM	9:36 PM	
+Landed 7:47 PM	  	 
+ 	12 Nov 2025	Santa Ana (SNA)	Long Beach (LGB)	EJA784	0:13	3:30 PM	3:15 PM	4:00 PM	
+Landed 3:28 PM	  	 
+ 	12 Nov 2025	Teterboro (TEB)	Santa Ana (SNA)	EJA784	5:26	11:30 AM	11:49 AM	2:24 PM	
+Landed 2:15 PM	  	 
+ 	11 Nov 2025	Chicago (MDW)	Teterboro (TEB)	EJA784	1:29	7:00 PM	7:14 PM	10:42 PM	
+Landed 9:43 PM	  	 
+ 	10 Nov 2025	Lincoln (LNK)	Chicago (MDW)	EJA784	1:08	7:30 PM	8:49 PM	8:48 PM	
+Landed 9:56 PM	  	 
+ 	26 Oct 2025	Omaha (OMA)	Lincoln (LNK)	EJA784	0:15	7:42 PM	6:59 PM	8:12 PM	
+Landed 7:14 PM	  	 
+ 	26 Oct 2025	Charlottesville (CHO)	Omaha (OMA)	EJA784	2:10	5:00 PM	5:05 PM	6:36 PM	
+Landed 6:15 PM	  	 
+ 	26 Oct 2025	Richmond (RIC)	Charlottesville (CHO)	EJA784	0:18	2:24 PM	2:28 PM	3:00 PM	
+Landed 2:46 PM	  	 
+ 	26 Oct 2025	Orlando (MCO)	Richmond (RIC)	EJA784	1:27	11:30 AM	11:48 AM	1:18 PM	
+Landed 1:15 PM	  	 
+ 	26 Oct 2025	St. Petersburg (PIE)	Orlando (MCO)	EJA784	0:25	9:48 AM	9:54 AM	10:24 AM	
+Landed 10:19 AM	  	 
+ 	23 Oct 2025	Portland (PWM)	St. Petersburg (PIE)	EJA784	3:03	3:05 PM	12:02 PM	2:05 PM	
+Landed 2:05 PM	  	 
+ 	23 Oct 2025	Bedford (BED)	Portland (PWM)	EJA784	0:26	11:05 AM	10:55 AM	10:21 AM	
+Landed 10:21 AM	  	 
+ 	23 Oct 2025	Teterboro (TEB)	Bedford (BED)	EJA784	0:40	9:59 AM	9:18 AM	8:59 AM	
+Landed 8:59 AM	  	 
+ 	22 Oct 2025	Miami (MIA)	Teterboro (TEB)	EJA784	2:26	9:01 AM	6:35 AM	8:01 AM	
+Landed 8:01 AM	  	 
+ 	21 Oct 2025	West Palm Beach (PBI)	Atlanta (FTY)	EJA784	-	2:42 PM	2:56 PM	4:46 PM	
+Diverted to MIA	  	 
+ 	21 Oct 2025	Dallas (DAL)	West Palm Beach (PBI)	EJA784	2:09	10:00 AM	10:04 AM	1:36 PM	
+Landed 1:13 PM	  	 
+ 	19 Oct 2025	Austin (AUS)	Dallas (DAL)	EJA784	0:35	8:00 PM	8:16 PM	8:18 PM	
+Landed 8:51 PM	  	 
+ 	19 Oct 2025	Midland (MAF)	Austin (AUS)	EJA784	0:47	2:54 PM	3:21 PM	3:48 PM	
+Landed 4:08 PM	  	 
+ 	19 Oct 2025	Cabo San Lucas (CSL)	Midland (MAF)	(N784QS)	1:40	10:00 AM	10:25 AM	1:48 PM	
+Landed 2:05 PM	  	 
+ 	18 Oct 2025	Van Nuys (VNY)	Cabo San Lucas (CSL)	(N784QS)	2:06	1:06 PM	1:21 PM	3:24 PM	
+Landed 3:27 PM	  	 
+ 	18 Oct 2025	Portsmouth (PSM)	Van Nuys (VNY)	EJA784	5:36	8:30 AM	9:09 AM	11:20 AM	
+Landed 11:45 AM	  	 
+ 	17 Oct 2025	Providence (PVD)	Portsmouth (PSM)	EJA784	0:25	5:39 PM	5:39 PM	5:41 PM	
+Landed 6:05 PM	  	 
+ 	17 Oct 2025	Belmar (BLM)	Providence (PVD)	EJA784	0:38	3:45 PM	3:57 PM	4:33 PM	
+Landed 4:35 PM	  	 
+ 	17 Oct 2025	Monticello (MSV)	Belmar (BLM)	EJA784	0:39	1:18 PM	1:18 PM	2:00 PM	
+Landed 1:58 PM	  	 
+ 	17 Oct 2025	Hammond (QSH)	Monticello (MSV)	EJA784	2:38	8:30 AM	8:43 AM	1:41 PM	
+Landed 12:21 PM	  	 
+ 	17 Oct 2025	Dallas (DAL)	Hammond (QSH)	EJA784	0:54	6:00 AM	6:27 AM	7:06 AM	
+Landed 7:21 AM	  	 
+ 	11 Oct 2025	Burlington (BTV)	Dallas (DAL)	EJA784	3:04	11:45 AM	11:38 AM	2:21 PM	
+Landed 1:43 PM	  	 
+ 	11 Oct 2025	Teterboro (TEB)	Burlington (BTV)	EJA784	0:47	9:30 AM	9:28 AM	10:42 AM	
+Landed 10:15 AM	  	 
+ 	07 Oct 2025	Southern Pines (SOP)	Teterboro (TEB)	EJA784	1:16	1:30 PM	1:28 PM	3:00 PM	
+Landed 2:44 PM	  	 
+ 	07 Oct 2025	Mobile (BFM)	Southern Pines (SOP)	EJA784	1:18	9:48 AM	10:05 AM	12:24 PM	
+Landed 12:22 PM	  	 
+ 	06 Oct 2025	Huntington (HTS)	Mobile (BFM)	EJA784	1:24	7:06 PM	5:42 PM	5:06 PM	
+Landed 5:06 PM	  	 
+ 	06 Oct 2025	Pittsburgh (PIT)	Huntington (HTS)	EJA784	0:35	5:06 PM	4:43 PM	4:18 PM	
+Landed 4:18 PM	  	 
+ 	06 Oct 2025	Santa Ana (SNA)	Pittsburgh (PIT)	EJA784	3:58	7:01 AM	7:20 AM	2:13 PM	
+Landed 2:18 PM	  	 
+ 	05 Oct 2025	Dallas (ADS)	Santa Ana (SNA)	EJA784	2:56	4:00 PM	4:12 PM	5:00 PM	
+Landed 5:08 PM	  	 
+ 	05 Oct 2025	Houston (SGR)	Dallas (ADS)	EJA784	0:47	1:24 PM	1:07 PM	2:18 PM	
+Landed 1:54 PM	  	 
+ 	05 Oct 2025	Dallas (DAL)	Houston (SGR)	EJA784	0:44	11:24 AM	11:29 AM	12:24 PM	
+Landed 12:13 PM	  	 
+ 	05 Oct 2025	Norman (OUN)	Dallas (DAL)	EJA784	0:37	10:00 AM	10:15 AM	10:48 AM	
+Landed 10:51 AM	  	 
+ 	05 Oct 2025	Dallas (DAL)	Norman (OUN)	EJA784	0:33	8:12 AM	8:10 AM	8:54 AM	
+Landed 8:43 AM	  	 
+ 	04 Oct 2025	Dallas (ADS)	Dallas (DAL)	EJA784	0:11	3:23 PM	2:38 PM	3:47 PM	
+Landed 2:49 PM	  	 
+ 	04 Oct 2025	Santa Fe (SAF)	Dallas (ADS)	EJA784	1:14	10:00 AM	9:50 AM	12:30 PM	
+Landed 12:03 PM	  	 
+ 	04 Oct 2025	Colorado Springs (COS)	Santa Fe (SAF)	EJA784	0:42	8:06 AM	8:07 AM	8:54 AM	
+Landed 8:49 AM	  	 
+ 	03 Oct 2025	Belmar (BLM)	Colorado Springs (COS)	EJA784	3:28	6:09 PM	2:42 PM	3:09 PM	
+Landed 3:09 PM	  	 
+ 	03 Oct 2025	Orlando (ORL)	Belmar (BLM)	EJA784	2:01	10:21 AM	10:12 AM	11:12 AM	
+Landed 11:12 AM	  	 
+ 	01 Oct 2025	Charleston (JZI)	Orlando (ORL)	EJA784	0:56	7:15 PM	7:14 PM	7:10 PM	
+Landed 7:10 PM	  	 
+ 	01 Oct 2025	Chicago (DPA)	Charleston (JZI)	EJA784	1:45	5:09 PM	3:24 PM	5:09 PM	
+Landed 5:09 PM	  	 
+ 	01 Oct 2025	Toccoa (TOC)	Chicago (DPA)	EJA784	1:18	1:24 PM	1:26 PM	12:45 PM	
+Landed 12:45 PM	  	 
+ 	30 Sep 2025	Westhampton Beach (FOK)	Toccoa (TOC)	EJA784	1:49	8:56 PM	7:03 PM	7:52 PM	
+Landed 7:52 PM	  	 
+ 	30 Sep 2025	Raleigh-Durham (RDU)	Westhampton Beach (FOK)	EJA784	1:05	4:15 PM	4:22 PM	4:27 PM	
+Landed 4:27 PM	  	 
+ 	30 Sep 2025	Chicago (PWK)	Raleigh-Durham (RDU)	EJA784	1:41	11:00 AM	11:20 AM	1:42 PM	
+Landed 2:00 PM	  	 
+ 	28 Sep 2025	Oxnard (OXR)	Chicago (PWK)	EJA784	3:32	7:30 AM	7:50 AM	1:12 PM	
+Landed 1:22 PM	  	 
+ 	28 Sep 2025	Van Nuys (VNY)	Oxnard (OXR)	EJA784	0:23	6:00 AM	6:12 AM	6:24 AM	
+Landed 6:35 AM	  	 
+ 	27 Sep 2025	Los Angeles (LAX)	Van Nuys (VNY)	EJA784	0:16	1:48 PM	1:22 PM	2:12 PM	
+Landed 1:38 PM	  	 
+ 	27 Sep 2025	Tucson (TUS)	Los Angeles (LAX)	EJA784	1:04	11:24 AM	11:24 AM	12:48 PM	
+Landed 12:29 PM	  	 
+ 	27 Sep 2025	Flagstaff (FLG)	Tucson (TUS)	EJA784	0:38	10:44 AM	10:06 AM	10:44 AM	
+Landed 10:44 AM	  	 
+ 	27 Sep 2025	Houston (DWH)	Sedona (SDX)	EJA784	2:22	8:30 AM	8:52 AM	9:06 AM	
+Landed 9:15 AM	  	 
+ 	26 Sep 2025	Falfurrias (QTK)	Houston (DWH)	EJA784	0:49	1:54 PM	1:05 PM	12:54 PM	
+Landed 12:54 PM	  	 
+ 	26 Sep 2025	Houston (DWH)	Falfurrias (QTK)	EJA784	0:44	10:06 AM	10:10 AM	9:54 AM	
+Landed 9:54 AM	  	 
+ 	26 Sep 2025	Knoxville (TYS)	Houston (DWH)	EJA784	1:55	10:11 AM	8:16 AM	8:11 AM	
+Landed 8:11 AM	  	 
+ 	26 Sep 2025	Greensboro (GSO)	Knoxville (TYS)	EJA784	0:40	6:00 AM	6:10 AM	5:50 AM	
+Landed 5:50 AM	  	 
+ 	25 Sep 2025	Miami (MIA)	Greensboro (GSO)	EJA784	1:35	1:57 PM	4:11 PM	5:45 PM	
+Landed 5:46 PM	  	 
+ 	25 Sep 2025	San Salvador (SAL)	Miami (MIA)	(N784QS)	2:01	8:51 AM	10:40 AM	1:21 PM	
+Landed 2:41 PM	  	 
+ 	25 Sep 2025	San Jose (SJO)	San Salvador (SAL)	(N784QS)	1:00	7:33 AM	6:33 AM	7:33 AM	
+Landed 7:33 AM	  	 
+ 	24 Sep 2025	New Orleans (NEW)	San Jose (SJO)	(N784QS)	3:15	3:00 PM	2:52 PM	5:24 PM	
+Landed 5:07 PM	  	 
+ 	24 Sep 2025	White Plains (HPN)	New Orleans (NEW)	EJA784	2:36	10:00 AM	10:32 AM	11:54 AM	
+Landed 12:07 PM	  	 
+ 	24 Sep 2025	Teterboro (TEB)	White Plains (HPN)	EJA784	0:18	8:18 AM	9:25 AM	8:54 AM	
+Landed 9:43 AM	  	 
+ 	23 Sep 2025	Rifle (RIL)	Teterboro (TEB)	EJA784	3:21	10:45 AM	10:46 AM	3:07 PM	
+Landed 3:07 PM	  	 
+ 	22 Sep 2025	Coeur d'Alene (COE)	Rifle (RIL)	EJA784	2:33	2:30 PM	2:39 PM	5:12 PM	
+Landed 5:12 PM	  	 
+ 	22 Sep 2025	Las Vegas (LAS)	Coeur d'Alene (COE)	EJA784	1:51	11:06 AM	11:25 AM	1:24 PM	
+Landed 1:17 PM	  	 
+ 	22 Sep 2025	Cincinnati (LUK)	Las Vegas (LAS)	EJA784	3:52	9:00 AM	9:17 AM	10:06 AM	
+Landed 10:09 AM	  	 
+ 	21 Sep 2025	St. Paul (STP)	Cincinnati (LUK)	EJA784	1:21	5:31 PM	4:09 PM	5:31 PM	
+Landed 5:31 PM	  	 
+ 	21 Sep 2025	St. Louis (STL)	St. Paul (STP)	EJA784	1:12	12:48 PM	12:53 PM	2:12 PM	
+Landed 2:05 PM	  	 
+ 	21 Sep 2025	Panama City (ECP)	St. Louis (STL)	EJA784	1:22	11:40 AM	10:18 AM	10:40 AM	
+Landed 10:40 AM	  	 
+ 	21 Sep 2025	Tampa (TPA)	Panama City (ECP)	EJA784	0:45	9:00 AM	9:15 AM	8:54 AM	
+Landed 9:00 AM	  	 
+ 	19 Sep 2025	Dallas (DAL)	Denver (BJC)	EJA784	-	8:30 AM	8:28 PM	9:24 AM	
+Diverted to TPA	  	 
+ 	18 Sep 2025	South Bend (SBN)	Dallas (DAL)	EJA784	1:53	7:11 PM	6:16 PM	8:29 PM	
+Landed 7:08 PM	  	 
+ 	18 Sep 2025	Scottsdale (SCF)	South Bend (SBN)	EJA784	2:57	2:36 PM	11:39 AM	4:36 PM	
+Landed 4:36 PM	  	 
+ 	18 Sep 2025	Denver (APA)	Scottsdale (SCF)	EJA784	1:23	11:46 AM	10:23 AM	10:46 AM	
+Landed 10:46 AM	  	 
+ 	17 Sep 2025	Monroe (MLU)	Denver (APA)	EJA784	2:12	5:53 PM	3:41 PM	3:53 PM	
+Landed 3:53 PM	  	 
+ 	17 Sep 2025	Omaha (OMA)	Monroe (MLU)	EJA784	1:22	1:42 PM	1:34 PM	3:00 PM	
+Landed 2:56 PM	  	 
+ 	17 Sep 2025	Aspen (ASE)	Omaha (OMA)	EJA784	1:17	10:30 AM	10:19 AM	1:06 PM	
+Landed 12:36 PM	  	 
+ 	17 Sep 2025	Chicago (UGN)	Aspen (ASE)	EJA784	2:20	7:30 AM	7:32 AM	9:12 AM	
+Landed 8:52 AM	  	 
+ 	16 Sep 2025	Chicago (MDW)	Chicago (UGN)	EJA784	0:18	4:24 PM	4:29 PM	3:47 PM	
+Landed 3:47 PM	  	 
+ 	16 Sep 2025	Gainesville (GNV)	Chicago (MDW)	EJA784	2:03	2:00 PM	2:07 PM	3:18 PM	
+Landed 3:10 PM	  	 
+ 	16 Sep 2025	Miami (MIA)	Gainesville (GNV)	EJA784	0:48	11:54 AM	11:42 AM	12:54 PM	
+Landed 12:30 PM	  	 
+ 	15 Sep 2025	Toluca (TLC)	Miami (MIA)	(N784QS)	2:46	7:13 PM	4:26 PM	8:13 PM	
+Landed 8:13 PM	  	 
+ 	15 Sep 2025	Dallas (DAL)	Toluca (TLC)	(N784QS)	2:01	10:06 AM	1:40 PM	11:54 AM	
+Landed 2:41 PM	  	 
+ 	14 Sep 2025	Baton Rouge (BTR)	Dallas (DAL)	EJA784	0:55	11:00 AM	11:11 AM	12:12 PM	
+Landed 12:05 PM	  	 
+ 	13 Sep 2025	Auburn (AUO)	Baton Rouge (BTR)	EJA784	1:03	1:00 PM	1:23 PM	2:03 PM	
+Landed 2:27 PM	  	 
+ 	13 Sep 2025	Orlando (ORL)	Auburn (AUO)	EJA784	1:00	10:45 AM	9:46 AM	8:45 AM	
+Landed 8:45 AM	  	 
+ 	12 Sep 2025	Nantucket (ACK)	Orlando (ORL)	EJA784	2:41	1:00 PM	1:21 PM	3:48 PM	
+Landed 4:02 PM	  	 
+ 	12 Sep 2025	Miami (MIA)	Nantucket (ACK)	EJA784	2:33	8:00 AM	8:54 AM	10:42 AM	
+Landed 11:27 AM	  	 
+ 	11 Sep 2025	Las Vegas (LAS)	Cincinnati (LUK)	EJA784	-	10:00 AM	9:13 AM	4:42 PM	
+Diverted to MIA	  	 
+ 	05 Sep 2025	Los Angeles (LAX)	Las Vegas (LAS)	EJA784	0:58	10:09 AM	12:30 PM	12:27 PM	
+Landed 12:27 PM	  	 
+ 	30 Aug 2025	San Diego (CLD)	Los Angeles (LAX)	EJA784	0:22	4:18 PM	4:17 PM	4:54 PM	
+Landed 4:40 PM	  	 
+ 	30 Aug 2025	Billings (BIL)	San Diego (CLD)	EJA784	2:10	11:00 AM	10:56 AM	12:30 PM	
+Landed 12:06 PM	  	 
+ 	29 Aug 2025	Jackson (JAC)	Billings (BIL)	EJA784	0:28	7:53 PM	7:15 PM	8:41 PM	
+Landed 7:43 PM	  	 
+ 	29 Aug 2025	San Francisco (SFO)	Jackson (JAC)	EJA784	1:29	3:30 PM	4:05 PM	6:48 PM	
+Landed 6:34 PM	  	 
+ 	29 Aug 2025	Bozeman (BZN)	San Francisco (SFO)	EJA784	1:58	1:12 PM	1:21 PM	2:24 PM	
+Landed 2:19 PM	  	 
+ 	29 Aug 2025	Burbank (BUR)	Bozeman (BZN)	EJA784	1:50	8:30 AM	8:57 AM	12:06 PM	
+Landed 11:47 AM	  	 
+ 	28 Aug 2025	Renton (RNT)	Burbank (BUR)	EJA784	2:10	2:45 PM	2:49 PM	3:58 PM	
+Landed 3:58 PM	  	 
+ 	25 Aug 2025	San Jose (SJC)	Renton (RNT)	EJA784	1:33	9:52 PM	8:19 PM	8:52 PM	
+Landed 8:52 PM	  	 
+ 	25 Aug 2025	Van Nuys (VNY)	San Jose (SJC)	EJA784	0:45	4:00 PM	5:22 PM	6:00 PM	
+Landed 6:08 PM	  	 
+ 	24 Aug 2025	Las Vegas (LAS)	Van Nuys (VNY)	EJA784	1:12	9:45 PM	10:01 PM	10:06 PM	
+Landed 11:13 PM	  	 
+ 	21 Aug 2025	Chicago (MDW)	Las Vegas (LAS)	EJA784	3:06	12:00 PM	12:22 PM	1:42 PM	
+Landed 1:28 PM	  	 
+ 	20 Aug 2025	Chicago (PWK)	Chicago (MDW)	EJA784	0:22	9:00 PM	4:58 PM	9:30 PM	
+Landed 5:20 PM	  	 
+ 	20 Aug 2025	St. Louis (STL)	Chicago (PWK)	EJA784	0:58	4:10 PM	3:12 PM	3:10 PM	
+Landed 3:10 PM	  	 
+ 	20 Aug 2025	Sheboygan (SBM)	St. Louis (STL)	EJA784	0:58	5:15 PM	12:19 PM	7:27 PM	
+Landed 1:16 PM	  	 
+ 	20 Aug 2025	Nashville (BNA)	Sheboygan (SBM)	EJA784	1:14	9:48 AM	8:30 AM	8:44 AM	
+Landed 8:44 AM	  	 
+ 	19 Aug 2025	Tulsa (TUL)	Nashville (BNA)	EJA784	1:23	6:21 PM	6:42 PM	7:42 PM	
+Landed 8:05 PM	  	 
+ 	19 Aug 2025	Santa Barbara (SBA)	Tulsa (TUL)	EJA784	2:45	12:15 PM	12:30 PM	5:15 PM	
+Landed 5:15 PM	  	 
+ 	15 Aug 2025	Oakland (OAK)	Santa Barbara (SBA)	EJA784	0:51	1:00 PM	1:20 PM	1:54 PM	
+Landed 2:11 PM	  	 
+ 	15 Aug 2025	Las Vegas (HSH)	Oakland (OAK)	EJA784	1:02	10:21 AM	10:15 AM	11:54 AM	
+Landed 11:17 AM	  	 
+ 	14 Aug 2025	Windsor Locks (BDL)	Las Vegas (HSH)	EJA784	4:52	11:00 AM	11:12 AM	1:18 PM	
+Landed 1:04 PM	  	 
+ 	14 Aug 2025	Ocean City (OCE)	Windsor Locks (BDL)	EJA784	0:45	9:00 AM	8:42 AM	9:54 AM	
+Landed 9:27 AM	  	 
+ 	04 Aug 2025	Washington (DCA)	Ocean City (OCE)	EJA4316	0:26	5:12 PM	6:56 PM	5:45 PM	
+Landed 7:22 PM	  	 
+ 	04 Aug 2025	White Plains (HPN)	Washington (DCA)	EJA692	0:47	8:00 AM	8:41 AM	9:01 AM	
+Landed 9:28 AM	  	 
+ 	29 Jul 2025	Chicago (PWK)	White Plains (HPN)	EJA784	1:38	2:25 PM	12:47 PM	2:25 PM	
+Landed 2:25 PM	  	 
+ 	29 Jul 2025	St. Louis (STL)	Chicago (PWK)	EJA784	0:50	9:30 AM	9:33 AM	10:30 AM	
+Landed 10:23 AM	  	 
+ 	29 Jul 2025	Hilton Head Island (HHH)	St. Louis (STL)	EJA784	1:34	7:30 AM	7:34 AM	8:24 AM	
+Landed 8:08 AM	  	 
+ 	28 Jul 2025	Charleston (JZI)	Hilton Head Island (HHH)	EJA784	0:17	3:30 PM	3:15 PM	4:24 PM	
+Landed 3:32 PM	  	 
+ 	28 Jul 2025	Fort Worth (FTW)	Charleston (JZI)	EJA784	2:08	8:30 AM	8:35 AM	11:54 AM	
+Landed 11:43 AM	  	 
+ 	27 Jul 2025	Dallas (DFW)	Fort Worth (FTW)	EJA784	0:11	5:27 PM	5:23 PM	5:45 PM	
+Landed 5:34 PM	  	 
+ 	27 Jul 2025	Washington (IAD)	Dallas (DFW)	EJA784	2:57	2:15 PM	2:28 PM	7:30 PM	
+Landed 4:26 PM	  	 
+ 	27 Jul 2025	Charlotte (CLT)	Washington (IAD)	EJA784	0:50	11:30 AM	11:21 AM	1:12 PM	
+Landed 12:11 PM	  	 
+ 	27 Jul 2025	West Palm Beach (PBI)	Charlotte (CLT)	EJA784	1:23	9:06 AM	9:25 AM	11:24 AM	
+Landed 10:48 AM	  	 
+ 	26 Jul 2025	Boca Raton (BCT)	West Palm Beach (PBI)	EJA784	0:12	4:30 PM	3:17 PM	5:06 PM	
+Landed 3:29 PM	  	 
+ 	26 Jul 2025	Blountville (TRI)	Boca Raton (BCT)	EJA784	1:39	2:36 PM	12:57 PM	1:36 PM	
+Landed 1:36 PM	  	 
+ 	26 Jul 2025	Asheville (AVL)	—	EJA784	-	11:53 AM	11:53 AM	—	
+Unknown	  	 
+ 	25 Jul 2025	Oxford (OXC)	Asheville (AVL)	EJA784	1:36	2:08 PM	12:32 PM	1:08 PM	
+Landed 1:08 PM	  	 
+ 	25 Jul 2025	Rockland (RKD)	Oxford (OXC)	EJA784	1:02	10:15 AM	9:53 AM	9:55 AM	
+Landed 9:55 AM	  	 
+ 	25 Jul 2025	Charleston (CHS)	Rockland (RKD)	EJA784	1:55	8:56 AM	7:01 AM	7:56 AM	
+Landed 7:56 AM	  	 
+ 	24 Jul 2025	Naples (APF)	Charleston (CHS)	EJA784	1:17	2:33 PM	2:42 PM	3:57 PM	
+Landed 3:58 PM	  	 
+ 	24 Jul 2025	Toledo (TOL)	Naples (APF)	EJA784	2:14	1:31 PM	11:17 AM	12:31 PM	
+Landed 12:31 PM	  	 
+ 	24 Jul 2025	Baltimore (BWI)	Toledo (TOL)	EJA784	0:59	8:30 AM	8:06 AM	10:24 AM	
+Landed 9:05 AM	  	 
+ 	23 Jul 2025	Teterboro (TEB)	Baltimore (BWI)	EJA784	0:33	1:48 PM	2:25 PM	2:34 PM	
+Landed 2:58 PM	  	 
+ 	23 Jul 2025	Washington (IAD)	Teterboro (TEB)	EJA784	0:48	10:00 AM	10:40 AM	1:18 PM	
+Landed 11:28 AM	  	 
+ 	23 Jul 2025	Teterboro (TEB)	Washington (IAD)	EJA784	0:44	7:48 AM	7:34 AM	8:54 AM	
+Landed 8:18 AM	  	 
+ 	22 Jul 2025	Bedford (BED)	Teterboro (TEB)	EJA784	0:43	3:42 PM	6:05 PM	7:18 PM	
+Landed 6:48 PM	  	 
+ 	22 Jul 2025	Blountville (TRI)	Bedford (BED)	EJA784	1:40	4:42 PM	3:01 PM	3:42 PM	
+Landed 3:42 PM	  	 
+ 	22 Jul 2025	Roanoke (ROA)	Blountville (TRI)	EJA784	0:29	1:12 PM	12:38 PM	12:07 PM	
+Landed 12:07 PM	  	 
+ 	22 Jul 2025	Minneapolis (MSP)	Roanoke (ROA)	EJA784	1:48	8:00 AM	7:58 AM	11:06 AM	
+Landed 10:46 AM	  	 
+ 	21 Jul 2025	Kenora (YQK)	Minneapolis (MSP)	EJA784	0:48	1:00 PM	12:59 PM	12:47 PM	
+Landed 12:47 PM	  	 
+ 	21 Jul 2025	Eagle (EGE)	Kenora (YQK)	EJA784	2:02	8:12 AM	8:27 AM	11:16 AM	
+Landed 11:29 AM	  	 
+ 	21 Jul 2025	Denver (APA)	Eagle (EGE)	EJA784	0:25	7:00 AM	7:26 AM	7:36 AM	
+Landed 7:51 AM	  	 
+ 	20 Jul 2025	Westminster (QNW)	Denver (APA)	EJA784	3:18	12:45 PM	1:18 PM	4:21 PM	
+Landed 2:35 PM	  	 
+ 	20 Jul 2025	Washington (IAD)	Westminster (QNW)	EJA784	0:19	11:00 AM	10:53 AM	10:12 AM	
+Landed 10:12 AM	  	 
+ 	19 Jul 2025	Birmingham (BHM)	Washington (IAD)	EJA784	1:29	9:09 PM	7:25 AM	11:09 PM	
+Landed 9:54 AM	  	 
+ 	19 Jul 2025	Alexander City (ALX)	Birmingham (BHM)	EJA784	0:18	1:12 PM	12:59 PM	1:42 PM	
+Landed 1:17 PM	  	 
+ 	19 Jul 2025	Martha's Vineyard (MVY)	Alexander City (ALX)	EJA784	2:32	10:30 AM	10:31 AM	12:06 PM	
+Landed 12:03 PM	  	 
+ 	18 Jul 2025	White Plains (HPN)	Martha's Vineyard (MVY)	EJA784	0:38	3:00 PM	3:30 PM	4:48 PM	
+Landed 4:08 PM	  	 
+ 	18 Jul 2025	West Palm Beach (PBI)	White Plains (HPN)	EJA784	2:24	11:00 AM	11:08 AM	1:54 PM	
+Landed 1:32 PM	  	 
+ 	16 Jul 2025	Titusville (TIX)	West Palm Beach (PBI)	EJA784	0:31	8:24 PM	8:54 PM	9:12 PM	
+Landed 9:25 PM	  	 
+ 	16 Jul 2025	Seattle (BFI)	Titusville (TIX)	EJA784	5:04	10:30 AM	11:54 AM	6:34 PM	
+Landed 7:58 PM	  	 
+ 	15 Jul 2025	Jackson (JAC)	Seattle (BFI)	EJA784	1:42	11:00 AM	11:11 AM	11:48 AM	
+Landed 11:53 AM	  	 
+ 	13 Jul 2025	Salt Lake City (SLC)	Jackson (JAC)	EJA784	0:36	6:45 PM	8:02 PM	7:00 PM	
+Landed 8:39 PM	  	 
+ 	13 Jul 2025	Chicago (PWK)	Salt Lake City (SLC)	EJA784	2:47	5:30 PM	2:43 PM	3:30 PM	
+Landed 3:30 PM	  	 
+ 	13 Jul 2025	Traverse City (TVC)	Chicago (PWK)	EJA784	0:42	12:50 PM	1:18 PM	12:36 PM	
+Landed 1:00 PM	  	 
+ 	13 Jul 2025	Stuart (SUA)	Traverse City (TVC)	EJA784	2:40	10:00 AM	9:49 AM	1:00 PM	
+Landed 12:29 PM	  	 
+ 	12 Jul 2025	Charleston (JZI)	Stuart (SUA)	EJA784	1:12	6:00 PM	6:28 PM	6:40 PM	
+Landed 6:40 PM	  	 
+ 	12 Jul 2025	Baltimore (MTN)	Charleston (JZI)	EJA784	1:19	3:00 PM	3:48 PM	4:24 PM	
+Landed 5:07 PM	  	 
+ 	12 Jul 2025	Easton (ESN)	Baltimore (MTN)	EJA784	0:17	1:30 PM	1:23 PM	1:54 PM	
+Landed 1:40 PM	  	 
+ 	11 Jul 2025	Cincinnati (LUK)	Easton (ESN)	EJA784	1:09	4:14 PM	3:05 PM	3:14 PM	
+Landed 3:14 PM	  	 
+ 	11 Jul 2025	Columbus (CSG)	Cincinnati (LUK)	EJA784	1:06	11:30 AM	11:30 AM	12:48 PM	
+Landed 12:36 PM	  	 
+ 	11 Jul 2025	Nashville (BNA)	Columbus (CSG)	EJA784	0:40	9:19 AM	8:38 AM	9:19 AM	
+Landed 9:19 AM	  	 
+ 	10 Jul 2025	Chicago (MDW)	Nashville (BNA)	EJA784	0:53	2:00 PM	2:18 PM	3:12 PM	
+Landed 3:11 PM	  	 
+ 	10 Jul 2025	St. Louis (STL)	Chicago (MDW)	EJA784	0:40	11:45 AM	11:48 AM	12:39 PM	
+Landed 12:28 PM	  	 
+ 	10 Jul 2025	Columbus (CMH)	St. Louis (STL)	EJA784	0:56	8:18 AM	7:22 AM	6:18 AM	
+Landed 6:18 AM	  	 
+ 	09 Jul 2025	Brainerd (BRD)	Columbus (CMH)	EJA784	1:32	2:00 PM	1:59 PM	4:48 PM	
+Landed 4:31 PM	  	 
+ 	09 Jul 2025	Teterboro (TEB)	Brainerd (BRD)	EJA784	2:28	9:30 AM	9:37 AM	11:30 AM	
+Landed 11:05 AM	  	 
+ 	08 Jul 2025	Miami (MIA)	Teterboro (TEB)	EJA784	3:26	5:00 PM	5:22 PM	9:48 PM	
+Landed 8:48 PM	  	 
+ 	06 Jul 2025	Houston (HOU)	Miami (MIA)	EJA784	2:17	1:06 PM	1:05 PM	3:21 PM	
+Landed 3:21 PM	  	 
+ 	06 Jul 2025	—	Houston (HOU)	EJA784	2:03	—	—	10:38 AM	
+Landed 10:38 AM	  	 
+ 	06 Jul 2025	White Plains (HPN)	—	EJA784	-	7:46 AM	7:46 AM	—	
+Unknown	  	 
+ 	05 Jul 2025	San Jose (SJC)	White Plains (HPN)	EJA784	5:05	1:48 AM	1:36 AM	9:54 AM	
+Landed 9:41 AM	  	 
+ 	04 Jul 2025	Kailua-Kona (KOA)	San Jose (SJC)	(N784QS)	4:30	5:18 PM	5:19 PM	1:12 AM	
+Landed 12:49 AM	  	 
+ 	03 Jul 2025	Seattle (BFI)	Kailua-Kona (KOA)	(N784QS)	5:50	9:00 AM	9:29 AM	11:54 AM	
+Landed 12:19 PM	  	 
+ 	02 Jul 2025	Teterboro (TEB)	Seattle (BFI)	EJA784	5:26	3:06 PM	2:58 PM	5:48 PM	
+Landed 5:24 PM	  	 
+ 	02 Jul 2025	Charlottesville (CHO)	Teterboro (TEB)	EJA784	0:54	11:00 AM	11:35 AM	12:19 PM	
+Landed 12:29 PM	  	 
+ 	01 Jul 2025	Omaha (OMA)	Charlottesville (CHO)	EJA784	1:53	5:00 PM	5:38 PM	8:12 PM	
+Landed 8:31 PM	  	 
+ 	01 Jul 2025	Dallas (ADS)	Omaha (OMA)	EJA784	1:15	9:00 AM	9:05 AM	11:30 AM	
+Landed 10:21 AM	  	 
+ 	30 Jun 2025	Dallas (DAL)	Dallas (ADS)	EJA784	0:20	4:24 PM	3:43 PM	3:03 PM	
+Landed 3:03 PM	  	 
+ 	30 Jun 2025	Austin (AUS)	Dallas (DAL)	EJA784	0:40	3:08 PM	2:22 PM	2:02 PM	
+Landed 2:02 PM	  	 
+ 	30 Jun 2025	Dallas (DAL)	Gunnison (GUC)	EJA784	-	10:30 AM	11:19 AM	11:24 AM	
+Diverted to AUS	  	 
+ 	29 Jun 2025	Colorado Springs (COS)	Dallas (DAL)	EJA784	1:26	4:00 PM	3:59 PM	6:36 PM	
+Landed 6:26 PM	  	 
+ 	29 Jun 2025	Fort Collins (FNL)	Colorado Springs (COS)	EJA784	0:30	11:30 AM	12:13 PM	12:06 PM	
+Landed 12:44 PM	  	 
+ 	29 Jun 2025	Watertown (ATY)	Fort Collins (FNL)	EJA784	1:15	11:51 AM	10:36 AM	9:51 AM	
+Landed 9:51 AM	  	 
+ 	28 Jun 2025	Dallas (DAL)	Watertown (ATY)	EJA784	2:05	9:06 PM	7:33 AM	8:54 AM	
+Landed 9:38 AM	  	 
+ 	28 Jun 2025	Midland (MAF)	Dallas (DAL)	EJA784	0:54	5:42 PM	5:05 PM	5:54 PM	
+Landed 5:59 PM	  	 
+ 	28 Jun 2025	Las Vegas (LAS)	Midland (MAF)	EJA784	1:37	12:45 PM	12:48 PM	3:42 PM	
+Landed 4:25 PM	  	 
+ 	26 Jun 2025	Dallas (ADS)	Las Vegas (LAS)	EJA784	2:26	5:00 PM	5:33 PM	6:18 PM	
+Landed 5:58 PM	  	 
+ 	26 Jun 2025	Houston (HOU)	Dallas (ADS)	EJA784	0:52	2:30 PM	2:52 PM	3:24 PM	
+Landed 3:44 PM	  	 
+ 	26 Jun 2025	Chicago (PWK)	Houston (HOU)	EJA784	2:17	11:00 AM	11:17 AM	1:24 PM	
+Landed 1:34 PM	  	 
+ 	25 Jun 2025	White Plains (HPN)	Chicago (PWK)	EJA784	1:46	6:12 PM	6:45 PM	7:12 PM	
+Landed 7:31 PM	  	 
+ 	25 Jun 2025	San Jose (SJC)	Teterboro (TEB)	EJA784	-	8:24 AM	8:41 AM	4:24 PM	
+Diverted to HPN	  	 
+ 	24 Jun 2025	Aspen (ASE)	San Jose (SJC)	EJA784	1:56	12:24 PM	12:38 PM	12:34 PM	
+Landed 12:34 PM	  	 
+ 	24 Jun 2025	Kansas City (MKC)	Aspen (ASE)	EJA784	1:34	11:59 AM	10:25 AM	9:59 AM	
+Landed 9:59 AM	  	 
+ 	24 Jun 2025	Conroe (CXO)	Kansas City (MKC)	EJA784	1:32	7:42 AM	7:45 AM	9:24 AM	
+Landed 9:16 AM	  	 
+ 	22 Jun 2025	Hamilton (HAO)	Conroe (CXO)	EJA784	1:56	7:00 PM	6:32 PM	8:12 PM	
+Landed 7:29 PM	  	 
+ 	22 Jun 2025	St. Louis (SUS)	Hamilton (HAO)	EJA784	0:50	3:36 PM	3:19 PM	5:36 PM	
+Landed 5:09 PM	  	 
+ 	22 Jun 2025	Dallas (DAL)	White Plains (HPN)	EJA784	-	9:36 AM	1:14 PM	1:54 PM	
+Diverted to SUS	  	 
+ 	21 Jun 2025	Little Rock (LIT)	Dallas (DAL)	EJA784	0:47	1:00 PM	1:14 PM	1:54 PM	
+Landed 2:01 PM	  	 
+ 	21 Jun 2025	Savannah (SAV)	Little Rock (LIT)	EJA784	1:21	11:00 AM	11:24 AM	11:48 AM	
+Landed 11:44 AM	  	 
+ 	20 Jun 2025	Greenville-Spartanburg (GSP)	Savannah (SAV)	EJA784	0:33	8:25 PM	8:01 PM	9:18 PM	
+Landed 8:33 PM	  	 
+ 	20 Jun 2025	Bend (QSN)	Greenville-Spartanburg (GSP)	EJA784	4:01	4:29 PM	12:25 PM	6:26 PM	
+Landed 6:26 PM	  	 
+ 	20 Jun 2025	Cedar City (CDC)	—	EJA784	-	10:29 AM	10:28 AM	—	
+Unknown	  	 
+ 	19 Jun 2025	Austin (AUS)	Cedar City (CDC)	EJA784	2:23	2:00 PM	2:38 PM	4:30 PM	
+Landed 4:01 PM	  	 
+ 	19 Jun 2025	Dallas (DFW)	Austin (AUS)	EJA784	0:32	12:00 PM	11:39 AM	12:48 PM	
+Landed 12:11 PM	  	 
+ 	19 Jun 2025	Salt Lake City (SLC)	Dallas (DFW)	EJA784	2:04	9:36 AM	7:32 AM	9:36 AM	
+Landed 9:36 AM	  	 
+ 	18 Jun 2025	Austin (EDC)	Salt Lake City (SLC)	EJA784	2:27	11:00 AM	11:12 AM	12:42 PM	
+Landed 12:39 PM	  	 
+ 	18 Jun 2025	Austin (AUS)	Austin (EDC)	EJA784	0:14	9:30 AM	9:27 AM	9:54 AM	
+Landed 9:41 AM	  	 
+ 	17 Jun 2025	Greenville-Spartanburg (GSP)	Austin (AUS)	EJA784	2:18	6:18 PM	6:46 PM	8:48 PM	
+Landed 8:04 PM	  	 
+ 	17 Jun 2025	Miami (MIA)	Greenville-Spartanburg (GSP)	EJA784	1:34	4:00 PM	4:35 PM	6:42 PM	
+Landed 6:09 PM	  	 
+ 	17 Jun 2025	Providenciales (PLS)	Miami (MIA)	(N784QS)	1:20	12:42 PM	12:24 PM	2:24 PM	
+Landed 1:45 PM	  	 
+ 	17 Jun 2025	Philadelphia (PNE)	Providenciales (PLS)	(N784QS)	2:59	8:30 AM	8:22 AM	11:36 AM	
+Landed 11:20 AM	  	 
+ 	16 Jun 2025	Teterboro (TEB)	Boston (BOS)	EJA784	-	9:30 AM	1:42 PM	11:06 AM	
+Diverted to PNE	  	 
+ 	12 Jun 2025	Syracuse (SYR)	Boston (BOS)	EJA784	-	2:00 PM	4:44 PM	3:06 PM	
+Diverted to TEB	  	 
+ 	11 Jun 2025	Syracuse (SYR)	Baltimore (BWI)	EJA784	0:54	5:54 PM	5:24 PM	7:00 PM	
+Landed 6:18 PM	  	 
+ 	11 Jun 2025	Ottawa (YOW)	Baltimore (BWI)	EJA784	-	4:00 PM	3:33 PM	3:32 PM	
+Diverted to SYR	  	 
+ 	10 Jun 2025	Baltimore (BWI)	Ottawa (YOW)	EJA784	1:03	4:30 PM	4:27 PM	5:44 PM	
+Landed 5:31 PM	  	 
+ 	10 Jun 2025	Pittsburgh (AGC)	Baltimore (BWI)	EJA784	0:40	12:39 PM	1:21 PM	1:01 PM	
+Landed 1:01 PM	  	 
+ 	10 Jun 2025	Teterboro (TEB)	Cleveland (CGF)	EJA784	-	12:30 PM	11:37 AM	11:18 AM	
+Diverted to AGC	  	 
+ 	09 Jun 2025	Tampa (VDF)	Teterboro (TEB)	EJA784	2:08	3:30 PM	4:16 PM	7:06 PM	
+Landed 6:23 PM	  	 
+ 	09 Jun 2025	Fernandina Beach (QSB)	Tampa (VDF)	EJA784	0:39	1:36 PM	1:16 PM	2:24 PM	
+Landed 1:55 PM	  	 
+ 	09 Jun 2025	Chicago (PWK)	Fernandina Beach (QSB)	EJA784	1:51	9:00 AM	9:14 AM	12:06 PM	
+Landed 12:05 PM	  	 
+ 	08 Jun 2025	Baltimore (BWI)	Chicago (PWK)	EJA784	1:39	5:51 PM	5:40 PM	6:39 PM	
+Landed 6:20 PM	  	 
+ 	08 Jun 2025	Boston (BOS)	Baltimore (BWI)	EJA784	1:26	3:00 PM	3:28 PM	6:30 PM	
+Landed 4:54 PM	  	 
+ 	08 Jun 2025	Birmingham (BHM)	Boston (BOS)	EJA784	2:09	10:00 AM	10:03 AM	1:42 PM	
+Landed 1:12 PM	  	 
+ 	08 Jun 2025	Omaha (OMA)	Birmingham (BHM)	EJA784	1:27	7:06 AM	6:52 AM	9:00 AM	
+Landed 8:19 AM	  	 
+ 	07 Jun 2025	Flint (FNT)	Omaha (OMA)	EJA784	1:38	10:00 AM	9:52 AM	10:42 AM	
+Landed 10:30 AM	  	 
+ 	07 Jun 2025	Chicago (MDW)	Flint (FNT)	EJA784	0:34	7:00 AM	6:47 AM	8:54 AM	
+Landed 8:21 AM	  	 
+ 	06 Jun 2025	Kokomo (OKK)	Chicago (MDW)	EJA784	0:38	5:06 PM	3:08 PM	4:54 PM	
+Landed 2:46 PM	  	 
+ 	06 Jun 2025	Akron (CAK)	Kokomo (OKK)	EJA784	0:42	1:00 PM	1:38 PM	4:00 PM	
+Landed 2:20 PM	  	 
+ 	06 Jun 2025	Charleston (JZI)	Akron (CAK)	EJA784	1:22	9:00 AM	9:00 AM	10:36 AM	
+Landed 10:21 AM	  	 
+ 	05 Jun 2025	East Hampton (HTO)	Charleston (JZI)	EJA784	1:38	4:48 PM	3:47 PM	6:42 PM	
+Landed 5:25 PM	  	 
+ 	05 Jun 2025	Nantucket (ACK)	East Hampton (HTO)	EJA784	0:26	2:27 PM	1:56 PM	1:22 PM	
+Landed 1:22 PM	  	 
+ 	05 Jun 2025	Bridgeport (BDR)	Nantucket (ACK)	EJA784	0:38	10:42 AM	10:28 AM	11:30 AM	
+Landed 11:06 AM	  	 
+ 	05 Jun 2025	Washington (IAD)	Teterboro (TEB)	EJA784	-	8:30 AM	8:49 AM	9:36 AM	
+Diverted to BDR	  	 
+ 	04 Jun 2025	Houston (DWH)	Washington (IAD)	EJA784	2:31	9:00 AM	8:57 AM	2:24 PM	
+Landed 12:28 PM	  	 
+ 	02 Jun 2025	—	Houston (DWH)	EJA784	1:29	—	—	3:55 PM	
+Landed 3:55 PM	  	 
+ 	02 Jun 2025	Stuart (SUA)	Hopkinsville (HOP)	EJA784	1:47	4:03 PM	2:12 PM	1:59 PM	
+Landed 1:59 PM	  	 
+ 	02 Jun 2025	Nantucket (ACK)	Stuart (SUA)	EJA784	2:29	11:59 AM	9:24 AM	10:54 AM	
+Landed 10:54 AM	  	 
+ 	01 Jun 2025	Boston (BOS)	Nantucket (ACK)	EJA784	0:21	5:30 PM	5:40 PM	7:18 PM	
+Landed 6:01 PM	  	 
+ 	01 Jun 2025	Norfolk (ORF)	Boston (BOS)	EJA784	1:03	2:54 PM	3:04 PM	4:30 PM	
+Landed 4:07 PM	  	 
+ 	01 Jun 2025	Providence (PVD)	Norfolk (ORF)	EJA784	1:05	12:30 PM	12:33 PM	2:00 PM	
+Landed 1:38 PM	  	 
+ 	01 Jun 2025	Norwood (OWD)	Providence (PVD)	EJA784	0:12	11:00 AM	11:12 AM	11:30 AM	
+Landed 11:24 AM	  	 
+ 	30 May 2025	Atlanta (QTF)	Norwood (OWD)	EJA784	1:54	7:41 PM	5:47 PM	6:41 PM	
+Landed 6:41 PM	  	 
+ 	30 May 2025	Roanoke (ROA)	Atlanta (QTF)	EJA784	1:18	4:00 PM	3:33 PM	5:12 PM	
+Landed 4:51 PM	  	 
+ 	30 May 2025	Columbus (CMH)	Roanoke (ROA)	EJA784	0:45	2:12 PM	2:20 PM	2:05 PM	
+Landed 2:05 PM	  	 
+ 	30 May 2025	Charlotte (CLT)	Columbus (CMH)	EJA784	1:02	12:00 PM	11:59 AM	1:06 PM	
+Landed 1:02 PM	  	 
+ 	30 May 2025	Statesville (SVH)	Charlotte (CLT)	EJA784	0:15	10:30 AM	10:13 AM	10:54 AM	
+Landed 10:28 AM	  	 
+ 	28 May 2025	Newnan (QNN)	Statesville (SVH)	EJA784	0:44	12:45 PM	1:01 PM	2:39 PM	
+Landed 1:45 PM	  	 
+ 	28 May 2025	Statesville (SVH)	Newnan (QNN)	EJA784	0:58	9:24 AM	9:47 AM	10:24 AM	
+Landed 10:45 AM	  	 
+ 	27 May 2025	Athens (AHN)	Statesville (SVH)	EJA784	0:32	4:30 PM	3:27 PM	5:18 PM	
+Landed 3:59 PM	  	 
+ 	27 May 2025	Tullahoma (THA)	Athens (AHN)	EJA784	0:39	1:47 PM	1:08 PM	1:47 PM	
+Landed 1:47 PM	  	 
+ 	27 May 2025	Cincinnati (LUK)	—	EJA784	-	12:41 PM	12:40 PM	—	
+Unknown	  	 
+ 	27 May 2025	Ocean Reef (OCA)	Cincinnati (LUK)	EJA784	2:10	11:28 AM	9:18 AM	10:28 AM	
+Landed 10:28 AM	  	 
+ 	26 May 2025	Miami (OPF)	Ocean Reef (OCA)	EJA784	0:16	3:27 PM	3:06 PM	2:22 PM	
+Landed 2:22 PM	  	 
+ 	18 May 2025	Grand Rapids (GRR)	Miami (OPF)	EJA784	2:23	6:54 PM	6:32 PM	10:00 PM	
+Landed 8:55 PM	  	 
+ 	18 May 2025	Chicago (MDW)	Grand Rapids (GRR)	EJA784	0:29	4:52 PM	4:22 PM	4:52 PM	
+Landed 4:52 PM	  	 
+ 	18 May 2025	Las Vegas (LAS)	Burbank (BUR)	EJA784	-	11:54 AM	11:01 AM	12:49 PM	
+Diverted to MDW	  	 
+ 	18 May 2025	Dallas (ADS)	Las Vegas (LAS)	EJA784	2:54	12:32 AM	9:38 PM	9:32 PM	
+Landed 9:32 PM	  	 
+ 	17 May 2025	Scottsdale (SCF)	Houston (EFD)	EJA784	-	4:12 PM	4:26 PM	8:42 PM	
+Diverted to ADS	  	 
+ 	17 May 2025	Puerto Vallarta (PVR)	Scottsdale (SCF)	(N784QS)	2:05	1:30 PM	1:37 PM	3:06 PM	
+Landed 2:42 PM	  	 
+ 	16 May 2025	Monterrey (NTR)	Puerto Vallarta (PVR)	(N784QS)	1:13	4:00 PM	4:25 PM	5:30 PM	
+Landed 5:37 PM	  	 
+ 	16 May 2025	Scottsdale (SCF)	Monterrey (NTR)	(N784QS)	1:52	11:15 AM	11:16 AM	1:36 PM	
+Landed 2:08 PM	  	 
+ 	15 May 2025	San Francisco (SFO)	Scottsdale (SCF)	EJA784	1:32	2:00 PM	2:10 PM	3:42 PM	
+Landed 3:42 PM	  	 
+ 	15 May 2025	New York (JFK)	San Francisco (SFO)	EJA784	5:32	8:45 AM	9:17 AM	11:39 AM	
+Landed 11:50 AM	  	 
+ 	14 May 2025	Teterboro (TEB)	New York (JFK)	EJA784	0:44	2:30 PM	4:28 PM	3:30 PM	
+Landed 5:12 PM	  	 
+ 	12 May 2025	White Plains (HPN)	Teterboro (TEB)	EJA784	0:12	5:00 PM	5:58 PM	5:27 PM	
+Landed 6:10 PM	  	 
+ 	12 May 2025	Van Nuys (VNY)	White Plains (HPN)	EJA784	4:53	8:36 AM	8:38 AM	4:24 PM	
+Landed 4:31 PM	  	 
+ 	11 May 2025	Mountain View (NUQ)	Van Nuys (VNY)	EJA784	0:46	6:00 PM	6:13 PM	7:00 PM	
+Landed 6:59 PM	  	 
+ 	11 May 2025	Horseshoe Bay (QNB)	Mountain View (NUQ)	EJA784	3:12	3:19 PM	12:07 PM	12:19 PM	
+Landed 12:19 PM	  	 
+ 	11 May 2025	Dallas (DAL)	Horseshoe Bay (QNB)	EJA784	0:36	10:40 AM	10:01 AM	9:37 AM	
+Landed 9:37 AM	  	 
+ 	10 May 2025	Roanoke (ROA)	Dallas (DAL)	EJA784	2:13	2:15 PM	2:20 PM	3:57 PM	
+Landed 3:33 PM	  	 
+ 	10 May 2025	Washington (IAD)	Roanoke (ROA)	EJA784	0:34	12:00 PM	11:43 AM	1:00 PM	
+Landed 12:17 PM	  	 
+ 	09 May 2025	Dallas (DAL)	Washington (IAD)	EJA784	2:24	3:34 PM	1:11 PM	3:34 PM	
+Landed 3:34 PM	  	 
+ 	09 May 2025	St. Paul (STP)	Dallas (DAL)	EJA784	1:58	9:42 AM	9:37 AM	10:34 AM	
+Landed 10:34 AM	  	 
+ 	08 May 2025	Chicago (ORD)	St. Paul (STP)	EJA784	0:56	5:19 PM	4:24 PM	4:19 PM	
+Landed 4:19 PM	  	 
+ 	08 May 2025	Kalamazoo (AZO)	Chicago (ORD)	EJA784	0:35	4:50 PM	4:15 PM	2:50 PM	
+Landed 2:50 PM	  	 
+ 	08 May 2025	Indianapolis (TYQ)	Kalamazoo (AZO)	EJA784	0:30	2:12 PM	2:18 PM	3:00 PM	
+Landed 2:48 PM	  	 
+ 	08 May 2025	Naples (APF)	Indianapolis (TYQ)	EJA784	2:11	10:30 AM	10:47 AM	1:06 PM	
+Landed 12:59 PM	  	 
+ 	08 May 2025	Greensboro (QNP)	Naples (APF)	EJA784	1:17	7:45 AM	7:55 AM	9:15 AM	
+Landed 9:12 AM	  	 
+ 	07 May 2025	Statesville (SVH)	Greensboro (QNP)	EJA784	0:46	4:42 PM	4:45 PM	6:30 PM	
+Landed 5:31 PM	  	 
+ 	07 May 2025	Greenville (GMU)	Statesville (SVH)	EJA784	0:27	3:30 PM	3:37 PM	5:12 PM	
+Landed 4:04 PM	  	 
+ 	07 May 2025	Statesville (SVH)	Greenville (GMU)	EJA784	3:20	1:01 PM	9:36 AM	11:57 AM	
+Landed 11:57 AM	  	 
+ 	07 May 2025	Greensboro (QNP)	Statesville (SVH)	EJA784	0:36	8:27 AM	8:24 AM	9:21 AM	
+Landed 9:00 AM	  	 
+ 	06 May 2025	Philadelphia (PHL)	Greensboro (QNP)	EJA784	1:29	5:00 PM	5:14 PM	6:42 PM	
+Landed 6:42 PM	  	 
+ 	06 May 2025	Rifle (RIL)	Philadelphia (PHL)	EJA784	3:42	7:30 AM	7:25 AM	2:06 PM	
+Landed 1:07 PM	  	 
+ 	05 May 2025	Palm Springs (PSP)	Rifle (RIL)	EJA784	1:35	7:45 AM	8:30 AM	10:17 AM	
+Landed 11:05 AM	  	 
+ 	04 May 2025	La Paz (LAP)	Palm Springs (PSP)	(N784QS)	1:46	1:00 PM	1:06 PM	3:06 PM	
+Landed 2:52 PM	  	 
+ 	04 May 2025	San Jose (SJC)	La Paz (LAP)	(N784QS)	2:10	9:12 AM	9:23 AM	11:54 AM	
+Landed 11:33 AM	  	 
+ 	03 May 2025	Teterboro (TEB)	San Jose (SJC)	EJA784	5:11	11:18 AM	11:28 AM	1:12 PM	
+Landed 1:39 PM	  	 
+ 	03 May 2025	Boston (BOS)	Teterboro (TEB)	EJA784	0:52	9:00 AM	8:58 AM	10:12 AM	
+Landed 9:50 AM	  	 
+ 	02 May 2025	Bedford (BED)	Boston (BOS)	EJA784	0:10	6:57 PM	4:51 PM	7:33 PM	
+Landed 5:01 PM	  	 
+ 	02 May 2025	San Diego (SAN)	Bedford (BED)	EJA784	4:38	7:45 AM	8:16 AM	5:51 PM	
+Landed 3:54 PM	  	 
+ 	01 May 2025	Camarillo (QTC)	San Diego (SAN)	EJA784	0:36	1:30 PM	1:28 PM	1:24 PM	
+Landed 2:04 PM	  	 
+ 	01 May 2025	Fort Lauderdale (FLL)	Camarillo (QTC)	EJA784	5:15	9:00 AM	9:16 AM	11:36 AM	
+Landed 11:31 AM	  	 
+ 	30 Apr 2025	Miami (TMB)	Fort Lauderdale (FLL)	EJA784	0:16	7:00 PM	6:29 PM	7:24 PM	
+Landed 6:45 PM	  	 
+ 	30 Apr 2025	—	Miami (TMB)	EJA784	1:10	—	—	5:01 PM	
+Landed 5:01 PM	  	 
+ 	30 Apr 2025	Baltimore (MTN)	—	EJA784	-	1:43 PM	1:43 PM	—	
+Unknown	  	 
+ 	30 Apr 2025	Vero Beach (VRB)	Baltimore (MTN)	EJA784	1:59	1:02 PM	11:04 AM	12:02 PM	
+Landed 12:02 PM	  	 
+ 	30 Apr 2025	Teterboro (TEB)	Vero Beach (VRB)	EJA784	2:17	7:00 AM	7:35 AM	9:21 AM	
+Landed 9:52 AM	  	 
+ 	28 Apr 2025	Palm Springs (UDD)	Teterboro (TEB)	EJA784	4:24	10:00 AM	10:29 AM	5:42 AM	
+Landed 5:53 PM	  	 
+ 	27 Apr 2025	Scottsdale (SCF)	Palm Springs (UDD)	EJA784	0:46	2:12 PM	3:16 PM	3:06 PM	
+Landed 4:01 PM	  	 
+ 	27 Apr 2025	Las Vegas (LAS)	Scottsdale (SCF)	EJA784	0:44	1:35 PM	12:51 PM	1:35 PM	
+Landed 1:35 PM	  	 
+ 	27 Apr 2025	St. Louis (SUS)	Las Vegas (LAS)	EJA784	3:14	9:30 AM	9:37 AM	11:00 AM	
+Landed 10:50 AM	  	 
+ 	26 Apr 2025	Boca Raton (BCT)	St. Louis (SUS)	EJA784	2:22	1:44 PM	11:17 AM	11:39 AM	
+Landed 11:39 AM	  	 
+ 	26 Apr 2025	Stuart (SUA)	Boca Raton (BCT)	EJA784	0:18	9:24 AM	9:35 AM	8:53 AM	
+Landed 8:53 AM	  	 
+ 	25 Apr 2025	White Plains (HPN)	Stuart (SUA)	EJA784	2:20	2:27 PM	12:07 PM	1:26 PM	
+Landed 1:26 PM	  	 
+ 	25 Apr 2025	West Palm Beach (PBI)	White Plains (HPN)	EJA784	2:40	7:30 AM	8:11 AM	10:09 AM	
+Landed 10:51 AM	  	 
+ 	23 Apr 2025	Miami (OPF)	West Palm Beach (PBI)	EJA784	0:23	2:45 PM	2:21 PM	1:43 PM	
+Landed 1:43 PM	  	 
+ 	23 Apr 2025	Providenciales (PLS)	Miami (OPF)	(N784QS)	1:30	11:00 AM	11:47 AM	12:54 PM	
+Landed 1:17 PM	  	 
+ 	23 Apr 2025	West Palm Beach (PBI)	Providenciales (PLS)	(N784QS)	1:23	7:36 AM	7:52 AM	10:00 AM	
+Landed 9:15 AM	  	 
+ 	22 Apr 2025	Teterboro (TEB)	West Palm Beach (PBI)	EJA784	2:48	1:00 PM	1:01 PM	3:54 PM	
+Landed 3:49 PM	  	 
+ 	22 Apr 2025	West Palm Beach (PBI)	Teterboro (TEB)	EJA784	2:17	8:31 AM	6:15 AM	7:31 AM	
+Landed 7:31 AM	  	 
+ 	21 Apr 2025	Orlando (ORL)	West Palm Beach (PBI)	EJA784	0:36	12:36 PM	1:30 PM	4:38 PM	
+Landed 2:06 PM	  	 
+ 	21 Apr 2025	Morristown (MMU)	Orlando (ORL)	EJA784	2:22	9:00 AM	9:52 AM	11:30 AM	
+Landed 12:15 PM	  	 
+ 	20 Apr 2025	New Haven (HVN)	Morristown (MMU)	EJA784	0:23	10:00 PM	9:45 PM	10:36 PM	
+Landed 10:09 PM	  	 
+ 	20 Apr 2025	Van Nuys (VNY)	New Haven (HVN)	EJA784	4:39	1:00 PM	1:06 PM	8:54 PM	
+Landed 8:45 PM	  	 
+ 	19 Apr 2025	San Luis Obispo (SBP)	Van Nuys (VNY)	EJA784	0:32	4:30 PM	5:52 PM	5:10 PM	
+Landed 6:24 PM	  	 
+ 	19 Apr 2025	Palm Springs (PSP)	San Luis Obispo (SBP)	EJA784	0:48	3:00 PM	3:44 PM	2:24 PM	
+Landed 4:32 PM	  	 
+ 	18 Apr 2025	Sacramento (SMF)	Palm Springs (PSP)	EJA784	1:03	5:36 PM	6:19 PM	7:00 PM	
+Landed 7:22 PM	  	 
+ 	18 Apr 2025	San Francisco (SFO)	Sacramento (SMF)	EJA784	0:19	4:30 PM	5:21 PM	5:00 PM	
+Landed 5:39 PM	  	 
+ 	17 Apr 2025	Van Nuys (VNY)	San Francisco (SFO)	EJA784	1:06	2:36 PM	3:20 PM	3:48 PM	
+Landed 4:26 PM	  	 
+ 	17 Apr 2025	Baltimore (MTN)	Van Nuys (VNY)	EJA784	5:31	11:00 AM	11:19 AM	1:30 PM	
+Landed 1:50 PM	  	 
+ 	17 Apr 2025	Pontiac (PTK)	Baltimore (MTN)	EJA784	1:02	8:36 AM	8:38 AM	9:54 AM	
+Landed 9:41 AM	  	 
+ 	16 Apr 2025	Venice (VNC)	Pontiac (PTK)	EJA784	2:33	3:30 PM	4:41 PM	7:12 PM	
+Landed 7:14 PM	  	 
+ 	16 Apr 2025	Tampa (TPA)	Venice (VNC)	EJA784	0:19	12:18 PM	11:50 AM	12:48 PM	
+Landed 12:09 PM	  	 
+ 	16 Apr 2025	Marsh Harbour (MHH)	Tampa (TPA)	(N784QS)	0:58	10:45 AM	9:47 AM	9:45 AM	
+Landed 9:45 AM	  	 
+ 	15 Apr 2025	Miami (OPF)	Marsh Harbour (MHH)	(N784QS)	0:33	3:30 PM	3:52 PM	4:24 PM	
+Landed 4:24 PM	  	 
+ 	15 Apr 2025	St. Petersburg (PIE)	Miami (OPF)	EJA784	0:39	1:15 PM	1:08 PM	2:15 PM	
+Landed 1:47 PM	  	 
+ 	15 Apr 2025	Freeport (FPO)	St. Petersburg (PIE)	(N784QS)	0:43	10:54 AM	11:12 AM	11:54 AM	
+Landed 11:55 AM	  	 
+ 	15 Apr 2025	West Palm Beach (PBI)	Freeport (FPO)	(N784QS)	0:24	8:36 AM	8:42 AM	9:18 AM	
+Landed 9:06 AM	  	 
+ 	14 Apr 2025	Teterboro (TEB)	West Palm Beach (PBI)	EJA784	2:29	3:00 PM	3:19 PM	4:47 PM	
+Landed 4:47 PM	  	 
+ 	13 Apr 2025	Bedford (BED)	Teterboro (TEB)	EJA784	0:48	5:12 PM	5:20 PM	6:24 PM	
+Landed 6:08 PM	  	 
+ 	13 Apr 2025	Naples (APF)	Bedford (BED)	EJA784	2:48	4:18 PM	1:30 PM	3:18 PM	
+Landed 3:18 PM	  	 
+ 	13 Apr 2025	Boca Raton (BCT)	Naples (APF)	EJA784	0:29	10:48 AM	10:54 AM	11:24 AM	
+Landed 11:23 AM	  	 
+ 	12 Apr 2025	White Plains (HPN)	Boca Raton (BCT)	EJA784	2:41	8:00 PM	8:02 PM	10:48 PM	
+Landed 10:43 PM	  	 
+ 	12 Apr 2025	Columbus (CMH)	White Plains (HPN)	EJA784	1:23	5:00 PM	4:45 PM	6:24 PM	
+Landed 6:09 PM	  	 
+ 	12 Apr 2025	Parkersburg (PKB)	Columbus (CMH)	EJA784	0:21	2:03 PM	2:09 PM	12:54 PM	
+Landed 2:29 PM	  	 
+ 	12 Apr 2025	Augusta (AGS)	Parkersburg (PKB)	EJA784	1:03	10:00 AM	9:54 AM	11:12 AM	
+Landed 10:57 AM	  	 
+ 	12 Apr 2025	Atlanta (QQR)	Augusta (AGS)	EJA784	0:35	7:00 AM	7:32 AM	7:42 AM	
+Landed 8:07 AM	  	 
+ 	11 Apr 2025	San Antonio (SAT)	Atlanta (QQR)	EJA784	1:51	2:00 PM	1:58 PM	3:49 PM	
+Landed 3:49 PM	  	 
+ 	11 Apr 2025	Cortez (CEZ)	San Antonio (SAT)	EJA784	1:34	10:00 AM	10:21 AM	12:54 PM	
+Landed 12:55 PM	  	 
+ 	11 Apr 2025	Las Vegas (LAS)	Cortez (CEZ)	EJA784	0:52	6:42 AM	6:49 AM	8:54 AM	
+Landed 8:41 AM	  	 
+ 	09 Apr 2025	Tucson (TUS)	Las Vegas (LAS)	EJA784	1:04	4:36 PM	4:47 PM	5:48 PM	
+Landed 5:50 PM	  	 
+ 	09 Apr 2025	Cabo San Lucas (CSL)	Tucson (TUS)	(N784QS)	1:25	2:18 PM	2:30 PM	4:00 PM	
+Landed 3:55 PM	  	 
+ 	09 Apr 2025	Houston (HOU)	Cabo San Lucas (CSL)	(N784QS)	2:29	12:00 PM	12:19 PM	12:48 PM	
+Landed 12:49 PM	  	 
+ 	09 Apr 2025	San Antonio (SAT)	Houston (HOU)	EJA784	0:47	10:06 AM	10:17 AM	10:54 AM	
+Landed 11:04 AM	  	 
+ 	07 Apr 2025	West Palm Beach (PBI)	San Antonio (SAT)	EJA784	2:53	2:00 PM	2:13 PM	4:06 PM	
+Landed 4:07 PM	  	 
+ 	07 Apr 2025	Albany (ALB)	West Palm Beach (PBI)	EJA784	2:43	10:00 AM	9:58 AM	1:00 PM	
+Landed 12:40 PM	  	 
+ 	07 Apr 2025	Boston (BOS)	Albany (ALB)	EJA784	0:39	8:00 AM	8:17 AM	8:54 AM	
+Landed 8:56 AM	  	 
+ 	06 Apr 2025	Vero Beach (VRB)	Boston (BOS)	EJA784	2:36	3:00 PM	4:27 PM	6:57 PM	
+Landed 7:03 PM	  	 
+ 	06 Apr 2025	Augusta (AGS)	Vero Beach (VRB)	EJA784	1:02	12:30 PM	11:38 AM	1:48 PM	
+Landed 12:40 PM	  	 
+ 	06 Apr 2025	Stuart (SUA)	Augusta (AGS)	EJA784	1:06	8:30 AM	9:44 AM	9:43 AM	
+Landed 10:50 AM	  	 
+ 	05 Apr 2025	Vero Beach (VRB)	Stuart (SUA)	EJA784	0:14	6:30 PM	6:40 PM	6:30 PM	
+Landed 6:55 PM	  	 
+ 	05 Apr 2025	Sedona (SDX)	Vero Beach (VRB)	EJA784	3:54	2:58 PM	11:04 AM	4:58 PM	
+Landed 4:58 PM	  	 
+ 	05 Apr 2025	Dallas (DAL)	Sedona (SDX)	EJA784	1:57	8:00 AM	9:09 AM	9:06 AM	
+Landed 9:06 AM	  	 
+ 	01 Apr 2025	Conroe (CXO)	Dallas (DAL)	EJA784	0:46	7:00 PM	6:07 PM	7:48 PM	
+Landed 6:53 PM	  	 
+ 	01 Apr 2025	Nashville (BNA)	Conroe (CXO)	EJA784	1:39	5:21 PM	3:41 PM	4:21 PM	
+Landed 4:21 PM	  	 
+ 	01 Apr 2025	Little Rock (LIT)	Nashville (BNA)	EJA784	0:46	1:54 PM	2:05 PM	2:54 PM	
+Landed 2:51 PM	  	 
+ 	31 Mar 2025	Houston (SGR)	Little Rock (LIT)	EJA784	0:56	7:00 PM	7:33 PM	8:06 PM	
+Landed 8:29 PM	  	 
+ 	31 Mar 2025	Houston (HOU)	Houston (SGR)	EJA784	0:11	5:06 PM	5:15 PM	5:30 PM	
+Landed 5:26 PM	  	 
+ 	31 Mar 2025	Charlottesville (CHO)	Houston (HOU)	EJA784	2:52	12:00 PM	1:18 PM	4:06 PM	
+Landed 3:10 PM	  	 
+ 	30 Mar 2025	Teterboro (TEB)	Charlottesville (CHO)	EJA784	0:50	8:48 PM	9:03 PM	9:54 PM	
+Landed 9:53 PM	  	 
+ 	30 Mar 2025	Santa Ana (SNA)	Teterboro (TEB)	EJA784	4:39	12:00 PM	11:57 AM	7:42 PM	
+Landed 7:37 PM	  	 
+ 	30 Mar 2025	Norman (OUN)	Santa Ana (SNA)	EJA784	2:52	9:45 AM	9:53 AM	10:45 AM	
+Landed 10:45 AM	  	 
+ 	28 Mar 2025	Scottsdale (SCF)	Norman (OUN)	EJA784	1:43	7:36 AM	5:52 AM	8:36 AM	
+Landed 8:36 AM	  	 
+ 	27 Mar 2025	Sacramento (MHR)	Scottsdale (SCF)	EJA784	1:27	2:00 PM	2:04 PM	3:31 PM	
+Landed 3:31 PM	  	 
+ 	27 Mar 2025	Bellingham (BLI)	Sacramento (MHR)	EJA784	1:38	11:15 AM	11:26 AM	3:09 PM	
+Landed 1:04 PM	  	 
+ 	27 Mar 2025	Bozeman (BZN)	Bellingham (BLI)	EJA784	1:23	9:27 AM	9:21 AM	8:44 AM	
+Landed 8:44 AM	  	 
+ 	26 Mar 2025	San Jose (SJC)	Bozeman (BZN)	EJA784	1:40	2:15 PM	12:36 PM	5:15 PM	
+Landed 3:17 PM	  	 
+ 	26 Mar 2025	Hailey (SUN)	San Jose (SJC)	EJA784	1:38	11:00 AM	10:59 AM	11:42 AM	
+Landed 11:37 AM	  	 
+ 	26 Mar 2025	San Francisco (SFO)	Hailey (SUN)	EJA784	1:18	7:18 AM	7:37 AM	10:00 AM	
+Landed 9:55 AM	  	 
+ 	25 Mar 2025	Grand Rapids (GRR)	San Francisco (SFO)	EJA784	4:18	4:30 PM	4:14 PM	8:06 PM	
+Landed 5:32 PM	  	 
+ 	25 Mar 2025	Gary (GYY)	Grand Rapids (GRR)	EJA784	0:30	1:42 PM	1:26 PM	3:24 PM	
+Landed 2:56 PM	  	 
+ 	24 Mar 2025	Fort Lauderdale (FLL)	Gary (GYY)	EJA784	2:34	10:49 PM	8:11 PM	8:45 PM	
+Landed 8:45 PM	  	 
+ 	24 Mar 2025	Fort Lauderdale (FXE)	Fort Lauderdale (FLL)	EJA784	0:11	6:30 PM	5:48 PM	6:54 PM	
+Landed 5:58 PM	  	 
+ 	24 Mar 2025	St. Thomas (STT)	Fort Lauderdale (FXE)	(N784QS)	2:51	9:30 AM	10:35 AM	1:06 PM	
+Landed 1:26 PM	  	 
+ 	24 Mar 2025	West Palm Beach (PBI)	St. Thomas (STT)	(N784QS)	2:11	8:04 AM	5:52 AM	8:04 AM	
+Landed 8:04 AM	  	 
+ 	23 Mar 2025	Morristown (MMU)	West Palm Beach (PBI)	EJA784	2:24	5:42 PM	5:56 PM	8:24 PM	
+Landed 8:20 PM	  	 
+ 	23 Mar 2025	Boca Raton (BCT)	Morristown (MMU)	EJA784	2:10	4:30 PM	2:21 PM	3:30 PM	
+Landed 3:30 PM	  	 
+ 	23 Mar 2025	Miami (OPF)	Boca Raton (BCT)	EJA784	0:14	12:30 PM	12:41 PM	12:54 PM	
+Landed 12:55 PM	  	 
+ 	21 Mar 2025	—	—	(EJA784)	-	—	—	—	
+Unknown	  	 
+ 	09 Mar 2025	Teterboro (TEB)	Miami (OPF)	EJA784	2:41	12:00 PM	1:04 PM	2:54 PM	
+Landed 3:45 PM	  	 
+ 	09 Mar 2025	Washington (IAD)	Teterboro (TEB)	EJA784	0:51	10:00 AM	9:53 AM	10:54 AM	
+Landed 10:43 AM	  	 
+ 	08 Mar 2025	La Romana (LRM)	Washington (IAD)	(N784QS)	3:30	2:00 PM	1:56 PM	4:36 PM	
+Landed 4:27 PM	  	 
+ 	07 Mar 2025	Kingstown (SVD)	La Romana (LRM)	(N784QS)	1:42	4:51 PM	6:03 PM	6:27 PM	
+Landed 7:45 PM	  	 
+ 	07 Mar 2025	Atlanta (PDK)	Kingstown (SVD)	(N784QS)	3:49	9:30 AM	9:35 AM	2:36 PM	
+Landed 2:24 PM	  	 
+ 	06 Mar 2025	Vero Beach (VRB)	Atlanta (PDK)	EJA784	1:24	7:24 PM	6:35 PM	8:54 PM	
+Landed 7:59 PM	  	 
+ 	06 Mar 2025	Dallas (ADS)	Vero Beach (VRB)	EJA784	2:01	3:00 PM	2:56 PM	6:18 PM	
+Landed 5:58 PM	  	 
+ 	06 Mar 2025	Tyler (TYR)	Dallas (ADS)	EJA784	0:28	1:18 PM	1:31 PM	2:00 PM	
+Landed 2:00 PM	  	 
+ 	04 Mar 2025	Laredo (LRD)	Tyler (TYR)	EJA784	1:06	12:48 PM	1:42 PM	2:38 PM	
+Landed 2:48 PM	  	 
+ 	04 Mar 2025	San Jose del Cabo (SJD)	Laredo (LRD)	(N784QS)	1:24	9:30 AM	10:00 AM	12:12 PM	
+Landed 12:25 PM	  	 
+ 	03 Mar 2025	San Diego (SAN)	San Jose del Cabo (SJD)	(N784QS)	1:37	3:00 PM	3:27 PM	5:54 PM	
+Landed 6:04 PM	  	 
+ 	03 Mar 2025	Salt Lake City (SLC)	San Diego (SAN)	EJA784	1:24	12:30 PM	11:06 AM	11:30 AM	
+Landed 11:30 AM	  	 
+ 	03 Mar 2025	Las Vegas (LAS)	Salt Lake City (SLC)	EJA784	0:59	8:09 AM	8:09 AM	10:08 AM	
+Landed 10:08 AM	  	 
+ 	01 Mar 2025	Van Nuys (VNY)	Las Vegas (LAS)	EJA784	0:38	9:30 AM	5:20 PM	11:24 AM	
+Landed 5:59 PM	  	 
+ 	28 Feb 2025	Scottsdale (SCF)	Van Nuys (VNY)	EJA784	1:03	5:45 PM	6:03 PM	5:48 PM	
+Landed 6:06 PM	  	 
+ 	28 Feb 2025	Denver (DEN)	Scottsdale (SCF)	EJA784	1:17	3:42 PM	2:25 PM	3:42 PM	
+Landed 3:42 PM	  	 
+ 	28 Feb 2025	Phoenix (PHX)	Denver (DEN)	EJA784	1:21	11:30 AM	11:23 AM	1:00 PM	
+Landed 12:43 PM	  	 
+ 	28 Feb 2025	Hastings (HSI)	Phoenix (PHX)	EJA784	2:04	8:48 AM	8:55 AM	10:24 AM	
+Landed 9:59 AM	  	 
+ 	27 Feb 2025	Hailey (SUN)	Hastings (HSI)	EJA784	1:46	4:00 PM	3:45 PM	6:54 PM	
+Landed 6:31 PM	  	 
+ 	27 Feb 2025	Gallatin (QSX)	Hailey (SUN)	EJA784	3:27	12:00 PM	11:57 AM	2:54 PM	
+Landed 2:24 PM	  	 
+ 	27 Feb 2025	Stuart (SUA)	Gallatin (QSX)	EJA784	1:48	9:54 AM	10:11 AM	10:54 AM	
+Landed 10:59 AM	  	 
+ 	26 Feb 2025	Chicago (PWK)	Stuart (SUA)	EJA784	2:29	3:21 PM	12:52 PM	4:21 PM	
+Landed 4:21 PM	  	 
+ 	26 Feb 2025	Chicago (MDW)	Chicago (PWK)	EJA784	0:20	9:54 AM	9:47 AM	10:10 AM	
+Landed 10:07 AM	  	 
+ 	25 Feb 2025	Bedford (BED)	Chicago (MDW)	EJA784	2:04	12:10 PM	10:05 AM	11:10 AM	
+Landed 11:10 AM	  	 
+ 	24 Feb 2025	Harrisburg (MDT)	Bedford (BED)	EJA784	0:53	4:00 PM	3:47 PM	5:18 PM	
+Landed 4:39 PM	  	 
+ 	24 Feb 2025	Philadelphia (PHL)	Harrisburg (MDT)	EJA784	0:24	12:36 PM	12:21 PM	1:12 PM	
+Landed 12:45 PM	  	 
+ 	24 Feb 2025	Naples (APF)	Philadelphia (PHL)	EJA784	2:06	9:00 AM	9:21 AM	11:30 AM	
+Landed 11:27 AM	  	 
+ 	23 Feb 2025	Charlotte (CLT)	Naples (APF)	EJA784	1:29	5:54 PM	5:49 PM	7:36 PM	
+Landed 7:18 PM	  	 
+ 	23 Feb 2025	Charleston (JZI)	Nashville (QQN)	EJA784	-	4:30 PM	4:15 PM	3:53 PM	
+Diverted to CLT	  	 
+ 	23 Feb 2025	Charleston (CHS)	Charleston (JZI)	EJA784	0:12	2:06 PM	2:28 PM	2:24 PM	
+Landed 2:40 PM	  	 
+ 	23 Feb 2025	Sarasota (SRQ)	Charleston (CHS)	EJA784	0:59	1:00 PM	12:01 PM	1:00 PM	
+Landed 1:00 PM	  	 
+ 	23 Feb 2025	Vero Beach (VRB)	Sarasota (SRQ)	EJA784	0:29	9:52 AM	9:52 AM	10:21 AM	
+Landed 10:21 AM	  	 
+ 	22 Feb 2025	Beverly (BVY)	Vero Beach (VRB)	EJA784	2:46	3:06 PM	2:57 PM	5:24 PM	
+Landed 5:43 PM	  	 
+ 	22 Feb 2025	Westhampton Beach (FOK)	Beverly (BVY)	EJA784	0:39	1:12 PM	1:19 PM	2:06 PM	
+Landed 1:58 PM	  	 
+ 	22 Feb 2025	Naples (APF)	Westhampton Beach (FOK)	EJA784	2:17	11:44 AM	9:27 AM	11:44 AM	
+Landed 11:44 AM	  	 
+ 	22 Feb 2025	Boca Raton (BCT)	Naples (APF)	EJA784	0:29	7:30 AM	7:35 AM	8:18 AM	
+Landed 8:03 AM	  	 
+ 	17 Feb 2025	Nashville (BNA)	Boca Raton (BCT)	EJA784	1:58	5:00 PM	5:53 PM	8:00 PM	
+Landed 8:51 PM	  	 
+ 	17 Feb 2025	Birmingham (BHM)	Nashville (BNA)	EJA784	0:35	3:36 PM	3:19 PM	5:12 PM	
+Landed 3:54 PM	  	 
+ 	17 Feb 2025	Augusta (AGS)	Birmingham (BHM)	EJA784	0:52	2:30 PM	2:23 PM	2:30 PM	
+Landed 2:16 PM	  	 
+ 	17 Feb 2025	Fort Lauderdale (FLL)	West Palm Beach (PBI)	EJA784	0:17	11:00 AM	11:25 AM	11:24 AM	
+Landed 11:42 AM	  	 
+ 	17 Feb 2025	Stuart (SUA)	Fort Lauderdale (FLL)	EJA784	0:28	9:18 AM	9:18 AM	9:54 AM	
+Landed 9:46 AM	  	 
+ 	16 Feb 2025	Charleston (CHS)	Stuart (SUA)	EJA784	1:05	9:30 AM	3:17 PM	10:41 AM	
+Landed 4:22 PM	  	 
+ 	15 Feb 2025	Morristown (MMU)	Marsh Harbour (MHH)	(N784QS)	2:14	7:30 AM	7:54 AM	10:06 AM	
+Landed 10:08 AM	  	 
+ 	14 Feb 2025	Duluth (DLH)	Morristown (MMU)	EJA784	1:56	3:12 PM	2:53 PM	6:24 PM	
+Landed 5:50 PM	  	 
+ 	14 Feb 2025	Pontiac (PTK)	Duluth (DLH)	EJA784	1:24	1:30 PM	1:42 PM	2:06 PM	
+Landed 2:05 PM	  	 
+ 	14 Feb 2025	Salt Lake City (SLC)	Pontiac (PTK)	EJA784	2:44	7:24 AM	7:28 AM	12:30 PM	
+Landed 12:12 PM	  	 
+ 	13 Feb 2025	Chicago (ORD)	Salt Lake City (SLC)	EJA784	3:11	1:45 PM	2:30 PM	3:48 PM	
+Landed 4:41 PM	  	 
+ 	13 Feb 2025	Milwaukee (MKE)	Chicago (ORD)	EJA784	0:30	12:36 PM	12:07 PM	1:06 PM	
+Landed 12:37 PM	  	 
+ 	13 Feb 2025	Montrose (MTJ)	Milwaukee (MKE)	EJA784	2:05	8:00 AM	8:03 AM	11:30 AM	
+Landed 11:07 AM	  	 
+ 	13 Feb 2025	Santa Fe (SAF)	Montrose (MTJ)	EJA784	0:45	6:30 AM	6:37 AM	7:24 AM	
+Landed 7:22 AM	  	 
+ 	13 Feb 2025	Albuquerque (ABQ)	Santa Fe (SAF)	EJA784	0:17	5:00 AM	5:18 AM	5:30 AM	
+Landed 5:35 AM	  	 
+ 	12 Feb 2025	Denver (APA)	Santa Fe (SAF)	EJA784	-	1:42 PM	2:27 PM	2:36 PM	
+Diverted to ABQ	  	 
+ 	12 Feb 2025	Cancun (CUN)	Denver (APA)	(N784QS)	3:50	10:30 AM	11:15 AM	12:36 PM	
+Landed 1:04 PM	  	 
+ 	11 Feb 2025	Boca Raton (BCT)	Cancun (CUN)	(N784QS)	1:42	1:30 PM	1:11 PM	3:12 PM	
+Landed 2:53 PM	  	 
+ 	10 Feb 2025	Austin (AUS)	Boca Raton (BCT)	EJA784	2:12	2:00 PM	2:10 PM	5:28 PM	
+Landed 5:22 PM	  	 
+ 	09 Feb 2025	Jackson (JAC)	Austin (AUS)	EJA784	2:24	9:15 PM	9:13 PM	12:51 AM	
+Landed 12:38 AM	  	 
+ 	09 Feb 2025	San Francisco (SFO)	Jackson (JAC)	EJA784	1:41	5:15 PM	5:27 PM	8:15 PM	
+Landed 8:07 PM	  	 
+ 	09 Feb 2025	South Lake Tahoe (TVL)	San Francisco (SFO)	EJA784	0:46	2:00 PM	2:52 PM	2:54 PM	
+Landed 3:38 PM	  	 
+ 	09 Feb 2025	Reno (RNO)	South Lake Tahoe (TVL)	EJA784	0:20	12:30 PM	12:31 PM	12:54 PM	
+Landed 12:51 PM	  	 
+ 	08 Feb 2025	San Luis Obispo (SBP)	Reno (RNO)	EJA784	0:45	7:00 PM	7:05 PM	8:00 PM	
+Landed 7:50 PM	  	 
+ 	08 Feb 2025	Van Nuys (VNY)	San Luis Obispo (SBP)	EJA784	0:31	5:12 PM	4:29 PM	6:00 PM	
+Landed 4:59 PM	  	 
+ 	08 Feb 2025	West Palm Beach (PBI)	Van Nuys (VNY)	EJA784	5:08	11:15 AM	11:54 AM	1:29 PM	
+Landed 2:02 PM	  	 
+ 	07 Feb 2025	Washington (IAD)	West Palm Beach (PBI)	EJA784	2:03	9:30 AM	12:13 PM	11:33 AM	
+Landed 2:16 PM	  	 
+ 	07 Feb 2025	Bedford (BED)	Washington (IAD)	EJA784	1:13	6:48 AM	7:47 AM	8:20 AM	
+Landed 9:00 AM	  	 
+ 	06 Feb 2025	Bedford (BED)	Boston (BOS)	EJA784	0:30	6:42 PM	6:48 PM	7:24 PM	
+Landed 7:18 PM	  	 
+ 	06 Feb 2025	New Haven (HVN)	Bedford (BED)	EJA784	0:27	5:36 PM	5:09 PM	5:36 PM	
+Landed 5:36 PM	  	 
+ 	06 Feb 2025	Asheville (AVL)	Washington (IAD)	EJA784	-	1:30 PM	3:11 PM	5:12 PM	
+Diverted to HVN	  	 
+ 	06 Feb 2025	Augusta (AGS)	Washington (IAD)	EJA784	-	12:36 PM	12:27 PM	1:54 PM	
+Diverted to AVL	  	 
+ 	04 Feb 2025	Austin (AUS)	Augusta (AGS)	EJA784	1:55	5:00 PM	4:27 PM	8:07 PM	
+Landed 7:22 PM	  	 
+ 	04 Feb 2025	New Orleans (MSY)	Austin (AUS)	EJA784	1:03	2:30 PM	2:43 PM	3:44 PM	
+Landed 3:46 PM	  	 
+ 	04 Feb 2025	Miami (OPF)	New Orleans (MSY)	EJA784	1:49	9:54 AM	11:10 AM	10:47 AM	
+Landed 11:59 AM	  	 
+ 	04 Feb 2025	West Palm Beach (PBI)	Miami (OPF)	EJA784	0:21	12:00 PM	8:36 AM	12:30 PM	
+Landed 8:58 AM	  	 
+ 	03 Feb 2025	Indianapolis (IND)	West Palm Beach (PBI)	EJA784	1:59	8:24 PM	6:25 PM	8:24 PM	
+Landed 8:24 PM	  	 
+ 	03 Feb 2025	Cincinnati (LUK)	Indianapolis (IND)	EJA784	0:33	4:00 PM	3:12 PM	4:36 PM	
+Landed 3:45 PM	  	 
+ 	03 Feb 2025	Key West (EYW)	Cincinnati (LUK)	EJA784	2:15	11:00 AM	11:03 AM	1:36 PM	
+Landed 1:18 PM	  	 
+ 	02 Feb 2025	Kissimmee (ISM)	Key West (EYW)	EJA784	0:41	8:30 PM	8:04 PM	9:24 PM	
+Landed 8:45 PM	  	 
+ 	02 Feb 2025	Chicago (PWK)	Kissimmee (ISM)	EJA784	2:01	6:07 PM	4:07 PM	7:07 PM	
+Landed 7:07 PM	  	 
+ 	02 Feb 2025	Cleveland (CLE)	Chicago (PWK)	EJA784	1:00	3:12 PM	2:16 PM	2:17 PM	
+Landed 2:17 PM	  	 
+ 	02 Feb 2025	Raleigh-Durham (RDU)	Philadelphia (PHL)	EJA784	-	1:00 PM	11:43 AM	2:06 PM	
+Diverted to CLE	  	 
+ 	01 Feb 2025	Augusta (AGS)	Raleigh-Durham (RDU)	EJA784	0:38	3:45 PM	3:47 PM	4:39 PM	
+Landed 4:25 PM
