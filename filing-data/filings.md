@@ -1,6 +1,6 @@
 # Pharma/Biotech SEC Filings
 
-This dataset contains 525 SEC filings (10-K annual reports and 10-Q quarterly reports) from 27 major pharmaceutical and biotechnology companies spanning the past 5 years (2021-2026). Each entry provides the company name, form type, filing date, accession number, and a direct URL to access the full filing on SEC.gov.
+This dataset contains 8-K filings (current reports) from 27 major pharmaceutical and biotechnology companies spanning the past 5 years (2021-2026). Each entry provides the company name, form type, filing date, accession number, and a direct URL to access the full filing on SEC.gov.
 
 ## Companies
 

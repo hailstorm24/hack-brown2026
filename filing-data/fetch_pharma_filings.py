@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch 10-K and 10-Q filings from major pharma/biotech companies using SEC EDGAR API.
+Fetch 8-K filings from major pharma/biotech companies using SEC EDGAR API.
 """
 
 import requests
@@ -66,8 +66,8 @@ def get_company_filings(cik: str, company_name: str) -> Dict[str, Any]:
         print(f"Error fetching {company_name}: {e}")
         return None
 
-def extract_10k_10q_filings(data: Dict, company_name: str, years_back: int = 5) -> List[Dict]:
-    """Extract 10-K and 10-Q filings from the past N years."""
+def extract_8k_filings(data: Dict, company_name: str, years_back: int = 5) -> List[Dict]:
+    """Extract 8-K filings from the past N years."""
     if not data:
         return []
 
@@ -83,7 +83,7 @@ def extract_10k_10q_filings(data: Dict, company_name: str, years_back: int = 5) 
     descriptions = recent_filings.get("primaryDocDescription", [])
 
     for i, form in enumerate(forms):
-        if form in ["10-K", "10-Q", "10-K/A", "10-Q/A"]:
+        if form in ["8-K", "8-K/A"]:
             filing_date_str = filing_dates[i] if i < len(filing_dates) else ""
             try:
                 filing_date = datetime.strptime(filing_date_str, "%Y-%m-%d")
@@ -110,7 +110,7 @@ def extract_10k_10q_filings(data: Dict, company_name: str, years_back: int = 5) 
 def main():
     all_filings = []
 
-    print("Fetching 10-K/10-Q filings from major pharma/biotech companies...")
+    print("Fetching 8-K filings from major pharma/biotech companies...")
     print("=" * 70)
 
     for company_name, cik in PHARMA_BIOTECH_COMPANIES.items():
@@ -118,9 +118,9 @@ def main():
 
         data = get_company_filings(cik, company_name)
         if data:
-            filings = extract_10k_10q_filings(data, company_name, years_back=5)
+            filings = extract_8k_filings(data, company_name, years_back=5)
             all_filings.extend(filings)
-            print(f"  Found {len(filings)} 10-K/10-Q filings in the past 5 years")
+            print(f"  Found {len(filings)} 8-K filings in the past 5 years")
 
         # Be polite to SEC servers - rate limit
         time.sleep(0.2)
@@ -144,14 +144,14 @@ def main():
     for filing in all_filings:
         company = filing["company"]
         if company not in by_company:
-            by_company[company] = {"10-K": 0, "10-Q": 0, "10-K/A": 0, "10-Q/A": 0}
+            by_company[company] = {"8-K": 0, "8-K/A": 0}
         form = filing["form"]
         by_company[company][form] = by_company[company].get(form, 0) + 1
 
-    print(f"\n{'Company':<30} {'10-K':<8} {'10-Q':<8} {'10-K/A':<8} {'10-Q/A':<8}")
+    print(f"\n{'Company':<30} {'8-K':<8} {'8-K/A':<8}")
     print("-" * 70)
     for company, counts in sorted(by_company.items()):
-        print(f"{company:<30} {counts.get('10-K', 0):<8} {counts.get('10-Q', 0):<8} {counts.get('10-K/A', 0):<8} {counts.get('10-Q/A', 0):<8}")
+        print(f"{company:<30} {counts.get('8-K', 0):<8} {counts.get('8-K/A', 0):<8}")
 
     print(f"\nTotal filings: {len(all_filings)}")
 
