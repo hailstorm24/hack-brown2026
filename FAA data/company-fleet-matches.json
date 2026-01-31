@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "companiesMatched": 4,
+    "totalPlanesFound": 17
+  },
+  "companies": [
+    {
+      "companyNameCSV": "Laboratory Corporation of America Holdings",
+      "companyNameFAA": "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+      "planeCount": 11,
+      "tailNumbers": ["N608SM", "N732LH", "N343LH", "N620WA", "N517LH", "N530WC", "N677ST", "N543LH", "N409LH", "N5904A", "N705LH"]
+    },
+    {
+      "companyNameCSV": "Humana Inc",
+      "companyNameFAA": "HUMANA INC",
+      "planeCount": 3,
+      "tailNumbers": ["N733K", "N733H", "N733A"]
+    },
+    {
+      "companyNameCSV": "Johnson & Johnson",
+      "companyNameFAA": "JOHNSON & JOHNSON",
+      "planeCount": 2,
+      "tailNumbers": ["N30QJ", "N60QJ"]
+    },
+    {
+      "companyNameCSV": "ResMed Inc",
+      "companyNameFAA": "RESMED INC",
+      "planeCount": 1,
+      "tailNumbers": ["N539CA"]
+    }
+  ]
+}
