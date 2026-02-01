@@ -12,4 +12,7 @@ We designed an interactive, multi-modal dashboard to display corporate flight da
 ![ML Stack](https://i.ibb.co/hFp7Nmdf/pipeline.png)
 ![Model](https://i.ibb.co/mrP9F7B5/model-architecture.png)
 
-<iframe src="https://docs.google.com/presentation/d/1QULZUTN9ClnbOcO46n7T5ai4f-bN8G3aanz7827rGvo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Demo
+
+[Slide Deck](https://docs.google.com/presentation/d/1QULZUTN9ClnbOcO46n7T5ai4f-bN8G3aanz7827rGvo/embed?start=false&loop=false&delayms=3000)
+[Demo Video](https://www.youtube.com/watch?v=8a3PxUuf_gY)
