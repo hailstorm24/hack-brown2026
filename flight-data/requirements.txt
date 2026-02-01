@@ -1,4 +1,0 @@
-requests>=2.28.0
-# Official OpenSky API is vendored in opensky_api.py (from github.com/openskynetwork/opensky-api).
-# Optional: for N-number (e.g. N310EL) to ICAO24 conversion
-# pip install icao_nnumber_converter_us
