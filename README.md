@@ -1,4 +1,3 @@
-[![Demo](https://img.youtube.com/vi/8a3PxUuf_gY/0.jpg)](https://www.youtube.com/watch?v=8a3PxUuf_gY)
 ## Our Journey:
 We set out to find a unique way to understand how market events impact public equities. We have experience using SEC filings in tandem with LLMs and stock signals to generate alpha, but for this hackathon we were drawn to finding an edge over the market using a unique alternative dataset. While considering X (formerly Twitter), we recalled accounts that tracked celebrities and CEOs using publicly available plane data. We hoped to replicate this result for corporate fleets of large, public healthcare, biotech, and pharmaceutical companies, and then try to generate insight about how their movement and location might signal a newsworthy event such as M&A. Accessing this data proved extremely challenging, as most corporations pay to remove their flight history from public sites. However, we obtained data for three corporate planes to prove our concept at a smaller scale. 
 
@@ -12,3 +11,5 @@ We designed an interactive, multi-modal dashboard to display corporate flight da
 ## ML Stack + Model Architecture:
 ![ML Stack](https://i.ibb.co/hFp7Nmdf/pipeline.png)
 ![Model](https://i.ibb.co/mrP9F7B5/model-architecture.png)
+
+<iframe src="https://docs.google.com/presentation/d/1QULZUTN9ClnbOcO46n7T5ai4f-bN8G3aanz7827rGvo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
