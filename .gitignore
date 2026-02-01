@@ -24,3 +24,10 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Large data files (too big for GitHub)
+FAA data/
+stock prices/
+subsidiaries/
+*.csv
+tail-number-map.json
