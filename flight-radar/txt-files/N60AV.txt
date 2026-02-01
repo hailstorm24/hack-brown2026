@@ -1,0 +1,19 @@
+﻿	27 Jun 2025	San Francisco (SFO)	Chicago (UGN)	(N60AV)	3:13	5:00 PM	5:42 PM	10:29 PM		Landed 10:55 PM		 
+ 	27 Jun 2025	Chicago (UGN)	San Francisco (SFO)	(N60AV)	3:34	10:30 AM	10:41 AM	12:12 PM		Landed 12:15 PM		 
+ 	26 Jun 2025	Chicago (UGN)	Chicago (UGN)	(N60AV)	0:11	12:12 PM	11:56 AM	11:07 AM		Landed 11:07 AM		 
+ 	26 Jun 2025	Appleton (ATW)	Chicago (UGN)	(N60AV)	0:34	11:00 AM	11:11 AM	11:35 AM		Landed 11:45 AM		 
+ 	26 Jun 2025	Chicago (UGN)	Appleton (ATW)	(N60AV)	0:28	10:30 AM	10:21 AM	11:05 AM		Landed 10:49 AM		 
+ 	25 Jun 2025	Chicago (UGN)	Chicago (UGN)	(N60AV)	0:12	3:47 PM	3:30 PM	2:42 PM		Landed 2:42 PM		 
+ 	25 Jun 2025	Chicago (UGN)	—	(N60AV)	—	3:19 PM	3:18 PM	—		Unknown		 
+ 	25 Jun 2025	Chicago (UGN)	Chicago (UGN)	(N60AV)	0:17	3:13 PM	2:56 PM	2:13 PM		Landed 2:13 PM		 
+ 	25 Jun 2025	Washington (IAD)	Chicago (UGN)	(N60AV)	1:28	12:15 PM	1:20 PM	1:13 PM		Landed 1:48 PM		 
+ 	24 Jun 2025	Chicago (MDW)	Washington (IAD)	(N60AV)	1:18	8:15 PM	8:33 PM	10:50 PM		Landed 10:51 PM		 
+ 	24 Jun 2025	Chicago (UGN)	Chicago (MDW)	(N60AV)	0:22	6:15 PM	6:08 PM	6:35 PM		Landed 6:30 PM		 
+ 	20 Jun 2025	Chicago (MDW)	Chicago (UGN)	(N60AV)	0:20	12:30 PM	1:34 PM	12:54 PM		Landed 1:54 PM		 
+ 	20 Jun 2025	Nashville (BNA)	Chicago (MDW)	(N60AV)	1:08	11:15 AM	11:50 AM	12:52 PM		Landed 12:58 PM		 
+ 	20 Jun 2025	Boca Raton (BCT)	Nashville (BNA)	(N60AV)	1:46	9:15 AM	10:25 AM	10:25 AM		Landed 11:11 AM		 
+ 	19 Jun 2025	Raleigh-Durham (RDU)	Boca Raton (BCT)	(N60AV)	1:28	7:30 PM	9:56 PM	9:06 PM		Landed 11:24 PM		 
+ 	19 Jun 2025	Nashville (BNA)	Raleigh-Durham (RDU)	(N60AV)	1:25	5:00 PM	6:51 PM	7:30 PM		Landed 9:17 PM		 
+ 	17 Jun 2025	Chicago (UGN)	Nashville (BNA)	(N60AV)	0:58	11:00 AM	11:33 AM	12:12 PM		Landed 12:31 PM		 
+ 	11 Jun 2025	Appleton (ATW)	Chicago (UGN)	(N60AV)	0:24	12:30 PM	1:55 PM	1:06 PM		Landed 2:19 PM		 
+
