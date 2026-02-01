@@ -1,0 +1,1861 @@
+﻿	30 Jan 2026	St. Paul (STP)	Orlando (SFB)	LXJ459	2:35	5:00 PM	5:18 PM	8:43 PM		Landed 8:53 PM		 
+ 	30 Jan 2026	El Paso (ELP)	St. Paul (STP)	LXJ459	2:43	12:00 PM	12:33 PM	3:40 PM		Landed 4:15 PM		 
+ 	29 Jan 2026	San Jose del Cabo (SJD)	El Paso (ELP)	LXJ459	1:24	1:33 PM	1:55 PM	3:50 PM		Landed 3:18 PM		 
+ 	29 Jan 2026	Van Nuys (VNY)	San Jose del Cabo (SJD)	LXJ459	2:04	9:00 AM	9:35 AM	12:10 PM		Landed 12:39 PM		 
+ 	29 Jan 2026	Scottsdale (SCF)	Van Nuys (VNY)	LXJ459	1:06	7:35 AM	8:21 AM	7:53 AM		Landed 8:26 AM		 
+ 	28 Jan 2026	Honolulu (HNL)	Scottsdale (SCF)	LXJ459	5:25	8:30 AM	9:12 AM	4:57 PM		Landed 5:36 PM		 
+ 	26 Jan 2026	Kahului (OGG)	Honolulu (HNL)	LXJ459	0:32	5:04 PM	5:43 PM	5:38 PM		Landed 6:15 PM		 
+ 	26 Jan 2026	Seattle (BFI)	Kahului (OGG)	LXJ459	5:50	12:30 PM	12:57 PM	4:25 PM		Landed 4:47 PM		 
+ 	26 Jan 2026	Vancouver (YVR)	Seattle (BFI)	LXJ459	0:27	10:54 AM	11:07 AM	11:34 AM		Landed 11:34 AM		 
+ 	25 Jan 2026	San Jose (SJC)	Vancouver (YVR)	LXJ459	1:53	3:30 PM	4:09 PM	5:29 PM		Landed 6:03 PM		 
+ 	25 Jan 2026	San Diego (SAN)	San Jose (SJC)	LXJ459	1:04	1:05 PM	1:42 PM	2:18 PM		Landed 2:45 PM		 
+ 	25 Jan 2026	Pendleton (PDT)	San Diego (SAN)	LXJ459	1:51	10:00 AM	10:35 AM	12:02 PM		Landed 12:26 PM		 
+ 	25 Jan 2026	San Francisco (SFO)	Pendleton (PDT)	LXJ459	1:21	7:05 AM	7:53 AM	8:36 AM		Landed 9:14 AM		 
+ 	24 Jan 2026	Seattle (BFI)	San Francisco (SFO)	LXJ459	1:31	4:40 PM	5:53 PM	6:21 PM		Landed 7:24 PM		 
+ 	24 Jan 2026	Miami (OPF)	Seattle (BFI)	LXJ459	6:09	1:02 PM	1:50 PM	4:02 PM		Landed 4:59 PM		 
+ 	23 Jan 2026	Jacksonville (JAX)	Miami (OPF)	LXJ459	0:53	12:30 PM	12:43 PM	1:34 PM		Landed 1:36 PM		 
+ 	22 Jan 2026	Liberia (LIR)	Jacksonville (JAX)	LXJ459	2:44	12:36 PM	12:36 PM	3:53 PM		Landed 4:20 PM		 
+ 	22 Jan 2026	Naples (APF)	Liberia (LIR)	LXJ459	2:54	9:00 AM	9:15 AM	10:56 AM		Landed 11:10 AM		 
+ 	21 Jan 2026	Nashville (BNA)	Naples (APF)	LXJ459	1:43	4:10 PM	7:44 PM	6:10 PM		Landed 10:27 PM		 
+ 	20 Jan 2026	Chicago (MDW)	Nashville (BNA)	LXJ459	0:59	8:25 AM	9:07 AM	9:33 AM		Landed 10:06 AM		 
+ 	20 Jan 2026	Bedford (BED)	Chicago (MDW)	LXJ459	2:20	6:15 AM	7:02 AM	7:33 AM		Landed 8:22 AM		 
+ 	19 Jan 2026	Teterboro (TEB)	Bedford (BED)	LXJ459	0:43	4:15 PM	4:54 PM	5:00 PM		Landed 5:37 PM		 
+ 	19 Jan 2026	Jackson (JAC)	Teterboro (TEB)	LXJ459	3:37	9:30 AM	10:12 AM	3:05 PM		Landed 3:49 PM		 
+ 	19 Jan 2026	Seattle (BFI)	Jackson (JAC)	LXJ459	1:22	5:52 AM	6:47 AM	8:25 AM		Landed 9:08 AM		 
+ 	14 Jan 2026	Teterboro (TEB)	Seattle (BFI)	LXJ459	5:12	8:30 AM	10:11 AM	10:41 AM		Landed 12:23 PM		 
+ 	13 Jan 2026	Atlanta (PDK)	Teterboro (TEB)	LXJ459	1:38	2:00 PM	2:59 PM	3:50 PM		Landed 4:37 PM		 
+ 	12 Jan 2026	Nashville (BNA)	Atlanta (PDK)	LXJ459	0:37	11:14 AM	11:48 AM	12:57 PM		Landed 1:25 PM		 
+ 	12 Jan 2026	Toledo (TOL)	Nashville (BNA)	LXJ459	1:04	10:07 AM	10:45 AM	10:18 AM		Landed 10:49 AM		 
+ 	12 Jan 2026	Cleveland (CLE)	Toledo (TOL)	LXJ459	0:25	8:03 AM	8:40 AM	8:35 AM		Landed 9:05 AM		 
+ 	09 Jan 2026	Key West (EYW)	Cleveland (CLE)	LXJ459	2:30	3:30 PM	4:13 PM	6:09 PM		Landed 6:43 PM		 
+ 	09 Jan 2026	North Eleuthera (ELH)	Key West (EYW)	LXJ459	1:06	1:33 PM	12:06 PM	2:33 PM		Landed 1:12 PM		 
+ 	09 Jan 2026	Teterboro (TEB)	North Eleuthera (ELH)	LXJ459	2:23	8:00 AM	8:43 AM	10:26 AM		Landed 11:06 AM		 
+ 	08 Jan 2026	White Plains (HPN)	Teterboro (TEB)	LXJ459	0:19	1:30 PM	1:49 PM	1:57 PM		Landed 2:08 PM		 
+ 	07 Jan 2026	Sint Maarten (SXM)	White Plains (HPN)	LXJ459	3:58	12:00 PM	12:37 PM	3:03 PM		Landed 3:35 PM		 
+ 	06 Jan 2026	San Juan (SJU)	Sint Maarten (SXM)	LXJ459	0:36	4:44 PM	4:51 PM	4:54 PM		Landed 5:27 PM		 
+ 	06 Jan 2026	Raleigh-Durham (RDU)	Sint Maarten (SXM)	LXJ459	—	10:00 AM	10:07 AM	2:21 PM		Diverted to SJU		 
+ 	05 Jan 2026	McKinney (QQT)	Raleigh-Durham (RDU)	LXJ459	2:04	3:30 PM	3:53 PM	6:51 PM		Landed 6:56 PM		 
+ 	04 Jan 2026	Miami (OPF)	McKinney (QQT)	LXJ459	2:50	2:41 PM	2:41 PM	4:32 PM		Landed 4:32 PM		 
+ 	04 Jan 2026	Teterboro (TEB)	Miami (OPF)	LXJ459	2:25	12:45 PM	12:45 PM	—		Landed 3:11 PM		 
+ 	04 Jan 2026	Antigua (ANU)	Teterboro (TEB)	LXJ459	4:18	8:00 AM	8:19 AM	11:03 AM		Landed 11:37 AM		 
+ 	02 Jan 2026	Cleveland (CLE)	Antigua (ANU)	LXJ459	3:54	11:00 AM	11:14 AM	3:56 PM		Landed 4:07 PM		 
+
+ 	30 Dec 2025	White Plains (HPN)	Cleveland (CLE)	LXJ459	1:14	4:40 PM	5:34 PM	5:53 PM		Landed 6:48 PM		 
+ 	30 Dec 2025	Bozeman (BZN)	White Plains (HPN)	LXJ459	3:38	10:00 AM	10:40 AM	3:50 PM		Landed 4:19 PM		 
+ 	30 Dec 2025	San Francisco (SFO)	Bozeman (BZN)	LXJ459	1:45	6:12 AM	7:01 AM	9:12 AM		Landed 9:46 AM		 
+ 	28 Dec 2025	Kailua-Kona (KOA)	Ontario (ONT)	LXJ459	—	9:30 AM	10:07 AM	5:02 PM		Diverted to SFO		 
+ 	27 Dec 2025	Phoenix (PHX)	Kailua-Kona (KOA)	LXJ459	6:00	1:01 PM	2:06 PM	4:02 PM		Landed 5:05 PM		 
+ 	27 Dec 2025	Midland (MAF)	Phoenix (PHX)	LXJ459	1:29	11:30 AM	12:24 PM	12:05 PM		Landed 12:53 PM		 
+ 	27 Dec 2025	Laredo (LRD)	Midland (MAF)	LXJ459	0:49	9:31 AM	10:14 AM	10:32 AM		Landed 11:04 AM		 
+ 	26 Dec 2025	Cabo San Lucas (CSL)	Austin (AUS)	LXJ459	—	9:09 PM	7:31 PM	10:04 PM		Diverted to LRD		 
+ 	26 Dec 2025	Austin (AUS)	Cabo San Lucas (CSL)	LXJ459	2:19	1:00 PM	3:02 PM	2:19 PM		Landed 4:22 PM		 
+ 	25 Dec 2025	Cabo San Lucas (CSL)	Austin (AUS)	LXJ459	2:04	9:56 AM	9:49 AM	1:02 PM		Landed 12:53 PM		 
+ 	24 Dec 2025	Van Nuys (VNY)	Cabo San Lucas (CSL)	LXJ459	2:19	8:45 AM	9:09 AM	12:06 PM		Landed 12:28 PM		 
+ 	23 Dec 2025	Salt Lake City (SLC)	Van Nuys (VNY)	LXJ459	1:42	1:30 PM	2:09 PM	2:19 PM		Landed 2:51 PM		 
+ 	20 Dec 2025	Tampa (TPA)	Salt Lake City (SLC)	LXJ459	4:25	10:30 AM	12:00 PM	12:50 PM		Landed 2:25 PM		 
+ 	20 Dec 2025	Teterboro (TEB)	Tampa (TPA)	LXJ459	2:22	7:30 AM	8:14 AM	10:11 AM		Landed 10:36 AM		 
+ 	19 Dec 2025	Miami (TMB)	Teterboro (TEB)	LXJ459	2:48	1:00 PM	2:25 PM	3:31 PM		Landed 5:12 PM		 
+ 	19 Dec 2025	Miami (OPF)	Miami (TMB)	LXJ459	0:15	11:10 AM	12:04 PM	11:25 AM		Landed 12:19 PM		 
+ 	18 Dec 2025	Teterboro (TEB)	Miami (OPF)	LXJ459	2:52	5:00 PM	6:12 PM	7:45 PM		Landed 9:05 PM		 
+ 	18 Dec 2025	White Plains (HPN)	Teterboro (TEB)	LXJ459	0:17	3:04 PM	2:02 PM	3:31 PM		Landed 2:19 PM		 
+ 	18 Dec 2025	West Palm Beach (PBI)	White Plains (HPN)	LXJ459	2:20	9:30 AM	10:23 AM	12:00 PM		Landed 12:43 PM		 
+ 	17 Dec 2025	Orlando (SFB)	West Palm Beach (PBI)	LXJ459	0:46	10:23 AM	2:37 PM	10:59 AM		Landed 3:23 PM		 
+ 	15 Dec 2025	Boca Raton (BCT)	Orlando (SFB)	LXJ459	0:40	3:01 PM	4:02 PM	3:27 PM		Landed 4:43 PM		 
+ 	15 Dec 2025	Liberia (LIR)	Boca Raton (BCT)	LXJ459	2:23	2:19 PM	11:56 AM	2:28 PM		Landed 3:19 PM		 
+ 	15 Dec 2025	West Palm Beach (PBI)	Liberia (LIR)	LXJ459	2:55	8:24 AM	8:43 AM	10:13 AM		Landed 10:38 AM		 
+ 	14 Dec 2025	St. Louis (SUS)	West Palm Beach (PBI)	LXJ459	2:06	10:30 AM	12:58 PM	4:24 PM		Landed 4:05 PM		 
+ 	13 Dec 2025	Miami (MIA)	St. Louis (SUS)	LXJ459	2:28	9:00 AM	9:53 AM	10:33 AM		Landed 11:21 AM		 
+ 	12 Dec 2025	Liberia (LIR)	Miami (MIA)	LXJ459	2:16	2:56 PM	12:41 PM	3:28 PM		Landed 3:56 PM		 
+ 	12 Dec 2025	Boca Raton (BCT)	Liberia (LIR)	LXJ459	2:41	9:30 AM	10:11 AM	11:18 AM		Landed 11:52 AM		 
+ 	11 Dec 2025	Orlando (ORL)	Boca Raton (BCT)	LXJ459	0:37	1:30 PM	2:09 PM	2:13 PM		Landed 2:46 PM		 
+ 	11 Dec 2025	Atlanta (PDK)	Orlando (ORL)	LXJ459	1:01	11:23 AM	11:50 AM	12:31 PM		Landed 12:52 PM		 
+ 	11 Dec 2025	Charlotte (CLT)	Atlanta (PDK)	LXJ459	0:44	10:00 AM	10:30 AM	10:49 AM		Landed 11:14 AM		 
+ 	10 Dec 2025	West Palm Beach (PBI)	Charlotte (CLT)	LXJ459	1:25	10:43 PM	11:03 PM	12:20 AM		Landed 12:28 AM		 
+ 	10 Dec 2025	Philadelphia (PHL)	West Palm Beach (PBI)	LXJ459	2:23	7:30 PM	7:52 PM	9:45 PM		Landed 10:15 PM		 
+ 	10 Dec 2025	West Palm Beach (PBI)	Philadelphia (PHL)	LXJ459	2:13	7:00 AM	7:37 AM	9:50 AM		Landed 9:50 AM		 
+ 	09 Dec 2025	Greenville-Spartanburg (GSP)	West Palm Beach (PBI)	LXJ459	1:25	2:35 PM	1:10 PM	2:35 PM		Landed 2:35 PM		 
+ 	08 Dec 2025	Miami (OPF)	Greenville-Spartanburg (GSP)	LXJ459	1:25	1:28 PM	12:02 PM	1:28 PM		Landed 1:28 PM		 
+ 	08 Dec 2025	Teterboro (TEB)	Miami (OPF)	LXJ459	2:54	10:51 AM	7:57 AM	10:51 AM		Landed 10:51 AM		 
+ 	07 Dec 2025	Cartagena (CTG)	Teterboro (TEB)	LXJ459	4:27	2:56 PM	10:29 AM	2:56 PM		Landed 2:56 PM		 
+ 	06 Dec 2025	Belize City (BZE)	Cartagena (CTG)	LXJ459	2:09	5:38 PM	3:29 PM	6:38 PM		Landed 6:38 PM		 
+ 	06 Dec 2025	Dallas (DAL)	Belize City (BZE)	LXJ459	2:39	2:15 PM	11:36 AM	2:15 PM		Landed 2:15 PM		 
+ 	03 Dec 2025	San Antonio (SAT)	Dallas (DAL)	LXJ459	0:49	10:20 AM	9:30 AM	10:20 AM		Landed 10:20 AM		 
+ 	02 Dec 2025	Morristown (MMU)	San Antonio (SAT)	LXJ459	3:53	11:45 AM	11:58 AM	2:42 PM		Landed 2:51 PM		 
+ 	02 Dec 2025	Teterboro (TEB)	Morristown (MMU)	LXJ459	0:17	9:46 AM	9:43 AM	10:00 AM		Landed 10:00 AM		 
+ 	02 Dec 2025	Aguadilla (BQN)	Teterboro (TEB)	LXJ459	3:38	5:40 AM	6:01 AM	8:11 AM		Landed 8:39 AM		 
+ 	01 Dec 2025	San Juan (SJU)	Aguadilla (BQN)	LXJ459	0:20	3:30 PM	3:10 PM	3:28 PM		Landed 3:30 PM		 
+ 	01 Dec 2025	New York (JFK)	San Juan (SJU)	LXJ459	3:18	9:00 AM	9:45 AM	1:31 PM		Landed 2:03 PM		 
+ 	30 Nov 2025	White Plains (HPN)	New York (JFK)	LXJ459	0:30	2:10 PM	4:19 PM	3:10 PM		Landed 4:49 PM		 
+ 	30 Nov 2025	The Valley (AXA)	White Plains (HPN)	LXJ459	4:12	10:00 AM	10:30 AM	12:46 PM		Landed 1:42 PM		 
+ 	29 Nov 2025	Naples (APF)	The Valley (AXA)	LXJ459	2:34	12:30 PM	12:54 PM	4:30 PM		Landed 4:27 PM		 
+ 	28 Nov 2025	Chicago (PWK)	Naples (APF)	LXJ459	2:22	7:00 PM	7:27 PM	10:32 PM		Landed 10:49 PM		 
+ 	28 Nov 2025	Fernandina Beach (QSB)	Chicago (PWK)	LXJ459	2:17	3:30 PM	4:03 PM	4:41 PM		Landed 5:20 PM		 
+ 	25 Nov 2025	Chicago (PWK)	Fernandina Beach (QSB)	LXJ459	1:53	3:30 PM	4:04 PM	6:30 PM		Landed 6:57 PM		 
+ 	25 Nov 2025	Evansville (EVV)	Chicago (PWK)	LXJ459	0:53	1:39 PM	1:07 PM	2:33 PM		Landed 2:00 PM		 
+ 	25 Nov 2025	Miami (TMB)	Evansville (EVV)	LXJ459	2:09	8:45 AM	9:39 AM	10:00 AM		Landed 10:49 AM		 
+ 	24 Nov 2025	Miami (MIA)	Miami (TMB)	LXJ459	0:15	4:05 PM	4:34 PM	4:20 PM		Landed 4:49 PM		 
+ 	24 Nov 2025	New York (JFK)	Miami (MIA)	LXJ459	2:22	1:00 PM	1:30 PM	3:25 PM		Landed 3:52 PM		 
+ 	24 Nov 2025	White Plains (HPN)	New York (JFK)	LXJ459	0:26	10:33 AM	10:55 AM	11:05 AM		Landed 11:21 AM		 
+ 	22 Nov 2025	Los Angeles (LAX)	White Plains (HPN)	LXJ459	4:42	10:30 PM	11:15 PM	6:22 AM		Landed 6:57 AM		 
+ 	22 Nov 2025	Santa Ana (SNA)	Los Angeles (LAX)	LXJ459	0:16	8:37 PM	8:52 PM	8:56 PM		Landed 9:08 PM		 
+ 	21 Nov 2025	San Jose (SJC)	Santa Ana (SNA)	LXJ459	1:28	8:00 PM	8:10 PM	9:04 PM		Landed 9:38 PM		 
+ 	21 Nov 2025	Santa Ana (SNA)	San Jose (SJC)	LXJ459	0:55	10:00 AM	10:46 AM	11:07 AM		Landed 11:41 AM		 
+ 	20 Nov 2025	New Haven (HVN)	Santa Ana (SNA)	LXJ459	5:54	3:30 PM	3:55 PM	6:11 PM		Landed 6:49 PM		 
+ 	20 Nov 2025	Teterboro (TEB)	New Haven (HVN)	LXJ459	0:26	12:45 PM	1:50 PM	1:13 PM		Landed 2:15 PM		 
+ 	20 Nov 2025	Chicago (MDW)	Teterboro (TEB)	LXJ459	1:26	9:00 AM	9:58 AM	11:41 AM		Landed 12:25 PM		 
+ 	19 Nov 2025	Cleveland (CLE)	Chicago (MDW)	LXJ459	0:58	6:02 PM	5:57 PM	6:06 PM		Landed 5:55 PM		 
+ 	11 Nov 2025	Akron (CAK)	Cleveland (CGF)	LXJ459	-	9:34 AM	9:54 AM	9:55 AM		Diverted to CLE		 
+ 	11 Nov 2025	Oklahoma City (OKC)	Akron (CAK)	LXJ459	2:05	5:30 AM	6:14 AM	8:44 AM		Landed 9:19 AM		 
+ 	10 Nov 2025	Dallas (DAL)	Oklahoma City (OKC)	LXJ459	0:38	2:13 PM	3:47 PM	2:57 PM		Landed 4:25 PM		 
+ 	10 Nov 2025	Providenciales (PLS)	Dallas (DAL)	LXJ459	3:55	11:00 AM	11:30 AM	1:59 PM		Landed 2:26 PM		 
+ 	10 Nov 2025	Boca Raton (BCT)	Providenciales (PLS)	LXJ459	1:27	8:35 AM	8:30 AM	10:07 AM		Landed 9:57 AM		 
+ 	09 Nov 2025	Houston (SGR)	Boca Raton (BCT)	LXJ459	1:57	3:30 PM	4:08 PM	6:42 PM		Landed 7:05 PM		 
+ 	09 Nov 2025	North Eleuthera (ELH)	Houston (SGR)	LXJ459	2:59	12:30 PM	12:08 PM	2:20 PM		Landed 2:07 PM		 
+ 	09 Nov 2025	Miami (OPF)	North Eleuthera (ELH)	LXJ459	0:40	10:46 AM	10:46 AM	11:34 AM		Landed 11:26 AM		 
+ 	08 Nov 2025	Teterboro (TEB)	Miami (OPF)	LXJ459	2:44	5:00 PM	7:08 PM	7:45 PM		Landed 9:52 PM		 
+ 	08 Nov 2025	Providence (PVD)	Teterboro (TEB)	LXJ459	0:48	2:44 PM	2:55 PM	3:39 PM		Landed 3:43 PM		 
+ 	08 Nov 2025	Miami (MIA)	Providence (PVD)	LXJ459	2:42	10:30 AM	11:17 AM	1:08 PM		Landed 2:00 PM		 
+ 	07 Nov 2025	George Town (GCM)	Miami (MIA)	LXJ459	1:06	4:41 PM	3:34 PM	3:39 PM		Landed 4:41 PM		 
+ 	07 Nov 2025	Teterboro (TEB)	George Town (GCM)	LXJ459	3:33	10:00 AM	11:07 AM	1:25 PM		Landed 2:40 PM		 
+ 	06 Nov 2025	South Bend (SBN)	Teterboro (TEB)	LXJ459	1:20	6:49 PM	8:12 PM	8:24 PM		Landed 9:32 PM		 
+ 	06 Nov 2025	Philadelphia (TTN)	South Bend (SBN)	LXJ459	1:34	4:15 PM	5:02 PM	5:52 PM		Landed 6:36 PM		 
+ 	06 Nov 2025	Fort Myers (RSW)	Philadelphia (TTN)	LXJ459	2:19	12:30 PM	12:48 PM	3:13 PM		Landed 3:07 PM		 
+ 	05 Nov 2025	Houston (DWH)	Fort Myers (RSW)	LXJ459	2:09	10:30 AM	11:26 AM	1:51 PM		Landed 2:36 PM		 
+ 	05 Nov 2025	Dallas (DAL)	Houston (DWH)	LXJ459	0:37	8:47 AM	9:13 AM	9:38 AM		Landed 9:50 AM		 
+ 	03 Nov 2025	Cabo San Lucas (CSL)	Dallas (DAL)	LXJ459	2:29	10:39 AM	10:42 AM	2:07 PM		Landed 2:11 PM		 
+ 	02 Nov 2025	Vancouver (YVR)	Vancouver (YVR)	LXJ459	-	3:30 PM	3:48 PM	7:46 PM		Diverted to CSL		 
+ 	02 Nov 2025	Sacramento (MHR)	Vancouver (YVR)	LXJ459	1:41	12:15 PM	12:21 PM	2:06 PM		Landed 2:01 PM		 
+ 	01 Nov 2025	New York (EWR)	Sacramento (MHR)	LXJ459	5:03	5:15 PM	5:17 PM	7:17 PM		Landed 7:19 PM		 
+ 	01 Nov 2025	Charleston (JZI)	New York (EWR)	LXJ459	1:30	2:14 PM	2:25 PM	3:59 PM		Landed 3:55 PM		 
+ 	31 Oct 2025	White Plains (HPN)	Charleston (JZI)	LXJ459	1:46	7:39 AM	12:44 PM	8:05 AM		Landed 2:31 PM		 
+ 	29 Oct 2025	Washington (DCA)	White Plains (HPN)	LXJ459	0:49	4:45 PM	4:51 PM	5:51 PM		Landed 5:39 PM		 
+ 	29 Oct 2025	Washington (IAD)	Washington (DCA)	LXJ459	0:19	2:53 PM	2:55 PM	3:09 PM		Landed 3:14 PM		 
+ 	28 Oct 2025	San Francisco (SFO)	Washington (IAD)	LXJ459	4:39	1:45 PM	2:16 PM	9:33 PM		Landed 9:55 PM		 
+ 	28 Oct 2025	Oakland (OAK)	San Francisco (SFO)	LXJ459	0:13	11:57 AM	12:48 PM	12:10 PM		Landed 1:02 PM		 
+ 	25 Oct 2025	Van Nuys (VNY)	Napa (APC)	LXJ459	-	9:30 AM	9:25 AM	9:39 AM		Diverted to OAK		 
+ 	24 Oct 2025	San Jose (SJC)	Van Nuys (VNY)	LXJ459	0:45	1:30 PM	2:13 PM	1:58 PM		Landed 1:58 PM		 
+ 	24 Oct 2025	Mountain View (NUQ)	San Jose (SJC)	LXJ459	0:14	11:41 AM	12:40 PM	11:52 AM		Landed 12:54 PM		 
+ 	24 Oct 2025	Teterboro (TEB)	Mountain View (NUQ)	LXJ459	5:30	8:00 AM	9:12 AM	10:18 AM		Landed 11:42 AM		 
+ 	23 Oct 2025	Coatesville (CTH)	Teterboro (TEB)	LXJ459	0:36	3:38 PM	4:06 PM	4:10 PM		Landed 4:42 PM		 
+ 	23 Oct 2025	West Palm Beach (PBI)	Coatesville (CTH)	LXJ459	2:17	12:30 PM	1:09 PM	3:13 PM		Landed 3:26 PM		 
+ 	23 Oct 2025	White Plains (HPN)	West Palm Beach (PBI)	LXJ459	2:30	8:00 AM	9:12 AM	10:27 AM		Landed 11:42 AM		 
+ 	22 Oct 2025	Zurich (ZRH)	White Plains (HPN)	LXJ459	8:51	4:50 PM	5:13 PM	7:42 PM		Landed 8:04 PM		 
+ 	20 Oct 2025	White Plains (HPN)	Zurich (ZRH)	LXJ459	7:18	6:30 AM	6:49 AM	7:55 PM		Landed 8:07 PM		 
+ 	19 Oct 2025	Charlottesville (CHO)	White Plains (HPN)	LXJ459	1:06	2:30 PM	3:07 PM	3:45 PM		Landed 4:13 PM		 
+ 	19 Oct 2025	Dallas (DAL)	Charlottesville (CHO)	LXJ459	2:09	10:11 AM	10:45 AM	1:32 PM		Landed 1:54 PM		 
+ 	18 Oct 2025	Pickens (LQK)	El Dorado (ELD)	LXJ459	-	7:00 PM	8:26 PM	7:31 PM		Diverted to DAL		 
+ 	18 Oct 2025	Dallas (DAL)	Pickens (LQK)	LXJ459	1:43	10:40 AM	11:25 AM	1:32 PM		Landed 2:08 PM		 
+ 	17 Oct 2025	Austin (AUS)	Dallas (DAL)	LXJ459	0:43	5:31 PM	6:07 PM	6:16 PM		Landed 6:50 PM		 
+ 	17 Oct 2025	San Jose (SJC)	Austin (AUS)	LXJ459	3:11	11:30 AM	12:04 PM	4:41 PM		Landed 5:15 PM		 
+ 	16 Oct 2025	San Francisco (SFO)	San Jose (SJC)	LXJ459	0:19	9:05 PM	10:04 PM	9:42 PM		Landed 10:23 PM		 
+ 	16 Oct 2025	Washington (IAD)	San Francisco (SFO)	LXJ459	5:15	5:30 PM	6:21 PM	7:48 PM		Landed 8:36 PM		 
+ 	16 Oct 2025	South Bend (SBN)	Washington (IAD)	LXJ459	1:06	3:33 PM	3:56 PM	4:57 PM		Landed 5:02 PM		 
+ 	16 Oct 2025	Philadelphia (TTN)	South Bend (SBN)	LXJ459	1:35	1:00 PM	1:38 PM	2:35 PM		Landed 3:13 PM		 
+ 	16 Oct 2025	Washington (IAD)	Philadelphia (TTN)	LXJ459	0:38	11:17 AM	11:31 AM	12:00 PM		Landed 12:09 PM		 
+ 	15 Oct 2025	Los Angeles (LAX)	Washington (IAD)	LXJ459	4:14	3:30 PM	3:57 PM	10:57 PM		Landed 11:11 PM		 
+ 	14 Oct 2025	Cabo San Lucas (CSL)	Los Angeles (LAX)	LXJ459	2:04	3:06 PM	3:59 PM	5:03 PM		Landed 5:03 PM		 
+ 	14 Oct 2025	Miami (OPF)	Cabo San Lucas (CSL)	LXJ459	3:49	1:00 PM	1:58 PM	1:56 PM		Landed 2:46 PM		 
+ 	14 Oct 2025	White Plains (HPN)	Miami (OPF)	LXJ459	2:41	8:29 AM	10:02 AM	10:58 AM		Landed 12:42 PM		 
+ 	13 Oct 2025	Burlington (QQY)	White Plains (HPN)	LXJ459	1:20	7:02 PM	6:44 PM	8:34 PM		Landed 8:04 PM		 
+ 	13 Oct 2025	Akron (CAK)	Burlington (QQY)	LXJ459	0:49	5:03 PM	5:13 PM	6:03 PM		Landed 6:02 PM		 
+ 	13 Oct 2025	Las Vegas (LAS)	Akron (CAK)	LXJ459	3:16	9:30 AM	10:37 AM	4:00 PM		Landed 4:53 PM		 
+ 	13 Oct 2025	Van Nuys (VNY)	Las Vegas (LAS)	LXJ459	0:42	7:33 AM	8:06 AM	8:20 AM		Landed 8:48 AM		 
+ 	11 Oct 2025	White Plains (HPN)	Van Nuys (VNY)	LXJ459	5:29	9:15 PM	11:09 PM	11:54 PM		Landed 1:38 AM		 
+ 	10 Oct 2025	Raleigh-Durham (RDU)	White Plains (HPN)	LXJ459	1:14	3:00 PM	3:40 PM	4:25 PM		Landed 4:55 PM		 
+ 	10 Oct 2025	West Palm Beach (PBI)	Raleigh-Durham (RDU)	LXJ459	1:33	11:57 AM	11:23 AM	1:49 PM		Landed 12:56 PM		 
+ 	10 Oct 2025	Houston (SGR)	West Palm Beach (PBI)	LXJ459	1:58	6:30 AM	7:03 AM	9:43 AM		Landed 10:01 AM		 
+ 	09 Oct 2025	Nashville (BNA)	Houston (SGR)	LXJ459	1:29	9:15 PM	9:05 PM	10:57 PM		Landed 10:34 PM		 
+ 	09 Oct 2025	Houston (SGR)	Nashville (BNA)	LXJ459	1:39	2:20 PM	3:10 PM	4:03 PM		Landed 4:48 PM		 
+ 	08 Oct 2025	New Orleans (NEW)	Houston (SGR)	LXJ459	0:54	4:30 PM	4:41 PM	5:31 PM		Landed 5:35 PM		 
+ 	08 Oct 2025	San Luis Obispo (SBP)	New Orleans (NEW)	LXJ459	3:30	9:30 AM	9:56 AM	3:07 PM		Landed 3:26 PM		 
+ 	07 Oct 2025	Los Angeles (LAX)	San Luis Obispo (SBP)	LXJ459	0:31	5:33 PM	6:03 PM	6:13 PM		Landed 6:34 PM		 
+ 	07 Oct 2025	Miami (MIA)	Los Angeles (LAX)	LXJ459	5:13	2:30 PM	3:04 PM	4:35 PM		Landed 5:16 PM		 
+ 	07 Oct 2025	Boca Raton (BCT)	Miami (MIA)	LXJ459	0:22	12:36 PM	1:00 PM	1:00 PM		Landed 1:21 PM		 
+ 	06 Oct 2025	New York (LGA)	Boca Raton (BCT)	LXJ459	2:15	10:30 AM	11:24 AM	12:50 PM		Landed 1:39 PM		 
+ 	05 Oct 2025	Chicago (MDW)	New York (LGA)	LXJ459	1:35	3:00 PM	3:59 PM	5:49 PM		Landed 6:34 PM		 
+ 	05 Oct 2025	Dallas (DAL)	Chicago (MDW)	LXJ459	1:50	11:00 AM	11:40 AM	1:02 PM		Landed 1:30 PM		 
+ 	04 Oct 2025	San Jose del Cabo (SJD)	Dallas (DAL)	LXJ459	2:29	9:15 AM	9:18 AM	1:43 PM		Landed 1:46 PM		 
+ 	04 Oct 2025	Scottsdale (SCF)	San Jose del Cabo (SJD)	LXJ459	1:42	6:02 AM	6:24 AM	7:53 AM		Landed 8:06 AM		 
+ 	03 Oct 2025	Scottsdale (SCF)	Scottsdale (SCF)	LXJ459	0:18	3:00 PM	3:12 PM	3:33 PM		Landed 3:30 PM		 
+ 	03 Oct 2025	Monterey (MRY)	Scottsdale (SCF)	LXJ459	1:21	7:30 AM	7:45 AM	9:06 AM		Landed 9:07 AM		 
+ 	02 Oct 2025	Oakland (OAK)	Monterey (MRY)	LXJ459	0:30	6:54 PM	7:28 PM	7:57 PM		Landed 7:58 PM		 
+ 	02 Oct 2025	Camarillo (QTC)	Oakland (OAK)	LXJ459	0:46	5:00 PM	6:01 PM	5:56 PM		Landed 6:46 PM		 
+ 	02 Oct 2025	Thermal (TRM)	Camarillo (QTC)	LXJ459	0:40	2:46 PM	3:19 PM	3:33 PM		Landed 3:59 PM		 
+ 	02 Oct 2025	Van Nuys (VNY)	Thermal (TRM)	LXJ459	0:28	11:30 AM	12:24 PM	12:51 PM		Landed 12:53 PM		 
+ 	02 Oct 2025	San Francisco (SFO)	Van Nuys (VNY)	LXJ459	0:51	10:00 AM	10:10 AM	11:00 AM		Landed 11:00 AM	
+
+ 	30 Sep 2025	Nassau (NAS)	San Francisco (SFO)	LXJ459	5:57	8:00 AM	11:21 AM	10:49 AM		Landed 2:18 PM		 
+ 	29 Sep 2025	Naples (APF)	Nassau (NAS)	LXJ459	0:46	6:10 PM	6:28 PM	7:06 PM		Landed 7:14 PM		 
+ 	29 Sep 2025	Baltimore (BWI)	Naples (APF)	LXJ459	2:21	2:30 PM	3:04 PM	5:24 PM		Landed 5:25 PM		 
+ 	29 Sep 2025	Detroit (DTW)	Baltimore (BWI)	LXJ459	1:08	11:55 AM	12:39 PM	1:59 PM		Landed 1:47 PM		 
+ 	28 Sep 2025	Chicago (ORD)	Windsor (YQG)	LXJ459	-	2:30 PM	4:11 PM	5:53 PM		Diverted to DTW		 
+ 	28 Sep 2025	Traverse City (TVC)	Chicago (ORD)	LXJ459	0:45	12:30 PM	1:00 PM	12:57 PM		Landed 12:45 PM		 
+ 	28 Sep 2025	Cleveland (CGF)	Traverse City (TVC)	LXJ459	0:52	10:06 AM	10:40 AM	11:37 AM		Landed 11:33 AM		 
+ 	27 Sep 2025	Bangor (BGR)	Cleveland (CGF)	LXJ459	1:38	10:38 AM	11:35 AM	1:10 PM		Landed 1:13 PM		 
+ 	27 Sep 2025	Dublin (DUB)	Bangor (BGR)	LXJ459	6:02	9:00 AM	9:59 AM	10:59 AM		Landed 11:01 AM		 
+ 	25 Sep 2025	London (LTN)	Dublin (DUB)	LXJ459	0:53	7:24 PM	7:50 PM	8:31 PM		Landed 8:43 PM		 
+ 	25 Sep 2025	Toronto (YYZ)	London (LTN)	LXJ459	6:39	6:30 AM	6:54 AM	6:06 PM		Landed 6:33 PM		 
+ 	24 Sep 2025	Bedford (BED)	Toronto (YYZ)	LXJ459	1:20	10:24 AM	10:42 AM	12:08 PM		Landed 12:01 PM		 
+ 	23 Sep 2025	San Jose (SJC)	Bedford (BED)	LXJ459	5:00	1:00 PM	2:18 PM	10:21 PM		Landed 10:18 PM		 
+ 	23 Sep 2025	Van Nuys (VNY)	San Jose (SJC)	LXJ459	0:42	10:38 AM	11:04 AM	11:54 AM		Landed 11:47 AM		 
+ 	22 Sep 2025	Cancun (CUN)	Van Nuys (VNY)	LXJ459	4:32	9:49 PM	5:17 PM	7:32 PM		Landed 7:49 PM		 
+ 	22 Sep 2025	Nashville (BNA)	Cancun (CUN)	LXJ459	2:23	1:10 PM	1:24 PM	4:05 PM		Landed 3:47 PM		 
+ 	21 Sep 2025	Little Rock (LIT)	Nashville (BNA)	LXJ459	0:48	9:30 PM	10:07 PM	11:03 PM		Landed 10:55 PM		 
+ 	21 Sep 2025	Chicago (MDW)	Little Rock (LIT)	LXJ459	1:16	6:54 PM	8:12 PM	9:30 PM		Landed 9:28 PM		 
+ 	21 Sep 2025	Teterboro (TEB)	Chicago (MDW)	LXJ459	2:02	5:00 PM	5:47 PM	6:48 PM		Landed 6:48 PM		 
+ 	20 Sep 2025	Dallas (DAL)	Teterboro (TEB)	LXJ459	2:50	8:30 PM	9:04 PM	12:54 AM		Landed 12:54 AM		 
+ 	20 Sep 2025	Teterboro (TEB)	Dallas (DAL)	LXJ459	3:00	4:30 PM	4:35 PM	6:47 PM		Landed 6:35 PM		 
+ 	19 Sep 2025	Aspen (ASE)	Teterboro (TEB)	LXJ459	3:32	8:30 AM	9:20 AM	2:55 PM		Landed 2:53 PM		 
+ 	18 Sep 2025	Teterboro (TEB)	Aspen (ASE)	LXJ459	3:43	7:00 AM	7:53 AM	9:41 AM		Landed 9:36 AM		 
+ 	16 Sep 2025	Dillingham (DLG)	Teterboro (TEB)	LXJ459	7:03	9:30 AM	10:18 AM	9:21 PM		Landed 9:21 PM		 
+ 	14 Sep 2025	King Salmon (AKN)	Dillingham (DLG)	LXJ459	0:18	7:25 PM	7:23 PM	7:41 PM		Landed 7:42 PM		 
+ 	14 Sep 2025	Monterey (MRY)	King Salmon (AKN)	LXJ459	4:34	1:30 PM	3:25 PM	7:02 PM		Landed 6:59 PM		 
+ 	14 Sep 2025	San Jose (SJC)	Monterey (MRY)	LXJ459	0:22	11:40 AM	12:06 PM	12:38 PM		Landed 12:28 PM		 
+ 	13 Sep 2025	Atlanta (QQR)	San Jose (SJC)	LXJ459	4:29	1:30 PM	2:45 PM	2:59 PM		Landed 4:14 PM		 
+ 	13 Sep 2025	Pontiac (PTK)	Atlanta (QQR)	LXJ459	1:23	10:31 AM	11:01 AM	12:03 PM		Landed 12:24 PM		 
+ 	12 Sep 2025	Boca Raton (BCT)	Pontiac (PTK)	LXJ459	2:24	10:30 AM	11:00 AM	1:29 PM		Landed 1:23 PM		 
+ 	12 Sep 2025	Venice (VNC)	Boca Raton (BCT)	LXJ459	0:32	8:20 AM	8:55 AM	9:31 AM		Landed 9:27 AM		 
+ 	11 Sep 2025	Morristown (MMU)	Venice (VNC)	LXJ459	2:29	11:30 AM	12:37 PM	3:06 PM		Landed 3:06 PM		 
+ 	11 Sep 2025	Orlando (SFB)	Morristown (MMU)	LXJ459	2:00	8:00 AM	9:25 AM	11:23 AM		Landed 11:25 AM		 
+ 	07 Sep 2025	Sarasota (SRQ)	Orlando (SFB)	LXJ459	0:33	4:07 PM	3:25 PM	3:59 PM		Landed 3:58 PM		 
+ 	07 Sep 2025	Chattanooga (CHA)	Sarasota (SRQ)	LXJ459	1:20	1:45 PM	1:42 PM	3:24 PM		Landed 3:02 PM		 
+ 	07 Sep 2025	Nashville (BNA)	Chattanooga (CHA)	LXJ459	0:23	11:30 AM	11:59 AM	1:30 PM		Landed 1:22 PM		 
+ 	07 Sep 2025	Council Bluffs (CBF)	Nashville (BNA)	LXJ459	1:19	8:33 AM	9:02 AM	10:28 AM		Landed 10:21 AM		 
+ 	06 Sep 2025	St. Louis (CPS)	Council Bluffs (CBF)	LXJ459	0:54	6:15 PM	6:54 PM	7:56 PM		Landed 7:48 PM		 
+ 	06 Sep 2025	Tuscaloosa (TCL)	St. Louis (CPS)	LXJ459	0:56	2:30 PM	2:11 PM	3:55 PM		Landed 3:07 PM		 
+ 	06 Sep 2025	Santa Ana (SNA)	Tuscaloosa (TCL)	LXJ459	3:09	8:15 AM	8:32 AM	2:21 PM		Landed 1:41 PM		 
+ 	05 Sep 2025	Van Nuys (VNY)	Santa Ana (SNA)	LXJ459	0:18	1:30 PM	2:12 PM	2:34 PM		Landed 2:30 PM		 
+ 	01 Sep 2025	Pellston (PLN)	Van Nuys (VNY)	LXJ459	3:58	12:30 PM	1:38 PM	2:45 PM		Landed 2:35 PM		 
+ 	01 Sep 2025	Detroit (DTW)	Pellston (PLN)	LXJ459	0:42	10:14 AM	10:54 AM	11:36 AM		Landed 11:36 AM		 
+ 	29 Aug 2025	Windsor (YQG)	Detroit (DTW)	LXJ459	0:13	5:00 PM	5:05 PM	5:18 PM		Landed 5:18 PM		 
+ 	29 Aug 2025	Youngstown (YNG)	Windsor (YQG)	LXJ459	0:32	1:30 PM	2:26 PM	3:04 PM		Landed 2:58 PM		 
+ 	29 Aug 2025	Cleveland (CLE)	Youngstown (YNG)	LXJ459	0:15	9:25 AM	9:22 AM	9:40 AM		Landed 9:37 AM		 
+ 	29 Aug 2025	Windsor (YQG)	Cleveland (CLE)	LXJ459	0:19	8:30 AM	8:33 AM	9:16 AM		Landed 8:52 AM		 
+ 	28 Aug 2025	Atlanta (PDK)	Windsor (YQG)	LXJ459	1:24	3:00 PM	3:06 PM	4:47 PM		Landed 4:30 PM		 
+ 	27 Aug 2025	Dallas (DAL)	Atlanta (PDK)	LXJ459	1:36	9:50 AM	10:33 AM	1:11 PM		Landed 1:09 PM		 
+ 	26 Aug 2025	Dallas (DAL)	Dallas (DAL)	LXJ459	0:17	12:45 PM	1:21 PM	1:14 PM		Landed 1:37 PM		 
+ 	26 Aug 2025	Aspen (ASE)	Dallas (DAL)	LXJ459	1:40	8:30 AM	9:08 AM	11:53 AM		Landed 11:48 AM		 
+ 	25 Aug 2025	Seattle (BFI)	Aspen (ASE)	LXJ459	2:16	11:30 AM	12:15 PM	3:30 PM		Landed 3:31 PM		 
+ 	24 Aug 2025	North Bend (OTH)	Seattle (BFI)	LXJ459	0:46	12:16 PM	12:48 PM	1:41 PM		Landed 1:34 PM		 
+ 	24 Aug 2025	Waukesha (UES)	North Bend (OTH)	LXJ459	3:59	9:48 AM	9:54 AM	11:50 AM		Landed 11:53 AM		 
+ 	24 Aug 2025	Holland (QTB)	Waukesha (UES)	LXJ459	0:24	9:30 AM	9:53 AM	9:03 AM		Landed 9:17 AM		 
+ 	23 Aug 2025	Charlottesville (CHO)	Holland (QTB)	LXJ459	1:19	4:52 PM	5:01 PM	6:13 PM		Landed 6:20 PM		 
+ 	23 Aug 2025	Hailey (SUN)	Charlottesville (CHO)	LXJ459	3:33	10:00 AM	10:36 AM	4:09 PM		Landed 4:08 PM		 
+ 	23 Aug 2025	Denver (APA)	Hailey (SUN)	LXJ459	1:33	7:29 AM	8:01 AM	9:23 AM		Landed 9:33 AM		 
+ 	22 Aug 2025	Washington (IAD)	Denver (APA)	LXJ459	3:05	4:30 PM	4:53 PM	6:09 PM		Landed 5:58 PM		 
+ 	22 Aug 2025	Toronto (YYZ)	Washington (IAD)	LXJ459	0:58	12:53 PM	12:52 PM	1:48 PM		Landed 1:50 PM		 
+ 	22 Aug 2025	Traverse City (TVC)	Toronto (YYZ)	LXJ459	0:48	11:00 AM	10:55 AM	12:25 PM		Landed 11:43 AM		 
+ 	21 Aug 2025	Pellston (PLN)	Traverse City (TVC)	LXJ459	0:19	4:55 PM	5:56 PM	6:29 PM		Landed 6:15 PM		 
+ 	21 Aug 2025	Chicago (MDW)	Pellston (PLN)	LXJ459	0:51	2:00 PM	3:32 PM	5:21 PM		Landed 5:22 PM		 
+ 	21 Aug 2025	Nashville (BNA)	Chicago (MDW)	LXJ459	1:06	11:23 AM	11:58 AM	12:46 PM		Landed 1:04 PM		 
+ 	20 Aug 2025	North Bend (OTH)	Nashville (BNA)	LXJ459	3:58	9:30 AM	10:09 AM	3:29 PM		Landed 4:07 PM		 
+ 	18 Aug 2025	Farmingdale (FRG)	North Bend (OTH)	LXJ459	5:31	3:30 PM	3:37 PM	6:08 PM		Landed 6:08 PM		 
+ 	18 Aug 2025	Bedford (BED)	Farmingdale (FRG)	LXJ459	0:40	12:46 PM	1:18 PM	2:08 PM		Landed 1:58 PM		 
+ 	17 Aug 2025	Bedford (BED)	Chicago (MDW)	LXJ459	2:28	7:55 PM	7:46 PM	9:14 PM		Landed 9:14 PM		 
+ 	17 Aug 2025	Nassau (NAS)	Bedford (BED)	LXJ459	2:42	4:30 PM	5:07 PM	7:20 PM		Landed 7:50 PM		 
+ 	17 Aug 2025	Houston (QSE)	Nassau (NAS)	LXJ459	2:30	11:17 AM	11:28 AM	2:59 PM		Landed 2:58 PM		 
+ 	16 Aug 2025	Philadelphia (TTN)	Houston (QSE)	LXJ459	3:10	3:00 PM	3:56 PM	5:07 PM		Landed 6:07 PM		 
+ 	16 Aug 2025	Teterboro (TEB)	Philadelphia (TTN)	LXJ459	0:14	1:04 PM	1:10 PM	1:23 PM		Landed 1:24 PM		 
+ 	16 Aug 2025	Chicago (PWK)	Teterboro (TEB)	LXJ459	1:35	8:30 AM	8:53 AM	11:37 AM		Landed 11:29 AM		 
+ 	15 Aug 2025	Chicago (MDW)	Chicago (PWK)	LXJ459	0:17	2:30 PM	3:06 PM	3:21 PM		Landed 3:23 PM		 
+ 	14 Aug 2025	North Bend (OTH)	Chicago (MDW)	LXJ459	3:40	2:30 PM	3:46 PM	9:34 PM		Landed 9:25 PM		 
+ 	14 Aug 2025	Bozeman (BZN)	North Bend (OTH)	LXJ459	1:42	12:24 PM	1:10 PM	1:57 PM		Landed 1:53 PM		 
+ 	14 Aug 2025	Washington (IAD)	Bozeman (BZN)	LXJ459	3:48	9:30 AM	10:32 AM	12:32 PM		Landed 12:19 PM		 
+ 	13 Aug 2025	Teterboro (TEB)	Washington (IAD)	LXJ459	1:06	3:30 PM	3:38 PM	4:42 PM		Landed 4:43 PM		 
+ 	11 Aug 2025	Hayward (HWD)	Teterboro (TEB)	LXJ459	5:03	10:30 AM	11:00 AM	7:11 PM		Landed 7:03 PM		 
+ 	09 Aug 2025	Las Vegas (LAS)	Hayward (HWD)	LXJ459	0:57	10:30 PM	11:44 PM	12:45 AM		Landed 12:41 AM		 
+ 	09 Aug 2025	Hayward (HWD)	Las Vegas (LAS)	LXJ459	0:58	2:30 PM	3:10 PM	4:18 PM		Landed 4:09 PM		 
+ 	08 Aug 2025	San Jose (SJC)	Hayward (HWD)	LXJ459	0:08	3:30 PM	2:22 PM	4:04 PM		Landed 2:30 PM		 
+ 	07 Aug 2025	Santa Barbara (SBA)	San Jose (SJC)	LXJ459	0:38	5:30 PM	6:24 PM	7:10 PM		Landed 7:01 PM		 
+ 	07 Aug 2025	San Diego (CLD)	Santa Barbara (SBA)	LXJ459	0:37	3:16 PM	3:06 PM	3:42 PM		Landed 3:43 PM		 
+ 	07 Aug 2025	San Jose (SJC)	San Diego (CLD)	LXJ459	1:03	10:30 AM	11:07 AM	12:18 PM		Landed 12:10 PM		 
+ 	06 Aug 2025	Denver (DEN)	San Jose (SJC)	LXJ459	2:13	2:30 PM	2:40 PM	3:51 PM		Landed 3:53 PM		 
+ 	06 Aug 2025	Aspen (ASE)	Denver (DEN)	LXJ459	0:31	11:56 AM	1:22 PM	2:02 PM		Landed 1:53 PM		 
+ 	06 Aug 2025	Napa (APC)	Aspen (ASE)	LXJ459	1:53	8:00 AM	8:55 AM	11:33 AM		Landed 11:48 AM		 
+ 	05 Aug 2025	Monterey (MRY)	Napa (APC)	LXJ459	0:29	5:17 PM	5:49 PM	6:24 PM		Landed 6:18 PM		 
+ 	05 Aug 2025	Van Nuys (VNY)	Monterey (MRY)	LXJ459	0:42	3:30 PM	4:29 PM	5:15 PM		Landed 5:11 PM		 
+ 	05 Aug 2025	Oakland (OAK)	Van Nuys (VNY)	LXJ459	0:49	1:05 PM	1:11 PM	1:59 PM		Landed 2:00 PM		 
+ 	04 Aug 2025	White Plains (HPN)	Oakland (OAK)	LXJ459	5:29	6:00 AM	6:29 AM	9:05 AM		Landed 8:58 AM		 
+ 	03 Aug 2025	Chicago (UGN)	White Plains (HPN)	LXJ459	1:42	1:55 PM	2:45 PM	5:43 PM		Landed 5:26 PM		 
+ 	03 Aug 2025	Asheville (AVL)	Chicago (UGN)	LXJ459	1:31	12:30 PM	1:22 PM	1:51 PM		Landed 1:52 PM		 
+ 	03 Aug 2025	Miami (OPF)	Asheville (AVL)	LXJ459	1:36	9:23 AM	9:53 AM	11:44 AM		Landed 11:29 AM		 
+ 	02 Aug 2025	Bangor (BGR)	Miami (OPF)	LXJ459	3:08	2:38 PM	4:59 PM	8:16 PM		Landed 8:08 PM		 
+ 	02 Aug 2025	Nice (NCE)	Bangor (BGR)	LXJ459	7:55	12:30 PM	2:06 PM	4:09 PM		Landed 4:01 PM		 
+ 	02 Aug 2025	Marseille (MRS)	Nice (NCE)	LXJ459	0:25	11:00 AM	11:12 AM	11:30 AM		Landed 11:37 AM		 
+ 	31 Jul 2025	Nice (NCE)	Marseille (MRS)	LXJ459	0:25	9:50 PM	10:24 PM	10:24 PM		Landed 10:49 PM		 
+ 	31 Jul 2025	New York (LGA)	Nice (NCE)	LXJ459	7:14	7:00 AM	7:35 AM	8:54 PM		Landed 8:49 PM		 
+ 	29 Jul 2025	Coatesville (CTH)	New York (LGA)	LXJ459	0:34	3:53 PM	3:55 PM	4:50 PM		Landed 4:29 PM		 
+ 	29 Jul 2025	Eagle (EGE)	Coatesville (CTH)	LXJ459	3:12	9:30 AM	10:12 AM	3:29 PM		Landed 3:24 PM		 
+ 	29 Jul 2025	Scottsdale (SCF)	Eagle (EGE)	LXJ459	1:15	6:10 AM	6:47 AM	9:31 AM		Landed 9:02 AM		 
+ 	28 Jul 2025	Cleveland (BKL)	Scottsdale (SCF)	LXJ459	3:41	6:30 AM	7:32 AM	8:22 AM		Landed 8:13 AM		 
+ 	27 Jul 2025	Chicago (MDW)	Cleveland (BKL)	LXJ459	0:46	4:15 PM	4:33 PM	6:20 PM		Landed 6:19 PM		 
+ 	27 Jul 2025	Santa Rosa (STS)	Chicago (MDW)	LXJ459	3:34	9:30 AM	10:14 AM	3:54 PM		Landed 3:48 PM		 
+ 	27 Jul 2025	Santa Barbara (SBA)	Santa Rosa (STS)	LXJ459	1:02	7:03 AM	7:31 AM	8:45 AM		Landed 8:33 AM		 
+ 	25 Jul 2025	Seattle (BFI)	Santa Barbara (SBA)	LXJ459	2:03	4:45 PM	4:40 PM	7:12 PM		Landed 6:43 PM		 
+ 	25 Jul 2025	Vancouver (YVR)	Seattle (BFI)	LXJ459	0:24	3:39 PM	3:47 PM	4:12 PM		Landed 4:11 PM		 
+ 	25 Jul 2025	Mountain View (NUQ)	Vancouver (YVR)	LXJ459	1:55	12:45 PM	12:46 PM	3:04 PM		Landed 2:41 PM		 
+ 	25 Jul 2025	Van Nuys (VNY)	Mountain View (NUQ)	LXJ459	0:46	9:52 AM	10:23 AM	11:17 AM		Landed 11:10 AM		 
+ 	24 Jul 2025	Santa Ana (SNA)	Van Nuys (VNY)	LXJ459	0:22	5:30 PM	6:19 PM	6:46 PM		Landed 6:41 PM		 
+ 	23 Jul 2025	Kailua-Kona (KOA)	Santa Ana (SNA)	LXJ459	4:46	12:30 PM	1:42 PM	9:27 PM		Landed 9:28 PM		 
+ 	21 Jul 2025	Long Beach (LGB)	Kailua-Kona (KOA)	LXJ459	5:22	10:00 AM	10:31 AM	12:52 PM		Landed 12:53 PM		 
+ 	20 Jul 2025	Rifle (RIL)	Long Beach (LGB)	LXJ459	1:38	1:12 PM	1:17 PM	1:54 PM		Landed 1:54 PM		 
+ 	20 Jul 2025	Panama City (ECP)	Aspen (ASE)	LXJ459	-	10:05 AM	10:22 AM	12:21 PM		Diverted to RIL		 
+ 	20 Jul 2025	West Palm Beach (PBI)	Panama City (ECP)	LXJ459	1:04	9:15 AM	9:49 AM	9:54 AM		Landed 9:53 AM		 
+ 	20 Jul 2025	Miami (OPF)	West Palm Beach (PBI)	LXJ459	0:17	7:55 AM	8:20 AM	8:37 AM		Landed 8:37 AM		 
+ 	18 Jul 2025	Atlantic City (ACY)	Miami (OPF)	LXJ459	2:10	10:24 PM	11:13 PM	1:31 AM		Landed 1:23 AM		 
+ 	18 Jul 2025	Westhampton Beach (FOK)	Atlantic City (ACY)	LXJ459	0:32	8:45 PM	10:04 PM	10:43 PM		Landed 10:36 PM		 
+ 	18 Jul 2025	Burbank (BUR)	Westhampton Beach (FOK)	LXJ459	4:57	9:30 AM	10:47 AM	6:53 PM		Landed 6:44 PM		 
+ 	18 Jul 2025	Van Nuys (VNY)	Burbank (BUR)	LXJ459	0:08	8:10 AM	8:59 AM	9:20 AM		Landed 9:06 AM		 
+ 	17 Jul 2025	Westhampton Beach (FOK)	Van Nuys (VNY)	LXJ459	5:43	3:30 PM	4:45 PM	7:27 PM		Landed 7:28 PM		 
+ 	17 Jul 2025	Asheville (AVL)	Westhampton Beach (FOK)	LXJ459	1:35	12:19 PM	1:08 PM	2:41 PM		Landed 2:43 PM		 
+ 	17 Jul 2025	St. Petersburg (PIE)	Asheville (AVL)	LXJ459	1:17	10:00 AM	10:23 AM	11:57 AM		Landed 11:40 AM		 
+ 	17 Jul 2025	Stuart (SUA)	St. Petersburg (PIE)	LXJ459	0:37	8:00 AM	8:34 AM	9:14 AM		Landed 9:11 AM		 
+ 	16 Jul 2025	Wildwood (WWD)	Stuart (SUA)	LXJ459	1:59	3:00 PM	3:41 PM	5:45 PM		Landed 5:40 PM		 
+ 	16 Jul 2025	Teterboro (TEB)	Wildwood (WWD)	LXJ459	0:32	11:28 AM	12:34 PM	1:05 PM		Landed 1:06 PM		 
+ 	15 Jul 2025	West Palm Beach (PBI)	Teterboro (TEB)	LXJ459	2:21	2:00 PM	3:05 PM	5:31 PM		Landed 5:26 PM		 
+ 	15 Jul 2025	Boca Raton (BCT)	West Palm Beach (PBI)	LXJ459	0:13	12:41 PM	1:16 PM	1:42 PM		Landed 1:29 PM		 
+ 	15 Jul 2025	Buffalo (BUF)	Boca Raton (BCT)	LXJ459	2:45	9:00 AM	9:03 AM	11:51 AM		Landed 11:48 AM		 
+ 	15 Jul 2025	Teterboro (TEB)	Buffalo (BUF)	LXJ459	0:49	6:33 AM	7:17 AM	8:16 AM		Landed 8:06 AM		 
+ 	14 Jul 2025	Paris (LBG)	Teterboro (TEB)	LXJ459	7:42	4:30 PM	4:35 PM	6:15 PM		Landed 6:16 PM		 
+ 	13 Jul 2025	Palma de Mallorca (PMI)	Paris (LBG)	LXJ459	1:43	2:35 PM	2:54 PM	4:15 PM		Landed 4:37 PM		 
+ 	12 Jul 2025	Teterboro (TEB)	Palma de Mallorca (PMI)	LXJ459	7:07	9:00 AM	8:52 AM	10:49 PM		Landed 9:59 PM		 
+ 	11 Jul 2025	Hailey (SUN)	Teterboro (TEB)	LXJ459	3:50	12:30 PM	1:22 PM	7:12 PM		Landed 7:12 PM		 
+ 	11 Jul 2025	Santa Rosa (STS)	Hailey (SUN)	LXJ459	1:16	8:35 AM	9:02 AM	11:15 AM		Landed 11:17 AM		 
+ 	10 Jul 2025	New York (LGA)	Santa Rosa (STS)	LXJ459	5:47	12:30 PM	1:22 PM	4:08 PM		Landed 4:09 PM		 
+ 	09 Jul 2025	Westhampton Beach (FOK)	New York (LGA)	LXJ459	0:20	1:33 PM	2:26 PM	2:48 PM		Landed 2:46 PM		 
+ 	09 Jul 2025	Oslo (OSL)	Westhampton Beach (FOK)	LXJ459	7:33	10:00 AM	10:24 AM	12:03 PM		Landed 11:57 AM		 
+ 	08 Jul 2025	Paris (LBG)	Oslo (OSL)	LXJ459	1:54	1:00 PM	1:10 PM	2:58 PM		Landed 3:05 PM		 
+ 	06 Jul 2025	Albany (ALB)	Paris (LBG)	LXJ459	6:44	7:00 AM	7:19 AM	7:44 PM		Landed 8:03 PM		 
+ 	05 Jul 2025	Orlando (SFB)	Albany (ALB)	LXJ459	2:24	11:30 AM	12:13 PM	2:44 PM		Landed 2:37 PM		 
+ 	02 Jul 2025	Orlando (SFB)	Orlando (SFB)	LXJ459	1:42	6:15 PM	7:42 PM	7:31 PM		Landed 9:24 PM		 
+ 	29 Apr 2025	West Palm Beach (PBI)	Orlando (SFB)	LXJ459	0:40	9:41 PM	9:23 PM	10:00 PM		Landed 10:03 PM		 
+ 	29 Apr 2025	South Lake Tahoe (TVL)	West Palm Beach (PBI)	LXJ459	4:36	12:30 PM	1:14 PM	8:49 PM		Landed 8:50 PM		 
+ 	29 Apr 2025	Seattle (BFI)	South Lake Tahoe (TVL)	LXJ459	1:23	9:32 AM	10:16 AM	11:44 AM		Landed 11:39 AM		 
+ 	28 Apr 2025	Las Vegas (LAS)	Seattle (BFI)	LXJ459	2:06	11:30 AM	12:38 PM	2:49 PM		Landed 2:44 PM		 
+ 	26 Apr 2025	Reno (RNO)	Las Vegas (LAS)	LXJ459	0:59	10:00 AM	10:13 AM	11:16 AM		Landed 11:12 AM		 
+ 	25 Apr 2025	Van Nuys (VNY)	Reno (RNO)	LXJ459	0:52	6:42 PM	7:07 PM	8:08 PM		Landed 7:59 PM		 
+ 	25 Apr 2025	Teterboro (TEB)	Van Nuys (VNY)	LXJ459	5:30	3:00 PM	3:55 PM	6:24 PM		Landed 6:25 PM		 
+ 	24 Apr 2025	Stuart (SUA)	Teterboro (TEB)	LXJ459	2:20	5:40 PM	5:58 PM	8:20 PM		Landed 8:18 PM		 
+ 	24 Apr 2025	Charlottesville (CHO)	Stuart (SUA)	LXJ459	1:43	2:51 PM	3:48 PM	5:39 PM		Landed 5:31 PM		 
+ 	24 Apr 2025	Denver (APA)	Charlottesville (CHO)	LXJ459	2:46	9:00 AM	9:55 AM	2:58 PM		Landed 2:40 PM		 
+ 	24 Apr 2025	Scottsdale (SCF)	Denver (APA)	LXJ459	1:12	5:36 AM	6:06 AM	8:24 AM		Landed 8:18 AM		 
+ 	21 Apr 2025	Lakeland (LAL)	Scottsdale (SCF)	LXJ459	4:20	11:30 AM	12:20 PM	1:45 PM		Landed 1:40 PM		 
+ 	20 Apr 2025	Atlanta (PDK)	Lakeland (LAL)	LXJ459	1:04	4:00 PM	4:28 PM	5:29 PM		Landed 5:32 PM		 
+ 	20 Apr 2025	White Plains (HPN)	Atlanta (PDK)	LXJ459	1:49	1:05 PM	1:57 PM	3:56 PM		Landed 3:45 PM		 
+ 	20 Apr 2025	Miami (MIA)	White Plains (HPN)	LXJ459	2:35	9:30 AM	9:51 AM	12:34 PM		Landed 12:26 PM		 
+ 	20 Apr 2025	Fort Myers (FMY)	Miami (MIA)	LXJ459	0:25	7:56 AM	8:24 AM	8:51 AM		Landed 8:49 AM		 
+ 	19 Apr 2025	Bedford (BED)	Fort Myers (FMY)	LXJ459	2:55	11:30 AM	12:57 PM	3:54 PM		Landed 3:52 PM		 
+ 	18 Apr 2025	San Juan (SJU)	Bedford (BED)	LXJ459	3:50	9:00 AM	9:38 AM	1:26 PM		Landed 1:28 PM		 
+ 	18 Apr 2025	Sint Maarten (SXM)	San Juan (SJU)	LXJ459	0:35	7:13 AM	7:17 AM	7:59 AM		Landed 7:52 AM		 
+ 	17 Apr 2025	Barbuda (BBQ)	Sint Maarten (SXM)	LXJ459	0:25	6:21 PM	5:56 PM	6:21 PM		Landed 6:21 PM		 
+ 	17 Apr 2025	Miami (TMB)	Barbuda (BBQ)	LXJ459	2:39	5:15 PM	2:31 PM	5:10 PM		Landed 5:10 PM		 
+ 	17 Apr 2025	Nassau (NAS)	Miami (TMB)	LXJ459	0:42	12:14 PM	12:24 PM	12:58 PM		Landed 1:07 PM		 
+ 	17 Apr 2025	Bedford (BED)	Nassau (NAS)	LXJ459	3:06	8:00 AM	8:06 AM	10:52 AM		Landed 11:12 AM		 
+ 	16 Apr 2025	Teterboro (TEB)	Bedford (BED)	LXJ459	0:41	5:00 PM	5:43 PM	6:23 PM		Landed 6:25 PM		 
+ 	15 Apr 2025	Morristown (MMU)	Teterboro (TEB)	LXJ459	0:16	10:22 PM	11:25 PM	11:45 PM		Landed 11:41 PM		 
+ 	15 Apr 2025	Cincinnati (LUK)	Morristown (MMU)	LXJ459	1:20	8:00 PM	9:38 PM	10:59 PM		Landed 10:58 PM		 
+ 	15 Apr 2025	Teterboro (TEB)	Cincinnati (LUK)	LXJ459	1:27	2:39 PM	3:30 PM	5:05 PM		Landed 4:57 PM		 
+ 	13 Apr 2025	Shannon (SNN)	Teterboro (TEB)	LXJ459	7:00	7:09 PM	7:34 PM	9:23 PM		Landed 9:34 PM		 
+ 	13 Apr 2025	Naples (NAP)	Shannon (SNN)	LXJ459	2:55	4:00 PM	4:49 PM	6:04 PM		Landed 6:44 PM		 
+ 	13 Apr 2025	Olbia (OLB)	Naples (NAP)	LXJ459	0:41	2:12 PM	2:16 PM	3:02 PM		Landed 2:57 PM		 
+ 	12 Apr 2025	Malaga (AGP)	Olbia (OLB)	LXJ459	1:37	12:50 PM	1:10 PM	2:45 PM		Landed 2:46 PM		 
+ 	10 Apr 2025	White Plains (HPN)	Malaga (AGP)	LXJ459	6:33	8:00 PM	8:15 PM	9:44 AM		Landed 8:48 AM		 
+ 	10 Apr 2025	Austin (AUS)	White Plains (HPN)	LXJ459	3:15	12:30 PM	1:14 PM	5:45 PM		Landed 5:29 PM		 
+ 	10 Apr 2025	Dallas (DAL)	Austin (AUS)	LXJ459	0:34	10:14 AM	11:02 AM	11:43 AM		Landed 11:36 AM		 
+ 	08 Apr 2025	Houston (SGR)	Dallas (DAL)	LXJ459	0:47	2:30 PM	3:06 PM	4:00 PM		Landed 3:53 PM		 
+ 	08 Apr 2025	San Antonio (SAT)	Houston (SGR)	LXJ459	0:32	12:49 AM	12:12 AM	11:44 PM		Landed 11:44 PM		 
+ 	07 Apr 2025	Houston (SGR)	San Antonio (SAT)	LXJ459	0:35	9:31 PM	8:51 PM	10:14 PM		Landed 9:25 PM		 
+ 	07 Apr 2025	San Antonio (SAT)	Houston (SGR)	LXJ459	0:29	11:15 PM	7:53 PM	12:15 AM		Landed 8:22 PM		 
+ 	07 Apr 2025	Houston (SGR)	San Antonio (SAT)	LXJ459	0:43	3:00 PM	3:45 PM	4:27 PM		Landed 4:28 PM		 
+ 	07 Apr 2025	Dallas (DAL)	Houston (SGR)	LXJ459	0:55	1:45 PM	1:35 PM	2:30 PM		Landed 2:30 PM		 
+ 	05 Apr 2025	Camarillo (QTC)	Dallas (DAL)	LXJ459	2:38	7:20 PM	7:37 PM	12:03 AM		Landed 12:15 AM		 
+ 	05 Apr 2025	Dallas (DAL)	Camarillo (QTC)	LXJ459	2:48	2:55 PM	3:22 PM	3:52 PM		Landed 4:10 PM		 
+ 	04 Apr 2025	Atlanta (PDK)	Dallas (DAL)	LXJ459	2:41	4:07 PM	5:05 PM	6:45 PM		Landed 6:46 PM		 
+ 	04 Apr 2025	Dallas (DAL)	Atlanta (PDK)	LXJ459	1:30	12:40 PM	2:03 PM	4:32 PM		Landed 4:33 PM		 
+ 	03 Apr 2025	Houston (HOU)	Dallas (DAL)	LXJ459	0:39	8:17 PM	8:03 PM	9:18 PM		Landed 8:42 PM		 
+ 	03 Apr 2025	Bedford (BED)	Houston (HOU)	LXJ459	3:51	5:00 PM	4:44 PM	7:35 PM		Landed 7:35 PM		 
+ 	03 Apr 2025	Cleveland (CGF)	Bedford (BED)	LXJ459	1:20	1:42 PM	2:12 PM	3:32 PM		Landed 3:32 PM		 
+ 	01 Apr 2025	Knoxville (TYS)	Cleveland (CGF)	LXJ459	1:00	11:00 AM	11:28 AM	12:30 PM		Landed 12:28 PM		 
+ 	01 Apr 2025	West Palm Beach (PBI)	Knoxville (TYS)	LXJ459	1:33	5:43 AM	6:22 AM	8:03 AM		Landed 7:54 AM		 
+ 	01 Apr 2025	Miami (MIA)	West Palm Beach (PBI)	LXJ459	0:17	10:00 AM	5:18 AM	10:45 AM		Landed 5:35 AM		 
+ 	31 Mar 2025	Nassau (NAS)	Miami (MIA)	LXJ459	0:36	2:00 PM	1:43 PM	2:44 PM		Landed 2:19 PM		 
+ 	31 Mar 2025	Savannah (SAV)	Nassau (NAS)	LXJ459	1:15	9:30 AM	10:47 AM	10:52 AM		Landed 12:01 PM		 
+ 	30 Mar 2025	Teterboro (TEB)	Savannah (SAV)	LXJ459	1:44	3:29 PM	4:46 PM	6:32 PM		Landed 6:30 PM		 
+ 	30 Mar 2025	Providenciales (PLS)	Teterboro (TEB)	LXJ459	3:20	12:00 PM	11:55 AM	3:11 PM		Landed 3:14 PM		 
+ 	29 Mar 2025	North Eleuthera (ELH)	Providenciales (PLS)	LXJ459	1:08	12:41 PM	3:24 PM	1:03 PM		Landed 4:32 PM		 
+ 	29 Mar 2025	Atlanta (PDK)	North Eleuthera (ELH)	LXJ459	1:35	10:00 AM	10:14 AM	11:44 AM		Landed 11:49 AM		 
+ 	28 Mar 2025	Teterboro (TEB)	Atlanta (PDK)	LXJ459	1:46	4:51 PM	5:47 PM	7:44 PM		Landed 7:33 PM		 
+ 	28 Mar 2025	George Town (GCM)	Teterboro (TEB)	LXJ459	3:24	3:58 PM	12:29 PM	4:13 PM		Landed 4:53 PM		 
+ 	28 Mar 2025	West Palm Beach (PBI)	George Town (GCM)	LXJ459	1:21	10:56 AM	10:55 AM	11:29 AM		Landed 11:16 AM		 
+ 	27 Mar 2025	Teterboro (TEB)	West Palm Beach (PBI)	LXJ459	2:34	9:31 AM	11:44 AM	2:11 PM		Landed 2:18 PM		 
+ 	25 Mar 2025	Nassau (NAS)	Teterboro (TEB)	LXJ459	2:25	12:30 PM	12:50 PM	3:04 PM		Landed 3:15 PM		 
+ 	24 Mar 2025	Tampa (TPA)	Nassau (NAS)	LXJ459	0:59	1:11 PM	1:00 PM	2:15 PM		Landed 1:59 PM		 
+ 	24 Mar 2025	St. Augustine (UST)	Tampa (TPA)	LXJ459	0:35	11:00 AM	11:09 AM	11:42 AM		Landed 11:44 AM		 
+ 	23 Mar 2025	Tampa (TPA)	St. Augustine (UST)	LXJ459	0:31	5:30 PM	7:56 AM	8:30 AM		Landed 8:28 AM		 
+ 	23 Mar 2025	Sarasota (SRQ)	Tampa (TPA)	LXJ459	0:21	4:13 PM	5:31 PM	5:52 PM		Landed 5:52 PM		 
+ 	23 Mar 2025	Salt Lake City (SLC)	Sarasota (SRQ)	LXJ459	3:43	9:30 AM	10:15 AM	4:14 PM		Landed 3:58 PM		 
+ 	22 Mar 2025	Eagle (EGE)	Salt Lake City (SLC)	LXJ459	0:54	12:38 PM	1:44 PM	2:37 PM		Landed 2:38 PM		 
+ 	22 Mar 2025	West Palm Beach (PBI)	Eagle (EGE)	LXJ459	4:16	9:30 AM	10:11 AM	12:43 PM		Landed 12:26 PM		 
+ 	21 Mar 2025	Miami (TMB)	West Palm Beach (PBI)	LXJ459	0:31	5:44 PM	6:35 PM	6:57 PM		Landed 7:06 PM		 
+ 	21 Mar 2025	St. Petersburg (PIE)	Miami (TMB)	LXJ459	0:37	4:00 PM	4:18 PM	5:04 PM		Landed 4:55 PM		 
+ 	21 Mar 2025	Bozeman (BZN)	St. Petersburg (PIE)	LXJ459	3:41	9:30 AM	10:02 AM	4:04 PM		Landed 3:43 PM		 
+ 	20 Mar 2025	Hailey (SUN)	Bozeman (BZN)	LXJ459	0:41	4:57 PM	5:59 PM	6:40 PM		Landed 6:40 PM		 
+ 	20 Mar 2025	Mountain View (NUQ)	Hailey (SUN)	LXJ459	1:27	2:00 PM	2:21 PM	4:56 PM		Landed 4:48 PM		 
+ 	20 Mar 2025	Hayden (HDN)	Mountain View (NUQ)	LXJ459	1:54	11:26 AM	11:55 AM	12:58 PM		Landed 12:50 PM		 
+ 	20 Mar 2025	McKinney (QQT)	Hayden (HDN)	LXJ459	2:02	9:30 AM	9:53 AM	10:25 AM		Landed 10:56 AM		 
+ 	20 Mar 2025	Dallas (DAL)	McKinney (QQT)	LXJ459	0:11	7:39 AM	8:42 AM	7:55 AM		Landed 8:53 AM		 
+ 	19 Mar 2025	Houston (IAH)	McKinney (QQT)	LXJ459	-	3:00 PM	2:57 PM	3:50 PM		Diverted to DAL		 
+ 	19 Mar 2025	Miami (MIA)	Houston (IAH)	LXJ459	2:25	8:08 AM	9:28 AM	10:56 AM		Landed 10:53 AM		 
+ 	17 Mar 2025	Providenciales (PLS)	Miami (MIA)	LXJ459	1:38	1:23 PM	1:42 PM	2:56 PM		Landed 3:20 PM		 
+ 	17 Mar 2025	White Plains (HPN)	Providenciales (PLS)	LXJ459	3:19	9:00 AM	9:35 AM	12:03 PM		Landed 12:54 PM		 
+ 	16 Mar 2025	Washington (IAD)	White Plains (HPN)	LXJ459	0:58	5:30 PM	6:11 PM	7:09 PM		Landed 7:09 PM		 
+ 	16 Mar 2025	Bridgetown (BGI)	Washington (IAD)	LXJ459	4:52	4:59 PM	12:07 PM	4:52 PM		Landed 4:59 PM		 
+ 	16 Mar 2025	Kingstown (SVD)	Bridgetown (BGI)	LXJ459	0:22	10:14 AM	9:53 AM	10:14 AM		Landed 10:14 AM		 
+ 	15 Mar 2025	Miami (MIA)	Kingstown (SVD)	LXJ459	2:55	9:15 AM	10:56 AM	12:18 PM		Landed 1:51 PM		 
+ 	14 Mar 2025	North Eleuthera (ELH)	Miami (MIA)	LXJ459	0:48	5:34 PM	5:47 PM	6:27 PM		Landed 6:35 PM		 
+ 	14 Mar 2025	Boca Raton (BCT)	North Eleuthera (ELH)	LXJ459	0:37	3:30 PM	4:06 PM	4:17 PM		Landed 4:44 PM		 
+ 	14 Mar 2025	Scottsdale (SCF)	Boca Raton (BCT)	LXJ459	3:27	7:30 AM	8:28 AM	2:53 PM		Landed 2:55 PM		 
+ 	13 Mar 2025	Orlando (SFB)	Scottsdale (SCF)	LXJ459	4:47	4:30 PM	5:23 PM	7:14 PM		Landed 7:10 PM		 
+ 	13 Mar 2025	Marathon (MTH)	Orlando (SFB)	LXJ459	0:53	2:10 PM	2:53 PM	3:47 PM		Landed 3:46 PM		 
+ 	13 Mar 2025	Chicago (MDW)	Marathon (MTH)	LXJ459	2:27	9:30 AM	10:11 AM	1:04 PM		Landed 1:39 PM		 
+ 	11 Mar 2025	Teterboro (TEB)	Chicago (MDW)	LXJ459	1:48	9:00 PM	9:56 PM	10:45 PM		Landed 10:45 PM		 
+ 	11 Mar 2025	Chicago (MDW)	Teterboro (TEB)	LXJ459	1:25	5:11 PM	5:54 PM	8:26 PM		Landed 8:20 PM		 
+ 	11 Mar 2025	Fort Lauderdale (FLL)	Chicago (MDW)	LXJ459	2:51	2:30 PM	3:07 PM	5:02 PM		Landed 4:57 PM		 
+ 	11 Mar 2025	Nassau (NAS)	Fort Lauderdale (FLL)	LXJ459	0:37	2:00 PM	1:10 PM	2:47 PM		Landed 1:47 PM		 
+ 	10 Mar 2025	White Plains (HPN)	Nassau (NAS)	LXJ459	2:43	6:00 PM	6:14 PM	8:37 PM		Landed 8:57 PM		 
+ 	07 Mar 2025	Stockholm (VST)	White Plains (HPN)	LXJ459	8:11	12:00 PM	12:14 PM	2:26 PM		Landed 2:25 PM		 
+ 	06 Mar 2025	Farnborough (FAB)	Stockholm (VST)	LXJ459	1:52	1:00 PM	1:14 PM	4:04 PM		Landed 4:06 PM		 
+ 	05 Mar 2025	Weeze (NRN)	Farnborough (FAB)	LXJ459	0:59	4:30 PM	4:28 PM	4:29 PM		Landed 4:28 PM		 
+ 	05 Mar 2025	Paris (LBG)	Weeze (NRN)	LXJ459	0:51	2:09 PM	2:14 PM	2:59 PM		Landed 3:05 PM		 
+ 	03 Mar 2025	St. Paul (STP)	Paris (LBG)	LXJ459	7:35	11:54 PM	10:56 PM	2:40 PM		Landed 1:31 PM		 
+ 	03 Mar 2025	Rifle (RIL)	St. Paul (STP)	LXJ459	1:51	7:00 PM	7:04 PM	9:53 PM		Landed 9:55 PM		 
+ 	03 Mar 2025	Denver (DEN)	Rifle (RIL)	LXJ459	0:28	4:47 PM	5:28 PM	5:55 PM		Landed 5:56 PM		 
+ 	03 Mar 2025	San Francisco (SFO)	Denver (DEN)	LXJ459	2:02	11:00 AM	11:39 AM	2:51 PM		Landed 2:41 PM		 
+ 	01 Mar 2025	Tucson (AVW)	San Francisco (SFO)	LXJ459	1:43	10:30 PM	12:25 AM	1:28 AM		Landed 1:08 AM		 
+ 	01 Mar 2025	Tucson (AVW)	San Francisco (SFO)	LXJ459	1:54	10:30 PM	10:40 PM	11:34 PM		Landed 11:34 PM		 
+ 	01 Mar 2025	Reno (RNO)	Tucson (AVW)	LXJ459	1:24	6:26 PM	6:35 PM	8:59 PM		Landed 8:59 PM		 
+ 	28 Feb 2025	Minneapolis (MSP)	Reno (RNO)	LXJ459	2:52	11:30 AM	12:16 PM	1:05 PM		Landed 1:07 PM		 
+ 	28 Feb 2025	Baltimore (BWI)	Minneapolis (MSP)	LXJ459	2:23	9:09 AM	9:47 AM	11:14 AM		Landed 11:10 AM		 
+ 	27 Feb 2025	Vero Beach (VRB)	Baltimore (BWI)	LXJ459	1:40	10:00 AM	10:30 AM	12:10 PM		Landed 12:10 PM		 
+ 	27 Feb 2025	Orlando (SFB)	Vero Beach (VRB)	LXJ459	0:22	8:35 AM	9:10 AM	9:40 AM		Landed 9:32 AM		 
+ 	25 Feb 2025	Sarasota (SRQ)	Orlando (SFB)	LXJ459	0:34	9:56 PM	9:16 PM	9:49 PM		Landed 9:50 PM		 
+ 	25 Feb 2025	Chicago (ORD)	Sarasota (SRQ)	LXJ459	2:08	5:30 PM	5:33 PM	9:13 PM		Landed 8:41 PM		 
+ 	25 Feb 2025	Denver (APA)	Chicago (ORD)	LXJ459	1:52	9:30 AM	1:22 PM	4:09 PM		Landed 4:14 PM		 
+ 	22 Feb 2025	Aspen (ASE)	Denver (APA)	LXJ459	0:26	5:00 PM	5:25 PM	5:58 PM		Landed 5:51 PM		 
+ 	22 Feb 2025	Las Vegas (LAS)	Aspen (ASE)	LXJ459	1:21	1:30 PM	1:56 PM	4:32 PM		Landed 4:17 PM		 
+ 	22 Feb 2025	Kansas City (MKC)	Las Vegas (LAS)	LXJ459	2:26	9:00 AM	10:33 AM	11:03 AM		Landed 10:59 AM		 
+ 	21 Feb 2025	Fort Worth (AFW)	Kansas City (MKC)	LXJ459	1:08	3:42 PM	5:20 PM	6:27 PM		Landed 6:28 PM		 
+ 	21 Feb 2025	Scottsdale (SCF)	Fort Worth (AFW)	LXJ459	1:45	11:45 AM	2:05 PM	4:47 PM		Landed 4:49 PM		 
+ 	21 Feb 2025	Eagle (EGE)	Scottsdale (SCF)	LXJ459	1:12	9:30 AM	11:23 AM	12:44 PM		Landed 12:35 PM		 
+ 	21 Feb 2025	Denver (APA)	Eagle (EGE)	LXJ459	0:24	7:49 AM	9:19 AM	9:43 AM		Landed 9:43 AM		 
+ 	20 Feb 2025	Rifle (RIL)	Denver (APA)	LXJ459	0:52	4:34 PM	5:52 PM	6:43 PM		Landed 6:44 PM		 
+ 	20 Feb 2025	Philadelphia (TTN)	Rifle (RIL)	LXJ459	4:04	1:30 PM	2:49 PM	5:03 PM		Landed 4:54 PM		 
+ 	19 Feb 2025	White Plains (HPN)	Philadelphia (TTN)	LXJ459	0:23	4:00 PM	5:07 PM	5:30 PM		Landed 5:30 PM		 
+ 	18 Feb 2025	Bangor (BGR)	White Plains (HPN)	LXJ459	1:07	11:52 AM	11:22 AM	1:17 PM		Landed 12:29 PM		 
+ 	18 Feb 2025	Marrakesh (RAK)	Bangor (BGR)	LXJ459	7:36	9:12 AM	9:11 AM	10:46 AM		Landed 10:48 AM		 
+ 	13 Feb 2025	White Plains (HPN)	Morristown (MMU)	LXJ459	-	9:00 PM	9:42 PM	3:19 AM		Diverted to RAK		 
+ 	13 Feb 2025	Boca Raton (BCT)	White Plains (HPN)	LXJ459	2:20	3:29 PM	5:03 PM	7:19 PM		Landed 7:24 PM		 
+ 	13 Feb 2025	Morristown (MMU)	Boca Raton (BCT)	LXJ459	2:40	12:00 PM	12:52 PM	3:34 PM		Landed 3:32 PM		 
+ 	13 Feb 2025	White Plains (HPN)	Marrakesh (RAK)	LXJ459	-	10:32 AM	11:50 AM	6:06 PM		Diverted to MMU		 
+ 	11 Feb 2025	Morristown (MMU)	White Plains (HPN)	LXJ459	0:17	7:26 PM	7:25 PM	7:41 PM		Landed 7:42 PM		 
+ 	11 Feb 2025	Miami (MIA)	Morristown (MMU)	LXJ459	2:20	4:00 PM	4:39 PM	7:04 PM		Landed 6:59 PM		 
+ 	10 Feb 2025	Chicago (PWK)	Miami (MIA)	LXJ459	2:31	10:45 AM	11:01 AM	2:47 PM		Landed 2:32 PM		 
+ 	10 Feb 2025	St. Louis (STL)	Houma (HUM)	LXJ459	-	6:57 AM	7:04 AM	8:22 AM		Diverted to PWK		 
+ 	09 Feb 2025	Boca Raton (BCT)	St. Louis (STL)	LXJ459	2:19	5:00 PM	5:03 PM	6:36 PM		Landed 6:22 PM		 
+ 	09 Feb 2025	Miami (MIA)	Boca Raton (BCT)	LXJ459	0:16	3:06 PM	3:19 PM	3:33 PM		Landed 3:35 PM		 
+ 	08 Feb 2025	Guatemala City (GUA)	Miami (MIA)	LXJ459	2:07	3:00 PM	3:05 PM	6:18 PM		Landed 6:12 PM		 
+ 	08 Feb 2025	Naples (APF)	Guatemala City (GUA)	LXJ459	2:11	12:15 PM	12:10 PM	1:32 PM		Landed 1:22 PM		 
+ 	07 Feb 2025	Cleveland (CGF)	Naples (APF)	LXJ459	2:15	4:30 PM	4:45 PM	7:06 PM		Landed 7:00 PM		 
+ 	07 Feb 2025	Albany (ABY)	Cleveland (CGF)	LXJ459	1:36	1:50 PM	12:54 PM	3:56 PM		Landed 2:31 PM		 
+ 	07 Feb 2025	Stuart (SUA)	Albany (ABY)	LXJ459	1:03	10:00 AM	10:11 AM	11:19 AM		Landed 11:13 AM		 
+ 	07 Feb 2025	Boca Raton (BCT)	Stuart (SUA)	LXJ459	0:16	8:10 AM	8:28 AM	8:43 AM		Landed 8:44 AM		 
+ 	06 Feb 2025	Morristown (MMU)	Boca Raton (BCT)	LXJ459	2:19	2:30 PM	3:19 PM	5:45 PM		Landed 5:38 PM		 
+ 	06 Feb 2025	Washington (IAD)	Morristown (MMU)	LXJ459	0:53	12:13 PM	1:10 PM	2:04 PM		Landed 2:03 PM		 
+ 	05 Feb 2025	Miami (MIA)	Washington (IAD)	LXJ459	2:04	9:30 AM	10:06 AM	12:16 PM		Landed 12:10 PM		 
+ 	04 Feb 2025	Providenciales (PLS)	Miami (MIA)	LXJ459	1:33	5:03 PM	4:57 PM	6:35 PM		Landed 6:30 PM		 
+ 	04 Feb 2025	Kansas City (MKC)	Providenciales (PLS)	LXJ459	3:27	11:30 AM	11:50 AM	4:06 PM		Landed 4:17 PM		 
+ 	04 Feb 2025	White Plains (HPN)	Kansas City (MKC)	LXJ459	2:53	7:47 AM	8:13 AM	10:06 AM		Landed 10:06 AM		 
+ 	02 Feb 2025	Orlando (SFB)	White Plains (HPN)	LXJ459	2:08	5:30 PM	6:13 PM	8:21 PM		Landed 8:21 PM		 
+ 	02 Feb 2025	Orlando (SFB)	Orlando (SFB)	LXJ459	0:11	3:30 PM	4:26 PM	4:00 PM		Landed 4:38 PM		 
+ 	21 Jan 2025	—	—	LXJ459	-	—	—	—		Unknown		 
+ 	20 Jan 2025	Atlanta (PDK)	Orlando (SFB)	LXJ459	1:04	6:48 PM	7:13 PM	8:16 PM		Landed 8:17 PM		 
+ 	20 Jan 2025	Panama City (ECP)	Atlanta (PDK)	LXJ459	0:46	4:00 PM	5:03 PM	6:47 PM		Landed 6:49 PM		 
+ 	20 Jan 2025	Atlanta (FTY)	Panama City (ECP)	LXJ459	0:47	2:43 PM	2:49 PM	2:33 PM		Landed 2:35 PM		 
+ 	20 Jan 2025	Windsor Locks (BDL)	Atlanta (FTY)	LXJ459	2:41	11:30 AM	11:34 AM	2:17 PM		Landed 2:16 PM		 
+ 	19 Jan 2025	Albany (ALB)	Windsor Locks (BDL)	LXJ459	0:28	4:07 PM	4:51 PM	5:19 PM		Landed 5:19 PM		 
+ 	19 Jan 2025	Toronto (YYZ)	Albany (ALB)	LXJ459	0:47	2:45 PM	3:09 PM	3:55 PM		Landed 3:56 PM		 
+ 	19 Jan 2025	Bermuda (BDA)	Toronto (YYZ)	LXJ459	2:41	12:00 PM	12:09 PM	1:45 PM		Landed 1:50 PM		 
+ 	19 Jan 2025	Fort Lauderdale (FLL)	Bermuda (BDA)	LXJ459	1:59	7:51 AM	7:53 AM	11:48 AM		Landed 10:52 AM		 
+ 	18 Jan 2025	Marsh Harbour (MHH)	Fort Lauderdale (FLL)	LXJ459	0:38	2:00 PM	1:08 PM	2:48 PM		Landed 1:45 PM		 
+ 	17 Jan 2025	Morristown (MMU)	Marsh Harbour (MHH)	LXJ459	2:16	2:00 PM	2:16 PM	4:17 PM		Landed 4:32 PM		 
+ 	17 Jan 2025	Albany (ABY)	Morristown (MMU)	LXJ459	1:47	10:35 AM	11:01 AM	12:58 PM		Landed 12:48 PM		 
+ 	17 Jan 2025	Stuart (SUA)	Albany (ABY)	LXJ459	1:01	9:30 AM	9:04 AM	10:01 AM		Landed 10:06 AM		 
+ 	17 Jan 2025	Sarasota (SRQ)	Stuart (SUA)	LXJ459	0:33	6:51 AM	7:23 AM	8:02 AM		Landed 7:55 AM		 
+ 	14 Jan 2025	Cleveland (CLE)	Sarasota (SRQ)	LXJ459	2:20	10:30 AM	11:21 AM	1:54 PM		Landed 1:41 PM		 
+ 	14 Jan 2025	Chicago (DPA)	Cleveland (CLE)	LXJ459	0:48	7:33 AM	8:49 AM	10:36 AM		Landed 10:36 AM		 
+ 	11 Jan 2025	Chicago (PWK)	Chicago (DPA)	LXJ459	0:15	5:06 PM	4:51 PM	5:05 PM		Landed 5:06 PM		 
+ 	11 Jan 2025	Seattle (BFI)	Chicago (PWK)	LXJ459	3:17	10:30 AM	11:10 AM	4:32 PM		Landed 4:27 PM		 
+ 	10 Jan 2025	Jackson (JAC)	Seattle (BFI)	LXJ459	1:41	12:54 PM	1:29 PM	2:13 PM		Landed 2:10 PM		 
+ 	10 Jan 2025	White Plains (HPN)	Jackson (JAC)	LXJ459	4:15	8:43 AM	10:13 AM	12:19 PM		Landed 12:27 PM		 
+ 	09 Jan 2025	Naples (APF)	White Plains (HPN)	LXJ459	2:31	4:30 PM	4:55 PM	7:27 PM		Landed 7:27 PM		 
+ 	07 Jan 2025	Teterboro (TEB)	Naples (APF)	LXJ459	2:47	3:30 PM	4:25 PM	7:16 PM		Landed 7:12 PM		 
+ 	06 Jan 2025	Stuart (SUA)	Teterboro (TEB)	LXJ459	2:04	6:00 PM	6:34 PM	8:40 PM		Landed 8:39 PM		 
+ 	05 Jan 2025	Cancun (CUN)	Teterboro (TEB)	LXJ459	3:13	11:08 PM	7:55 PM	11:08 PM		Landed 11:08 PM		 
+ 	05 Jan 2025	Jacksonville (JAX)	Cancun (CUN)	LXJ459	2:05	1:35 PM	4:13 PM	6:18 PM		Landed 6:18 PM		 
+ 	04 Jan 2025	Sint Maarten (SXM)	Jacksonville (JAX)	LXJ459	3:32	2:00 PM	6:15 PM	4:31 PM		Landed 8:47 PM		 
+ 	04 Jan 2025	Philadelphia (PHL)	Sint Maarten (SXM)	LXJ459	4:11	8:04 AM	7:59 AM	12:38 PM		Landed 1:09 PM		 
+ 	03 Jan 2025	Stuart (SUA)	Philadelphia (PHL)	LXJ459	1:52	11:30 AM	12:15 PM	2:15 PM		Landed 2:07 PM		 
+ 	02 Jan 2025	White Plains (HPN)	Stuart (SUA)	LXJ459	2:31	1:10 PM	2:24 PM	5:04 PM		Landed 4:55 PM		 
+ 	02 Jan 2025	Nassau (NAS)	White Plains (HPN)	LXJ459	2:25	10:00 AM	10:40 AM	12:43 PM		Landed 1:05 PM		 
+ 	01 Jan 2025	La Romana (LRM)	Nassau (NAS)	LXJ459	1:36	7:28 PM	6:40 PM	8:14 PM		Landed 7:16 PM		 
+ 	01 Jan 2025	Chicago (UGN)	La Romana (LRM)	LXJ459	3:50	12:00 PM	12:08 PM	5:49 PM		Landed 5:58 PM		 
+ 	01 Jan 2025	White Plains (HPN)	Chicago (UGN)	LXJ459	1:47	9:07 AM	9:36 AM	10:24 AM		Landed 10:23 AM		 
+ 	30 Sep 2025	Nassau (NAS)	San Francisco (SFO)	LXJ459	5:57	8:00 AM	11:21 AM	10:49 AM		Landed 2:18 PM		 
+ 	29 Sep 2025	Naples (APF)	Nassau (NAS)	LXJ459	0:46	6:10 PM	6:28 PM	7:06 PM		Landed 7:14 PM		 
+ 	29 Sep 2025	Baltimore (BWI)	Naples (APF)	LXJ459	2:21	2:30 PM	3:04 PM	5:24 PM		Landed 5:25 PM		 
+ 	29 Sep 2025	Detroit (DTW)	Baltimore (BWI)	LXJ459	1:08	11:55 AM	12:39 PM	1:59 PM		Landed 1:47 PM		 
+ 	28 Sep 2025	Chicago (ORD)	Windsor (YQG)	LXJ459	-	2:30 PM	4:11 PM	5:53 PM		Diverted to DTW		 
+ 	28 Sep 2025	Traverse City (TVC)	Chicago (ORD)	LXJ459	0:45	12:30 PM	1:00 PM	12:57 PM		Landed 12:45 PM		 
+ 	28 Sep 2025	Cleveland (CGF)	Traverse City (TVC)	LXJ459	0:52	10:06 AM	10:40 AM	11:37 AM		Landed 11:33 AM		 
+ 	27 Sep 2025	Bangor (BGR)	Cleveland (CGF)	LXJ459	1:38	10:38 AM	11:35 AM	1:10 PM		Landed 1:13 PM		 
+ 	27 Sep 2025	Dublin (DUB)	Bangor (BGR)	LXJ459	6:02	9:00 AM	9:59 AM	10:59 AM		Landed 11:01 AM		 
+ 	25 Sep 2025	London (LTN)	Dublin (DUB)	LXJ459	0:53	7:24 PM	7:50 PM	8:31 PM		Landed 8:43 PM		 
+ 	25 Sep 2025	Toronto (YYZ)	London (LTN)	LXJ459	6:39	6:30 AM	6:54 AM	6:06 PM		Landed 6:33 PM		 
+ 	24 Sep 2025	Bedford (BED)	Toronto (YYZ)	LXJ459	1:20	10:24 AM	10:42 AM	12:08 PM		Landed 12:01 PM		 
+ 	23 Sep 2025	San Jose (SJC)	Bedford (BED)	LXJ459	5:00	1:00 PM	2:18 PM	10:21 PM		Landed 10:18 PM		 
+ 	23 Sep 2025	Van Nuys (VNY)	San Jose (SJC)	LXJ459	0:42	10:38 AM	11:04 AM	11:54 AM		Landed 11:47 AM		 
+ 	22 Sep 2025	Cancun (CUN)	Van Nuys (VNY)	LXJ459	4:32	9:49 PM	5:17 PM	7:32 PM		Landed 7:49 PM		 
+ 	22 Sep 2025	Nashville (BNA)	Cancun (CUN)	LXJ459	2:23	1:10 PM	1:24 PM	4:05 PM		Landed 3:47 PM		 
+ 	21 Sep 2025	Little Rock (LIT)	Nashville (BNA)	LXJ459	0:48	9:30 PM	10:07 PM	11:03 PM		Landed 10:55 PM		 
+ 	21 Sep 2025	Chicago (MDW)	Little Rock (LIT)	LXJ459	1:16	6:54 PM	8:12 PM	9:30 PM		Landed 9:28 PM		 
+ 	21 Sep 2025	Teterboro (TEB)	Chicago (MDW)	LXJ459	2:02	5:00 PM	5:47 PM	6:48 PM		Landed 6:48 PM		 
+ 	20 Sep 2025	Dallas (DAL)	Teterboro (TEB)	LXJ459	2:50	8:30 PM	9:04 PM	12:54 AM		Landed 12:54 AM		 
+ 	20 Sep 2025	Teterboro (TEB)	Dallas (DAL)	LXJ459	3:00	4:30 PM	4:35 PM	6:47 PM		Landed 6:35 PM		 
+ 	19 Sep 2025	Aspen (ASE)	Teterboro (TEB)	LXJ459	3:32	8:30 AM	9:20 AM	2:55 PM		Landed 2:53 PM		 
+ 	18 Sep 2025	Teterboro (TEB)	Aspen (ASE)	LXJ459	3:43	7:00 AM	7:53 AM	9:41 AM		Landed 9:36 AM		 
+ 	16 Sep 2025	Dillingham (DLG)	Teterboro (TEB)	LXJ459	7:03	9:30 AM	10:18 AM	9:21 PM		Landed 9:21 PM		 
+ 	14 Sep 2025	King Salmon (AKN)	Dillingham (DLG)	LXJ459	0:18	7:25 PM	7:23 PM	7:41 PM		Landed 7:42 PM		 
+ 	14 Sep 2025	Monterey (MRY)	King Salmon (AKN)	LXJ459	4:34	1:30 PM	3:25 PM	7:02 PM		Landed 6:59 PM		 
+ 	14 Sep 2025	San Jose (SJC)	Monterey (MRY)	LXJ459	0:22	11:40 AM	12:06 PM	12:38 PM		Landed 12:28 PM		 
+ 	13 Sep 2025	Atlanta (QQR)	San Jose (SJC)	LXJ459	4:29	1:30 PM	2:45 PM	2:59 PM		Landed 4:14 PM		 
+ 	13 Sep 2025	Pontiac (PTK)	Atlanta (QQR)	LXJ459	1:23	10:31 AM	11:01 AM	12:03 PM		Landed 12:24 PM		 
+ 	12 Sep 2025	Boca Raton (BCT)	Pontiac (PTK)	LXJ459	2:24	10:30 AM	11:00 AM	1:29 PM		Landed 1:23 PM		 
+ 	12 Sep 2025	Venice (VNC)	Boca Raton (BCT)	LXJ459	0:32	8:20 AM	8:55 AM	9:31 AM		Landed 9:27 AM		 
+ 	11 Sep 2025	Morristown (MMU)	Venice (VNC)	LXJ459	2:29	11:30 AM	12:37 PM	3:06 PM		Landed 3:06 PM		 
+ 	11 Sep 2025	Orlando (SFB)	Morristown (MMU)	LXJ459	2:00	8:00 AM	9:25 AM	11:23 AM		Landed 11:25 AM		 
+ 	07 Sep 2025	Sarasota (SRQ)	Orlando (SFB)	LXJ459	0:33	4:07 PM	3:25 PM	3:59 PM		Landed 3:58 PM		 
+ 	07 Sep 2025	Chattanooga (CHA)	Sarasota (SRQ)	LXJ459	1:20	1:45 PM	1:42 PM	3:24 PM		Landed 3:02 PM		 
+ 	07 Sep 2025	Nashville (BNA)	Chattanooga (CHA)	LXJ459	0:23	11:30 AM	11:59 AM	1:30 PM		Landed 1:22 PM		 
+ 	07 Sep 2025	Council Bluffs (CBF)	Nashville (BNA)	LXJ459	1:19	8:33 AM	9:02 AM	10:28 AM		Landed 10:21 AM		 
+ 	06 Sep 2025	St. Louis (CPS)	Council Bluffs (CBF)	LXJ459	0:54	6:15 PM	6:54 PM	7:56 PM		Landed 7:48 PM		 
+ 	06 Sep 2025	Tuscaloosa (TCL)	St. Louis (CPS)	LXJ459	0:56	2:30 PM	2:11 PM	3:55 PM		Landed 3:07 PM		 
+ 	06 Sep 2025	Santa Ana (SNA)	Tuscaloosa (TCL)	LXJ459	3:09	8:15 AM	8:32 AM	2:21 PM		Landed 1:41 PM		 
+ 	05 Sep 2025	Van Nuys (VNY)	Santa Ana (SNA)	LXJ459	0:18	1:30 PM	2:12 PM	2:34 PM		Landed 2:30 PM		 
+ 	01 Sep 2025	Pellston (PLN)	Van Nuys (VNY)	LXJ459	3:58	12:30 PM	1:38 PM	2:45 PM		Landed 2:35 PM		 
+ 	01 Sep 2025	Detroit (DTW)	Pellston (PLN)	LXJ459	0:42	10:14 AM	10:54 AM	11:36 AM		Landed 11:36 AM		 
+ 	29 Aug 2025	Windsor (YQG)	Detroit (DTW)	LXJ459	0:13	5:00 PM	5:05 PM	5:18 PM		Landed 5:18 PM		 
+ 	29 Aug 2025	Youngstown (YNG)	Windsor (YQG)	LXJ459	0:32	1:30 PM	2:26 PM	3:04 PM		Landed 2:58 PM		 
+ 	29 Aug 2025	Cleveland (CLE)	Youngstown (YNG)	LXJ459	0:15	9:25 AM	9:22 AM	9:40 AM		Landed 9:37 AM		 
+ 	29 Aug 2025	Windsor (YQG)	Cleveland (CLE)	LXJ459	0:19	8:30 AM	8:33 AM	9:16 AM		Landed 8:52 AM		 
+ 	28 Aug 2025	Atlanta (PDK)	Windsor (YQG)	LXJ459	1:24	3:00 PM	3:06 PM	4:47 PM		Landed 4:30 PM		 
+ 	27 Aug 2025	Dallas (DAL)	Atlanta (PDK)	LXJ459	1:36	9:50 AM	10:33 AM	1:11 PM		Landed 1:09 PM		 
+ 	26 Aug 2025	Dallas (DAL)	Dallas (DAL)	LXJ459	0:17	12:45 PM	1:21 PM	1:14 PM		Landed 1:37 PM		 
+ 	26 Aug 2025	Aspen (ASE)	Dallas (DAL)	LXJ459	1:40	8:30 AM	9:08 AM	11:53 AM		Landed 11:48 AM		 
+ 	25 Aug 2025	Seattle (BFI)	Aspen (ASE)	LXJ459	2:16	11:30 AM	12:15 PM	3:30 PM		Landed 3:31 PM		 
+ 	24 Aug 2025	North Bend (OTH)	Seattle (BFI)	LXJ459	0:46	12:16 PM	12:48 PM	1:41 PM		Landed 1:34 PM		 
+ 	24 Aug 2025	Waukesha (UES)	North Bend (OTH)	LXJ459	3:59	9:48 AM	9:54 AM	11:50 AM		Landed 11:53 AM		 
+ 	24 Aug 2025	Holland (QTB)	Waukesha (UES)	LXJ459	0:24	9:30 AM	9:53 AM	9:03 AM		Landed 9:17 AM		 
+ 	23 Aug 2025	Charlottesville (CHO)	Holland (QTB)	LXJ459	1:19	4:52 PM	5:01 PM	6:13 PM		Landed 6:20 PM		 
+ 	23 Aug 2025	Hailey (SUN)	Charlottesville (CHO)	LXJ459	3:33	10:00 AM	10:36 AM	4:09 PM		Landed 4:08 PM		 
+ 	23 Aug 2025	Denver (APA)	Hailey (SUN)	LXJ459	1:33	7:29 AM	8:01 AM	9:23 AM		Landed 9:33 AM		 
+ 	22 Aug 2025	Washington (IAD)	Denver (APA)	LXJ459	3:05	4:30 PM	4:53 PM	6:09 PM		Landed 5:58 PM		 
+ 	22 Aug 2025	Toronto (YYZ)	Washington (IAD)	LXJ459	0:58	12:53 PM	12:52 PM	1:48 PM		Landed 1:50 PM		 
+ 	22 Aug 2025	Traverse City (TVC)	Toronto (YYZ)	LXJ459	0:48	11:00 AM	10:55 AM	12:25 PM		Landed 11:43 AM		 
+ 	21 Aug 2025	Pellston (PLN)	Traverse City (TVC)	LXJ459	0:19	4:55 PM	5:56 PM	6:29 PM		Landed 6:15 PM		 
+ 	21 Aug 2025	Chicago (MDW)	Pellston (PLN)	LXJ459	0:51	2:00 PM	3:32 PM	5:21 PM		Landed 5:22 PM		 
+ 	21 Aug 2025	Nashville (BNA)	Chicago (MDW)	LXJ459	1:06	11:23 AM	11:58 AM	12:46 PM		Landed 1:04 PM		 
+ 	20 Aug 2025	North Bend (OTH)	Nashville (BNA)	LXJ459	3:58	9:30 AM	10:09 AM	3:29 PM		Landed 4:07 PM		 
+ 	18 Aug 2025	Farmingdale (FRG)	North Bend (OTH)	LXJ459	5:31	3:30 PM	3:37 PM	6:08 PM		Landed 6:08 PM		 
+ 	18 Aug 2025	Bedford (BED)	Farmingdale (FRG)	LXJ459	0:40	12:46 PM	1:18 PM	2:08 PM		Landed 1:58 PM		 
+ 	17 Aug 2025	Bedford (BED)	Chicago (MDW)	LXJ459	2:28	7:55 PM	7:46 PM	9:14 PM		Landed 9:14 PM		 
+ 	17 Aug 2025	Nassau (NAS)	Bedford (BED)	LXJ459	2:42	4:30 PM	5:07 PM	7:20 PM		Landed 7:50 PM		 
+ 	17 Aug 2025	Houston (QSE)	Nassau (NAS)	LXJ459	2:30	11:17 AM	11:28 AM	2:59 PM		Landed 2:58 PM		 
+ 	16 Aug 2025	Philadelphia (TTN)	Houston (QSE)	LXJ459	3:10	3:00 PM	3:56 PM	5:07 PM		Landed 6:07 PM		 
+ 	16 Aug 2025	Teterboro (TEB)	Philadelphia (TTN)	LXJ459	0:14	1:04 PM	1:10 PM	1:23 PM		Landed 1:24 PM		 
+ 	16 Aug 2025	Chicago (PWK)	Teterboro (TEB)	LXJ459	1:35	8:30 AM	8:53 AM	11:37 AM		Landed 11:29 AM		 
+ 	15 Aug 2025	Chicago (MDW)	Chicago (PWK)	LXJ459	0:17	2:30 PM	3:06 PM	3:21 PM		Landed 3:23 PM		 
+ 	14 Aug 2025	North Bend (OTH)	Chicago (MDW)	LXJ459	3:40	2:30 PM	3:46 PM	9:34 PM		Landed 9:25 PM		 
+ 	14 Aug 2025	Bozeman (BZN)	North Bend (OTH)	LXJ459	1:42	12:24 PM	1:10 PM	1:57 PM		Landed 1:53 PM		 
+ 	14 Aug 2025	Washington (IAD)	Bozeman (BZN)	LXJ459	3:48	9:30 AM	10:32 AM	12:32 PM		Landed 12:19 PM		 
+ 	13 Aug 2025	Teterboro (TEB)	Washington (IAD)	LXJ459	1:06	3:30 PM	3:38 PM	4:42 PM		Landed 4:43 PM		 
+ 	11 Aug 2025	Hayward (HWD)	Teterboro (TEB)	LXJ459	5:03	10:30 AM	11:00 AM	7:11 PM		Landed 7:03 PM		 
+ 	09 Aug 2025	Las Vegas (LAS)	Hayward (HWD)	LXJ459	0:57	10:30 PM	11:44 PM	12:45 AM		Landed 12:41 AM		 
+ 	09 Aug 2025	Hayward (HWD)	Las Vegas (LAS)	LXJ459	0:58	2:30 PM	3:10 PM	4:18 PM		Landed 4:09 PM		 
+ 	08 Aug 2025	San Jose (SJC)	Hayward (HWD)	LXJ459	0:08	3:30 PM	2:22 PM	4:04 PM		Landed 2:30 PM		 
+ 	07 Aug 2025	Santa Barbara (SBA)	San Jose (SJC)	LXJ459	0:38	5:30 PM	6:24 PM	7:10 PM		Landed 7:01 PM		 
+ 	07 Aug 2025	San Diego (CLD)	Santa Barbara (SBA)	LXJ459	0:37	3:16 PM	3:06 PM	3:42 PM		Landed 3:43 PM		 
+ 	07 Aug 2025	San Jose (SJC)	San Diego (CLD)	LXJ459	1:03	10:30 AM	11:07 AM	12:18 PM		Landed 12:10 PM		 
+ 	06 Aug 2025	Denver (DEN)	San Jose (SJC)	LXJ459	2:13	2:30 PM	2:40 PM	3:51 PM		Landed 3:53 PM		 
+ 	06 Aug 2025	Aspen (ASE)	Denver (DEN)	LXJ459	0:31	11:56 AM	1:22 PM	2:02 PM		Landed 1:53 PM		 
+ 	06 Aug 2025	Napa (APC)	Aspen (ASE)	LXJ459	1:53	8:00 AM	8:55 AM	11:33 AM		Landed 11:48 AM		 
+ 	05 Aug 2025	Monterey (MRY)	Napa (APC)	LXJ459	0:29	5:17 PM	5:49 PM	6:24 PM		Landed 6:18 PM		 
+ 	05 Aug 2025	Van Nuys (VNY)	Monterey (MRY)	LXJ459	0:42	3:30 PM	4:29 PM	5:15 PM		Landed 5:11 PM		 
+ 	05 Aug 2025	Oakland (OAK)	Van Nuys (VNY)	LXJ459	0:49	1:05 PM	1:11 PM	1:59 PM		Landed 2:00 PM		 
+ 	04 Aug 2025	White Plains (HPN)	Oakland (OAK)	LXJ459	5:29	6:00 AM	6:29 AM	9:05 AM		Landed 8:58 AM		 
+ 	03 Aug 2025	Chicago (UGN)	White Plains (HPN)	LXJ459	1:42	1:55 PM	2:45 PM	5:43 PM		Landed 5:26 PM		 
+ 	03 Aug 2025	Asheville (AVL)	Chicago (UGN)	LXJ459	1:31	12:30 PM	1:22 PM	1:51 PM		Landed 1:52 PM		 
+ 	03 Aug 2025	Miami (OPF)	Asheville (AVL)	LXJ459	1:36	9:23 AM	9:53 AM	11:44 AM		Landed 11:29 AM		 
+ 	02 Aug 2025	Bangor (BGR)	Miami (OPF)	LXJ459	3:08	2:38 PM	4:59 PM	8:16 PM		Landed 8:08 PM		 
+ 	02 Aug 2025	Nice (NCE)	Bangor (BGR)	LXJ459	7:55	12:30 PM	2:06 PM	4:09 PM		Landed 4:01 PM		 
+ 	02 Aug 2025	Marseille (MRS)	Nice (NCE)	LXJ459	0:25	11:00 AM	11:12 AM	11:30 AM		Landed 11:37 AM		 
+ 	31 Jul 2025	Nice (NCE)	Marseille (MRS)	LXJ459	0:25	9:50 PM	10:24 PM	10:24 PM		Landed 10:49 PM		 
+ 	31 Jul 2025	New York (LGA)	Nice (NCE)	LXJ459	7:14	7:00 AM	7:35 AM	8:54 PM		Landed 8:49 PM		 
+ 	29 Jul 2025	Coatesville (CTH)	New York (LGA)	LXJ459	0:34	3:53 PM	3:55 PM	4:50 PM		Landed 4:29 PM		 
+ 	29 Jul 2025	Eagle (EGE)	Coatesville (CTH)	LXJ459	3:12	9:30 AM	10:12 AM	3:29 PM		Landed 3:24 PM		 
+ 	29 Jul 2025	Scottsdale (SCF)	Eagle (EGE)	LXJ459	1:15	6:10 AM	6:47 AM	9:31 AM		Landed 9:02 AM		 
+ 	28 Jul 2025	Cleveland (BKL)	Scottsdale (SCF)	LXJ459	3:41	6:30 AM	7:32 AM	8:22 AM		Landed 8:13 AM		 
+ 	27 Jul 2025	Chicago (MDW)	Cleveland (BKL)	LXJ459	0:46	4:15 PM	4:33 PM	6:20 PM		Landed 6:19 PM		 
+ 	27 Jul 2025	Santa Rosa (STS)	Chicago (MDW)	LXJ459	3:34	9:30 AM	10:14 AM	3:54 PM		Landed 3:48 PM		 
+ 	27 Jul 2025	Santa Barbara (SBA)	Santa Rosa (STS)	LXJ459	1:02	7:03 AM	7:31 AM	8:45 AM		Landed 8:33 AM		 
+ 	25 Jul 2025	Seattle (BFI)	Santa Barbara (SBA)	LXJ459	2:03	4:45 PM	4:40 PM	7:12 PM		Landed 6:43 PM		 
+ 	25 Jul 2025	Vancouver (YVR)	Seattle (BFI)	LXJ459	0:24	3:39 PM	3:47 PM	4:12 PM		Landed 4:11 PM		 
+ 	25 Jul 2025	Mountain View (NUQ)	Vancouver (YVR)	LXJ459	1:55	12:45 PM	12:46 PM	3:04 PM		Landed 2:41 PM		 
+ 	25 Jul 2025	Van Nuys (VNY)	Mountain View (NUQ)	LXJ459	0:46	9:52 AM	10:23 AM	11:17 AM		Landed 11:10 AM		 
+ 	24 Jul 2025	Santa Ana (SNA)	Van Nuys (VNY)	LXJ459	0:22	5:30 PM	6:19 PM	6:46 PM		Landed 6:41 PM		 
+ 	23 Jul 2025	Kailua-Kona (KOA)	Santa Ana (SNA)	LXJ459	4:46	12:30 PM	1:42 PM	9:27 PM		Landed 9:28 PM		 
+ 	21 Jul 2025	Long Beach (LGB)	Kailua-Kona (KOA)	LXJ459	5:22	10:00 AM	10:31 AM	12:52 PM		Landed 12:53 PM		 
+ 	20 Jul 2025	Rifle (RIL)	Long Beach (LGB)	LXJ459	1:38	1:12 PM	1:17 PM	1:54 PM		Landed 1:54 PM		 
+ 	20 Jul 2025	Panama City (ECP)	Aspen (ASE)	LXJ459	-	10:05 AM	10:22 AM	12:21 PM		Diverted to RIL		 
+ 	20 Jul 2025	West Palm Beach (PBI)	Panama City (ECP)	LXJ459	1:04	9:15 AM	9:49 AM	9:54 AM		Landed 9:53 AM		 
+ 	20 Jul 2025	Miami (OPF)	West Palm Beach (PBI)	LXJ459	0:17	7:55 AM	8:20 AM	8:37 AM		Landed 8:37 AM		 
+ 	18 Jul 2025	Atlantic City (ACY)	Miami (OPF)	LXJ459	2:10	10:24 PM	11:13 PM	1:31 AM		Landed 1:23 AM		 
+ 	18 Jul 2025	Westhampton Beach (FOK)	Atlantic City (ACY)	LXJ459	0:32	8:45 PM	10:04 PM	10:43 PM		Landed 10:36 PM		 
+ 	18 Jul 2025	Burbank (BUR)	Westhampton Beach (FOK)	LXJ459	4:57	9:30 AM	10:47 AM	6:53 PM		Landed 6:44 PM		 
+ 	18 Jul 2025	Van Nuys (VNY)	Burbank (BUR)	LXJ459	0:08	8:10 AM	8:59 AM	9:20 AM		Landed 9:06 AM		 
+ 	17 Jul 2025	Westhampton Beach (FOK)	Van Nuys (VNY)	LXJ459	5:43	3:30 PM	4:45 PM	7:27 PM		Landed 7:28 PM		 
+ 	17 Jul 2025	Asheville (AVL)	Westhampton Beach (FOK)	LXJ459	1:35	12:19 PM	1:08 PM	2:41 PM		Landed 2:43 PM		 
+ 	17 Jul 2025	St. Petersburg (PIE)	Asheville (AVL)	LXJ459	1:17	10:00 AM	10:23 AM	11:57 AM		Landed 11:40 AM		 
+ 	17 Jul 2025	Stuart (SUA)	St. Petersburg (PIE)	LXJ459	0:37	8:00 AM	8:34 AM	9:14 AM		Landed 9:11 AM		 
+ 	16 Jul 2025	Wildwood (WWD)	Stuart (SUA)	LXJ459	1:59	3:00 PM	3:41 PM	5:45 PM		Landed 5:40 PM		 
+ 	16 Jul 2025	Teterboro (TEB)	Wildwood (WWD)	LXJ459	0:32	11:28 AM	12:34 PM	1:05 PM		Landed 1:06 PM		 
+ 	15 Jul 2025	West Palm Beach (PBI)	Teterboro (TEB)	LXJ459	2:21	2:00 PM	3:05 PM	5:31 PM		Landed 5:26 PM		 
+ 	15 Jul 2025	Boca Raton (BCT)	West Palm Beach (PBI)	LXJ459	0:13	12:41 PM	1:16 PM	1:42 PM		Landed 1:29 PM		 
+ 	15 Jul 2025	Buffalo (BUF)	Boca Raton (BCT)	LXJ459	2:45	9:00 AM	9:03 AM	11:51 AM		Landed 11:48 AM		 
+ 	15 Jul 2025	Teterboro (TEB)	Buffalo (BUF)	LXJ459	0:49	6:33 AM	7:17 AM	8:16 AM		Landed 8:06 AM		 
+ 	14 Jul 2025	Paris (LBG)	Teterboro (TEB)	LXJ459	7:42	4:30 PM	4:35 PM	6:15 PM		Landed 6:16 PM		 
+ 	13 Jul 2025	Palma de Mallorca (PMI)	Paris (LBG)	LXJ459	1:43	2:35 PM	2:54 PM	4:15 PM		Landed 4:37 PM		 
+ 	12 Jul 2025	Teterboro (TEB)	Palma de Mallorca (PMI)	LXJ459	7:07	9:00 AM	8:52 AM	10:49 PM		Landed 9:59 PM		 
+ 	11 Jul 2025	Hailey (SUN)	Teterboro (TEB)	LXJ459	3:50	12:30 PM	1:22 PM	7:12 PM		Landed 7:12 PM		 
+ 	11 Jul 2025	Santa Rosa (STS)	Hailey (SUN)	LXJ459	1:16	8:35 AM	9:02 AM	11:15 AM		Landed 11:17 AM		 
+ 	10 Jul 2025	New York (LGA)	Santa Rosa (STS)	LXJ459	5:47	12:30 PM	1:22 PM	4:08 PM		Landed 4:09 PM		 
+ 	09 Jul 2025	Westhampton Beach (FOK)	New York (LGA)	LXJ459	0:20	1:33 PM	2:26 PM	2:48 PM		Landed 2:46 PM		 
+ 	09 Jul 2025	Oslo (OSL)	Westhampton Beach (FOK)	LXJ459	7:33	10:00 AM	10:24 AM	12:03 PM		Landed 11:57 AM		 
+ 	08 Jul 2025	Paris (LBG)	Oslo (OSL)	LXJ459	1:54	1:00 PM	1:10 PM	2:58 PM		Landed 3:05 PM		 
+ 	06 Jul 2025	Albany (ALB)	Paris (LBG)	LXJ459	6:44	7:00 AM	7:19 AM	7:44 PM		Landed 8:03 PM		 
+ 	05 Jul 2025	Orlando (SFB)	Albany (ALB)	LXJ459	2:24	11:30 AM	12:13 PM	2:44 PM		Landed 2:37 PM		 
+ 	02 Jul 2025	Orlando (SFB)	Orlando (SFB)	LXJ459	1:42	6:15 PM	7:42 PM	7:31 PM		Landed 9:24 PM		 
+ 	29 Apr 2025	West Palm Beach (PBI)	Orlando (SFB)	LXJ459	0:40	9:41 PM	9:23 PM	10:00 PM		Landed 10:03 PM		 
+ 	29 Apr 2025	South Lake Tahoe (TVL)	West Palm Beach (PBI)	LXJ459	4:36	12:30 PM	1:14 PM	8:49 PM		Landed 8:50 PM		 
+ 	29 Apr 2025	Seattle (BFI)	South Lake Tahoe (TVL)	LXJ459	1:23	9:32 AM	10:16 AM	11:44 AM		Landed 11:39 AM		 
+ 	28 Apr 2025	Las Vegas (LAS)	Seattle (BFI)	LXJ459	2:06	11:30 AM	12:38 PM	2:49 PM		Landed 2:44 PM		 
+ 	26 Apr 2025	Reno (RNO)	Las Vegas (LAS)	LXJ459	0:59	10:00 AM	10:13 AM	11:16 AM		Landed 11:12 AM		 
+ 	25 Apr 2025	Van Nuys (VNY)	Reno (RNO)	LXJ459	0:52	6:42 PM	7:07 PM	8:08 PM		Landed 7:59 PM		 
+ 	25 Apr 2025	Teterboro (TEB)	Van Nuys (VNY)	LXJ459	5:30	3:00 PM	3:55 PM	6:24 PM		Landed 6:25 PM		 
+ 	24 Apr 2025	Stuart (SUA)	Teterboro (TEB)	LXJ459	2:20	5:40 PM	5:58 PM	8:20 PM		Landed 8:18 PM		 
+ 	24 Apr 2025	Charlottesville (CHO)	Stuart (SUA)	LXJ459	1:43	2:51 PM	3:48 PM	5:39 PM		Landed 5:31 PM		 
+ 	24 Apr 2025	Denver (APA)	Charlottesville (CHO)	LXJ459	2:46	9:00 AM	9:55 AM	2:58 PM		Landed 2:40 PM		 
+ 	24 Apr 2025	Scottsdale (SCF)	Denver (APA)	LXJ459	1:12	5:36 AM	6:06 AM	8:24 AM		Landed 8:18 AM		 
+ 	21 Apr 2025	Lakeland (LAL)	Scottsdale (SCF)	LXJ459	4:20	11:30 AM	12:20 PM	1:45 PM		Landed 1:40 PM		 
+ 	20 Apr 2025	Atlanta (PDK)	Lakeland (LAL)	LXJ459	1:04	4:00 PM	4:28 PM	5:29 PM		Landed 5:32 PM		 
+ 	20 Apr 2025	White Plains (HPN)	Atlanta (PDK)	LXJ459	1:49	1:05 PM	1:57 PM	3:56 PM		Landed 3:45 PM		 
+ 	20 Apr 2025	Miami (MIA)	White Plains (HPN)	LXJ459	2:35	9:30 AM	9:51 AM	12:34 PM		Landed 12:26 PM		 
+ 	20 Apr 2025	Fort Myers (FMY)	Miami (MIA)	LXJ459	0:25	7:56 AM	8:24 AM	8:51 AM		Landed 8:49 AM		 
+ 	19 Apr 2025	Bedford (BED)	Fort Myers (FMY)	LXJ459	2:55	11:30 AM	12:57 PM	3:54 PM		Landed 3:52 PM		 
+ 	18 Apr 2025	San Juan (SJU)	Bedford (BED)	LXJ459	3:50	9:00 AM	9:38 AM	1:26 PM		Landed 1:28 PM		 
+ 	18 Apr 2025	Sint Maarten (SXM)	San Juan (SJU)	LXJ459	0:35	7:13 AM	7:17 AM	7:59 AM		Landed 7:52 AM		 
+ 	17 Apr 2025	Barbuda (BBQ)	Sint Maarten (SXM)	LXJ459	0:25	6:21 PM	5:56 PM	6:21 PM		Landed 6:21 PM		 
+ 	17 Apr 2025	Miami (TMB)	Barbuda (BBQ)	LXJ459	2:39	5:15 PM	2:31 PM	5:10 PM		Landed 5:10 PM		 
+ 	17 Apr 2025	Nassau (NAS)	Miami (TMB)	LXJ459	0:42	12:14 PM	12:24 PM	12:58 PM		Landed 1:07 PM		 
+ 	17 Apr 2025	Bedford (BED)	Nassau (NAS)	LXJ459	3:06	8:00 AM	8:06 AM	10:52 AM		Landed 11:12 AM		 
+ 	16 Apr 2025	Teterboro (TEB)	Bedford (BED)	LXJ459	0:41	5:00 PM	5:43 PM	6:23 PM		Landed 6:25 PM		 
+ 	15 Apr 2025	Morristown (MMU)	Teterboro (TEB)	LXJ459	0:16	10:22 PM	11:25 PM	11:45 PM		Landed 11:41 PM		 
+ 	15 Apr 2025	Cincinnati (LUK)	Morristown (MMU)	LXJ459	1:20	8:00 PM	9:38 PM	10:59 PM		Landed 10:58 PM		 
+ 	15 Apr 2025	Teterboro (TEB)	Cincinnati (LUK)	LXJ459	1:27	2:39 PM	3:30 PM	5:05 PM		Landed 4:57 PM		 
+ 	13 Apr 2025	Shannon (SNN)	Teterboro (TEB)	LXJ459	7:00	7:09 PM	7:34 PM	9:23 PM		Landed 9:34 PM		 
+ 	13 Apr 2025	Naples (NAP)	Shannon (SNN)	LXJ459	2:55	4:00 PM	4:49 PM	6:04 PM		Landed 6:44 PM		 
+ 	13 Apr 2025	Olbia (OLB)	Naples (NAP)	LXJ459	0:41	2:12 PM	2:16 PM	3:02 PM		Landed 2:57 PM		 
+ 	12 Apr 2025	Malaga (AGP)	Olbia (OLB)	LXJ459	1:37	12:50 PM	1:10 PM	2:45 PM		Landed 2:46 PM		 
+ 	10 Apr 2025	White Plains (HPN)	Malaga (AGP)	LXJ459	6:33	8:00 PM	8:15 PM	9:44 AM		Landed 8:48 AM		 
+ 	10 Apr 2025	Austin (AUS)	White Plains (HPN)	LXJ459	3:15	12:30 PM	1:14 PM	5:45 PM		Landed 5:29 PM		 
+ 	10 Apr 2025	Dallas (DAL)	Austin (AUS)	LXJ459	0:34	10:14 AM	11:02 AM	11:43 AM		Landed 11:36 AM		 
+ 	08 Apr 2025	Houston (SGR)	Dallas (DAL)	LXJ459	0:47	2:30 PM	3:06 PM	4:00 PM		Landed 3:53 PM		 
+ 	08 Apr 2025	San Antonio (SAT)	Houston (SGR)	LXJ459	0:32	12:49 AM	12:12 AM	11:44 PM		Landed 11:44 PM		 
+ 	07 Apr 2025	Houston (SGR)	San Antonio (SAT)	LXJ459	0:35	9:31 PM	8:51 PM	10:14 PM		Landed 9:25 PM		 
+ 	07 Apr 2025	San Antonio (SAT)	Houston (SGR)	LXJ459	0:29	11:15 PM	7:53 PM	12:15 AM		Landed 8:22 PM		 
+ 	07 Apr 2025	Houston (SGR)	San Antonio (SAT)	LXJ459	0:43	3:00 PM	3:45 PM	4:27 PM		Landed 4:28 PM		 
+ 	07 Apr 2025	Dallas (DAL)	Houston (SGR)	LXJ459	0:55	1:45 PM	1:35 PM	2:30 PM		Landed 2:30 PM		 
+ 	05 Apr 2025	Camarillo (QTC)	Dallas (DAL)	LXJ459	2:38	7:20 PM	7:37 PM	12:03 AM		Landed 12:15 AM		 
+ 	05 Apr 2025	Dallas (DAL)	Camarillo (QTC)	LXJ459	2:48	2:55 PM	3:22 PM	3:52 PM		Landed 4:10 PM		 
+ 	04 Apr 2025	Atlanta (PDK)	Dallas (DAL)	LXJ459	2:41	4:07 PM	5:05 PM	6:45 PM		Landed 6:46 PM		 
+ 	04 Apr 2025	Dallas (DAL)	Atlanta (PDK)	LXJ459	1:30	12:40 PM	2:03 PM	4:32 PM		Landed 4:33 PM		 
+ 	03 Apr 2025	Houston (HOU)	Dallas (DAL)	LXJ459	0:39	8:17 PM	8:03 PM	9:18 PM		Landed 8:42 PM		 
+ 	03 Apr 2025	Bedford (BED)	Houston (HOU)	LXJ459	3:51	5:00 PM	4:44 PM	7:35 PM		Landed 7:35 PM		 
+ 	03 Apr 2025	Cleveland (CGF)	Bedford (BED)	LXJ459	1:20	1:42 PM	2:12 PM	3:32 PM		Landed 3:32 PM		 
+ 	01 Apr 2025	Knoxville (TYS)	Cleveland (CGF)	LXJ459	1:00	11:00 AM	11:28 AM	12:30 PM		Landed 12:28 PM		 
+ 	01 Apr 2025	West Palm Beach (PBI)	Knoxville (TYS)	LXJ459	1:33	5:43 AM	6:22 AM	8:03 AM		Landed 7:54 AM		 
+ 	01 Apr 2025	Miami (MIA)	West Palm Beach (PBI)	LXJ459	0:17	10:00 AM	5:18 AM	10:45 AM		Landed 5:35 AM		 
+ 	31 Mar 2025	Nassau (NAS)	Miami (MIA)	LXJ459	0:36	2:00 PM	1:43 PM	2:44 PM		Landed 2:19 PM		 
+ 	31 Mar 2025	Savannah (SAV)	Nassau (NAS)	LXJ459	1:15	9:30 AM	10:47 AM	10:52 AM		Landed 12:01 PM		 
+ 	30 Mar 2025	Teterboro (TEB)	Savannah (SAV)	LXJ459	1:44	3:29 PM	4:46 PM	6:32 PM		Landed 6:30 PM		 
+ 	30 Mar 2025	Providenciales (PLS)	Teterboro (TEB)	LXJ459	3:20	12:00 PM	11:55 AM	3:11 PM		Landed 3:14 PM		 
+ 	29 Mar 2025	North Eleuthera (ELH)	Providenciales (PLS)	LXJ459	1:08	12:41 PM	3:24 PM	1:03 PM		Landed 4:32 PM		 
+ 	29 Mar 2025	Atlanta (PDK)	North Eleuthera (ELH)	LXJ459	1:35	10:00 AM	10:14 AM	11:44 AM		Landed 11:49 AM		 
+ 	28 Mar 2025	Teterboro (TEB)	Atlanta (PDK)	LXJ459	1:46	4:51 PM	5:47 PM	7:44 PM		Landed 7:33 PM		 
+ 	28 Mar 2025	George Town (GCM)	Teterboro (TEB)	LXJ459	3:24	3:58 PM	12:29 PM	4:13 PM		Landed 4:53 PM		 
+ 	28 Mar 2025	West Palm Beach (PBI)	George Town (GCM)	LXJ459	1:21	10:56 AM	10:55 AM	11:29 AM		Landed 11:16 AM		 
+ 	27 Mar 2025	Teterboro (TEB)	West Palm Beach (PBI)	LXJ459	2:34	9:31 AM	11:44 AM	2:11 PM		Landed 2:18 PM		 
+ 	25 Mar 2025	Nassau (NAS)	Teterboro (TEB)	LXJ459	2:25	12:30 PM	12:50 PM	3:04 PM		Landed 3:15 PM		 
+ 	24 Mar 2025	Tampa (TPA)	Nassau (NAS)	LXJ459	0:59	1:11 PM	1:00 PM	2:15 PM		Landed 1:59 PM		 
+ 	24 Mar 2025	St. Augustine (UST)	Tampa (TPA)	LXJ459	0:35	11:00 AM	11:09 AM	11:42 AM		Landed 11:44 AM		 
+ 	23 Mar 2025	Tampa (TPA)	St. Augustine (UST)	LXJ459	0:31	5:30 PM	7:56 AM	8:30 AM		Landed 8:28 AM		 
+ 	23 Mar 2025	Sarasota (SRQ)	Tampa (TPA)	LXJ459	0:21	4:13 PM	5:31 PM	5:52 PM		Landed 5:52 PM		 
+ 	23 Mar 2025	Salt Lake City (SLC)	Sarasota (SRQ)	LXJ459	3:43	9:30 AM	10:15 AM	4:14 PM		Landed 3:58 PM		 
+ 	22 Mar 2025	Eagle (EGE)	Salt Lake City (SLC)	LXJ459	0:54	12:38 PM	1:44 PM	2:37 PM		Landed 2:38 PM		 
+ 	22 Mar 2025	West Palm Beach (PBI)	Eagle (EGE)	LXJ459	4:16	9:30 AM	10:11 AM	12:43 PM		Landed 12:26 PM		 
+ 	21 Mar 2025	Miami (TMB)	West Palm Beach (PBI)	LXJ459	0:31	5:44 PM	6:35 PM	6:57 PM		Landed 7:06 PM		 
+ 	21 Mar 2025	St. Petersburg (PIE)	Miami (TMB)	LXJ459	0:37	4:00 PM	4:18 PM	5:04 PM		Landed 4:55 PM		 
+ 	21 Mar 2025	Bozeman (BZN)	St. Petersburg (PIE)	LXJ459	3:41	9:30 AM	10:02 AM	4:04 PM		Landed 3:43 PM		 
+ 	20 Mar 2025	Hailey (SUN)	Bozeman (BZN)	LXJ459	0:41	4:57 PM	5:59 PM	6:40 PM		Landed 6:40 PM		 
+ 	20 Mar 2025	Mountain View (NUQ)	Hailey (SUN)	LXJ459	1:27	2:00 PM	2:21 PM	4:56 PM		Landed 4:48 PM		 
+ 	20 Mar 2025	Hayden (HDN)	Mountain View (NUQ)	LXJ459	1:54	11:26 AM	11:55 AM	12:58 PM		Landed 12:50 PM		 
+ 	20 Mar 2025	McKinney (QQT)	Hayden (HDN)	LXJ459	2:02	9:30 AM	9:53 AM	10:25 AM		Landed 10:56 AM		 
+ 	20 Mar 2025	Dallas (DAL)	McKinney (QQT)	LXJ459	0:11	7:39 AM	8:42 AM	7:55 AM		Landed 8:53 AM		 
+ 	19 Mar 2025	Houston (IAH)	McKinney (QQT)	LXJ459	-	3:00 PM	2:57 PM	3:50 PM		Diverted to DAL		 
+ 	19 Mar 2025	Miami (MIA)	Houston (IAH)	LXJ459	2:25	8:08 AM	9:28 AM	10:56 AM		Landed 10:53 AM		 
+ 	17 Mar 2025	Providenciales (PLS)	Miami (MIA)	LXJ459	1:38	1:23 PM	1:42 PM	2:56 PM		Landed 3:20 PM		 
+ 	17 Mar 2025	White Plains (HPN)	Providenciales (PLS)	LXJ459	3:19	9:00 AM	9:35 AM	12:03 PM		Landed 12:54 PM		 
+ 	16 Mar 2025	Washington (IAD)	White Plains (HPN)	LXJ459	0:58	5:30 PM	6:11 PM	7:09 PM		Landed 7:09 PM		 
+ 	16 Mar 2025	Bridgetown (BGI)	Washington (IAD)	LXJ459	4:52	4:59 PM	12:07 PM	4:52 PM		Landed 4:59 PM		 
+ 	16 Mar 2025	Kingstown (SVD)	Bridgetown (BGI)	LXJ459	0:22	10:14 AM	9:53 AM	10:14 AM		Landed 10:14 AM		 
+ 	15 Mar 2025	Miami (MIA)	Kingstown (SVD)	LXJ459	2:55	9:15 AM	10:56 AM	12:18 PM		Landed 1:51 PM		 
+ 	14 Mar 2025	North Eleuthera (ELH)	Miami (MIA)	LXJ459	0:48	5:34 PM	5:47 PM	6:27 PM		Landed 6:35 PM		 
+ 	14 Mar 2025	Boca Raton (BCT)	North Eleuthera (ELH)	LXJ459	0:37	3:30 PM	4:06 PM	4:17 PM		Landed 4:44 PM		 
+ 	14 Mar 2025	Scottsdale (SCF)	Boca Raton (BCT)	LXJ459	3:27	7:30 AM	8:28 AM	2:53 PM		Landed 2:55 PM		 
+ 	13 Mar 2025	Orlando (SFB)	Scottsdale (SCF)	LXJ459	4:47	4:30 PM	5:23 PM	7:14 PM		Landed 7:10 PM		 
+ 	13 Mar 2025	Marathon (MTH)	Orlando (SFB)	LXJ459	0:53	2:10 PM	2:53 PM	3:47 PM		Landed 3:46 PM		 
+ 	13 Mar 2025	Chicago (MDW)	Marathon (MTH)	LXJ459	2:27	9:30 AM	10:11 AM	1:04 PM		Landed 1:39 PM		 
+ 	11 Mar 2025	Teterboro (TEB)	Chicago (MDW)	LXJ459	1:48	9:00 PM	9:56 PM	10:45 PM		Landed 10:45 PM		 
+ 	11 Mar 2025	Chicago (MDW)	Teterboro (TEB)	LXJ459	1:25	5:11 PM	5:54 PM	8:26 PM		Landed 8:20 PM		 
+ 	11 Mar 2025	Fort Lauderdale (FLL)	Chicago (MDW)	LXJ459	2:51	2:30 PM	3:07 PM	5:02 PM		Landed 4:57 PM		 
+ 	11 Mar 2025	Nassau (NAS)	Fort Lauderdale (FLL)	LXJ459	0:37	2:00 PM	1:10 PM	2:47 PM		Landed 1:47 PM		 
+ 	10 Mar 2025	White Plains (HPN)	Nassau (NAS)	LXJ459	2:43	6:00 PM	6:14 PM	8:37 PM		Landed 8:57 PM		 
+ 	07 Mar 2025	Stockholm (VST)	White Plains (HPN)	LXJ459	8:11	12:00 PM	12:14 PM	2:26 PM		Landed 2:25 PM		 
+ 	06 Mar 2025	Farnborough (FAB)	Stockholm (VST)	LXJ459	1:52	1:00 PM	1:14 PM	4:04 PM		Landed 4:06 PM		 
+ 	05 Mar 2025	Weeze (NRN)	Farnborough (FAB)	LXJ459	0:59	4:30 PM	4:28 PM	4:29 PM		Landed 4:28 PM		 
+ 	05 Mar 2025	Paris (LBG)	Weeze (NRN)	LXJ459	0:51	2:09 PM	2:14 PM	2:59 PM		Landed 3:05 PM		 
+ 	03 Mar 2025	St. Paul (STP)	Paris (LBG)	LXJ459	7:35	11:54 PM	10:56 PM	2:40 PM		Landed 1:31 PM		 
+ 	03 Mar 2025	Rifle (RIL)	St. Paul (STP)	LXJ459	1:51	7:00 PM	7:04 PM	9:53 PM		Landed 9:55 PM		 
+ 	03 Mar 2025	Denver (DEN)	Rifle (RIL)	LXJ459	0:28	4:47 PM	5:28 PM	5:55 PM		Landed 5:56 PM		 
+ 	03 Mar 2025	San Francisco (SFO)	Denver (DEN)	LXJ459	2:02	11:00 AM	11:39 AM	2:51 PM		Landed 2:41 PM		 
+ 	01 Mar 2025	Tucson (AVW)	San Francisco (SFO)	LXJ459	1:43	10:30 PM	12:25 AM	1:28 AM		Landed 1:08 AM		 
+ 	01 Mar 2025	Tucson (AVW)	San Francisco (SFO)	LXJ459	1:54	10:30 PM	10:40 PM	11:34 PM		Landed 11:34 PM		 
+ 	01 Mar 2025	Reno (RNO)	Tucson (AVW)	LXJ459	1:24	6:26 PM	6:35 PM	8:59 PM		Landed 8:59 PM		 
+ 	28 Feb 2025	Minneapolis (MSP)	Reno (RNO)	LXJ459	2:52	11:30 AM	12:16 PM	1:05 PM		Landed 1:07 PM		 
+ 	28 Feb 2025	Baltimore (BWI)	Minneapolis (MSP)	LXJ459	2:23	9:09 AM	9:47 AM	11:14 AM		Landed 11:10 AM		 
+ 	27 Feb 2025	Vero Beach (VRB)	Baltimore (BWI)	LXJ459	1:40	10:00 AM	10:30 AM	12:10 PM		Landed 12:10 PM		 
+ 	27 Feb 2025	Orlando (SFB)	Vero Beach (VRB)	LXJ459	0:22	8:35 AM	9:10 AM	9:40 AM		Landed 9:32 AM		 
+ 	25 Feb 2025	Sarasota (SRQ)	Orlando (SFB)	LXJ459	0:34	9:56 PM	9:16 PM	9:49 PM		Landed 9:50 PM		 
+ 	25 Feb 2025	Chicago (ORD)	Sarasota (SRQ)	LXJ459	2:08	5:30 PM	5:33 PM	9:13 PM		Landed 8:41 PM		 
+ 	25 Feb 2025	Denver (APA)	Chicago (ORD)	LXJ459	1:52	9:30 AM	1:22 PM	4:09 PM		Landed 4:14 PM		 
+ 	22 Feb 2025	Aspen (ASE)	Denver (APA)	LXJ459	0:26	5:00 PM	5:25 PM	5:58 PM		Landed 5:51 PM		 
+ 	22 Feb 2025	Las Vegas (LAS)	Aspen (ASE)	LXJ459	1:21	1:30 PM	1:56 PM	4:32 PM		Landed 4:17 PM		 
+ 	22 Feb 2025	Kansas City (MKC)	Las Vegas (LAS)	LXJ459	2:26	9:00 AM	10:33 AM	11:03 AM		Landed 10:59 AM		 
+ 	21 Feb 2025	Fort Worth (AFW)	Kansas City (MKC)	LXJ459	1:08	3:42 PM	5:20 PM	6:27 PM		Landed 6:28 PM		 
+ 	21 Feb 2025	Scottsdale (SCF)	Fort Worth (AFW)	LXJ459	1:45	11:45 AM	2:05 PM	4:47 PM		Landed 4:49 PM		 
+ 	21 Feb 2025	Eagle (EGE)	Scottsdale (SCF)	LXJ459	1:12	9:30 AM	11:23 AM	12:44 PM		Landed 12:35 PM		 
+ 	21 Feb 2025	Denver (APA)	Eagle (EGE)	LXJ459	0:24	7:49 AM	9:19 AM	9:43 AM		Landed 9:43 AM		 
+ 	20 Feb 2025	Rifle (RIL)	Denver (APA)	LXJ459	0:52	4:34 PM	5:52 PM	6:43 PM		Landed 6:44 PM		 
+ 	20 Feb 2025	Philadelphia (TTN)	Rifle (RIL)	LXJ459	4:04	1:30 PM	2:49 PM	5:03 PM		Landed 4:54 PM		 
+ 	19 Feb 2025	White Plains (HPN)	Philadelphia (TTN)	LXJ459	0:23	4:00 PM	5:07 PM	5:30 PM		Landed 5:30 PM		 
+ 	18 Feb 2025	Bangor (BGR)	White Plains (HPN)	LXJ459	1:07	11:52 AM	11:22 AM	1:17 PM		Landed 12:29 PM		 
+ 	18 Feb 2025	Marrakesh (RAK)	Bangor (BGR)	LXJ459	7:36	9:12 AM	9:11 AM	10:46 AM		Landed 10:48 AM		 
+ 	13 Feb 2025	White Plains (HPN)	Morristown (MMU)	LXJ459	-	9:00 PM	9:42 PM	3:19 AM		Diverted to RAK		 
+ 	13 Feb 2025	Boca Raton (BCT)	White Plains (HPN)	LXJ459	2:20	3:29 PM	5:03 PM	7:19 PM		Landed 7:24 PM		 
+ 	13 Feb 2025	Morristown (MMU)	Boca Raton (BCT)	LXJ459	2:40	12:00 PM	12:52 PM	3:34 PM		Landed 3:32 PM		 
+ 	13 Feb 2025	White Plains (HPN)	Marrakesh (RAK)	LXJ459	-	10:32 AM	11:50 AM	6:06 PM		Diverted to MMU		 
+ 	11 Feb 2025	Morristown (MMU)	White Plains (HPN)	LXJ459	0:17	7:26 PM	7:25 PM	7:41 PM		Landed 7:42 PM		 
+ 	11 Feb 2025	Miami (MIA)	Morristown (MMU)	LXJ459	2:20	4:00 PM	4:39 PM	7:04 PM		Landed 6:59 PM		 
+ 	10 Feb 2025	Chicago (PWK)	Miami (MIA)	LXJ459	2:31	10:45 AM	11:01 AM	2:47 PM		Landed 2:32 PM		 
+ 	10 Feb 2025	St. Louis (STL)	Houma (HUM)	LXJ459	-	6:57 AM	7:04 AM	8:22 AM		Diverted to PWK		 
+ 	09 Feb 2025	Boca Raton (BCT)	St. Louis (STL)	LXJ459	2:19	5:00 PM	5:03 PM	6:36 PM		Landed 6:22 PM		 
+ 	09 Feb 2025	Miami (MIA)	Boca Raton (BCT)	LXJ459	0:16	3:06 PM	3:19 PM	3:33 PM		Landed 3:35 PM		 
+ 	08 Feb 2025	Guatemala City (GUA)	Miami (MIA)	LXJ459	2:07	3:00 PM	3:05 PM	6:18 PM		Landed 6:12 PM		 
+ 	08 Feb 2025	Naples (APF)	Guatemala City (GUA)	LXJ459	2:11	12:15 PM	12:10 PM	1:32 PM		Landed 1:22 PM		 
+ 	07 Feb 2025	Cleveland (CGF)	Naples (APF)	LXJ459	2:15	4:30 PM	4:45 PM	7:06 PM		Landed 7:00 PM		 
+ 	07 Feb 2025	Albany (ABY)	Cleveland (CGF)	LXJ459	1:36	1:50 PM	12:54 PM	3:56 PM		Landed 2:31 PM		 
+ 	07 Feb 2025	Stuart (SUA)	Albany (ABY)	LXJ459	1:03	10:00 AM	10:11 AM	11:19 AM		Landed 11:13 AM		 
+ 	07 Feb 2025	Boca Raton (BCT)	Stuart (SUA)	LXJ459	0:16	8:10 AM	8:28 AM	8:43 AM		Landed 8:44 AM		 
+ 	06 Feb 2025	Morristown (MMU)	Boca Raton (BCT)	LXJ459	2:19	2:30 PM	3:19 PM	5:45 PM		Landed 5:38 PM		 
+ 	06 Feb 2025	Washington (IAD)	Morristown (MMU)	LXJ459	0:53	12:13 PM	1:10 PM	2:04 PM		Landed 2:03 PM		 
+ 	05 Feb 2025	Miami (MIA)	Washington (IAD)	LXJ459	2:04	9:30 AM	10:06 AM	12:16 PM		Landed 12:10 PM		 
+ 	04 Feb 2025	Providenciales (PLS)	Miami (MIA)	LXJ459	1:33	5:03 PM	4:57 PM	6:35 PM		Landed 6:30 PM		 
+ 	04 Feb 2025	Kansas City (MKC)	Providenciales (PLS)	LXJ459	3:27	11:30 AM	11:50 AM	4:06 PM		Landed 4:17 PM		 
+ 	04 Feb 2025	White Plains (HPN)	Kansas City (MKC)	LXJ459	2:53	7:47 AM	8:13 AM	10:06 AM		Landed 10:06 AM		 
+ 	02 Feb 2025	Orlando (SFB)	White Plains (HPN)	LXJ459	2:08	5:30 PM	6:13 PM	8:21 PM		Landed 8:21 PM		 
+ 	02 Feb 2025	Orlando (SFB)	Orlando (SFB)	LXJ459	0:11	3:30 PM	4:26 PM	4:00 PM		Landed 4:38 PM		 
+ 	21 Jan 2025	—	—	LXJ459	-	—	—	—		Unknown		 
+ 	20 Jan 2025	Atlanta (PDK)	Orlando (SFB)	LXJ459	1:04	6:48 PM	7:13 PM	8:16 PM		Landed 8:17 PM		 
+ 	20 Jan 2025	Panama City (ECP)	Atlanta (PDK)	LXJ459	0:46	4:00 PM	5:03 PM	6:47 PM		Landed 6:49 PM		 
+ 	20 Jan 2025	Atlanta (FTY)	Panama City (ECP)	LXJ459	0:47	2:43 PM	2:49 PM	2:33 PM		Landed 2:35 PM		 
+ 	20 Jan 2025	Windsor Locks (BDL)	Atlanta (FTY)	LXJ459	2:41	11:30 AM	11:34 AM	2:17 PM		Landed 2:16 PM		 
+ 	19 Jan 2025	Albany (ALB)	Windsor Locks (BDL)	LXJ459	0:28	4:07 PM	4:51 PM	5:19 PM		Landed 5:19 PM		 
+ 	19 Jan 2025	Toronto (YYZ)	Albany (ALB)	LXJ459	0:47	2:45 PM	3:09 PM	3:55 PM		Landed 3:56 PM		 
+ 	19 Jan 2025	Bermuda (BDA)	Toronto (YYZ)	LXJ459	2:41	12:00 PM	12:09 PM	1:45 PM		Landed 1:50 PM		 
+ 	19 Jan 2025	Fort Lauderdale (FLL)	Bermuda (BDA)	LXJ459	1:59	7:51 AM	7:53 AM	11:48 AM		Landed 10:52 AM		 
+ 	18 Jan 2025	Marsh Harbour (MHH)	Fort Lauderdale (FLL)	LXJ459	0:38	2:00 PM	1:08 PM	2:48 PM		Landed 1:45 PM		 
+ 	17 Jan 2025	Morristown (MMU)	Marsh Harbour (MHH)	LXJ459	2:16	2:00 PM	2:16 PM	4:17 PM		Landed 4:32 PM		 
+ 	17 Jan 2025	Albany (ABY)	Morristown (MMU)	LXJ459	1:47	10:35 AM	11:01 AM	12:58 PM		Landed 12:48 PM		 
+ 	17 Jan 2025	Stuart (SUA)	Albany (ABY)	LXJ459	1:01	9:30 AM	9:04 AM	10:01 AM		Landed 10:06 AM		 
+ 	17 Jan 2025	Sarasota (SRQ)	Stuart (SUA)	LXJ459	0:33	6:51 AM	7:23 AM	8:02 AM		Landed 7:55 AM		 
+ 	14 Jan 2025	Cleveland (CLE)	Sarasota (SRQ)	LXJ459	2:20	10:30 AM	11:21 AM	1:54 PM		Landed 1:41 PM		 
+ 	14 Jan 2025	Chicago (DPA)	Cleveland (CLE)	LXJ459	0:48	7:33 AM	8:49 AM	10:36 AM		Landed 10:36 AM		 
+ 	11 Jan 2025	Chicago (PWK)	Chicago (DPA)	LXJ459	0:15	5:06 PM	4:51 PM	5:05 PM		Landed 5:06 PM		 
+ 	11 Jan 2025	Seattle (BFI)	Chicago (PWK)	LXJ459	3:17	10:30 AM	11:10 AM	4:32 PM		Landed 4:27 PM		 
+ 	10 Jan 2025	Jackson (JAC)	Seattle (BFI)	LXJ459	1:41	12:54 PM	1:29 PM	2:13 PM		Landed 2:10 PM		 
+ 	10 Jan 2025	White Plains (HPN)	Jackson (JAC)	LXJ459	4:15	8:43 AM	10:13 AM	12:19 PM		Landed 12:27 PM		 
+ 	09 Jan 2025	Naples (APF)	White Plains (HPN)	LXJ459	2:31	4:30 PM	4:55 PM	7:27 PM		Landed 7:27 PM		 
+ 	07 Jan 2025	Teterboro (TEB)	Naples (APF)	LXJ459	2:47	3:30 PM	4:25 PM	7:16 PM		Landed 7:12 PM		 
+ 	06 Jan 2025	Stuart (SUA)	Teterboro (TEB)	LXJ459	2:04	6:00 PM	6:34 PM	8:40 PM		Landed 8:39 PM		 
+ 	05 Jan 2025	Cancun (CUN)	Teterboro (TEB)	LXJ459	3:13	11:08 PM	7:55 PM	11:08 PM		Landed 11:08 PM		 
+ 	05 Jan 2025	Jacksonville (JAX)	Cancun (CUN)	LXJ459	2:05	1:35 PM	4:13 PM	6:18 PM		Landed 6:18 PM		 
+ 	04 Jan 2025	Sint Maarten (SXM)	Jacksonville (JAX)	LXJ459	3:32	2:00 PM	6:15 PM	4:31 PM		Landed 8:47 PM		 
+ 	04 Jan 2025	Philadelphia (PHL)	Sint Maarten (SXM)	LXJ459	4:11	8:04 AM	7:59 AM	12:38 PM		Landed 1:09 PM		 
+ 	03 Jan 2025	Stuart (SUA)	Philadelphia (PHL)	LXJ459	1:52	11:30 AM	12:15 PM	2:15 PM		Landed 2:07 PM		 
+ 	02 Jan 2025	White Plains (HPN)	Stuart (SUA)	LXJ459	2:31	1:10 PM	2:24 PM	5:04 PM		Landed 4:55 PM		 
+ 	02 Jan 2025	Nassau (NAS)	White Plains (HPN)	LXJ459	2:25	10:00 AM	10:40 AM	12:43 PM		Landed 1:05 PM		 
+ 	01 Jan 2025	La Romana (LRM)	Nassau (NAS)	LXJ459	1:36	7:28 PM	6:40 PM	8:14 PM		Landed 7:16 PM		 
+ 	01 Jan 2025	Chicago (UGN)	La Romana (LRM)	LXJ459	3:50	12:00 PM	12:08 PM	5:49 PM		Landed 5:58 PM		 
+ 	01 Jan 2025	White Plains (HPN)	Chicago (UGN)	LXJ459	1:47	9:07 AM	9:36 AM	10:24 AM		Landed 10:23 AM		 
+ 	31 Dec 2024	West Palm Beach (PBI)	White Plains (HPN)	LXJ459	2:43	9:30 AM	10:29 AM	1:25 PM		Landed 1:11 PM		 
+ 	30 Dec 2024	Liberia (LIR)	West Palm Beach (PBI)	LXJ459	2:32	3:30 PM	3:45 PM	7:02 PM		Landed 7:18 PM		 
+ 	30 Dec 2024	Guadalajara (GDL)	Liberia (LIR)	LXJ459	2:54	11:06 AM	11:03 AM	1:57 PM		Landed 1:57 PM		 
+ 	29 Dec 2024	Puerto Vallarta (PVR)	Guadalajara (GDL)	LXJ459	0:30	4:09 PM	4:29 PM	4:59 PM		Landed 4:59 PM		 
+ 	29 Dec 2024	Seattle (BFI)	Puerto Vallarta (PVR)	LXJ459	3:56	8:30 AM	9:15 AM	3:25 PM		Landed 3:10 PM		 
+ 	28 Dec 2024	Idaho Falls (IDA)	Seattle (BFI)	LXJ459	1:38	12:30 PM	1:20 PM	2:01 PM		Landed 1:57 PM		 
+ 	27 Dec 2024	Fort Worth (FTW)	Idaho Falls (IDA)	LXJ459	2:39	4:45 PM	5:01 PM	6:33 PM		Landed 6:40 PM		 
+ 	27 Dec 2024	Lubbock (LBB)	Fort Worth (FTW)	LXJ459	0:41	2:30 PM	3:17 PM	3:55 PM		Landed 3:58 PM		 
+ 	27 Dec 2024	El Paso (ELP)	Lubbock (LBB)	LXJ459	0:43	11:38 AM	12:06 PM	2:00 PM		Landed 1:49 PM		 
+ 	27 Dec 2024	Cabo San Lucas (CSL)	El Paso (ELP)	LXJ459	1:34	9:35 AM	9:37 AM	11:50 AM		Landed 11:11 AM		 
+ 	26 Dec 2024	Salt Lake City (SLC)	Cabo San Lucas (CSL)	LXJ459	2:34	2:00 PM	2:24 PM	4:39 PM		Landed 4:57 PM		 
+ 	26 Dec 2024	Rifle (RIL)	Salt Lake City (SLC)	LXJ459	0:55	11:11 AM	12:49 PM	1:47 PM		Landed 1:43 PM		 
+ 	26 Dec 2024	Farmingdale (FRG)	Rifle (RIL)	LXJ459	4:11	8:30 AM	9:01 AM	11:11 AM		Landed 11:11 AM		 
+ 	25 Dec 2024	Bedford (BED)	Farmingdale (FRG)	LXJ459	0:31	3:36 PM	3:30 PM	4:30 PM		Landed 4:01 PM		 
+ 	25 Dec 2024	Boca Raton (BCT)	Bedford (BED)	LXJ459	2:30	12:00 PM	12:19 PM	3:02 PM		Landed 2:49 PM		 
+ 	25 Dec 2024	Miami (MIA)	Boca Raton (BCT)	LXJ459	0:14	10:06 AM	11:19 AM	11:30 AM		Landed 11:33 AM		 
+ 	23 Dec 2024	The Valley (AXA)	Miami (MIA)	LXJ459	2:57	4:00 PM	4:52 PM	5:54 PM		Landed 6:49 PM		 
+ 	23 Dec 2024	White Plains (HPN)	The Valley (AXA)	LXJ459	3:23	10:00 AM	10:33 AM	2:27 PM		Landed 2:56 PM		 
+ 	22 Dec 2024	The Valley (AXA)	White Plains (HPN)	LXJ459	3:48	4:35 PM	5:25 PM	7:20 PM		Landed 8:13 PM		 
+ 	22 Dec 2024	New York (LGA)	The Valley (AXA)	LXJ459	3:30	11:00 AM	11:44 AM	3:32 PM		Landed 4:15 PM		 
+ 	21 Dec 2024	Jacksonville (JAX)	New York (LGA)	LXJ459	1:43	3:23 PM	6:13 PM	7:58 PM		Landed 7:56 PM		 
+ 	21 Dec 2024	Philadelphia (TTN)	Jacksonville (JAX)	LXJ459	1:53	9:30 AM	3:47 PM	5:40 PM		Landed 5:40 PM		 
+ 	21 Dec 2024	South Bend (SBN)	Philadelphia (TTN)	LXJ459	1:20	10:00 AM	1:34 PM	3:10 PM		Landed 2:54 PM		 
+ 	20 Dec 2024	Dallas (DAL)	South Bend (SBN)	LXJ459	1:58	5:45 PM	6:40 PM	9:37 PM		Landed 9:38 PM		 
+ 	20 Dec 2024	Atlanta (QQR)	Dallas (DAL)	LXJ459	1:54	11:30 AM	11:58 AM	12:23 PM		Landed 12:52 PM		 
+ 	20 Dec 2024	Vero Beach (VRB)	Atlanta (QQR)	LXJ459	1:22	8:41 AM	9:20 AM	10:06 AM		Landed 10:42 AM		 
+ 	19 Dec 2024	Baltimore (BWI)	Vero Beach (VRB)	LXJ459	2:02	11:45 AM	12:23 PM	2:31 PM		Landed 2:25 PM		 
+ 	19 Dec 2024	Cleveland (CGF)	Baltimore (BWI)	LXJ459	0:54	10:22 AM	10:43 AM	11:36 AM		Landed 11:37 AM		 
+ 	15 Dec 2024	Farmingdale (FRG)	Cleveland (CGF)	LXJ459	1:10	5:21 PM	5:25 PM	6:36 PM		Landed 6:35 PM		 
+ 	15 Dec 2024	Providenciales (PLS)	Farmingdale (FRG)	LXJ459	2:56	2:00 PM	1:52 PM	5:00 PM		Landed 4:48 PM		 
+ 	14 Dec 2024	Miami (OPF)	Providenciales (PLS)	LXJ459	1:19	9:36 AM	9:32 AM	11:03 AM		Landed 10:51 AM		 
+ 	13 Dec 2024	Stuart (SUA)	Miami (OPF)	LXJ459	0:29	2:56 PM	4:23 PM	4:50 PM		Landed 4:52 PM		 
+ 	13 Dec 2024	Teterboro (TEB)	Stuart (SUA)	LXJ459	2:50	11:30 AM	12:36 PM	3:25 PM		Landed 3:26 PM		 
+ 	13 Dec 2024	White Plains (HPN)	Teterboro (TEB)	LXJ459	0:26	9:34 AM	10:09 AM	10:34 AM		Landed 10:35 AM		 
+ 	12 Dec 2024	Martha's Vineyard (MVY)	White Plains (HPN)	LXJ459	0:44	3:30 PM	5:08 PM	5:46 PM		Landed 5:51 PM		 
+ 	12 Dec 2024	Teterboro (TEB)	Martha's Vineyard (MVY)	LXJ459	0:35	1:10 PM	3:22 PM	3:57 PM		Landed 3:57 PM		 
+ 	12 Dec 2024	West Palm Beach (PBI)	Teterboro (TEB)	LXJ459	2:20	9:00 AM	9:43 AM	12:04 PM		Landed 12:03 PM		 
+ 	11 Dec 2024	Miami (OPF)	West Palm Beach (PBI)	LXJ459	0:39	6:48 PM	6:51 PM	7:30 PM		Landed 7:30 PM		 
+ 	11 Dec 2024	Key West (EYW)	Miami (OPF)	LXJ459	0:32	5:11 PM	5:44 PM	6:22 PM		Landed 6:16 PM		 
+ 	11 Dec 2024	Miami (MIA)	Key West (EYW)	LXJ459	0:30	3:34 PM	4:51 PM	5:25 PM		Landed 5:21 PM		 
+ 	11 Dec 2024	Denver (APA)	Miami (MIA)	LXJ459	3:20	9:00 AM	9:55 AM	3:17 PM		Landed 3:14 PM		 
+ 	11 Dec 2024	Chicago (PWK)	Denver (APA)	LXJ459	2:18	7:30 AM	7:30 AM	8:55 AM		Landed 8:48 AM		 
+ 	09 Dec 2024	Waukesha (UES)	Chicago (PWK)	LXJ459	0:23	2:40 PM	3:23 PM	3:45 PM		Landed 3:46 PM		 
+ 	09 Dec 2024	Rifle (RIL)	Waukesha (UES)	LXJ459	1:59	10:30 AM	11:47 AM	2:55 PM		Landed 2:47 PM		 
+ 	09 Dec 2024	New Orleans (MSY)	Eagle (EGE)	LXJ459	-	7:38 AM	7:55 AM	9:46 AM		Diverted to RIL		 
+ 	08 Dec 2024	San Diego (SAN)	New Orleans (MSY)	LXJ459	2:59	10:00 AM	10:37 AM	3:52 PM		Landed 3:36 PM		 
+ 	06 Dec 2024	Houston (IAH)	San Diego (SDM)	LXJ459	-	2:30 PM	2:05 PM	2:58 PM		Diverted to SAN		 
+ 	06 Dec 2024	Rock Springs (RKS)	Houston (IAH)	LXJ459	2:15	9:10 AM	9:46 AM	1:11 PM		Landed 1:01 PM		 
+ 	05 Dec 2024	Aspen (ASE)	Rock Springs (RKS)	LXJ459	0:31	1:08 PM	3:21 PM	3:51 PM		Landed 3:52 PM		 
+ 	05 Dec 2024	White Plains (HPN)	Aspen (ASE)	LXJ459	4:06	10:00 AM	11:00 AM	1:25 PM		Landed 1:06 PM		 
+ 	03 Dec 2024	Philadelphia (TTN)	White Plains (HPN)	LXJ459	0:38	7:24 PM	8:22 PM	8:58 PM		Landed 8:59 PM		 
+ 	03 Dec 2024	Knoxville (TYS)	Philadelphia (TTN)	LXJ459	1:29	5:00 PM	6:27 PM	7:46 PM		Landed 7:55 PM		 
+ 	03 Dec 2024	Madison (MSN)	Knoxville (TYS)	LXJ459	1:10	12:27 PM	1:30 PM	3:49 PM		Landed 3:40 PM		 
+ 	02 Dec 2024	Van Nuys (VNY)	Madison (MSN)	LXJ459	3:14	10:26 AM	10:01 AM	4:18 PM		Landed 3:15 PM		 
+ 	01 Dec 2024	Bozeman (BZN)	Van Nuys (VNY)	LXJ459	2:04	4:30 PM	5:05 PM	6:11 PM		Landed 6:09 PM		 
+ 	01 Dec 2024	San Jose (SJC)	Bozeman (BZN)	LXJ459	1:41	12:38 PM	1:09 PM	3:48 PM		Landed 3:49 PM		 
+ 	01 Dec 2024	Van Nuys (VNY)	San Jose (SJC)	LXJ459	0:46	10:45 AM	11:30 AM	12:15 PM		Landed 12:17 PM		 
+ 	01 Dec 2024	Los Angeles (LAX)	Van Nuys (VNY)	LXJ459	0:12	9:26 AM	10:05 AM	10:16 AM		Landed 10:17 AM		 
+ 	30 Nov 2024	San Jose del Cabo (SJD)	Los Angeles (LAX)	LXJ459	2:09	6:30 PM	8:39 PM	9:48 PM		Landed 9:48 PM		 
+ 	30 Nov 2024	Van Nuys (VNY)	San Jose del Cabo (SJD)	LXJ459	1:55	2:30 PM	2:59 PM	5:55 PM		Landed 5:55 PM		 
+ 	27 Nov 2024	Salt Lake City (SLC)	Van Nuys (VNY)	LXJ459	1:29	6:30 PM	6:56 PM	7:32 PM		Landed 7:25 PM		 
+ 	27 Nov 2024	Las Vegas (LAS)	Salt Lake City (SLC)	LXJ459	0:51	12:00 PM	12:47 PM	2:42 PM		Landed 2:39 PM		 
+ 	27 Nov 2024	Oakland (OAK)	Las Vegas (LAS)	LXJ459	1:01	9:13 AM	9:55 AM	11:03 AM		Landed 10:56 AM		 
+ 	25 Nov 2024	Green Bay (GRB)	San Francisco (SFO)	LXJ459	-	8:30 AM	9:27 AM	11:51 AM		Diverted to OAK		 
+ 	24 Nov 2024	Chicago (PWK)	Green Bay (GRB)	LXJ459	0:31	9:30 AM	9:40 AM	10:20 AM		Landed 10:11 AM		 
+ 	23 Nov 2024	Rochester (RST)	Chicago (PWK)	LXJ459	0:43	11:30 AM	11:43 AM	12:44 PM		Landed 12:25 PM		 
+ 	23 Nov 2024	Cleveland (CLE)	Rochester (RST)	LXJ459	1:29	9:31 AM	9:49 AM	10:18 AM		Landed 10:18 AM		 
+ 	22 Nov 2024	Cleveland (CLE)	Cleveland (CLE)	LXJ459	1:21	12:30 PM	12:43 PM	1:50 PM		Landed 2:04 PM		 
+ 	28 Oct 2024	New York (EWR)	Cleveland (CLE)	LXJ459	1:04	9:52 AM	10:10 AM	11:13 AM		Landed 11:14 AM		 
+ 	27 Oct 2024	Detroit (YIP)	New York (EWR)	LXJ459	1:13	6:54 PM	7:26 PM	8:40 PM		Landed 8:39 PM		 
+ 	27 Oct 2024	Tampa (TPA)	Detroit (YIP)	LXJ459	2:21	4:00 PM	4:39 PM	6:59 PM		Landed 6:59 PM		 
+ 	27 Oct 2024	Naples (APF)	Tampa (TPA)	LXJ459	0:26	1:52 PM	1:46 PM	2:43 PM		Landed 2:12 PM		 
+ 	27 Oct 2024	St. Louis (CPS)	Naples (APF)	LXJ459	2:01	9:30 AM	9:53 AM	1:06 PM		Landed 12:54 PM		 
+ 	26 Oct 2024	Chicago (MDW)	St. Louis (CPS)	LXJ459	0:44	7:05 PM	7:49 PM	8:01 PM		Landed 8:33 PM		 
+ 	26 Oct 2024	West Palm Beach (PBI)	Chicago (MDW)	LXJ459	2:35	4:30 PM	5:46 PM	7:21 PM		Landed 7:21 PM		 
+ 	25 Oct 2024	Detroit (YIP)	West Palm Beach (PBI)	LXJ459	2:30	4:30 PM	6:32 PM	9:06 PM		Landed 9:02 PM		 
+ 	25 Oct 2024	Baltimore (BWI)	Detroit (YIP)	LXJ459	1:11	2:24 PM	2:59 PM	4:09 PM		Landed 4:10 PM		 
+ 	25 Oct 2024	Cleveland (BKL)	Baltimore (BWI)	LXJ459	0:55	12:30 PM	1:27 PM	2:21 PM		Landed 2:21 PM		 
+ 	25 Oct 2024	Cleveland (CGF)	Cleveland (BKL)	LXJ459	0:09	10:42 AM	11:13 AM	11:23 AM		Landed 11:22 AM		 
+ 	24 Oct 2024	Teterboro (TEB)	Cleveland (CGF)	LXJ459	1:01	5:30 PM	6:12 PM	7:21 PM		Landed 7:13 PM		 
+ 	24 Oct 2024	Morristown (MMU)	Teterboro (TEB)	LXJ459	0:08	3:31 PM	4:08 PM	4:18 PM		Landed 4:15 PM		 
+ 	24 Oct 2024	Washington (IAD)	Morristown (MMU)	LXJ459	0:55	1:30 PM	2:27 PM	3:30 PM		Landed 3:22 PM		 
+ 	23 Oct 2024	Van Nuys (VNY)	Washington (IAD)	LXJ459	4:12	11:30 AM	11:55 AM	7:42 PM		Landed 7:07 PM		 
+ 	23 Oct 2024	Santa Ana (SNA)	Van Nuys (VNY)	LXJ459	0:23	9:39 AM	10:05 AM	10:33 AM		Landed 10:28 AM		 
+ 	21 Oct 2024	Phoenix (PHX)	Santa Ana (SNA)	LXJ459	0:51	6:30 PM	6:18 PM	7:45 PM		Landed 7:09 PM		 
+ 	21 Oct 2024	San Jose (SJC)	Phoenix (PHX)	LXJ459	1:29	3:32 PM	3:53 PM	5:20 PM		Landed 5:22 PM		 
+ 	20 Oct 2024	Boston (BOS)	San Jose (SJC)	LXJ459	5:39	4:00 PM	7:32 PM	10:16 PM		Landed 10:11 PM		 
+ 	20 Oct 2024	White Plains (HPN)	Boston (BOS)	LXJ459	0:53	2:17 PM	4:40 PM	5:30 PM		Landed 5:33 PM		 
+ 	20 Oct 2024	Washington (IAD)	White Plains (HPN)	LXJ459	1:04	12:30 PM	2:10 PM	3:14 PM		Landed 3:13 PM		 
+ 	19 Oct 2024	Bedford (BED)	Washington (IAD)	LXJ459	1:07	12:30 PM	1:31 PM	2:43 PM		Landed 2:39 PM		 
+ 	18 Oct 2024	Teterboro (TEB)	Miami (OPF)	LXJ459	-	11:30 AM	3:24 PM	4:22 PM		Diverted to BED		 
+ 	18 Oct 2024	Chicago (MDW)	Teterboro (TEB)	LXJ459	1:34	7:00 AM	7:32 AM	9:41 AM		Landed 10:07 AM		 
+ 	17 Oct 2024	Lebanon (LEB)	Chicago (MDW)	LXJ459	1:45	11:30 AM	12:47 PM	1:32 PM		Landed 1:32 PM		 
+ 	17 Oct 2024	Atlantic City (ACY)	Lebanon (LEB)	LXJ459	0:52	9:36 AM	11:16 AM	12:08 PM		Landed 12:08 PM		 
+ 	16 Oct 2024	Toronto (YYZ)	Atlantic City (ACY)	LXJ459	1:09	7:30 PM	8:08 PM	9:26 PM		Landed 9:17 PM		 
+ 	16 Oct 2024	Atlantic City (ACY)	Toronto (YYZ)	LXJ459	1:02	3:50 PM	4:16 PM	5:29 PM		Landed 5:18 PM		 
+ 	16 Oct 2024	Teterboro (TEB)	Atlantic City (ACY)	LXJ459	0:28	1:17 PM	1:49 PM	2:22 PM		Landed 2:17 PM		 
+ 	14 Oct 2024	Indianapolis (IND)	Morristown (MMU)	LXJ459	-	7:40 PM	9:48 PM	11:25 PM		Diverted to TEB		 
+ 	14 Oct 2024	Pittsburgh (PIT)	Indianapolis (IND)	LXJ459	0:58	7:17 PM	8:12 PM	9:10 PM		Landed 9:10 PM		 
+ 	14 Oct 2024	Camarillo (QTC)	Pittsburgh (PIT)	LXJ459	4:13	11:00 AM	11:44 AM	5:57 PM		Landed 5:57 PM		 
+ 	13 Oct 2024	Scottsdale (SCF)	Camarillo (QTC)	LXJ459	1:07	4:08 PM	4:49 PM	5:27 PM		Landed 5:56 PM		 
+ 	13 Oct 2024	Kahului (OGG)	Scottsdale (SCF)	LXJ459	5:36	6:30 AM	7:07 AM	3:42 PM		Landed 3:42 PM		 
+ 	12 Oct 2024	Tucson (TUS)	Kahului (OGG)	LXJ459	6:08	10:30 AM	11:19 AM	2:26 PM		Landed 2:27 PM		 
+ 	11 Oct 2024	Los Angeles (LAX)	Tucson (TUS)	LXJ459	1:05	3:00 PM	3:26 PM	4:35 PM		Landed 4:30 PM		 
+ 	11 Oct 2024	Las Vegas (LAS)	Los Angeles (LAX)	LXJ459	0:43	12:32 PM	1:21 PM	2:16 PM		Landed 2:03 PM		 
+ 	11 Oct 2024	San Diego (SAN)	Las Vegas (LAS)	LXJ459	0:49	10:30 AM	11:26 AM	12:23 PM		Landed 12:15 PM		 
+ 	10 Oct 2024	Cabo San Lucas (CSL)	San Diego (SAN)	LXJ459	1:46	8:23 PM	8:26 PM	10:14 PM		Landed 10:12 PM		 
+ 	10 Oct 2024	Houston (IAH)	Cabo San Lucas (CSL)	LXJ459	2:19	6:30 PM	6:52 PM	7:01 PM		Landed 7:11 PM		 
+ 	10 Oct 2024	Dallas (DAL)	Houston (IAH)	LXJ459	0:41	3:47 PM	4:20 PM	5:09 PM		Landed 5:01 PM		 
+ 	08 Oct 2024	Shreveport (SHV)	Dallas (DAL)	LXJ459	0:39	1:26 PM	1:47 PM	2:27 PM		Landed 2:26 PM		 
+ 	08 Oct 2024	Miami (MIA)	Shreveport (SHV)	LXJ459	2:13	11:30 AM	11:43 AM	12:58 PM		Landed 12:56 PM		 
+ 	08 Oct 2024	Teterboro (TEB)	Miami (MIA)	LXJ459	2:42	7:55 AM	8:05 AM	10:53 AM		Landed 10:47 AM		 
+ 	06 Oct 2024	San Jose (SJC)	Teterboro (TEB)	LXJ459	4:47	8:30 PM	9:52 PM	5:39 AM		Landed 5:39 AM		 
+ 	05 Oct 2024	Santa Maria (SMX)	San Jose (SJC)	LXJ459	0:33	2:30 PM	12:56 PM	3:26 PM		Landed 1:28 PM		 
+ 	04 Oct 2024	San Francisco (SFO)	Santa Maria (SMX)	LXJ459	0:43	10:30 AM	11:31 AM	12:19 PM		Landed 12:13 PM		 
+ 	04 Oct 2024	Las Vegas (LAS)	San Francisco (SFO)	LXJ459	1:11	8:10 AM	9:01 AM	10:18 AM		Landed 10:12 AM		 
+ 	03 Oct 2024	Teterboro (TEB)	Las Vegas (LAS)	LXJ459	4:53	12:30 PM	1:14 PM	3:16 PM		Landed 3:07 PM		 
+ 	03 Oct 2024	Cleveland (CLE)	Teterboro (TEB)	LXJ459	1:08	9:48 AM	10:17 AM	11:28 AM		Landed 11:26 AM		 
+ 	02 Oct 2024	Chicago (MDW)	Cleveland (CLE)	LXJ459	0:45	4:30 PM	5:11 PM	7:05 PM		Landed 6:56 PM		 
+ 	01 Oct 2024	Pittsburgh (AGC)	Chicago (MDW)	LXJ459	1:08	2:00 PM	2:53 PM	2:59 PM		Landed 3:02 PM		 
+ 	01 Oct 2024	Portsmouth (PSM)	Pittsburgh (AGC)	LXJ459	1:16	11:10 AM	12:00 PM	12:31 PM		Landed 1:16 PM		 
+ 	30 Sep 2024	Pittsburgh (PIT)	Portsmouth (PSM)	LXJ459	1:11	9:00 PM	4:21 PM	10:21 PM		Landed 5:33 PM		 
+ 	30 Sep 2024	Nashville (BNA)	Pittsburgh (PIT)	LXJ459	1:04	1:00 PM	1:30 PM	3:41 PM		Landed 3:34 PM		 
+ 	29 Sep 2024	Portland (PWM)	Nashville (BNA)	LXJ459	2:19	3:04 PM	3:17 PM	4:46 PM		Landed 4:37 PM		 
+ 	29 Sep 2024	Quebec (YQB)	Portland (PWM)	LXJ459	0:37	1:20 PM	1:24 PM	2:03 PM		Landed 2:01 PM		 
+ 	29 Sep 2024	Bedford (BED)	Quebec (YQB)	LXJ459	0:51	11:00 AM	11:18 AM	12:12 PM		Landed 12:08 PM		 
+ 	29 Sep 2024	Teterboro (TEB)	Bedford (BED)	LXJ459	0:36	8:08 AM	8:33 AM	9:17 AM		Landed 9:09 AM		 
+ 	28 Sep 2024	Toluca (TLC)	Teterboro (TEB)	LXJ459	4:13	9:30 AM	10:18 AM	4:27 PM		Landed 4:30 PM		 
+ 	27 Sep 2024	West Palm Beach (PBI)	Toluca (TLC)	LXJ459	2:59	5:50 PM	6:14 PM	7:11 PM		Landed 7:12 PM		 
+ 	27 Sep 2024	Toluca (TLC)	West Palm Beach (PBI)	LXJ459	2:47	12:00 PM	12:33 PM	5:19 PM		Landed 5:20 PM		 
+ 	25 Sep 2024	Dallas (RBD)	Toluca (TLC)	LXJ459	2:01	11:30 AM	11:48 AM	1:05 PM		Landed 12:49 PM		 
+ 	25 Sep 2024	Dallas (DAL)	Dallas (RBD)	LXJ459	0:14	9:42 AM	10:06 AM	10:25 AM		Landed 10:21 AM		 
+ 	24 Sep 2024	Columbus (OSU)	Dallas (DAL)	LXJ459	2:10	2:13 PM	2:42 PM	3:55 PM		Landed 3:53 PM		 
+ 	24 Sep 2024	Louisville (SDF)	Columbus (OSU)	LXJ459	0:33	11:44 AM	12:23 PM	1:04 PM		Landed 12:55 PM		 
+ 	24 Sep 2024	Columbus (CMH)	Louisville (SDF)	LXJ459	0:42	9:22 AM	10:05 AM	10:51 AM		Landed 10:47 AM		 
+ 	23 Sep 2024	Pittsburgh (PIT)	Columbus (CMH)	LXJ459	0:26	6:30 PM	6:02 PM	6:27 PM		Landed 6:28 PM		 
+ 	23 Sep 2024	Aspen (ASE)	Pittsburgh (PIT)	LXJ459	2:43	12:30 PM	12:56 PM	5:39 PM		Landed 5:39 PM		 
+ 	23 Sep 2024	Santa Barbara (SBA)	Aspen (ASE)	LXJ459	1:42	7:00 AM	7:31 AM	10:15 AM		Landed 10:13 AM		 
+ 	22 Sep 2024	San Jose (SJC)	Santa Barbara (SBA)	LXJ459	0:39	1:30 PM	1:56 PM	2:38 PM		Landed 2:35 PM		 
+ 	22 Sep 2024	Miami (MIA)	San Jose (SJC)	LXJ459	5:25	9:30 AM	9:47 AM	12:20 PM		Landed 12:12 PM		 
+ 	21 Sep 2024	Rome (RME)	Miami (MIA)	LXJ459	2:42	2:30 PM	2:23 PM	5:12 PM		Landed 5:05 PM		 
+ 	21 Sep 2024	Miami (OPF)	Rome (RME)	LXJ459	2:49	10:20 AM	11:04 AM	1:09 PM		Landed 1:53 PM		 
+ 	20 Sep 2024	Monterey (MRY)	Miami (OPF)	LXJ459	4:57	11:30 AM	12:18 PM	8:13 PM		Landed 8:15 PM		 
+ 	20 Sep 2024	Las Vegas (LAS)	Monterey (MRY)	LXJ459	1:03	9:15 AM	9:59 AM	10:59 AM		Landed 11:02 AM		 
+ 	19 Sep 2024	Philadelphia (TTN)	Las Vegas (LAS)	LXJ459	5:01	4:30 PM	6:13 PM	8:22 PM		Landed 8:14 PM		 
+ 	19 Sep 2024	Washington (IAD)	Philadelphia (TTN)	LXJ459	0:36	2:28 PM	2:59 PM	3:48 PM		Landed 3:35 PM		 
+ 	19 Sep 2024	Teterboro (TEB)	Washington (IAD)	LXJ459	0:43	12:08 PM	1:37 PM	2:28 PM		Landed 2:20 PM		 
+ 	18 Sep 2024	Baltimore (BWI)	Teterboro (TEB)	LXJ459	0:34	8:45 PM	9:27 PM	10:03 PM		Landed 10:00 PM		 
+ 	18 Sep 2024	Cincinnati (LUK)	Baltimore (BWI)	LXJ459	1:05	4:46 PM	5:15 PM	6:28 PM		Landed 6:19 PM		 
+ 	18 Sep 2024	Fort Myers (FMY)	Cincinnati (LUK)	LXJ459	2:03	1:45 PM	2:23 PM	4:36 PM		Landed 4:26 PM		 
+ 	18 Sep 2024	Orlando (SFB)	Fort Myers (FMY)	LXJ459	0:30	12:04 PM	12:44 PM	1:20 PM		Landed 1:14 PM		 
+ 	17 Sep 2024	Miami (OPF)	Orlando (SFB)	LXJ459	0:38	5:23 PM	4:41 PM	6:21 PM		Landed 5:20 PM		 
+ 	16 Sep 2024	Guatemala City (GUA)	Miami (OPF)	LXJ459	2:20	3:19 PM	3:46 PM	7:16 PM		Landed 8:06 PM		 
+ 	16 Sep 2024	Miami (MIA)	Guatemala City (GUA)	LXJ459	2:06	2:00 PM	2:43 PM	2:16 PM		Landed 2:50 PM		 
+ 	16 Sep 2024	Boca Raton (BCT)	Miami (MIA)	LXJ459	0:18	11:36 AM	12:08 PM	12:25 PM		Landed 12:26 PM		 
+ 	15 Sep 2024	New York (EWR)	Boca Raton (BCT)	LXJ459	2:17	6:30 PM	6:40 PM	9:13 PM		Landed 8:57 PM		 
+ 	15 Sep 2024	Teterboro (TEB)	New York (EWR)	LXJ459	0:11	4:36 PM	2:25 PM	5:15 PM		Landed 2:36 PM		 
+ 	15 Sep 2024	St. Louis (STL)	Teterboro (TEB)	LXJ459	1:56	10:30 AM	10:48 AM	1:52 PM		Landed 1:44 PM		 
+ 	14 Sep 2024	West Palm Beach (PBI)	St. Louis (STL)	LXJ459	2:20	2:30 PM	2:41 PM	4:00 PM		Landed 4:01 PM		 
+ 	11 Sep 2024	Miami (MIA)	West Palm Beach (PBI)	LXJ459	0:16	5:45 PM	7:43 PM	8:07 PM		Landed 7:59 PM		 
+ 	11 Sep 2024	Guatemala City (GUA)	Miami (MIA)	LXJ459	2:19	1:00 PM	2:15 PM	5:17 PM		Landed 6:35 PM		 
+ 	11 Sep 2024	Dallas (ADS)	Guatemala City (GUA)	LXJ459	3:22	9:39 AM	10:02 AM	12:25 PM		Landed 12:25 PM		 
+ 	09 Sep 2024	Minneapolis (MSP)	Dallas (ADS)	LXJ459	1:52	2:40 PM	2:38 PM	5:02 PM		Landed 4:29 PM		 
+ 	09 Sep 2024	Sanford (SFM)	Minneapolis (MSP)	LXJ459	2:33	10:00 AM	10:12 AM	11:51 AM		Landed 11:45 AM		 
+ 	08 Sep 2024	New York (LGA)	Sanford (SFM)	LXJ459	0:40	12:23 PM	1:09 PM	1:48 PM		Landed 1:49 PM		 
+ 	08 Sep 2024	West Palm Beach (PBI)	New York (LGA)	LXJ459	2:12	8:30 AM	9:38 AM	11:19 AM		Landed 11:50 AM		 
+ 	07 Sep 2024	Stuart (SUA)	West Palm Beach (PBI)	LXJ459	0:15	12:30 PM	12:52 PM	1:09 PM		Landed 1:08 PM		 
+ 	06 Sep 2024	Charleston (JZI)	Stuart (SUA)	LXJ459	0:59	12:30 PM	2:14 PM	1:39 PM		Landed 3:13 PM		 
+ 	06 Sep 2024	Charlotte (CLT)	Charleston (JZI)	LXJ459	0:35	9:45 AM	10:41 AM	10:28 AM		Landed 11:16 AM		 
+ 	30 Aug 2024	Chicago (PWK)	Charlotte (CLT)	LXJ459	1:31	12:22 PM	12:52 PM	3:37 PM		Landed 3:23 PM		 
+ 	30 Aug 2024	Teterboro (TEB)	Chicago (PWK)	LXJ459	1:44	10:30 AM	11:08 AM	11:56 AM		Landed 11:53 AM		 
+ 	29 Aug 2024	Hickory (HKY)	Teterboro (TEB)	LXJ459	2:08	5:49 PM	6:19 PM	8:27 PM		Landed 8:27 PM		 
+ 	29 Aug 2024	Baltimore (MTN)	Hickory (HKY)	LXJ459	1:00	3:47 PM	4:14 PM	5:11 PM		Landed 5:14 PM		 
+ 	29 Aug 2024	Georgetown (GED)	Baltimore (MTN)	LXJ459	0:24	2:45 PM	3:21 PM	3:47 PM		Landed 3:46 PM		 
+ 	29 Aug 2024	Teterboro (TEB)	Georgetown (GED)	LXJ459	0:41	12:26 PM	1:55 PM	2:37 PM		Landed 2:37 PM		 
+ 	28 Aug 2024	Chicago (PWK)	Teterboro (TEB)	LXJ459	1:36	8:30 AM	9:00 AM	11:32 AM		Landed 11:36 AM		 
+ 	26 Aug 2024	Traverse City (TVC)	Chicago (PWK)	LXJ459	0:38	3:30 PM	3:49 PM	3:29 PM		Landed 3:27 PM		 
+ 	26 Aug 2024	Burbank (BUR)	Traverse City (TVC)	LXJ459	3:44	7:00 AM	8:03 AM	2:46 PM		Landed 2:47 PM		 
+ 	25 Aug 2024	Windsor Locks (BDL)	Burbank (BUR)	LXJ459	5:18	1:30 PM	1:59 PM	4:29 PM		Landed 4:17 PM		 
+ 	25 Aug 2024	Philadelphia (TTN)	Windsor Locks (BDL)	LXJ459	0:40	11:15 AM	11:56 AM	12:44 PM		Landed 12:37 PM		 
+ 	23 Aug 2024	Nashville (BNA)	Philadelphia (TTN)	LXJ459	1:40	12:45 PM	1:13 PM	4:05 PM		Landed 3:53 PM		 
+ 	23 Aug 2024	Knoxville (TYS)	Nashville (BNA)	LXJ459	0:35	11:34 AM	12:00 PM	11:36 AM		Landed 11:34 AM		 
+ 	22 Aug 2024	Nashville (BNA)	Knoxville (TYS)	LXJ459	0:30	8:30 PM	9:18 PM	10:50 PM		Landed 10:48 PM		 
+ 	22 Aug 2024	Knoxville (TYS)	Nashville (BNA)	LXJ459	0:36	6:19 PM	5:29 PM	6:08 PM		Landed 5:04 PM		 
+ 	22 Aug 2024	Teterboro (TEB)	Knoxville (TYS)	LXJ459	1:33	11:45 AM	12:18 PM	1:50 PM		Landed 1:51 PM		 
+ 	21 Aug 2024	Milwaukee (MKE)	Teterboro (TEB)	LXJ459	1:41	12:30 PM	11:42 AM	2:24 PM		Landed 2:24 PM		 
+ 	21 Aug 2024	Teterboro (TEB)	Milwaukee (MKE)	LXJ459	1:42	6:30 AM	7:11 AM	7:59 AM		Landed 7:53 AM		 
+ 	20 Aug 2024	Albany (ALB)	Teterboro (TEB)	LXJ459	0:32	12:14 PM	12:10 PM	12:42 PM		Landed 12:42 PM		 
+ 	20 Aug 2024	Teterboro (TEB)	Albany (ALB)	LXJ459	0:34	10:30 AM	11:06 AM	11:43 AM		Landed 11:40 AM		 
+ 	18 Aug 2024	San Diego (SAN)	Teterboro (TEB)	LXJ459	4:46	6:00 PM	7:43 PM	3:29 AM		Landed 3:29 AM		 
+ 	17 Aug 2024	New Orleans (NEW)	San Diego (SAN)	LXJ459	3:16	4:00 PM	3:36 PM	5:53 PM		Landed 4:52 PM		 
+ 	17 Aug 2024	Vero Beach (VRB)	New Orleans (NEW)	LXJ459	1:23	1:59 PM	2:09 PM	2:48 PM		Landed 2:32 PM		 
+ 	16 Aug 2024	Baltimore (BWI)	Vero Beach (VRB)	LXJ459	1:50	12:32 PM	1:23 PM	3:21 PM		Landed 3:13 PM		 
+ 	16 Aug 2024	Pittsfield (PSF)	Baltimore (BWI)	LXJ459	0:47	11:00 AM	12:16 PM	1:13 PM		Landed 1:02 PM		 
+ 	16 Aug 2024	Westhampton Beach (FOK)	Pittsfield (PSF)	LXJ459	0:29	9:25 AM	10:17 AM	10:42 AM		Landed 10:45 AM		 
+ 	15 Aug 2024	Roskilde (RKE)	Westhampton Beach (FOK)	LXJ459	7:56	3:00 PM	3:46 PM	5:47 PM		Landed 5:43 PM		 
+ 	14 Aug 2024	Farnborough (FAB)	Roskilde (RKE)	LXJ459	1:22	5:05 PM	4:53 PM	7:38 PM		Landed 7:14 PM		 
+ 	14 Aug 2024	St. John's (YYT)	Farnborough (FAB)	LXJ459	3:55	8:00 AM	8:23 AM	3:27 PM		Landed 3:49 PM		 
+ 	13 Aug 2024	White Plains (HPN)	St. John's (YYT)	LXJ459	2:22	4:00 PM	4:11 PM	8:27 PM		Landed 8:02 PM		 
+ 	12 Aug 2024	Atlanta (PDK)	White Plains (HPN)	LXJ459	1:49	5:41 PM	6:11 PM	8:13 PM		Landed 8:00 PM		 
+ 	12 Aug 2024	Salinas (SNS)	Atlanta (PDK)	LXJ459	4:12	9:30 AM	10:05 AM	5:23 PM		Landed 5:17 PM		 
+ 	12 Aug 2024	San Francisco (SFO)	Salinas (SNS)	LXJ459	0:35	8:05 AM	8:45 AM	9:26 AM		Landed 9:20 AM		 
+ 	11 Aug 2024	Eagle (EGE)	San Francisco (SFO)	LXJ459	1:57	2:30 PM	3:55 PM	4:54 PM		Landed 4:52 PM		 
+ 	11 Aug 2024	Denver (APA)	Aspen (ASE)	LXJ459	-	1:00 PM	12:24 PM	1:30 PM		Diverted to EGE		 
+ 	11 Aug 2024	Bozeman (BZN)	Denver (APA)	LXJ459	1:08	9:30 AM	10:00 AM	11:16 AM		Landed 11:08 AM		 
+ 	10 Aug 2024	Eagle (EGE)	Bozeman (BZN)	LXJ459	1:12	1:30 PM	1:02 PM	2:13 PM		Landed 2:14 PM		 
+ 	10 Aug 2024	Nashville (QQN)	Eagle (EGE)	LXJ459	2:39	9:30 AM	10:21 AM	11:05 AM		Landed 12:01 PM		 
+ 	09 Aug 2024	Chattanooga (CHA)	Nashville (QQN)	LXJ459	0:26	1:38 PM	2:43 PM	1:13 PM		Landed 2:09 PM		 
+ 	09 Aug 2024	Scottsdale (SCF)	Chattanooga (CHA)	LXJ459	3:10	6:30 AM	8:02 AM	2:20 PM		Landed 2:12 PM		 
+ 	08 Aug 2024	Portland (PDX)	Scottsdale (SCF)	LXJ459	2:05	6:30 AM	7:24 AM	9:39 AM		Landed 9:29 AM		 
+ 	07 Aug 2024	Mountain View (NUQ)	Portland (PDX)	LXJ459	1:23	3:40 PM	4:07 PM	5:32 PM		Landed 5:30 PM		 
+ 	07 Aug 2024	Seattle (BFI)	Mountain View (NUQ)	LXJ459	1:40	1:30 PM	1:49 PM	3:28 PM		Landed 3:29 PM		 
+ 	06 Aug 2024	Vancouver (YVR)	Seattle (BFI)	LXJ459	0:23	5:43 PM	6:31 PM	6:54 PM		Landed 6:55 PM		 
+ 	06 Aug 2024	White Plains (HPN)	Vancouver (YVR)	LXJ459	5:33	2:30 PM	3:06 PM	5:44 PM		Landed 5:39 PM		 
+ 	05 Aug 2024	Parry Sound (YPD)	White Plains (HPN)	LXJ459	1:02	9:27 PM	9:14 PM	10:16 PM		Landed 10:16 PM		 
+ 	05 Aug 2024	Hamilton (YHM)	—	LXJ459	-	7:51 PM	7:50 PM	—		Unknown		 
+ 	05 Aug 2024	San Diego (SAN)	Hamilton (YHM)	LXJ459	4:09	11:00 AM	12:09 PM	7:17 PM		Landed 7:18 PM		 
+ 	05 Aug 2024	Long Beach (LGB)	San Diego (SAN)	LXJ459	0:29	9:00 AM	9:33 AM	10:19 AM		Landed 10:03 AM		 
+ 	04 Aug 2024	Truckee (TKF)	Long Beach (LGB)	LXJ459	1:11	7:00 PM	7:38 PM	8:50 PM		Landed 8:48 PM		 
+ 	04 Aug 2024	Santa Ana (SNA)	Truckee (TKF)	LXJ459	0:58	4:22 PM	4:48 PM	5:45 PM		Landed 5:46 PM		 
+ 	04 Aug 2024	Napa (APC)	Santa Ana (SNA)	LXJ459	1:10	12:00 PM	12:39 PM	1:48 PM		Landed 1:49 PM		 
+ 	03 Aug 2024	Telluride (TEX)	Napa (APC)	LXJ459	1:49	4:18 PM	4:36 PM	5:31 PM		Landed 5:24 PM		 
+ 	03 Aug 2024	Kerrville (ERV)	Telluride (TEX)	LXJ459	1:56	3:00 PM	2:16 PM	3:02 PM		Landed 3:12 PM		 
+ 	03 Aug 2024	Houston (SGR)	Kerrville (ERV)	LXJ459	0:40	12:30 PM	1:09 PM	1:51 PM		Landed 1:49 PM		 
+ 	03 Aug 2024	Shreveport (SHV)	Houston (SGR)	LXJ459	0:40	10:46 AM	11:14 AM	11:59 AM		Landed 11:53 AM		 
+ 	02 Aug 2024	West Palm Beach (PBI)	Shreveport (SHV)	LXJ459	2:00	5:48 PM	6:38 PM	7:38 PM		Landed 7:38 PM		 
+ 	02 Aug 2024	Providenciales (PLS)	West Palm Beach (PBI)	LXJ459	1:23	3:20 PM	4:37 PM	4:51 PM		Landed 6:00 PM		 
+ 	02 Aug 2024	Marsh Harbour (MHH)	Providenciales (PLS)	LXJ459	1:43	1:39 PM	1:46 PM	3:01 PM		Landed 3:29 PM		 
+ 	02 Aug 2024	Chicago (PWK)	Marsh Harbour (MHH)	LXJ459	2:45	9:00 AM	9:16 AM	12:42 PM		Landed 1:01 PM		 
+ 	01 Aug 2024	Cleveland (CGF)	Chicago (PWK)	LXJ459	0:57	1:20 PM	2:05 PM	1:23 PM		Landed 2:02 PM		 
+ 	01 Aug 2024	Teterboro (TEB)	Cleveland (CGF)	LXJ459	0:59	11:00 AM	11:19 AM	12:27 PM		Landed 12:18 PM		 
+ 	01 Aug 2024	Cleveland (CGF)	Teterboro (TEB)	LXJ459	0:56	8:21 AM	8:48 AM	9:44 AM		Landed 9:44 AM		 
+ 	26 Jul 2024	Charleston (CRW)	Cleveland (CGF)	LXJ459	0:39	2:40 PM	3:20 PM	3:59 PM		Landed 3:59 PM		 
+ 	26 Jul 2024	Houston (HOU)	Charleston (CRW)	LXJ459	2:03	10:30 AM	11:07 AM	2:25 PM		Landed 2:10 PM		 
+ 	26 Jul 2024	Austin (AUS)	Houston (HOU)	LXJ459	0:32	8:19 AM	9:04 AM	9:36 AM		Landed 9:36 AM		 
+ 	24 Jul 2024	Houston (DWH)	Austin (AUS)	LXJ459	0:28	2:26 PM	2:51 PM	3:32 PM		Landed 3:18 PM		 
+ 	24 Jul 2024	Hailey (SUN)	Houston (DWH)	LXJ459	2:42	9:30 AM	10:28 AM	2:13 PM		Landed 2:10 PM		 
+ 	24 Jul 2024	Traverse City (TVC)	Hailey (SUN)	LXJ459	3:05	7:13 AM	7:48 AM	9:05 AM		Landed 8:53 AM		 
+ 	23 Jul 2024	Windsor Locks (BDL)	Traverse City (TVC)	LXJ459	1:44	4:30 PM	5:09 PM	7:04 PM		Landed 6:53 PM		 
+ 	23 Jul 2024	Morristown (MMU)	Windsor Locks (BDL)	LXJ459	0:26	2:30 PM	12:59 PM	3:18 PM		Landed 1:25 PM		 
+ 	23 Jul 2024	Walterboro (RBW)	Morristown (MMU)	LXJ459	2:20	8:54 AM	9:11 AM	11:37 AM		Landed 11:31 AM		 
+ 	22 Jul 2024	Nashville (QQN)	Walterboro (RBW)	LXJ459	0:57	4:58 PM	5:23 PM	6:43 PM		Landed 7:21 PM		 
+ 	22 Jul 2024	Panama City (ECP)	Nashville (QQN)	LXJ459	1:01	3:00 PM	3:37 PM	4:10 PM		Landed 4:38 PM		 
+ 	22 Jul 2024	Orlando (SFB)	Panama City (ECP)	LXJ459	0:53	1:37 PM	2:11 PM	2:05 PM		Landed 2:04 PM		 
+ 	14 Jul 2024	Teterboro (TEB)	Orlando (SFB)	LXJ459	2:06	7:07 PM	7:25 PM	9:31 PM		Landed 9:31 PM		 
+ 	14 Jul 2024	Knoxville (TYS)	Teterboro (TEB)	LXJ459	1:55	3:30 PM	4:06 PM	6:00 PM		Landed 6:01 PM		 
+ 	14 Jul 2024	White Plains (HPN)	Knoxville (TYS)	LXJ459	1:31	1:30 PM	12:05 PM	3:26 PM		Landed 1:36 PM		 
+ 	13 Jul 2024	Puerto Plata (POP)	White Plains (HPN)	LXJ459	3:19	9:00 AM	9:33 AM	12:35 PM		Landed 12:51 PM		 
+ 	12 Jul 2024	Naples (APF)	Puerto Plata (POP)	LXJ459	1:54	5:21 PM	6:02 PM	7:22 PM		Landed 7:56 PM		 
+ 	12 Jul 2024	Denver (BJC)	Naples (APF)	LXJ459	3:28	10:30 AM	11:26 AM	4:53 PM		Landed 4:54 PM		 
+ 	12 Jul 2024	Eagle (EGE)	Denver (BJC)	LXJ459	0:36	8:30 AM	9:15 AM	9:57 AM		Landed 9:51 AM		 
+ 	10 Jul 2024	Dallas (DAL)	Eagle (EGE)	LXJ459	1:52	2:30 PM	2:43 PM	3:51 PM		Landed 3:36 PM		 
+ 	09 Jul 2024	Tulsa (RVS)	Dallas (DAL)	LXJ459	0:41	5:19 PM	4:57 PM	6:19 PM		Landed 5:38 PM		 
+ 	09 Jul 2024	Longview (GGG)	Tulsa (RVS)	LXJ459	0:43	3:30 PM	3:51 PM	4:44 PM		Landed 4:34 PM		 
+ 	09 Jul 2024	Dallas (DAL)	Longview (GGG)	LXJ459	0:26	1:23 PM	1:56 PM	2:21 PM		Landed 2:22 PM		 
+ 	07 Jul 2024	New London (GON)	Dallas (DAL)	LXJ459	3:28	5:00 PM	4:56 PM	7:30 PM		Landed 7:24 PM		 
+ 	07 Jul 2024	White Plains (HPN)	New London (GON)	LXJ459	0:23	1:05 PM	1:34 PM	1:57 PM		Landed 1:57 PM		 
+ 	07 Jul 2024	West Palm Beach (PBI)	White Plains (HPN)	LXJ459	2:25	9:45 AM	10:11 AM	12:41 PM		Landed 12:35 PM		 
+ 	06 Jul 2024	North Eleuthera (ELH)	West Palm Beach (PBI)	LXJ459	0:44	3:08 PM	3:02 PM	3:57 PM		Landed 3:46 PM		 
+ 	06 Jul 2024	Baltimore (BWI)	North Eleuthera (ELH)	LXJ459	2:05	12:00 PM	12:01 PM	2:09 PM		Landed 2:06 PM		 
+ 	06 Jul 2024	Philadelphia (PNE)	Baltimore (BWI)	LXJ459	0:27	9:26 AM	10:01 AM	10:36 AM		Landed 10:29 AM		 
+ 	04 Jul 2024	Oakland (OAK)	Philadelphia (PNE)	LXJ459	4:34	6:30 AM	7:29 AM	3:08 PM		Landed 3:03 PM		 
+ 	03 Jul 2024	Burbank (BUR)	Oakland (OAK)	LXJ459	0:49	12:30 PM	1:18 PM	2:10 PM		Landed 2:07 PM		 
+ 	03 Jul 2024	Chicago (MDW)	Burbank (BUR)	LXJ459	4:06	9:30 AM	10:27 AM	11:38 AM		Landed 12:33 PM		 
+ 	02 Jul 2024	Blountville (TRI)	Chicago (MDW)	LXJ459	1:13	9:00 AM	9:10 AM	9:38 AM		Landed 9:23 AM		 
+ 	01 Jul 2024	Houston (DWH)	Blountville (TRI)	LXJ459	1:53	10:30 AM	10:45 AM	1:49 PM		Landed 1:37 PM		 
+ 	30 Jun 2024	Hayward (HYR)	Houston (DWH)	LXJ459	2:25	1:30 PM	1:14 PM	3:39 PM		Landed 3:39 PM		 
+ 	30 Jun 2024	Atlanta (PDK)	Hayward (HYR)	LXJ459	2:15	9:30 AM	10:53 AM	12:05 PM		Landed 12:08 PM		 
+ 	29 Jun 2024	Austin (AUS)	Atlanta (PDK)	LXJ459	1:52	12:00 PM	12:00 PM	3:24 PM		Landed 2:51 PM		 
+ 	28 Jun 2024	Auburn (AUO)	Austin (AUS)	LXJ459	1:34	4:26 PM	4:10 PM	6:29 PM		Landed 5:44 PM		 
+ 	28 Jun 2024	Charlotte (CLT)	Auburn (AUO)	LXJ459	0:49	3:30 PM	3:59 PM	3:50 PM		Landed 3:48 PM		 
+ 	28 Jun 2024	Farmingdale (FRG)	Charlotte (CLT)	LXJ459	1:37	12:34 PM	1:01 PM	2:44 PM		Landed 2:38 PM		 
+ 	27 Jun 2024	Las Vegas (HSH)	Farmingdale (FRG)	LXJ459	4:25	10:30 AM	11:12 AM	6:44 PM		Landed 6:37 PM		 
+ 	27 Jun 2024	Van Nuys (VNY)	Las Vegas (HSH)	LXJ459	0:41	8:16 AM	8:54 AM	9:40 AM		Landed 9:35 AM		 
+ 	26 Jun 2024	Las Vegas (LAS)	Van Nuys (VNY)	LXJ459	0:40	12:00 PM	1:35 PM	2:19 PM		Landed 2:15 PM		 
+ 	26 Jun 2024	Van Nuys (VNY)	Las Vegas (LAS)	LXJ459	0:40	10:30 AM	11:14 AM	12:05 PM		Landed 11:55 AM		 
+ 	24 Jun 2024	San Jose (SJC)	Van Nuys (VNY)	LXJ459	0:49	6:00 PM	6:42 PM	7:40 PM		Landed 7:31 PM		 
+ 	24 Jun 2024	Kailua-Kona (KOA)	San Jose (SJC)	LXJ459	4:36	9:30 AM	10:28 AM	6:03 PM		Landed 6:04 PM		 
+ 	23 Jun 2024	Van Nuys (VNY)	Kailua-Kona (KOA)	LXJ459	5:28	8:30 AM	9:19 AM	11:52 AM		Landed 11:47 AM		 
+ 	22 Jun 2024	Miami (OPF)	Van Nuys (VNY)	LXJ459	4:51	11:30 AM	1:32 PM	3:22 PM		Landed 3:23 PM		 
+ 	22 Jun 2024	Charleston (JZI)	Miami (OPF)	LXJ459	1:16	9:17 AM	10:04 AM	10:36 AM		Landed 11:20 AM		 
+ 	21 Jun 2024	West Palm Beach (PBI)	Charleston (JZI)	LXJ459	1:09	4:30 PM	5:11 PM	5:49 PM		Landed 6:20 PM		 
+ 	21 Jun 2024	Bloomington (BMG)	West Palm Beach (PBI)	LXJ459	2:01	12:14 PM	12:28 PM	2:27 PM		Landed 2:28 PM		 
+ 	21 Jun 2024	White Plains (HPN)	Bloomington (BMG)	LXJ459	1:34	9:30 AM	10:03 AM	11:47 AM		Landed 11:37 AM		 
+ 	21 Jun 2024	Cleveland (CLE)	White Plains (HPN)	LXJ459	1:08	7:23 AM	8:04 AM	9:12 AM		Landed 9:13 AM		 
+ 	18 Jun 2024	Chicago (MDW)	Cleveland (CLE)	LXJ459	0:46	8:39 AM	4:12 PM	10:33 AM		Landed 5:59 PM		 
+ 	17 Jun 2024	Santa Barbara (SBA)	Chicago (MDW)	LXJ459	3:27	12:30 PM	1:21 PM	6:48 PM		Landed 6:48 PM		 
+ 	17 Jun 2024	San Francisco (SFO)	Santa Barbara (SBA)	LXJ459	0:41	8:00 AM	8:57 AM	9:41 AM		Landed 9:39 AM		 
+ 	16 Jun 2024	Sacramento (SMF)	San Francisco (SFO)	LXJ459	0:37	11:30 AM	11:42 AM	12:16 PM		Landed 12:19 PM		 
+ 	16 Jun 2024	—	Sacramento (SMF)	LXJ459	0:11	—	—	10:07 AM		Landed 10:07 AM		 
+ 	15 Jun 2024	Provo (PVU)	—	LXJ459	1:22	6:47 PM	5:25 PM	—		Landed 12:47 AM		 
+ 	15 Jun 2024	Aspen (ASE)	Provo (PVU)	LXJ459	0:44	2:30 PM	2:43 PM	3:44 PM		Landed 3:27 PM		 
+ 	15 Jun 2024	West Palm Beach (PBI)	Aspen (ASE)	LXJ459	3:48	11:30 AM	11:52 AM	1:47 PM		Landed 1:40 PM		 
+ 	14 Jun 2024	Naples (APF)	West Palm Beach (PBI)	LXJ459	0:31	3:45 PM	4:09 PM	4:41 PM		Landed 4:40 PM		 
+ 	14 Jun 2024	Nassau (NAS)	Naples (APF)	LXJ459	0:50	1:30 PM	1:43 PM	1:33 PM		Landed 1:33 PM		 
+ 	14 Jun 2024	Charleston (JZI)	Nassau (NAS)	LXJ459	1:24	10:22 AM	11:06 AM	12:21 PM		Landed 12:30 PM		 
+ 	14 Jun 2024	Pittsburgh (PIT)	Charleston (JZI)	LXJ459	1:14	8:00 AM	8:42 AM	9:25 AM		Landed 9:56 AM		 
+ 	13 Jun 2024	Philadelphia (PHL)	Pittsburgh (PIT)	LXJ459	0:43	8:17 AM	9:05 AM	10:00 AM		Landed 9:48 AM		 
+ 	12 Jun 2024	Bangor (BGR)	Philadelphia (PHL)	LXJ459	1:12	12:41 PM	1:39 PM	3:01 PM		Landed 2:51 PM		 
+ 	12 Jun 2024	Toulon (TLN)	Bangor (BGR)	LXJ459	7:46	10:30 AM	11:16 AM	12:13 PM		Landed 1:02 PM		 
+ 	11 Jun 2024	Milan (MXP)	Toulon (TLN)	LXJ459	0:44	1:00 PM	12:59 PM	2:15 PM		Landed 1:43 PM		 
+ 	07 Jun 2024	Teterboro (TEB)	Milan (MXP)	LXJ459	7:50	8:00 PM	7:52 PM	9:55 AM		Landed 9:42 AM		 
+ 	06 Jun 2024	Eagle (EGE)	Teterboro (TEB)	LXJ459	3:18	2:30 PM	2:58 PM	8:19 PM		Landed 8:17 PM		 
+ 	05 Jun 2024	Naples (APF)	Eagle (EGE)	LXJ459	3:50	10:30 AM	11:06 AM	12:52 PM		Landed 12:56 PM		 
+ 	04 Jun 2024	West Palm Beach (PBI)	Naples (APF)	LXJ459	0:28	8:00 AM	8:42 AM	9:08 AM		Landed 9:10 AM		 
+ 	03 Jun 2024	Wildwood (WWD)	West Palm Beach (PBI)	LXJ459	1:56	2:00 PM	2:54 PM	4:57 PM		Landed 4:50 PM		 
+ 	03 Jun 2024	Philadelphia (TTN)	Wildwood (WWD)	LXJ459	0:23	12:05 PM	12:30 PM	12:52 PM		Landed 12:52 PM		 
+ 	02 Jun 2024	Sint Maarten (SXM)	Philadelphia (TTN)	LXJ459	3:43	7:06 PM	3:23 PM	6:06 PM		Landed 6:06 PM		 
+ 	02 Jun 2024	Sarasota (SRQ)	Sint Maarten (SXM)	LXJ459	2:44	12:24 PM	9:40 AM	12:24 PM		Landed 12:24 PM		 
+ 	01 Jun 2024	Scottsdale (SCF)	Sarasota (SRQ)	LXJ459	3:45	8:30 AM	9:36 AM	4:20 PM		Landed 4:21 PM		 
+ 	31 May 2024	Santa Rosa (STS)	Scottsdale (SCF)	LXJ459	1:44	12:01 PM	1:41 PM	3:23 PM		Landed 3:25 PM		 
+ 	31 May 2024	Seattle (BFI)	Santa Rosa (STS)	LXJ459	1:30	9:30 AM	10:15 AM	11:47 AM		Landed 11:45 AM		 
+ 	30 May 2024	Oakland (OAK)	Seattle (BFI)	LXJ459	1:41	2:30 PM	2:44 PM	4:24 PM		Landed 4:25 PM		 
+ 	29 May 2024	Van Nuys (VNY)	San Francisco (SFO)	LXJ459	-	10:30 AM	11:03 AM	11:52 AM		Diverted to OAK		 
+ 	28 May 2024	Teterboro (TEB)	Van Nuys (VNY)	LXJ459	5:22	5:30 PM	6:23 PM	8:52 PM		Landed 8:45 PM		 
+ 	28 May 2024	New York (LGA)	Teterboro (TEB)	LXJ459	0:10	12:30 PM	12:25 PM	12:35 PM		Landed 12:35 PM		 
+ 	27 May 2024	Bar Harbor (BHB)	New York (LGA)	LXJ459	1:08	9:30 AM	10:14 AM	10:49 AM		Landed 11:21 AM		 
+ 	24 May 2024	New York (LGA)	Bar Harbor (BHB)	LXJ459	0:53	1:30 PM	2:36 PM	3:23 PM		Landed 3:30 PM		 
+ 	24 May 2024	Teterboro (TEB)	New York (LGA)	LXJ459	0:14	12:00 PM	12:27 PM	12:46 PM		Landed 12:41 PM		 
+ 	23 May 2024	San Francisco (SFO)	Teterboro (TEB)	LXJ459	4:38	1:30 PM	2:25 PM	9:59 PM		Landed 10:02 PM		 
+ 	23 May 2024	Oakland (OAK)	San Francisco (SFO)	LXJ459	0:16	12:12 PM	12:47 PM	12:24 PM		Landed 1:03 PM		 
+ 	22 May 2024	Nashville (BNA)	Oakland (OAK)	LXJ459	4:31	12:15 PM	2:05 PM	4:35 PM		Landed 4:36 PM		 
+ 	22 May 2024	Panama City (ECP)	Nashville (BNA)	LXJ459	1:09	12:30 PM	12:23 PM	1:52 PM		Landed 1:32 PM		 
+ 	22 May 2024	Tulsa (TUL)	Panama City (ECP)	LXJ459	1:37	9:30 AM	10:14 AM	11:53 AM		Landed 11:51 AM		 
+ 	21 May 2024	Birmingham (BHM)	Tulsa (TUL)	LXJ459	1:25	2:23 PM	2:58 PM	3:51 PM		Landed 4:23 PM		 
+ 	21 May 2024	Spartanburg (SPA)	Birmingham (BHM)	LXJ459	0:52	2:00 PM	2:24 PM	2:17 PM		Landed 2:16 PM		 
+ 	21 May 2024	Birmingham (BHM)	Spartanburg (SPA)	LXJ459	0:49	7:30 AM	8:14 AM	10:04 AM		Landed 10:04 AM		 
+ 	20 May 2024	Philadelphia (PHL)	Birmingham (BHM)	LXJ459	1:45	3:22 PM	3:45 PM	4:30 PM		Landed 4:30 PM		 
+ 	20 May 2024	Charleston (JZI)	Philadelphia (PHL)	LXJ459	1:22	1:00 PM	1:06 PM	2:38 PM		Landed 2:28 PM		 
+ 	19 May 2024	Philadelphia (PHL)	Charleston (JZI)	LXJ459	1:20	5:56 PM	6:15 PM	7:24 PM		Landed 7:35 PM		 
+ 	19 May 2024	Akron (CAK)	Philadelphia (PHL)	LXJ459	0:57	4:00 PM	4:50 PM	5:54 PM		Landed 5:47 PM		 
+ 	19 May 2024	Cleveland (CLE)	Akron (CAK)	LXJ459	0:14	12:19 PM	1:51 PM	2:07 PM		Landed 2:06 PM		 
+ 	18 May 2024	Sarasota (SRQ)	Cleveland (CLE)	LXJ459	2:06	5:30 PM	5:26 PM	8:12 PM		Landed 7:33 PM		 
+ 	18 May 2024	Miami (MIA)	Sarasota (SRQ)	LXJ459	0:43	3:15 PM	3:51 PM	4:38 PM		Landed 4:34 PM		 
+ 	17 May 2024	Marsh Harbour (MHH)	Miami (MIA)	LXJ459	0:49	2:00 PM	2:25 PM	2:52 PM		Landed 3:14 PM		 
+ 	17 May 2024	Teterboro (TEB)	Marsh Harbour (MHH)	LXJ459	2:11	8:30 AM	8:25 AM	9:18 AM		Landed 10:36 AM		 
+ 	16 May 2024	White Plains (HPN)	Teterboro (TEB)	LXJ459	0:20	6:04 PM	6:41 PM	6:30 PM		Landed 7:01 PM		 
+ 	16 May 2024	Akron (AKC)	White Plains (HPN)	LXJ459	1:11	4:00 PM	4:53 PM	6:06 PM		Landed 6:05 PM		 
+ 	16 May 2024	White Plains (HPN)	Akron (AKC)	LXJ459	0:59	7:18 AM	8:18 AM	9:18 AM		Landed 9:17 AM		 
+ 	14 May 2024	Teterboro (TEB)	White Plains (HPN)	LXJ459	0:17	5:30 PM	6:46 PM	7:17 PM		Landed 7:03 PM		 
+ 	13 May 2024	Chicago (MDW)	Teterboro (TEB)	LXJ459	1:30	7:30 PM	8:17 PM	10:47 PM		Landed 10:48 PM		 
+ 	13 May 2024	Kansas City (MCI)	Chicago (MDW)	LXJ459	1:03	10:30 AM	10:49 AM	11:41 AM		Landed 11:53 AM		 
+ 	12 May 2024	Chicago (MDW)	Kansas City (MCI)	LXJ459	1:03	4:12 PM	4:39 PM	5:48 PM		Landed 5:43 PM		 
+ 	12 May 2024	Cabo San Lucas (CSL)	Chicago (MDW)	LXJ459	3:35	10:00 AM	10:02 AM	3:37 PM		Landed 3:38 PM		 
+ 	10 May 2024	Dallas (DAL)	Cabo San Lucas (CSL)	LXJ459	2:43	3:00 PM	2:18 PM	3:46 PM		Landed 3:01 PM		 
+ 	10 May 2024	Lafayette (LFT)	Dallas (DAL)	LXJ459	0:57	12:30 PM	12:46 PM	1:53 PM		Landed 1:43 PM		 
+ 	10 May 2024	Brunswick (BQK)	Lafayette (LFT)	LXJ459	1:38	10:23 AM	11:00 AM	11:53 AM		Landed 11:38 AM		 
+ 	09 May 2024	Cincinnati (LUK)	Brunswick (BQK)	LXJ459	1:16	3:15 PM	4:34 PM	5:50 PM		Landed 5:50 PM		 
+ 	09 May 2024	Asheville (AVL)	Cincinnati (LUK)	LXJ459	0:52	10:56 AM	11:49 AM	12:41 PM		Landed 12:41 PM		 
+ 	09 May 2024	Baton Rouge (BTR)	Asheville (AVL)	LXJ459	1:14	7:30 AM	8:37 AM	10:51 AM		Landed 10:52 AM		 
+ 	08 May 2024	Dallas (DAL)	Baton Rouge (BTR)	LXJ459	0:56	5:08 PM	6:00 PM	6:57 PM		Landed 6:56 PM		 
+ 	08 May 2024	Salt Lake City (SLC)	Dallas (DAL)	LXJ459	2:03	1:30 PM	1:56 PM	5:01 PM		Landed 4:59 PM		 
+ 	08 May 2024	San Francisco (SFO)	Salt Lake City (SLC)	LXJ459	1:23	9:05 AM	10:04 AM	12:21 PM		Landed 12:27 PM		 
+ 	06 May 2024	Burbank (BUR)	San Francisco (SFO)	LXJ459	1:08	9:30 AM	10:35 AM	11:49 AM		Landed 11:43 AM		 
+ 	05 May 2024	San Francisco (SFO)	Burbank (BUR)	LXJ459	0:46	10:30 AM	11:15 AM	12:00 PM		Landed 12:01 PM		 
+ 	04 May 2024	Reno (RNO)	San Francisco (SFO)	LXJ459	0:51	7:10 PM	7:42 PM	8:32 PM		Landed 8:33 PM		 
+ 	04 May 2024	Thermal (TRM)	Reno (RNO)	LXJ459	1:16	2:30 PM	5:30 PM	6:46 PM		Landed 6:46 PM		 
+ 	04 May 2024	Eagle (EGE)	Thermal (TRM)	LXJ459	1:36	12:15 PM	12:51 PM	1:33 PM		Landed 1:27 PM		 
+ 	03 May 2024	Stuart (SUA)	Eagle (EGE)	LXJ459	3:56	11:30 AM	12:48 PM	1:23 PM		Landed 2:45 PM		 
+ 	03 May 2024	Key West (EYW)	Stuart (SUA)	LXJ459	0:40	10:30 AM	11:18 AM	12:04 PM		Landed 11:58 AM		 
+ 	02 May 2024	North Eleuthera (ELH)	Key West (EYW)	LXJ459	0:59	1:00 PM	12:45 PM	12:44 PM		Landed 12:44 PM		 
+ 	01 May 2024	New York (EWR)	North Eleuthera (ELH)	LXJ459	2:11	4:36 PM	4:54 PM	7:03 PM		Landed 7:04 PM		 
+ 	01 May 2024	Teterboro (TEB)	New York (EWR)	LXJ459	0:08	1:51 PM	2:31 PM	2:46 PM		Landed 2:39 PM		 
+ 	01 May 2024	West Palm Beach (PBI)	Miami (OPF)	LXJ459	-	10:10 AM	9:59 AM	12:25 PM		Diverted to TEB		 
+ 	28 Apr 2024	Fort Lauderdale (FLL)	West Palm Beach (PBI)	LXJ459	0:21	3:49 PM	4:10 PM	4:27 PM		Landed 4:30 PM		 
+ 	28 Apr 2024	Dallas (DAL)	Fort Lauderdale (FLL)	LXJ459	2:20	11:30 AM	11:57 AM	3:15 PM		Landed 3:16 PM		 
+ 	27 Apr 2024	—	Dallas (DAL)	LXJ459	0:16	—	—	4:01 PM		Landed 4:01 PM		 
+ 	27 Apr 2024	Rifle (RIL)	—	LXJ459	1:50	3:15 PM	1:21 PM	—		Landed 9:11 PM		 
+ 	27 Apr 2024	Fort Huachuca (FHU)	Rifle (RIL)	LXJ459	1:21	9:33 AM	10:08 AM	12:35 PM		Landed 12:29 PM		 
+ 	26 Apr 2024	Los Angeles (LAX)	Fort Huachuca (FHU)	LXJ459	1:10	2:00 PM	2:26 PM	3:27 PM		Landed 3:36 PM		 
+ 	26 Apr 2024	Thermal (TRM)	Los Angeles (LAX)	LXJ459	0:36	11:11 AM	11:59 AM	12:34 PM		Landed 12:35 PM		 
+ 	26 Apr 2024	Napa (APC)	Thermal (TRM)	LXJ459	0:59	9:00 AM	9:11 AM	10:09 AM		Landed 10:10 AM		 
+ 	26 Apr 2024	Oakland (OAK)	Napa (APC)	LXJ459	0:12	7:08 AM	7:34 AM	7:44 AM		Landed 7:45 AM		 
+ 	24 Apr 2024	Salt Lake City (SLC)	Oakland (OAK)	LXJ459	1:26	4:54 PM	5:49 PM	6:14 PM		Landed 6:16 PM		 
+ 	24 Apr 2024	Fort Lauderdale (FLL)	Salt Lake City (SLC)	LXJ459	4:53	1:30 PM	2:21 PM	5:12 PM		Landed 5:14 PM		 
+ 	24 Apr 2024	Miami (MIA)	Fort Lauderdale (FLL)	LXJ459	0:14	2:00 PM	1:14 PM	1:24 PM		Landed 1:28 PM		 
+ 	22 Apr 2024	Marsh Harbour (MHH)	Miami (MIA)	LXJ459	0:43	1:31 PM	1:31 PM	2:20 PM		Landed 2:14 PM		 
+ 	22 Apr 2024	Lexington (LEX)	Marsh Harbour (MHH)	LXJ459	1:52	10:00 AM	10:16 AM	12:01 PM		Landed 12:08 PM		 
+ 	22 Apr 2024	Teterboro (TEB)	Lexington (LEX)	LXJ459	1:26	6:20 AM	7:02 AM	8:41 AM		Landed 8:27 AM		 
+ 	21 Apr 2024	State College (SCE)	Teterboro (TEB)	LXJ459	0:34	11:00 AM	12:04 PM	12:41 PM		Landed 12:38 PM		 
+ 	21 Apr 2024	Teterboro (TEB)	State College (SCE)	LXJ459	0:44	10:51 AM	10:51 AM	11:34 AM		Landed 11:35 AM		 
+ 	19 Apr 2024	San Diego (SAN)	Teterboro (TEB)	LXJ459	4:21	7:30 AM	8:26 AM	3:49 PM		Landed 3:46 PM		 
+ 	18 Apr 2024	Toluca (TLC)	Houston (IAH)	LXJ459	-	3:00 PM	4:53 PM	9:05 PM		Diverted to SAN		 
+ 	18 Apr 2024	Los Angeles (LAX)	Toluca (TLC)	LXJ459	2:56	8:00 AM	8:34 AM	12:29 PM		Landed 12:30 PM		 
+ 	17 Apr 2024	Puerto Vallarta (PVR)	Los Angeles (LAX)	LXJ459	2:41	3:53 PM	4:22 PM	5:58 PM		Landed 6:04 PM		 
+ 	17 Apr 2024	Dallas (DAL)	Puerto Vallarta (PVR)	LXJ459	2:29	12:57 PM	1:34 PM	3:07 PM		Landed 3:03 PM		 
+ 	14 Apr 2024	Aiken (AIK)	Dallas (DAL)	LXJ459	2:19	8:15 PM	9:07 PM	10:24 PM		Landed 10:26 PM		 
+ 	14 Apr 2024	Birmingham (BHM)	Aiken (AIK)	LXJ459	0:47	3:29 PM	5:49 PM	7:44 PM		Landed 7:36 PM		 
+ 	14 Apr 2024	Everett (PAE)	Birmingham (BHM)	LXJ459	3:55	8:30 AM	8:48 AM	2:42 PM		Landed 2:42 PM		 
+ 	13 Apr 2024	Seattle (BFI)	Everett (PAE)	LXJ459	0:13	2:29 PM	2:32 PM	2:40 PM		Landed 2:45 PM		 
+ 	13 Apr 2024	Cabo San Lucas (CSL)	Seattle (BFI)	LXJ459	3:41	10:00 AM	10:08 AM	1:47 PM		Landed 1:49 PM		 
+ 	11 Apr 2024	Teterboro (TEB)	Cabo San Lucas (CSL)	LXJ459	5:34	5:00 PM	6:06 PM	7:45 PM		Landed 8:40 PM		 
+ 	11 Apr 2024	Miami (MIA)	Teterboro (TEB)	LXJ459	2:24	12:31 PM	12:59 PM	3:29 PM		Landed 3:23 PM		 
+ 	10 Apr 2024	San Antonio (SAT)	Miami (MIA)	LXJ459	2:09	7:30 PM	7:39 PM	11:15 PM		Landed 10:48 PM		 
+ 	10 Apr 2024	Chicago (ORD)	San Antonio (SAT)	LXJ459	2:36	11:00 AM	11:20 AM	1:01 PM		Landed 1:56 PM		 
+ 	09 Apr 2024	Columbus (CMH)	Chicago (ORD)	LXJ459	0:51	3:40 PM	4:42 PM	4:31 PM		Landed 4:33 PM		 
+ 	09 Apr 2024	White Plains (HPN)	Columbus (CMH)	LXJ459	1:18	7:30 AM	8:42 AM	9:59 AM		Landed 10:00 AM		 
+ 	07 Apr 2024	Lexington (LEX)	White Plains (HPN)	LXJ459	1:42	11:30 AM	12:23 PM	2:22 PM		Landed 2:05 PM		 
+ 	06 Apr 2024	Chicago (MDW)	Lexington (LEX)	LXJ459	0:47	3:00 PM	3:26 PM	5:13 PM		Landed 5:13 PM		 
+ 	06 Apr 2024	St. Thomas (STT)	Chicago (MDW)	LXJ459	4:51	10:15 AM	10:40 AM	2:12 PM		Landed 2:31 PM		 
+ 	05 Apr 2024	Miami (MIA)	St. Thomas (STT)	LXJ459	2:10	3:07 PM	3:50 PM	5:31 PM		Landed 6:00 PM		 
+ 	05 Apr 2024	Teterboro (TEB)	Miami (MIA)	LXJ459	2:30	11:30 AM	12:31 PM	3:00 PM		Landed 3:01 PM		 
+ 	04 Apr 2024	Oakland (OAK)	Teterboro (TEB)	LXJ459	4:45	11:01 AM	2:30 PM	10:18 PM		Landed 10:15 PM		 
+ 	04 Apr 2024	Santa Fe (SAF)	Oakland (OAK)	LXJ459	2:13	9:45 AM	9:20 AM	11:17 AM		Landed 10:33 AM		 
+ 	03 Apr 2024	Dallas (DAL)	Santa Fe (SAF)	LXJ459	1:20	7:15 PM	8:01 PM	8:37 PM		Landed 8:22 PM		 
+ 	03 Apr 2024	Cabo San Lucas (CSL)	Dallas (DAL)	LXJ459	2:13	2:30 PM	2:43 PM	6:52 PM		Landed 6:56 PM		 
+ 	03 Apr 2024	Houston (IAH)	Cabo San Lucas (CSL)	LXJ459	2:41	12:34 PM	12:45 PM	1:10 PM		Landed 1:25 PM		 
+ 	02 Apr 2024	Cleveland (CLE)	Houston (IAH)	LXJ459	2:56	2:30 PM	3:00 PM	5:14 PM		Landed 4:56 PM		 
+ 	02 Apr 2024	Cleveland (CGF)	Cleveland (CLE)	LXJ459	0:21	11:30 AM	12:01 PM	12:19 PM		Landed 12:23 PM		 
+ 	01 Apr 2024	Greenville-Spartanburg (GSP)	Cleveland (CGF)	LXJ459	1:11	2:30 PM	3:17 PM	4:29 PM		Landed 4:28 PM		 
+ 	01 Apr 2024	Providenciales (PLS)	Greenville-Spartanburg (GSP)	LXJ459	2:52	11:30 AM	11:44 AM	2:22 PM		Landed 2:36 PM		 
+ 	31 Mar 2024	Philadelphia (PHL)	Providenciales (PLS)	LXJ459	2:54	1:00 PM	11:46 AM	4:11 PM		Landed 2:40 PM		 
+ 	30 Mar 2024	Wilmington (ILM)	Philadelphia (PHL)	LXJ459	1:13	8:14 PM	9:47 PM	10:59 PM		Landed 10:59 PM		 
+ 	30 Mar 2024	Belmar (BLM)	Wilmington (ILM)	LXJ459	1:06	7:30 PM	8:04 PM	9:10 PM		Landed 9:10 PM		 
+ 	30 Mar 2024	Teterboro (TEB)	Belmar (BLM)	LXJ459	0:16	12:30 PM	1:14 PM	1:30 PM		Landed 1:30 PM		 
+ 	28 Mar 2024	Cleveland (CGF)	Teterboro (TEB)	LXJ459	1:00	8:40 PM	8:33 PM	9:35 PM		Landed 9:32 PM		 
+ 	28 Mar 2024	Columbia (CAE)	Cleveland (CGF)	LXJ459	1:13	6:12 PM	6:42 PM	7:59 PM		Landed 7:54 PM		 
+ 	28 Mar 2024	Teterboro (TEB)	Columbia (CAE)	LXJ459	1:34	2:51 PM	4:22 PM	5:56 PM		Landed 5:56 PM		 
+ 	28 Mar 2024	Providenciales (PLS)	Teterboro (TEB)	LXJ459	3:06	11:00 AM	11:04 AM	2:05 PM		Landed 2:09 PM		 
+ 	27 Mar 2024	Greenville-Spartanburg (GSP)	Providenciales (PLS)	LXJ459	2:13	5:00 PM	5:08 PM	7:20 PM		Landed 7:21 PM		 
+ 	27 Mar 2024	Cleveland (CGF)	Greenville-Spartanburg (GSP)	LXJ459	1:19	2:30 PM	2:53 PM	4:10 PM		Landed 4:12 PM		 
+ 	26 Mar 2024	Chicago (PWK)	Cleveland (CGF)	LXJ459	0:56	3:00 PM	3:22 PM	5:32 PM		Landed 5:18 PM		 
+ 	26 Mar 2024	Miami (MIA)	Chicago (PWK)	LXJ459	2:41	11:30 AM	12:01 PM	1:42 PM		Landed 1:42 PM		 
+ 	24 Mar 2024	Telluride (TEX)	Aspen (ASE)	LXJ459	-	9:59 AM	—	2:19 PM		Landed 6:15 PM		 
+ 	22 Mar 2024	Aspen (ASE)	Denver (APA)	LXJ459	-	2:08 PM	4:03 PM	4:30 PM		Diverted to TEX		 
+ 	22 Mar 2024	Rifle (RIL)	Aspen (ASE)	LXJ459	0:36	2:10 PM	2:50 PM	3:25 PM		Landed 3:25 PM		 
+ 	22 Mar 2024	Miami (OPF)	Aspen (ASE)	LXJ459	-	11:00 AM	11:29 AM	2:08 PM		Diverted to RIL		 
+ 	20 Mar 2024	White Plains (HPN)	Miami (OPF)	LXJ459	2:31	11:30 AM	12:16 PM	2:54 PM		Landed 2:47 PM		 
+ 	20 Mar 2024	Washington (IAD)	White Plains (HPN)	LXJ459	0:54	9:13 AM	9:22 AM	10:25 AM		Landed 10:16 AM		 
+ 	19 Mar 2024	Washington (IAD)	White Plains (HPN)	LXJ459	-	12:47 PM	—	—		Unknown		 
+ 	19 Mar 2024	Chicago (ORD)	Washington (IAD)	LXJ459	1:15	7:35 AM	10:29 AM	12:44 PM		Landed 12:44 PM		 
+ 	19 Mar 2024	White Plains (HPN)	Chicago (ORD)	LXJ459	1:54	5:03 AM	6:04 AM	6:57 AM		Landed 6:57 AM		 
+ 	17 Mar 2024	Washington (IAD)	White Plains (HPN)	LXJ459	0:53	8:56 PM	8:03 PM	7:56 PM		Landed 7:56 PM		 
+ 	17 Mar 2024	Washington (IAD)	White Plains (HPN)	LXJ459	-	6:44 PM	6:54 PM	7:50 PM		Diverted to IAD		 
+ 	17 Mar 2024	South Bend (SBN)	Washington (IAD)	LXJ459	1:05	4:30 PM	5:34 PM	6:55 PM		Landed 6:40 PM		 
+ 	17 Mar 2024	Aspen (ASE)	South Bend (SBN)	LXJ459	2:09	11:30 AM	1:03 PM	5:11 PM		Landed 5:12 PM		 
+ 	16 Mar 2024	New York (LGA)	Aspen (ASE)	LXJ459	4:47	6:30 AM	7:04 AM	9:41 AM		Landed 9:51 AM		 
+ 	16 Mar 2024	White Plains (HPN)	New York (LGA)	LXJ459	0:17	4:34 AM	5:34 AM	4:54 AM		Landed 5:52 AM		 
+ 	15 Mar 2024	Cleveland (CGF)	White Plains (HPN)	LXJ459	1:00	3:30 PM	4:04 PM	5:09 PM		Landed 5:04 PM		 
+ 	10 Mar 2024	Buffalo (BUF)	Cleveland (CGF)	LXJ459	0:32	8:19 PM	7:28 PM	9:19 PM		Landed 8:00 PM		 
+ 	10 Mar 2024	Montreal (YUL)	Buffalo (BUF)	LXJ459	0:49	6:54 PM	6:09 PM	6:58 PM		Landed 6:58 PM		 
+ 	10 Mar 2024	White Plains (HPN)	Montreal (YUL)	LXJ459	0:52	5:00 PM	4:50 PM	6:13 PM		Landed 5:42 PM		 
+ 	10 Mar 2024	Teterboro (TEB)	White Plains (HPN)	LXJ459	0:21	2:38 PM	2:47 PM	3:06 PM		Landed 3:08 PM		 
+ 	10 Mar 2024	Austin (AUS)	Teterboro (TEB)	LXJ459	2:58	9:30 AM	10:02 AM	2:02 PM		Landed 2:00 PM		 
+ 	09 Mar 2024	Cabo San Lucas (CSL)	Austin (AUS)	LXJ459	1:53	12:40 PM	1:11 PM	4:01 PM		Landed 4:04 PM		 
+ 	08 Mar 2024	Dallas (DAL)	Cabo San Lucas (CSL)	LXJ459	2:36	1:00 PM	2:21 PM	2:46 PM		Landed 3:57 PM		 
+ 	08 Mar 2024	Las Vegas (LAS)	Dallas (DAL)	LXJ459	2:12	6:36 AM	7:00 AM	11:18 AM		Landed 11:12 AM		 
+ 	07 Mar 2024	Scottsdale (SCF)	Las Vegas (LAS)	LXJ459	0:41	4:00 PM	4:03 PM	4:07 PM		Landed 3:45 PM		 
+ 	07 Mar 2024	Aspen (ASE)	Scottsdale (SCF)	LXJ459	1:14	1:10 PM	11:58 AM	1:12 PM		Landed 1:12 PM		 
+ 	07 Mar 2024	Santa Ana (SNA)	Aspen (ASE)	LXJ459	1:38	8:00 AM	8:49 AM	11:42 AM		Landed 11:27 AM		 
+ 	06 Mar 2024	Teterboro (TEB)	Santa Ana (SNA)	LXJ459	5:34	8:20 AM	9:17 AM	12:04 PM		Landed 11:51 AM		 
+ 	05 Mar 2024	New York (EWR)	Teterboro (TEB)	LXJ459	0:16	4:02 PM	3:33 PM	3:49 PM		Landed 3:48 PM		 
+ 	04 Mar 2024	Tucson (AVW)	New York (EWR)	LXJ459	3:52	10:30 PM	10:48 PM	5:18 AM		Landed 4:41 AM		 
+ 	04 Mar 2024	Santa Barbara (SBA)	Tucson (AVW)	LXJ459	1:05	7:14 PM	7:16 PM	10:00 PM		Landed 9:22 PM		 
+ 	04 Mar 2024	Los Angeles (LAX)	Santa Barbara (SBA)	LXJ459	0:21	2:30 PM	3:09 PM	3:34 PM		Landed 3:29 PM		 
+ 	04 Mar 2024	Cabo San Lucas (CSL)	Los Angeles (LAX)	LXJ459	2:14	1:25 PM	1:01 PM	2:14 PM		Landed 2:14 PM		 
+ 	03 Mar 2024	White Plains (HPN)	Cabo San Lucas (CSL)	LXJ459	5:41	9:00 AM	9:32 AM	12:35 PM		Landed 1:14 PM		 
+ 	02 Mar 2024	Teterboro (TEB)	White Plains (HPN)	LXJ459	0:18	6:52 PM	6:59 PM	7:14 PM		Landed 7:17 PM		 
+ 	02 Mar 2024	West Palm Beach (PBI)	Teterboro (TEB)	LXJ459	2:18	3:30 PM	4:04 PM	6:25 PM		Landed 6:22 PM		 
+ 	01 Mar 2024	Raleigh-Durham (RDU)	West Palm Beach (PBI)	LXJ459	1:34	12:03 PM	1:11 PM	2:43 PM		Landed 2:45 PM		 
+ 	01 Mar 2024	San Jose (SJC)	Raleigh-Durham (RDU)	LXJ459	4:24	3:30 AM	4:49 AM	12:18 PM		Landed 12:14 PM		 
+ 	28 Feb 2024	Bozeman (BZN)	San Jose (SJC)	LXJ459	2:05	2:27 PM	3:43 PM	4:47 PM		Landed 4:48 PM		 
+ 	28 Feb 2024	Van Nuys (VNY)	Bozeman (BZN)	LXJ459	2:01	10:00 AM	11:00 AM	2:15 PM		Landed 2:02 PM		 
+ 	25 Feb 2024	Ogden (OGD)	Van Nuys (VNY)	LXJ459	1:42	5:30 PM	6:14 PM	6:11 PM		Landed 6:57 PM		 
+ 	25 Feb 2024	Fort Worth (FTW)	Ogden (OGD)	LXJ459	2:36	3:06 PM	3:25 PM	4:33 PM		Landed 5:01 PM		 
+ 	25 Feb 2024	Las Vegas (LAS)	Fort Worth (FTW)	LXJ459	1:52	9:30 AM	10:49 AM	1:38 PM		Landed 2:41 PM		 
+ 	23 Feb 2024	San Jose del Cabo (SJD)	Las Vegas (LAS)	LXJ459	2:05	9:45 AM	10:50 AM	11:56 AM		Landed 11:56 AM		 
+ 	22 Feb 2024	Scottsdale (SCF)	San Jose del Cabo (SJD)	LXJ459	1:48	4:35 PM	4:36 PM	6:41 PM		Landed 6:24 PM		 
+ 	22 Feb 2024	Cleveland (CGF)	Scottsdale (SCF)	LXJ459	4:04	1:00 PM	1:39 PM	3:47 PM		Landed 3:42 PM		 
+ 	21 Feb 2024	Pittsburgh (PIT)	Cleveland (CGF)	LXJ459	0:24	10:07 AM	10:51 AM	11:14 AM		Landed 11:15 AM		 
+ 	21 Feb 2024	Cleveland (CGF)	Pittsburgh (PIT)	LXJ459	0:25	9:00 AM	9:59 AM	10:26 AM		Landed 10:25 AM		 
+ 	20 Feb 2024	Westhampton Beach (FOK)	Cleveland (CGF)	LXJ459	1:15	4:19 PM	4:30 PM	5:51 PM		Landed 5:45 PM		 
+ 	20 Feb 2024	West Palm Beach (PBI)	Westhampton Beach (FOK)	LXJ459	2:15	1:00 PM	1:45 PM	4:11 PM		Landed 4:00 PM		 
+ 	20 Feb 2024	White Plains (HPN)	West Palm Beach (PBI)	LXJ459	2:37	8:30 AM	8:51 AM	11:37 AM		Landed 11:28 AM		 
+ 	19 Feb 2024	Nassau (NAS)	White Plains (HPN)	LXJ459	2:24	3:15 PM	3:56 PM	5:33 PM		Landed 6:21 PM		 
+ 	19 Feb 2024	San Juan (SJU)	Nassau (NAS)	LXJ459	2:02	12:00 PM	12:05 PM	1:03 PM		Landed 1:07 PM		 
+ 	17 Feb 2024	Kingstown (SVD)	San Juan (SJU)	LXJ459	1:14	6:42 PM	5:28 PM	6:39 PM		Landed 6:42 PM		 
+ 	17 Feb 2024	White Plains (HPN)	Kingstown (SVD)	LXJ459	3:52	6:15 AM	9:48 AM	11:16 AM		Landed 2:40 PM		 
+ 	16 Feb 2024	Teterboro (TEB)	White Plains (HPN)	LXJ459	0:19	2:03 PM	4:10 PM	4:34 PM		Landed 4:29 PM		 
+ 	16 Feb 2024	Rifle (RIL)	Teterboro (TEB)	LXJ459	3:11	7:30 AM	9:38 AM	2:52 PM		Landed 2:50 PM		 
+ 	16 Feb 2024	Colorado Springs (COS)	Rifle (RIL)	LXJ459	0:36	5:50 AM	6:34 AM	7:09 AM		Landed 7:10 AM		 
+ 	15 Feb 2024	San Antonio (SAT)	Colorado Springs (COS)	LXJ459	1:41	2:30 PM	2:44 PM	3:38 PM		Landed 3:26 PM		 
+ 	15 Feb 2024	Dallas (DFW)	San Antonio (SAT)	LXJ459	0:47	12:28 PM	1:14 PM	2:04 PM		Landed 2:00 PM		 
+ 	15 Feb 2024	Boca Raton (BCT)	Dallas (DFW)	LXJ459	2:52	9:44 AM	10:27 AM	12:29 PM		Landed 12:19 PM		 
+ 	14 Feb 2024	Fort Lauderdale (FLL)	Boca Raton (BCT)	LXJ459	0:13	5:51 PM	5:55 PM	6:04 PM		Landed 6:08 PM		 
+ 	14 Feb 2024	Phoenix (PHX)	Fort Lauderdale (FLL)	LXJ459	3:27	11:00 AM	11:42 AM	5:23 PM		Landed 5:09 PM		 
+ 	14 Feb 2024	Scottsdale (SCF)	Phoenix (PHX)	LXJ459	0:19	9:12 AM	9:32 AM	9:46 AM		Landed 9:51 AM		 
+ 	10 Feb 2024	Sarasota (SRQ)	Scottsdale (SCF)	LXJ459	4:24	10:30 AM	2:38 PM	5:02 PM		Landed 5:02 PM		 
+ 	08 Feb 2024	Asheville (AVL)	Sarasota (SRQ)	LXJ459	1:19	4:00 PM	6:06 PM	7:23 PM		Landed 7:26 PM		 
+ 	08 Feb 2024	Cleveland (CGF)	Asheville (AVL)	LXJ459	0:59	10:00 AM	10:54 AM	11:53 AM		Landed 11:53 AM		 
+ 	07 Feb 2024	Cleveland (CGF)	Cleveland (CGF)	LXJ459	1:31	9:30 AM	11:08 AM	11:14 AM		Landed 12:39 PM		 
+ 	04 Feb 2024	Eagle (EGE)	Cleveland (CGF)	LXJ459	2:43	5:30 PM	6:27 PM	11:15 PM		Landed 11:11 PM		 
+ 	04 Feb 2024	Fort Huachuca (FHU)	Eagle (EGE)	LXJ459	1:55	2:30 PM	2:16 PM	4:10 PM		Landed 4:11 PM		 
+ 	03 Feb 2024	Nashville (BNA)	Fort Huachuca (FHU)	LXJ459	3:07	9:30 AM	12:42 PM	2:54 PM		Landed 2:49 PM		 
+ 	03 Feb 2024	Miami (MIA)	Nashville (BNA)	LXJ459	1:54	10:10 AM	10:53 AM	11:56 AM		Landed 11:47 AM		 
+ 	01 Feb 2024	Van Nuys (VNY)	Miami (MIA)	LXJ459	4:06	11:30 AM	12:55 PM	8:12 PM		Landed 8:01 PM		 
+ 	01 Feb 2024	Dallas (DAL)	Van Nuys (VNY)	LXJ459	3:00	10:00 AM	10:23 AM	11:27 AM		Landed 11:23 AM		 
+ 	31 Jan 2024	Scottsdale (SCF)	Dallas (DAL)	LXJ459	1:55	11:45 AM	12:27 PM	3:28 PM		Landed 3:22 PM		 
+ 	31 Jan 2024	Dallas (DAL)	Scottsdale (SCF)	LXJ459	2:08	8:15 AM	8:35 AM	9:50 AM		Landed 9:43 AM		 
+ 	29 Jan 2024	Nassau (NAS)	Dallas (DAL)	LXJ459	3:25	12:30 PM	12:10 PM	2:43 PM		Landed 2:36 PM		 
+ 	29 Jan 2024	Orlando (SFB)	Nassau (NAS)	LXJ459	0:56	10:20 AM	10:00 AM	11:20 AM		Landed 10:56 AM		 
+ 	25 Jan 2024	Raleigh-Durham (RDU)	Orlando (SFB)	LXJ459	1:21	4:15 PM	4:39 PM	6:05 PM		Landed 6:00 PM		 
+ 	25 Jan 2024	Rochester (RST)	Raleigh-Durham (RDU)	LXJ459	1:59	1:00 PM	12:57 PM	3:55 PM		Landed 3:57 PM		 
+ 	25 Jan 2024	Chicago (ORD)	Rochester (RST)	LXJ459	0:51	10:31 AM	11:36 AM	11:27 AM		Landed 12:27 PM		 
+ 	24 Jan 2024	Chicago (ORD)	—	LXJ459	-	6:10 PM	—	—		Unknown		 
+ 	24 Jan 2024	San Antonio (SAT)	Chicago (ORD)	LXJ459	2:00	3:15 PM	3:42 PM	5:54 PM		Landed 5:42 PM		 
+ 	24 Jan 2024	Fort Worth (FTW)	San Antonio (SAT)	LXJ459	0:54	12:59 PM	1:40 PM	2:34 PM		Landed 2:34 PM		 
+ 	24 Jan 2024	Van Nuys (VNY)	Fort Worth (FTW)	LXJ459	2:33	7:30 AM	8:18 AM	12:51 PM		Landed 12:51 PM		 
+ 	18 Jan 2024	Scottsdale (SCF)	Van Nuys (VNY)	LXJ459	1:02	4:30 PM	5:06 PM	5:07 PM		Landed 5:08 PM		 
+ 	17 Jan 2024	Grand Junction (GJT)	Scottsdale (SCF)	LXJ459	0:59	4:06 PM	4:57 PM	6:03 PM		Landed 5:56 PM		 
+ 	17 Jan 2024	Teterboro (TEB)	Grand Junction (GJT)	LXJ459	4:33	12:45 PM	1:27 PM	3:59 PM		Landed 4:01 PM		 
+ 	17 Jan 2024	Washington (IAD)	Teterboro (TEB)	LXJ459	0:50	10:55 AM	11:25 AM	12:11 PM		Landed 12:14 PM		 
+ 	16 Jan 2024	Washington (IAD)	Nassau (NAS)	LXJ459	-	10:31 PM	—	—		Unknown		 
+ 	16 Jan 2024	Teterboro (TEB)	Washington (IAD)	LXJ459	0:58	7:15 PM	9:28 PM	10:26 PM		Landed 10:26 PM		 
+ 	16 Jan 2024	Nassau (NAS)	Teterboro (TEB)	LXJ459	2:21	3:30 PM	4:27 PM	6:05 PM		Landed 6:48 PM		 
+ 	16 Jan 2024	Washington (IAD)	Nassau (NAS)	LXJ459	2:15	12:08 PM	1:10 PM	2:23 PM		Landed 3:25 PM		 
+ 	15 Jan 2024	Fort Lauderdale (FLL)	Washington (IAD)	LXJ459	1:59	1:30 PM	2:46 PM	4:51 PM		Landed 4:45 PM		 
+ 	15 Jan 2024	White Plains (HPN)	Fort Lauderdale (FLL)	LXJ459	2:47	9:30 AM	9:41 AM	12:31 PM		Landed 12:29 PM		 
+ 	14 Jan 2024	Boston (BOS)	White Plains (HPN)	LXJ459	0:49	10:30 AM	11:00 AM	11:49 AM		Landed 11:49 AM		 
+ 	13 Jan 2024	Morristown (MMU)	Boston (BOS)	LXJ459	0:40	3:00 PM	3:52 PM	4:31 PM		Landed 4:32 PM		 
+ 	12 Jan 2024	West Palm Beach (PBI)	Morristown (MMU)	LXJ459	2:12	3:30 PM	3:58 PM	6:15 PM		Landed 6:10 PM		 
+ 	12 Jan 2024	Teterboro (TEB)	West Palm Beach (PBI)	LXJ459	3:11	7:30 AM	9:11 AM	10:12 AM		Landed 12:22 PM		 
+ 	11 Jan 2024	West Palm Beach (PBI)	Teterboro (TEB)	LXJ459	2:19	2:30 PM	2:25 PM	4:43 PM		Landed 4:44 PM		 
+ 	11 Jan 2024	Teterboro (TEB)	West Palm Beach (PBI)	LXJ459	2:35	9:00 AM	9:43 AM	12:18 PM		Landed 12:19 PM		 
+ 	10 Jan 2024	Boston (BOS)	Teterboro (TEB)	LXJ459	0:49	5:54 PM	5:18 PM	6:09 PM		Landed 6:07 PM		 
+ 	10 Jan 2024	Lyon (LYS)	Boston (BOS)	LXJ459	7:44	1:00 PM	1:21 PM	2:46 PM		Landed 3:05 PM		 
+ 	08 Jan 2024	Bedford (BED)	Lyon (LYS)	LXJ459	6:50	8:00 PM	9:10 PM	10:07 AM		Landed 10:01 AM		 
+ 	08 Jan 2024	Teterboro (TEB)	Bedford (BED)	LXJ459	0:39	6:45 PM	7:11 PM	7:56 PM		Landed 7:51 PM		 
+ 	08 Jan 2024	New York (LGA)	Teterboro (TEB)	LXJ459	0:18	2:30 PM	2:45 PM	3:06 PM		Landed 3:03 PM		 
+ 	08 Jan 2024	West Palm Beach (PBI)	New York (LGA)	LXJ459	2:12	9:00 AM	9:27 AM	11:16 AM		Landed 11:39 AM		 
+ 	07 Jan 2024	Orlando (ORL)	West Palm Beach (PBI)	LXJ459	0:32	9:47 AM	2:47 PM	4:25 PM		Landed 3:19 PM		 
+ 	06 Jan 2024	Orlando (ORL)	—	LXJ459	-	7:21 PM	—	—		Unknown		 
+ 	06 Jan 2024	Lafayette (LFT)	Orlando (ORL)	LXJ459	1:29	3:00 PM	4:50 PM	7:24 PM		Landed 7:19 PM		 
+ 	06 Jan 2024	Houston (HOU)	Lafayette (LFT)	LXJ459	0:31	12:46 PM	3:06 PM	3:40 PM		Landed 3:37 PM		 
+ 	06 Jan 2024	Rifle (RIL)	Houston (HOU)	LXJ459	2:02	8:30 AM	11:04 AM	2:10 PM		Landed 2:06 PM		 
+ 	06 Jan 2024	Dallas (DAL)	Aspen (ASE)	LXJ459	-	6:39 AM	7:22 AM	8:29 AM		Diverted to RIL		 
+ 	05 Jan 2024	Kansas City (MCI)	Dallas (DAL)	LXJ459	1:16	1:30 PM	12:41 PM	1:55 PM		Landed 1:56 PM		 
+ 	03 Jan 2024	Nashville (BNA)	Kansas City (MCI)	LXJ459	1:17	5:30 PM	7:17 PM	8:31 PM		Landed 8:34 PM		 
+ 	03 Jan 2024	Providenciales (PLS)	Nashville (BNA)	LXJ459	3:15	3:00 PM	4:30 PM	6:13 PM		Landed 6:45 PM		 
+ 	03 Jan 2024	Detroit (DET)	Providenciales (PLS)	LXJ459	3:35	9:47 AM	11:17 AM	12:59 PM		Landed 2:52 PM		 
+ 	02 Jan 2024	Kelowna (YLW)	Detroit (DET)	LXJ459	3:24	12:30 PM	12:26 PM	6:50 PM		Landed 6:51 PM		 
+ 	02 Jan 2024	San Francisco (SFO)	Kelowna (YLW)	LXJ459	1:48	9:32 AM	9:38 AM	11:47 AM		Landed 11:26 AM		 
+ 	01 Jan 2024	Jackson (JAC)	San Francisco (SFO)	LXJ459	1:49	4:30 PM	5:06 PM	6:00 PM		Landed 5:54 PM		 
+ 	01 Jan 2024	Rifle (RIL)	Jackson (JAC)	LXJ459	0:55	1:18 PM	1:57 PM	2:45 PM		Landed 2:52 PM		 
+ 	01 Jan 2024	Montrose (MTJ)	Aspen (ASE)	LXJ459	-	11:52 AM	12:45 PM	1:06 PM		Diverted to RIL		 
+ 	01 Jan 2024	San Jose (SJC)	Montrose (MTJ)	LXJ459	1:47	8:30 AM	9:26 AM	12:11 PM		Landed 12:13 PM		 
+ 	31 Dec 2023	Monterey (MRY)	San Jose (SJC)	LXJ459	0:21	2:05 PM	2:12 PM	2:48 PM		Landed 2:32 PM		 
+ 	31 Dec 2023	Thermal (TRM)	Monterey (MRY)	LXJ459	1:04	12:00 PM	12:27 PM	1:45 PM		Landed 1:31 PM		 
+ 	31 Dec 2023	Burbank (BUR)	Thermal (TRM)	LXJ459	0:31	10:21 AM	10:53 AM	11:25 AM		Landed 11:23 AM		 
+ 	30 Dec 2023	Santa Rosa (STS)	Burbank (BUR)	LXJ459	0:54	12:30 PM	1:23 PM	2:16 PM		Landed 2:17 PM		 
+ 	30 Dec 2023	San Jose (SJC)	Santa Rosa (STS)	LXJ459	0:26	11:04 AM	10:24 AM	10:49 AM		Landed 10:50 AM		 
+ 	30 Dec 2023	Salt Lake City (SLC)	San Jose (SJC)	LXJ459	1:34	6:30 AM	7:53 AM	8:27 AM		Landed 8:27 AM		 
+ 	29 Dec 2023	Aspen (ASE)	Salt Lake City (SLC)	LXJ459	0:44	10:50 AM	12:20 PM	1:02 PM		Landed 1:04 PM		 
+ 	29 Dec 2023	Houston (HOU)	Aspen (ASE)	LXJ459	2:23	8:30 AM	9:43 AM	11:21 AM		Landed 11:06 AM		 
+ 	29 Dec 2023	Houston (DWH)	Houston (HOU)	LXJ459	0:21	7:07 AM	8:41 AM	8:57 AM		Landed 9:03 AM		 
+ 	28 Dec 2023	Salt Lake City (SLC)	Houston (DWH)	LXJ459	2:28	2:30 PM	2:59 PM	6:27 PM		Landed 6:26 PM		 
+ 	28 Dec 2023	White Plains (HPN)	Salt Lake City (SLC)	LXJ459	4:09	8:30 AM	9:27 AM	11:42 AM		Landed 11:36 AM		 
+ 	27 Dec 2023	West Palm Beach (PBI)	White Plains (HPN)	LXJ459	2:21	10:32 AM	12:54 PM	2:11 PM		Landed 3:16 PM		 
+ 	27 Dec 2023	Philadelphia (PNE)	West Palm Beach (PBI)	LXJ459	2:19	8:30 AM	7:17 AM	11:06 AM		Landed 9:37 AM		 
+ 	26 Dec 2023	Stuart (SUA)	Philadelphia (PNE)	LXJ459	2:12	2:42 PM	5:24 PM	7:44 PM		Landed 7:36 PM		 
+ 	26 Dec 2023	Philadelphia (PHL)	Stuart (SUA)	LXJ459	2:07	8:30 AM	10:43 AM	12:49 PM		Landed 12:51 PM		 
+ 	25 Dec 2023	Baltimore (BWI)	Philadelphia (PHL)	LXJ459	0:24	3:14 PM	3:44 PM	4:07 PM		Landed 4:08 PM		 
+ 	25 Dec 2023	Providenciales (PLS)	Baltimore (BWI)	LXJ459	3:03	12:00 PM	12:11 PM	3:07 PM		Landed 3:14 PM		 
+ 	25 Dec 2023	Boca Raton (BCT)	Providenciales (PLS)	LXJ459	1:20	9:00 AM	9:14 AM	10:30 AM		Landed 10:34 AM		 
+ 	24 Dec 2023	West Palm Beach (PBI)	Boca Raton (BCT)	LXJ459	0:13	1:30 PM	1:06 PM	1:16 PM		Landed 1:19 PM		 
+ 	23 Dec 2023	Antigua (ANU)	West Palm Beach (PBI)	LXJ459	3:31	1:46 PM	2:42 PM	3:59 PM		Landed 5:13 PM		 
+ 	23 Dec 2023	Teterboro (TEB)	Antigua (ANU)	LXJ459	3:36	8:00 AM	8:58 AM	12:54 PM		Landed 1:34 PM		 
+ 	22 Dec 2023	St. Louis (SUS)	Teterboro (TEB)	LXJ459	1:57	3:00 PM	2:20 PM	6:24 PM		Landed 5:17 PM		 
+ 	21 Dec 2023	Kailua-Kona (KOA)	St. Louis (SUS)	LXJ459	7:17	11:00 AM	11:49 AM	11:06 PM		Landed 11:06 PM		 
+ 	20 Dec 2023	Reno (RNO)	Kailua-Kona (KOA)	LXJ459	5:19	10:30 AM	11:00 AM	2:25 PM		Landed 2:19 PM		 
+ 	18 Dec 2023	San Francisco (SFO)	Reno (RNO)	LXJ459	0:37	6:10 PM	8:36 PM	9:02 PM		Landed 9:12 PM		 
+ 	16 Dec 2023	Lihue (LIH)	San Francisco (SFO)	LXJ459	4:29	9:27 AM	10:21 AM	4:49 PM		Landed 4:50 PM		 
+ 	16 Dec 2023	Kailua-Kona (KOA)	Lihue (LIH)	LXJ459	0:42	7:38 AM	8:16 AM	8:58 AM		Landed 8:59 AM		 
+ 	15 Dec 2023	Van Nuys (VNY)	Kailua-Kona (KOA)	LXJ459	5:42	12:02 PM	1:06 PM	4:52 PM		Landed 4:47 PM		 
+ 	15 Dec 2023	St. Louis (SUS)	Van Nuys (VNY)	LXJ459	3:28	9:20 AM	10:38 AM	12:12 PM		Landed 12:07 PM		 
+ 	14 Dec 2023	Chicago (MDW)	St. Louis (SUS)	LXJ459	0:46	1:30 PM	1:26 PM	2:20 PM		Landed 2:12 PM		 
+ 	13 Dec 2023	Las Vegas (LAS)	Chicago (MDW)	LXJ459	3:00	7:30 AM	8:22 AM	12:35 PM		Landed 1:22 PM		 
+ 	12 Dec 2023	Ogden (OGD)	Las Vegas (LAS)	LXJ459	1:02	10:00 AM	10:05 AM	10:39 AM		Landed 10:06 AM		 
+ 	11 Dec 2023	Telluride (TEX)	Ogden (OGD)	LXJ459	0:58	11:34 AM	9:45 AM	12:54 PM		Landed 10:43 AM		 
+ 	11 Dec 2023	Chicago (MDW)	Telluride (TEX)	LXJ459	2:40	6:30 AM	7:05 AM	7:58 AM		Landed 8:45 AM		 
+ 	10 Dec 2023	Naples (APF)	Chicago (MDW)	LXJ459	2:54	1:30 PM	1:51 PM	3:50 PM		Landed 3:45 PM		 
+ 	09 Dec 2023	Gainesville (GNV)	Naples (APF)	LXJ459	0:43	2:30 PM	2:27 PM	3:09 PM		Landed 3:10 PM		 
+ 	08 Dec 2023	Brunswick (NHZ)	Gainesville (GNV)	LXJ459	2:46	4:06 PM	1:20 PM	4:06 PM		Landed 4:06 PM		 
+ 	08 Dec 2023	Bedford (BED)	Brunswick (NHZ)	LXJ459	0:27	11:38 AM	11:06 AM	11:33 AM		Landed 11:33 AM		 
+ 	07 Dec 2023	Chicago (PWK)	Bedford (BED)	LXJ459	1:43	12:45 PM	1:13 PM	4:12 PM		Landed 3:57 PM		 
+ 	07 Dec 2023	Dallas (DAL)	Chicago (PWK)	LXJ459	1:51	9:27 AM	10:13 AM	12:17 PM		Landed 12:04 PM		 
+ 	03 Dec 2023	Austin (AUS)	Dallas (DAL)	LXJ459	0:42	1:08 PM	2:55 PM	2:13 PM		Landed 3:36 PM		 
+ 	03 Dec 2023	Teterboro (TEB)	Austin (AUS)	LXJ459	4:04	9:30 AM	10:57 AM	2:04 PM		Landed 2:01 PM		 
+ 	02 Dec 2023	St. Louis (SUS)	Teterboro (TEB)	LXJ459	1:38	12:30 PM	2:08 PM	4:49 PM		Landed 4:46 PM		 
+ 	01 Dec 2023	Birmingham (BHM)	St. Louis (SUS)	LXJ459	1:03	3:25 PM	4:39 PM	5:42 PM		Landed 5:42 PM		 
+ 	01 Dec 2023	Bartow (BOW)	Kissimmee (ISM)	LXJ459	0:16	12:23 PM	12:30 PM	12:48 PM		Landed 12:46 PM		 
+ 	01 Dec 2023	White Plains (HPN)	Bartow (BOW)	LXJ459	2:25	7:15 AM	8:03 AM	10:43 AM		Landed 10:28 AM		 
+ 	30 Nov 2023	Morristown (MMU)	White Plains (HPN)	LXJ459	0:17	2:52 PM	3:01 PM	3:18 PM		Landed 3:18 PM		 
+ 	30 Nov 2023	New York (EWR)	Morristown (MMU)	LXJ459	0:14	1:30 PM	1:55 PM	2:06 PM		Landed 2:09 PM		 
+ 	26 Nov 2023	Charleston (CHS)	Morristown (MMU)	LXJ459	2:46	6:30 PM	7:27 PM	10:02 PM		Landed 10:13 PM		 
+ 	26 Nov 2023	White Plains (HPN)	Charleston (CHS)	LXJ459	1:47	3:50 PM	4:37 PM	6:14 PM		Landed 6:24 PM		 
+ 	26 Nov 2023	Antigua (ANU)	White Plains (HPN)	LXJ459	4:29	12:00 PM	11:44 AM	3:09 PM		Landed 3:12 PM		 
+ 	25 Nov 2023	West Palm Beach (PBI)	Antigua (ANU)	LXJ459	2:32	3:11 PM	4:08 PM	6:58 PM		Landed 7:41 PM		 
+ 	25 Nov 2023	Coatesville (CTH)	West Palm Beach (PBI)	LXJ459	2:22	11:30 AM	12:08 PM	2:29 PM		Landed 2:30 PM		 
+ 	25 Nov 2023	Detroit (YIP)	Coatesville (CTH)	LXJ459	1:08	10:10 AM	10:10 AM	11:16 AM		Landed 11:17 AM		 
+ 	24 Nov 2023	Teterboro (TEB)	Detroit (YIP)	LXJ459	1:28	12:31 PM	1:25 PM	2:53 PM		Landed 2:53 PM		 
+ 	20 Nov 2023	St. Louis (STL)	Teterboro (TEB)	LXJ459	1:55	9:30 AM	9:58 AM	1:08 PM		Landed 12:54 PM		 
+ 	19 Nov 2023	Chicago (MDW)	St. Louis (STL)	LXJ459	0:46	2:30 PM	2:41 PM	3:40 PM		Landed 3:26 PM		 
+ 	19 Nov 2023	Toronto (YYZ)	Chicago (MDW)	LXJ459	1:11	1:17 PM	1:37 PM	1:58 PM		Landed 1:48 PM		 
+ 	19 Nov 2023	North Eleuthera (ELH)	Toronto (YYZ)	LXJ459	2:50	9:30 AM	9:03 AM	12:20 PM		Landed 11:53 AM		 
+ 	19 Nov 2023	Providenciales (PLS)	North Eleuthera (ELH)	LXJ459	1:01	7:27 AM	7:32 AM	8:33 AM		Landed 8:33 AM		 
+ 	17 Nov 2023	Houston (HOU)	Providenciales (PLS)	LXJ459	2:52	6:46 PM	7:03 PM	10:53 PM		Landed 10:55 PM		 
+ 	17 Nov 2023	Kansas City (MKC)	Houston (HOU)	LXJ459	1:29	4:00 PM	5:01 PM	6:36 PM		Landed 6:31 PM		 
+ 	17 Nov 2023	Chicago (PWK)	Kansas City (MKC)	LXJ459	1:03	1:22 PM	1:21 PM	2:20 PM		Landed 2:24 PM		 
+ 	13 Nov 2023	Saranac Lake (SLK)	Chicago (PWK)	LXJ459	2:05	6:06 PM	7:54 PM	8:17 PM		Landed 8:59 PM		 
+ 	13 Nov 2023	Vero Beach (VRB)	Saranac Lake (SLK)	LXJ459	2:53	2:30 PM	3:56 PM	6:49 PM		Landed 6:50 PM		 
+ 	13 Nov 2023	Boca Raton (BCT)	Vero Beach (VRB)	LXJ459	0:24	12:35 PM	12:59 PM	1:45 PM		Landed 1:23 PM		 
+ 	12 Nov 2023	Teterboro (TEB)	Boca Raton (BCT)	LXJ459	2:28	1:30 PM	1:58 PM	4:42 PM		Landed 4:26 PM		 
+ 	10 Nov 2023	San Francisco (SFO)	Teterboro (TEB)	LXJ459	4:35	3:00 PM	3:34 PM	11:25 PM		Landed 11:09 PM		 
+ 	10 Nov 2023	Stockton (SCK)	San Francisco (SFO)	LXJ459	0:21	1:09 PM	1:28 PM	1:52 PM		Landed 1:48 PM		 
+ 	08 Nov 2023	Teterboro (TEB)	Stockton (SCK)	LXJ459	6:07	4:30 PM	5:27 PM	8:32 PM		Landed 8:34 PM		 
+ 	07 Nov 2023	Miami (MIA)	Teterboro (TEB)	LXJ459	2:36	4:30 PM	4:37 PM	7:15 PM		Landed 7:12 PM		 
+ 	07 Nov 2023	Boca Raton (BCT)	Miami (MIA)	LXJ459	0:25	2:06 PM	2:30 PM	3:02 PM		Landed 2:55 PM		 
+ 	07 Nov 2023	Belmar (BLM)	Boca Raton (BCT)	LXJ459	2:12	9:30 AM	10:20 AM	12:46 PM		Landed 12:32 PM		 
+ 	06 Nov 2023	Morristown (MMU)	Belmar (BLM)	LXJ459	0:13	2:30 PM	3:26 PM	3:42 PM		Landed 3:39 PM		 
+ 	05 Nov 2023	Walterboro (RBW)	Morristown (MMU)	LXJ459	1:28	3:30 PM	3:57 PM	5:24 PM		Landed 5:25 PM		 
+ 	05 Nov 2023	Kissimmee (ISM)	Walterboro (RBW)	LXJ459	0:48	1:04 PM	1:43 PM	2:43 PM		Landed 2:31 PM		 
+ 	05 Nov 2023	Tuscaloosa (TCL)	Kissimmee (ISM)	LXJ459	1:08	8:00 AM	8:54 AM	11:16 AM		Landed 11:02 AM		 
+ 	05 Nov 2023	Naples (APF)	Tuscaloosa (TCL)	LXJ459	1:28	6:30 AM	6:59 AM	7:26 AM		Landed 7:28 AM		 
+ 	03 Nov 2023	Knoxville (TYS)	Naples (APF)	LXJ459	1:36	10:00 AM	9:16 AM	11:51 AM		Landed 10:52 AM		 
+ 	03 Nov 2023	West Palm Beach (PBI)	Knoxville (TYS)	LXJ459	1:28	7:22 AM	6:48 AM	9:12 AM		Landed 8:16 AM		 
+ 	02 Nov 2023	Sint Maarten (SXM)	West Palm Beach (PBI)	LXJ459	2:46	8:13 AM	12:13 PM	11:00 AM		Landed 2:59 PM		 
+ 	31 Oct 2023	Los Angeles (LAX)	Sint Maarten (SXM)	LXJ459	6:26	11:37 PM	11:25 PM	9:29 AM		Landed 8:51 AM		 
+ 	30 Oct 2023	Fort Collins (FNL)	Los Angeles (LAX)	LXJ459	2:02	4:10 PM	4:21 PM	5:24 PM		Landed 5:23 PM		 
+ 	30 Oct 2023	Greensboro (GSO)	Fort Collins (FNL)	LXJ459	3:29	2:00 PM	2:28 PM	4:26 PM		Landed 3:57 PM		 
+ 	30 Oct 2023	Atlanta (FTY)	Greensboro (GSO)	LXJ459	0:44	12:07 PM	12:31 PM	1:30 PM		Landed 1:15 PM		 
+ 	29 Oct 2023	Monterey (MRY)	Atlanta (FTY)	LXJ459	3:42	1:15 PM	1:51 PM	8:32 PM		Landed 8:34 PM		 
+ 	29 Oct 2023	Seattle (BFI)	Monterey (MRY)	LXJ459	1:39	9:59 AM	10:49 AM	12:37 PM		Landed 12:28 PM		 
+ 	27 Oct 2023	Columbus (CMH)	Seattle (BFI)	LXJ459	4:38	1:30 PM	1:56 PM	3:48 PM		Landed 3:34 PM		 
+ 	27 Oct 2023	Columbus (OSU)	Columbus (CMH)	LXJ459	0:17	10:22 AM	10:19 AM	10:35 AM		Landed 10:35 AM		 
+ 	27 Oct 2023	Teterboro (TEB)	Columbus (OSU)	LXJ459	1:16	8:00 AM	8:30 AM	10:02 AM		Landed 9:47 AM		 
+ 	26 Oct 2023	Teterboro (TEB)	Teterboro (TEB)	LXJ459	1:02	11:00 AM	2:49 PM	2:51 PM		Landed 2:51 PM		 
+ 	25 Oct 2023	Toluca (TLC)	Teterboro (TEB)	LXJ459	4:16	3:45 PM	4:15 PM	10:32 PM		Landed 10:31 PM		 
+ 	25 Oct 2023	Tapachula (TAP)	Toluca (TLC)	LXJ459	1:25	12:49 PM	12:55 PM	2:21 PM		Landed 2:21 PM		 
+ 	25 Oct 2023	Guatemala City (GUA)	Tapachula (TAP)	LXJ459	0:29	11:12 AM	11:33 AM	12:02 PM		Landed 12:02 PM		 
+ 	24 Oct 2023	Miami (MIA)	Guatemala City (GUA)	LXJ459	2:13	2:00 PM	2:04 PM	2:21 PM		Landed 2:16 PM		 
+ 	24 Oct 2023	Naples (APF)	Miami (MIA)	LXJ459	0:24	11:34 AM	11:53 AM	12:23 PM		Landed 12:17 PM		 
+ 	23 Oct 2023	Cleveland (CLE)	Naples (APF)	LXJ459	2:16	10:30 AM	11:01 AM	1:30 PM		Landed 1:17 PM		 
+ 	23 Oct 2023	Cleveland (CGF)	Cleveland (CLE)	LXJ459	0:10	8:40 AM	9:08 AM	9:18 AM		Landed 9:17 AM		 
+ 	09 Oct 2023	Philadelphia (PNE)	Cleveland (CGF)	LXJ459	0:55	12:47 PM	1:13 PM	2:05 PM		Landed 2:07 PM		 
+ 	09 Oct 2023	Miami (MIA)	Philadelphia (PNE)	LXJ459	2:15	9:30 AM	10:11 AM	12:27 PM		Landed 12:25 PM		 
+ 	08 Oct 2023	Asheville (AVL)	Miami (MIA)	LXJ459	1:31	2:30 PM	3:10 PM	4:48 PM		Landed 4:42 PM		 
+ 	08 Oct 2023	Greenville (GMU)	Asheville (AVL)	LXJ459	0:17	12:36 PM	11:49 AM	12:05 PM		Landed 12:06 PM		 
+ 	07 Oct 2023	Sarasota (SRQ)	Greenville (GMU)	LXJ459	1:16	9:30 AM	10:03 AM	11:32 AM		Landed 11:19 AM		 
+ 	07 Oct 2023	Miami (OPF)	Sarasota (SRQ)	LXJ459	0:33	7:46 AM	8:13 AM	8:58 AM		Landed 8:46 AM		 
+ 	06 Oct 2023	Baltimore (BWI)	Miami (OPF)	LXJ459	2:25	12:30 PM	1:07 PM	3:33 PM		Landed 3:32 PM		 
+ 	05 Oct 2023	London (LTN)	Baltimore (BWI)	LXJ459	7:50	11:30 AM	12:18 PM	3:04 PM		Landed 3:08 PM		 
+ 	03 Oct 2023	Washington (IAD)	London (LTN)	LXJ459	6:46	6:00 AM	7:06 AM	6:52 PM		Landed 6:52 PM		 
+ 	02 Oct 2023	Houston (SGR)	Washington (IAD)	LXJ459	2:30	7:30 AM	8:05 AM	11:41 AM		Landed 11:35 AM		 
+ 	01 Oct 2023	Tulsa (TUL)	Houston (SGR)	LXJ459	1:17	6:20 PM	6:31 PM	7:46 PM		Landed 7:48 PM		 
+ 	01 Oct 2023	New York (EWR)	Tulsa (TUL)	LXJ459	2:36	3:30 PM	4:28 PM	6:03 PM		Landed 6:04 PM		 
+ 	30 Sep 2023	Windsor (YQG)	New York (EWR)	LXJ459	1:19	8:38 PM	8:37 PM	10:08 PM		Landed 9:57 PM		 
+ 	30 Sep 2023	New York (JFK)	Windsor (YQG)	LXJ459	1:21	6:15 PM	6:02 PM	7:19 PM		Landed 7:24 PM		 
+ 	30 Sep 2023	Miami (OPF)	New York (JFK)	LXJ459	2:24	1:46 PM	2:15 PM	4:51 PM		Landed 4:39 PM		 
+ 	29 Sep 2023	Cincinnati (CVG)	Miami (OPF)	LXJ459	2:05	2:30 PM	3:12 PM	5:31 PM		Landed 5:17 PM		 
+ 	29 Sep 2023	Cincinnati (CVG)	—	LXJ459	-	12:58 PM	—	—		Unknown		 
+ 	29 Sep 2023	Chattanooga (CHA)	Cincinnati (CVG)	LXJ459	0:51	12:10 PM	12:04 PM	1:13 PM		Landed 12:56 PM		 
+ 	29 Sep 2023	Nashville (QQN)	Chattanooga (CHA)	LXJ459	0:26	9:30 AM	10:01 AM	11:04 AM		Landed 11:26 AM		 
+ 	29 Sep 2023	Baltimore (BWI)	Nashville (QQN)	LXJ459	1:29	7:59 AM	7:55 AM	7:24 AM		Landed 7:24 AM		 
+ 	28 Sep 2023	Teterboro (TEB)	Baltimore (BWI)	LXJ459	0:36	4:30 PM	5:17 PM	5:52 PM		Landed 5:53 PM		 
+ 	28 Sep 2023	Pontiac (PTK)	Teterboro (TEB)	LXJ459	1:10	9:00 AM	10:00 AM	11:30 AM		Landed 11:10 AM		 
+ 	27 Sep 2023	Chicago (PWK)	Pontiac (PTK)	LXJ459	0:44	4:48 PM	3:43 PM	6:45 PM		Landed 5:26 PM		 
+ 	27 Sep 2023	Bedford (BED)	Chicago (PWK)	LXJ459	1:59	2:12 PM	2:24 PM	3:25 PM		Landed 3:24 PM		 
+ 	27 Sep 2023	Billings (BIL)	Bedford (BED)	LXJ459	3:37	7:30 AM	8:13 AM	1:48 PM		Landed 1:50 PM		 
+ 	27 Sep 2023	Colorado Springs (COS)	Billings (BIL)	LXJ459	1:11	8:35 AM	6:18 AM	10:06 AM		Landed 7:29 AM		 
+ 	26 Sep 2023	Columbus (CMH)	Colorado Springs (COS)	LXJ459	2:31	2:30 PM	4:06 PM	4:36 PM		Landed 4:37 PM		 
+ 	26 Sep 2023	Nashville (BNA)	Columbus (CMH)	LXJ459	0:52	11:33 AM	11:16 AM	1:53 PM		Landed 1:08 PM		 
+ 	25 Sep 2023	Gainesville (GNV)	Nashville (BNA)	LXJ459	1:14	11:30 AM	11:52 AM	12:17 PM		Landed 12:06 PM		 
+ 	24 Sep 2023	West Palm Beach (PBI)	Gainesville (GNV)	LXJ459	0:45	3:00 PM	3:29 PM	4:16 PM		Landed 4:14 PM		 
+ 	24 Sep 2023	Atlanta (PDK)	West Palm Beach (PBI)	LXJ459	1:26	9:30 AM	10:06 AM	11:31 AM		Landed 11:33 AM		 
+ 	23 Sep 2023	Boca Raton (BCT)	Atlanta (PDK)	LXJ459	1:24	12:02 PM	12:09 PM	1:33 PM		Landed 1:33 PM		 
+ 	23 Sep 2023	Buffalo (BUF)	Boca Raton (BCT)	LXJ459	2:29	8:30 AM	8:56 AM	11:42 AM		Landed 11:25 AM		 
+ 	22 Sep 2023	New Haven (HVN)	Buffalo (BUF)	LXJ459	0:52	1:30 PM	1:59 PM	2:54 PM		Landed 2:51 PM		 
+ 	22 Sep 2023	Miami (OPF)	New Haven (HVN)	LXJ459	2:35	10:01 AM	10:51 AM	1:25 PM		Landed 1:25 PM		 
+ 	22 Sep 2023	Tampa (TPA)	Miami (OPF)	LXJ459	0:46	8:14 AM	8:41 AM	9:42 AM		Landed 9:27 AM		 
+ 	21 Sep 2023	Miami (OPF)	Tampa (TPA)	LXJ459	0:40	5:30 PM	6:54 PM	7:34 PM		Landed 7:34 PM		 
+ 	21 Sep 2023	Marsh Harbour (MHH)	Miami (OPF)	LXJ459	0:48	4:03 PM	4:02 PM	4:51 PM		Landed 4:50 PM		 
+ 	21 Sep 2023	Morristown (MMU)	Marsh Harbour (MHH)	LXJ459	2:25	11:40 AM	12:54 PM	2:04 PM		Landed 3:18 PM		 
+ 	21 Sep 2023	Pittsfield (PSF)	Morristown (MMU)	LXJ459	0:31	9:49 AM	10:41 AM	11:11 AM		Landed 11:12 AM		 
+ 	21 Sep 2023	Teterboro (TEB)	Pittsfield (PSF)	LXJ459	0:27	8:08 AM	9:46 AM	10:13 AM		Landed 10:13 AM		 
+ 	20 Sep 2023	La Paz (LAP)	Teterboro (TEB)	LXJ459	4:51	10:00 AM	10:08 AM	5:56 PM		Landed 5:58 PM		 
+ 	19 Sep 2023	Los Angeles (LAX)	La Paz (LAP)	LXJ459	1:47	12:00 PM	10:54 AM	2:11 PM		Landed 12:41 PM		 
+ 	18 Sep 2023	Toronto (YYZ)	Los Angeles (LAX)	LXJ459	4:45	2:00 PM	1:42 PM	3:25 PM		Landed 3:27 PM		 
+ 	18 Sep 2023	Muskegon (MKG)	Toronto (YYZ)	LXJ459	0:49	11:34 AM	11:17 AM	12:45 PM		Landed 12:06 PM		 
+ 	17 Sep 2023	Chicago (MDW)	Muskegon (MKG)	LXJ459	0:34	7:03 PM	8:55 PM	10:27 PM		Landed 10:29 PM		 
+ 	16 Sep 2023	Van Nuys (VNY)	Napa (APC)	LXJ459	0:54	2:53 PM	2:40 PM	4:06 PM		Landed 3:34 PM		 
+ 	16 Sep 2023	Aspen (ASE)	Van Nuys (VNY)	LXJ459	1:41	1:00 PM	1:18 PM	1:57 PM		Landed 1:58 PM		 
+ 	16 Sep 2023	Teterboro (TEB)	Aspen (ASE)	LXJ459	4:03	10:00 AM	10:20 AM	12:12 PM		Landed 12:23 PM		 
+ 	15 Sep 2023	White Plains (HPN)	Teterboro (TEB)	LXJ459	0:19	4:58 PM	4:23 PM	4:45 PM		Landed 4:42 PM		 
+ 	15 Sep 2023	Lexington (LEX)	White Plains (HPN)	LXJ459	1:36	2:30 PM	2:13 PM	4:13 PM		Landed 3:49 PM		 
+ 	15 Sep 2023	Wildwood (WWD)	Lexington (LEX)	LXJ459	1:17	11:37 AM	11:50 AM	1:06 PM		Landed 1:07 PM		 
+ 	14 Sep 2023	Detroit (DET)	Wildwood (WWD)	LXJ459	1:10	8:30 PM	9:43 PM	10:54 PM		Landed 10:53 PM		 
+ 	14 Sep 2023	Charlotte (CLT)	Detroit (DET)	LXJ459	1:14	5:42 PM	6:10 PM	7:37 PM		Landed 7:24 PM		 
+ 	14 Sep 2023	Scottsdale (SCF)	Charlotte (CLT)	LXJ459	3:12	8:30 AM	8:47 AM	3:28 PM		Landed 3:00 PM		 
+ 	13 Sep 2023	Phoenix (PHX)	Scottsdale (SCF)	LXJ459	0:10	11:30 AM	12:10 PM	12:20 PM		Landed 12:20 PM		 
+ 	13 Sep 2023	Naples (APF)	Phoenix (PHX)	LXJ459	4:11	6:30 AM	7:01 AM	8:24 AM		Landed 8:12 AM		 
+ 	12 Sep 2023	Miami (MIA)	Naples (APF)	LXJ459	0:26	4:00 PM	3:32 PM	3:56 PM		Landed 3:58 PM		 
+ 	10 Sep 2023	Aspen (ASE)	Miami (MIA)	LXJ459	3:43	12:30 PM	1:24 PM	7:14 PM		Landed 7:07 PM		 
+ 	09 Sep 2023	Tulsa (TUL)	Aspen (ASE)	LXJ459	1:44	8:30 AM	9:16 AM	9:54 AM		Landed 10:00 AM		 
+ 	08 Sep 2023	Austin (AUS)	Tulsa (TUL)	LXJ459	1:05	10:30 AM	12:24 PM	1:29 PM		Landed 1:29 PM		 
+ 	08 Sep 2023	Dallas (DAL)	Austin (AUS)	LXJ459	0:35	9:30 AM	10:39 AM	11:13 AM		Landed 11:14 AM		 
+ 	07 Sep 2023	Fort Worth (FTW)	Dallas (DAL)	LXJ459	0:14	3:00 PM	3:03 PM	3:18 PM		Landed 3:17 PM		 
+ 	04 Sep 2023	White Plains (HPN)	Fort Worth (FTW)	LXJ459	3:01	4:30 PM	6:02 PM	8:01 PM		Landed 8:02 PM		 
+ 	04 Sep 2023	Miami (MIA)	White Plains (HPN)	LXJ459	2:46	10:30 AM	11:14 AM	2:00 PM		Landed 2:01 PM		 
+ 	03 Sep 2023	Panama City (ECP)	Miami (MIA)	LXJ459	1:04	4:30 PM	4:53 PM	6:55 PM		Landed 6:57 PM		 
+ 	01 Sep 2023	Dallas (DAL)	Panama City (ECP)	LXJ459	1:29	3:30 PM	4:23 PM	5:54 PM		Landed 5:52 PM		 
+ 	31 Aug 2023	Fort Worth (FTW)	Dallas (DAL)	LXJ459	0:13	5:55 PM	7:20 PM	7:34 PM		Landed 7:33 PM		 
+ 	31 Aug 2023	Monterey (MRY)	Fort Worth (FTW)	LXJ459	2:46	12:00 PM	1:51 PM	6:36 PM		Landed 6:37 PM		 
+ 	31 Aug 2023	Portland (PDX)	Monterey (MRY)	LXJ459	1:33	8:59 AM	9:37 AM	11:23 AM		Landed 11:10 AM		 
+ 	30 Aug 2023	Bozeman (BZN)	Portland (PDX)	LXJ459	1:21	9:30 AM	10:17 AM	10:45 AM		Landed 10:39 AM		 
+ 	30 Aug 2023	Denver (BJC)	Bozeman (BZN)	LXJ459	1:14	7:11 AM	8:02 AM	9:15 AM		Landed 9:16 AM		 
+ 	29 Aug 2023	Anchorage (ANC)	Denver (BJC)	LXJ459	4:47	8:30 AM	9:09 AM	3:57 PM		Landed 3:57 PM		 
+ 	28 Aug 2023	Gustavus (GST)	Anchorage (ANC)	LXJ459	1:12	4:15 PM	3:14 PM	5:39 PM		Landed 4:26 PM		 
+ 	28 Aug 2023	—	Gustavus (GST)	LXJ459	2:47	—	—	1:50 PM		Landed 1:50 PM		 
+ 	28 Aug 2023	Santa Barbara (SBA)	—	LXJ459	0:48	11:10 AM	10:23 AM	—		Landed 6:10 PM		 
+ 	27 Aug 2023	Farmingdale (FRG)	Santa Barbara (SBA)	LXJ459	5:29	1:15 PM	2:23 PM	4:50 PM		Landed 4:52 PM		 
+ 	27 Aug 2023	Nantucket (ACK)	Farmingdale (FRG)	LXJ459	0:37	10:00 AM	10:39 AM	11:14 AM		Landed 11:16 AM		 
+ 	27 Aug 2023	White Plains (HPN)	Nantucket (ACK)	LXJ459	0:40	8:12 AM	8:41 AM	9:25 AM		Landed 9:21 AM		 
+ 	26 Aug 2023	Westhampton Beach (FOK)	White Plains (HPN)	LXJ459	0:21	2:58 PM	2:22 PM	2:42 PM		Landed 2:43 PM		 
+ 	26 Aug 2023	Miami (MIA)	Westhampton Beach (FOK)	LXJ459	2:25	11:30 AM	11:32 AM	1:55 PM		Landed 1:57 PM		 
+ 	25 Aug 2023	Westhampton Beach (FOK)	Miami (MIA)	LXJ459	2:29	12:30 PM	1:15 PM	3:50 PM		Landed 3:44 PM		 
+ 	24 Aug 2023	Nantucket (ACK)	Westhampton Beach (FOK)	LXJ459	0:31	5:18 PM	5:24 PM	6:00 PM		Landed 5:55 PM		 
+ 	24 Aug 2023	White Plains (HPN)	Nantucket (ACK)	LXJ459	0:42	2:30 PM	4:20 PM	5:00 PM		Landed 5:02 PM		 
+ 	23 Aug 2023	Dublin (DUB)	White Plains (HPN)	LXJ459	6:44	4:30 PM	4:37 PM	6:23 PM		Landed 6:21 PM		 
+ 	23 Aug 2023	Naples (NAP)	Dublin (DUB)	LXJ459	3:00	1:00 PM	1:49 PM	3:00 PM		Landed 3:49 PM		 
+ 	23 Aug 2023	Olbia (OLB)	Naples (NAP)	LXJ459	0:58	11:13 AM	11:16 AM	12:12 PM		Landed 12:14 PM		 
+ 	21 Aug 2023	Reykjavik (RKV)	Olbia (OLB)	LXJ459	4:24	9:00 AM	9:02 AM	3:45 PM		Landed 3:26 PM		 
+ 	18 Aug 2023	Westhampton Beach (FOK)	Reykjavik (RKV)	LXJ459	4:58	1:15 PM	8:16 AM	5:15 PM		Landed 5:15 PM		 
+ 	17 Aug 2023	Martha's Vineyard (MVY)	Westhampton Beach (FOK)	LXJ459	0:39	1:59 PM	2:21 PM	2:58 PM		Landed 3:00 PM		 
+ 	17 Aug 2023	St. Petersburg (PIE)	Martha's Vineyard (MVY)	LXJ459	2:17	10:30 AM	11:18 AM	1:35 PM		Landed 1:35 PM		 
+ 	17 Aug 2023	Orlando (SFB)	St. Petersburg (PIE)	LXJ459	0:27	8:56 AM	9:37 AM	10:00 AM		Landed 10:04 AM		 
+ 	16 Aug 2023	Orlando (SFB)	Orlando (SFB)	LXJ459	0:55	5:00 PM	5:32 PM	5:20 PM		Landed 6:27 PM		 
+ 	31 Jul 2023	Knoxville (TYS)	Orlando (SFB)	LXJ459	1:09	1:30 PM	12:49 PM	3:02 PM		Landed 1:58 PM		 
+ 	31 Jul 2023	Chicago (ORD)	Knoxville (TYS)	LXJ459	1:03	9:30 AM	10:03 AM	11:44 AM		Landed 12:06 PM		 
+ 	30 Jul 2023	Marion (MWA)	Chicago (ORD)	LXJ459	0:57	5:58 PM	5:19 PM	7:06 PM		Landed 6:16 PM		 
+ 	30 Jul 2023	Chicago (ORD)	Marion (MWA)	LXJ459	0:45	3:45 PM	4:09 PM	4:53 PM		Landed 4:55 PM		 
+ 	30 Jul 2023	Chicago (DPA)	Chicago (ORD)	LXJ459	0:14	1:30 PM	1:30 PM	1:39 PM		Landed 1:43 PM		 
+ 	30 Jul 2023	Panama City (ECP)	Chicago (DPA)	LXJ459	1:48	10:15 AM	11:01 AM	1:02 PM		Landed 12:49 PM		 
+ 	30 Jul 2023	Kissimmee (ISM)	Panama City (ECP)	LXJ459	0:50	9:30 AM	9:56 AM	9:47 AM		Landed 9:46 AM		 
+ 	29 Jul 2023	Dallas (DAL)	Kissimmee (ISM)	LXJ459	2:07	5:21 PM	5:15 PM	8:47 PM		Landed 8:22 PM		 
+ 	29 Jul 2023	Nantucket (ACK)	Dallas (DAL)	LXJ459	3:17	1:15 PM	1:59 PM	4:22 PM		Landed 4:16 PM		 
+ 	29 Jul 2023	Boston (BOS)	Nantucket (ACK)	LXJ459	0:22	11:12 AM	11:34 AM	11:56 AM		Landed 11:57 AM		 
+ 	27 Jul 2023	Waukesha (UES)	Boston (BOS)	LXJ459	1:51	3:00 PM	5:22 PM	8:12 PM		Landed 8:13 PM		 
+ 	27 Jul 2023	Birmingham (BHM)	Waukesha (UES)	LXJ459	1:27	1:27 PM	1:43 PM	2:43 PM		Landed 3:11 PM		 
+ 	27 Jul 2023	Chicago (PWK)	Birmingham (BHM)	LXJ459	1:22	11:00 AM	11:26 AM	12:48 PM		Landed 12:48 PM		 
+ 	27 Jul 2023	Chicago (ORD)	Chicago (PWK)	LXJ459	0:10	9:33 AM	10:30 AM	10:40 AM		Landed 10:41 AM		 
+ 	25 Jul 2023	Teterboro (TEB)	Chicago (ORD)	LXJ459	1:47	1:30 PM	4:18 PM	7:32 PM		Landed 5:05 PM		 
+ 	25 Jul 2023	Myrtle Beach (MYR)	Teterboro (TEB)	LXJ459	1:20	11:00 AM	11:33 AM	12:57 PM		Landed 12:53 PM		 
+ 	24 Jul 2023	Naples (APF)	Myrtle Beach (MYR)	LXJ459	1:16	1:00 PM	1:13 PM	2:29 PM		Landed 2:30 PM		 
+ 	23 Jul 2023	Providenciales (PLS)	Naples (APF)	LXJ459	1:27	1:00 PM	1:03 PM	2:38 PM		Landed 2:30 PM		 
+ 	23 Jul 2023	Nassau (NAS)	Providenciales (PLS)	LXJ459	0:56	10:14 AM	10:21 AM	11:22 AM		Landed 11:17 AM		 
+ 	22 Jul 2023	Dallas (DAL)	Nassau (NAS)	LXJ459	2:39	10:06 AM	10:36 AM	1:56 PM		Landed 2:15 PM		 
+ 	22 Jul 2023	Cleveland (CGF)	Dallas (DAL)	LXJ459	2:23	7:31 AM	7:45 AM	9:08 AM		Landed 9:08 AM		 
+ 	21 Jul 2023	Miami (MIA)	Cleveland (CGF)	LXJ459	2:25	1:00 PM	1:53 PM	4:16 PM		Landed 4:18 PM		 
+ 	21 Jul 2023	Asheville (AVL)	Miami (MIA)	LXJ459	1:33	10:23 AM	10:56 AM	12:38 PM		Landed 12:29 PM		 
+ 	20 Jul 2023	Nashville (BNA)	Asheville (AVL)	LXJ459	0:49	11:30 AM	12:35 PM	2:13 PM		Landed 2:24 PM		 
+ 	19 Jul 2023	White Plains (HPN)	Nashville (BNA)	LXJ459	1:48	1:30 PM	2:31 PM	3:19 PM		Landed 3:19 PM		 
+ 	18 Jul 2023	Raleigh-Durham (RDU)	White Plains (HPN)	LXJ459	1:27	4:45 PM	5:39 PM	7:04 PM		Landed 7:05 PM		 
+ 	18 Jul 2023	—	Raleigh-Durham (RDU)	LXJ459	0:32	—	—	3:00 PM		Landed 3:00 PM		 
+ 	18 Jul 2023	Chicago (PWK)	—	LXJ459	1:48	1:28 PM	11:36 AM	—		Landed 6:24 PM		 
+ 	18 Jul 2023	Chicago (DPA)	Chicago (PWK)	LXJ459	0:15	9:11 AM	9:50 AM	10:03 AM		Landed 10:05 AM		 
+ 	17 Jul 2023	Manchester (MHT)	Chicago (DPA)	LXJ459	2:08	7:00 PM	7:49 PM	8:56 PM		Landed 8:57 PM		 
+ 	17 Jul 2023	Nantucket (ACK)	Manchester (MHT)	LXJ459	0:32	5:34 PM	6:09 PM	6:47 PM		Landed 6:42 PM		 
+ 	17 Jul 2023	Seattle (BFI)	Nantucket (ACK)	LXJ459	4:46	8:30 AM	9:26 AM	5:17 PM		Landed 5:12 PM		 
+ 	16 Jul 2023	Portland (PDX)	Seattle (BFI)	LXJ459	0:27	3:06 PM	3:03 PM	3:48 PM		Landed 3:30 PM		 
+ 	16 Jul 2023	Stockton (SCK)	Portland (PDX)	LXJ459	1:13	12:45 PM	12:35 PM	2:18 PM		Landed 1:48 PM		 
+ 	16 Jul 2023	Scottsdale (SCF)	Stockton (SCK)	LXJ459	1:23	10:15 AM	10:43 AM	12:13 PM		Landed 12:05 PM		 
+ 	15 Jul 2023	Monterey (MRY)	Scottsdale (SCF)	LXJ459	1:23	2:00 PM	2:59 PM	4:23 PM		Landed 4:23 PM		 
+ 	14 Jul 2023	Teterboro (TEB)	Monterey (MRY)	LXJ459	5:46	9:30 AM	10:15 AM	1:00 PM		Landed 1:01 PM		 
+ 	13 Jul 2023	Washington (IAD)	Teterboro (TEB)	LXJ459	0:49	4:00 PM	5:02 PM	5:54 PM		Landed 5:51 PM		 
+ 	13 Jul 2023	Bedford (BED)	Washington (IAD)	LXJ459	1:06	9:30 AM	10:26 AM	11:31 AM		Landed 11:32 AM		 
+ 	12 Jul 2023	Washington (IAD)	Bedford (BED)	LXJ459	1:10	4:19 PM	4:51 PM	6:06 PM		Landed 6:01 PM		 
+ 	12 Jul 2023	Teterboro (TEB)	Washington (IAD)	LXJ459	0:41	2:29 PM	3:45 PM	4:32 PM		Landed 4:26 PM		 
+ 	11 Jul 2023	Madrid (MAD)	Teterboro (TEB)	LXJ459	7:25	8:10 PM	8:25 PM	9:39 PM		Landed 9:49 PM		 
+ 	10 Jul 2023	Valencia (VLC)	Madrid (MAD)	LXJ459	0:38	9:26 AM	9:26 AM	10:20 AM		Landed 10:04 AM		 
+ 	08 Jul 2023	White Plains (HPN)	Valencia (VLC)	LXJ459	6:56	6:08 AM	6:16 AM	7:10 PM		Landed 7:12 PM		 
+ 	07 Jul 2023	Westhampton Beach (FOK)	White Plains (HPN)	LXJ459	0:22	4:11 PM	4:16 PM	4:35 PM		Landed 4:38 PM		 
+ 	07 Jul 2023	Nantucket (ACK)	Westhampton Beach (FOK)	LXJ459	0:32	2:30 PM	3:02 PM	3:42 PM		Landed 3:34 PM		 
+ 	07 Jul 2023	Farmingdale (FRG)	Nantucket (ACK)	LXJ459	0:42	12:14 PM	12:57 PM	1:46 PM		Landed 1:39 PM		 
+ 	06 Jul 2023	Gunnison (GUC)	Farmingdale (FRG)	LXJ459	3:35	11:30 AM	12:40 PM	6:22 PM		Landed 6:15 PM		 
+ 	06 Jul 2023	Van Nuys (VNY)	Gunnison (GUC)	LXJ459	1:25	7:22 AM	8:03 AM	10:32 AM		Landed 10:28 AM		 
+ 	05 Jul 2023	Coeur d'Alene (COE)	Van Nuys (VNY)	LXJ459	2:06	7:30 AM	8:12 AM	10:22 AM		Landed 10:17 AM		 
+ 	03 Jul 2023	Santa Ana (SNA)	Coeur d'Alene (COE)	LXJ459	2:07	8:00 AM	8:46 AM	11:00 AM		Landed 10:53 AM		 
+ 	02 Jul 2023	San Diego (SAN)	Santa Ana (SNA)	LXJ459	0:23	5:21 PM	5:50 PM	6:12 PM		Landed 6:13 PM		 
+ 	02 Jul 2023	Cabo San Lucas (CSL)	San Diego (SAN)	LXJ459	1:45	2:55 PM	3:01 PM	4:46 PM		Landed 4:46 PM		 
+ 	02 Jul 2023	Dallas (DAL)	Cabo San Lucas (CSL)	LXJ459	2:23	1:30 PM	1:39 PM	2:04 PM		Landed 2:02 PM		 
+ 	02 Jul 2023	Aspen (ASE)	Dallas (DAL)	LXJ459	1:37	9:18 AM	9:11 AM	11:47 AM		Landed 11:48 AM		 
+ 	01 Jul 2023	Dallas (DAL)	Aspen (ASE)	LXJ459	2:43	10:30 AM	11:20 AM	12:53 PM		Landed 1:03 PM		 
+ 	01 Jul 2023	Victoria (VCT)	Dallas (DAL)	LXJ459	0:50	8:40 AM	7:58 AM	9:43 AM		Landed 8:48 AM		 
+ 	01 Jul 2023	Dallas (DAL)	Aspen (ASE)	LXJ459	-	10:30 AM	6:30 AM	11:20 AM		Diverted to VCT		 
+ 	30 Jun 2023	Alamogordo (ALM)	Dallas (DAL)	LXJ459	1:22	1:00 PM	1:33 PM	4:00 PM		Landed 3:55 PM		 
+ 	30 Jun 2023	Los Angeles (LAX)	Alamogordo (ALM)	LXJ459	1:43	9:21 AM	10:02 AM	12:50 PM		Landed 12:46 PM		 
+ 	29 Jun 2023	Sint Maarten (SXM)	Los Angeles (LAX)	LXJ459	7:20	11:55 PM	4:35 PM	7:55 PM		Landed 7:55 PM		 
+ 	28 Jun 2023	Charlotte (CLT)	Sint Maarten (SXM)	LXJ459	3:23	2:30 PM	2:02 PM	3:57 PM		Landed 5:25 PM		 
+ 	27 Jun 2023	Teterboro (TEB)	Charlotte (CLT)	LXJ459	1:24	6:30 AM	12:28 PM	12:52 PM		Landed 12:52 PM		 
+ 	27 Jun 2023	White Plains (HPN)	Teterboro (TEB)	LXJ459	0:13	11:04 AM	11:31 AM	11:44 AM		Landed 11:44 AM		 
+ 	26 Jun 2023	Van Nuys (VNY)	Teterboro (TEB)	LXJ459	-	10:30 AM	11:05 AM	6:48 PM		Diverted to HPN		 
+ 	25 Jun 2023	White Plains (HPN)	Van Nuys (VNY)	LXJ459	5:43	2:00 PM	5:47 PM	8:30 PM		Landed 8:31 PM		 
+ 	25 Jun 2023	—	White Plains (HPN)	LXJ459	0:55	—	—	10:12 PM		Landed 11:10 PM		 
+ 	24 Jun 2023	White Plains (HPN)	—	LXJ459	0:47	2:00 PM	2:54 PM	—		Landed 7:41 PM		 
+ 	24 Jun 2023	New York (EWR)	White Plains (HPN)	LXJ459	0:19	12:38 PM	12:41 PM	1:01 PM		Landed 1:01 PM		 
+ 	23 Jun 2023	Charlottetown (YYG)	New York (EWR)	LXJ459	1:45	11:18 PM	11:50 PM	12:44 AM		Landed 12:35 AM		 
+ 	23 Jun 2023	Boston (BOS)	Charlottetown (YYG)	LXJ459	1:14	8:00 PM	8:57 PM	11:10 PM		Landed 11:11 PM		 
+ 	23 Jun 2023	White Plains (HPN)	Boston (BOS)	LXJ459	0:41	5:42 PM	6:21 PM	7:10 PM		Landed 7:02 PM		 
+ 	22 Jun 2023	Sheboygan (SBM)	White Plains (HPN)	LXJ459	1:38	3:00 PM	3:50 PM	6:28 PM		Landed 6:28 PM		 
+ 	22 Jun 2023	Muskegon (MKG)	Sheboygan (SBM)	LXJ459	0:24	2:04 PM	2:30 PM	1:47 PM		Landed 1:54 PM		 
+ 	22 Jun 2023	Teterboro (TEB)	Muskegon (MKG)	LXJ459	1:24	9:30 AM	11:03 AM	12:27 PM		Landed 12:27 PM		 
+ 	21 Jun 2023	Wilmington (ILM)	Teterboro (TEB)	LXJ459	1:12	4:58 PM	5:25 PM	6:37 PM		Landed 6:37 PM		 
+ 	21 Jun 2023	Miami (MIA)	Wilmington (ILM)	LXJ459	1:20	2:30 PM	3:25 PM	4:46 PM		Landed 4:45 PM		 
+ 	21 Jun 2023	Tampa (TPA)	Miami (MIA)	LXJ459	0:37	8:47 AM	9:58 AM	10:33 AM		Landed 10:35 AM		 
+ 	20 Jun 2023	Reykjavik (KEF)	Tampa (TPA)	LXJ459	7:19	7:40 PM	12:22 PM	2:40 PM		Landed 2:40 PM		 
+ 	18 Jun 2023	Glasgow (GLA)	Reykjavik (KEF)	LXJ459	1:49	11:00 AM	11:06 AM	11:49 AM		Landed 11:55 AM		 
+ 	16 Jun 2023	Edinburgh (EDI)	Glasgow (GLA)	LXJ459	0:17	9:51 PM	9:49 PM	10:21 PM		Landed 10:06 PM		 
+ 	16 Jun 2023	White Plains (HPN)	Edinburgh (EDI)	LXJ459	6:09	9:30 AM	9:34 AM	9:21 PM		Landed 8:44 PM		 
+ 	15 Jun 2023	Seattle (BFI)	White Plains (HPN)	LXJ459	4:35	7:30 AM	8:58 AM	4:32 PM		Landed 4:33 PM		 
+ 	14 Jun 2023	Sacramento (SMF)	Seattle (BFI)	LXJ459	1:30	2:00 PM	1:32 PM	3:42 PM		Landed 3:02 PM		 
+ 	13 Jun 2023	Denver (APA)	Sacramento (SMF)	LXJ459	1:56	11:30 AM	12:08 PM	1:03 PM		Landed 1:05 PM		 
+ 	13 Jun 2023	Fort Wayne (FWA)	Denver (APA)	LXJ459	2:23	9:30 AM	9:47 AM	10:15 AM		Landed 10:10 AM		 
+ 	12 Jun 2023	Morristown (MMU)	Fort Wayne (FWA)	LXJ459	1:23	12:00 PM	12:40 PM	2:14 PM		Landed 2:03 PM		 
+ 	11 Jun 2023	Bedford (BED)	Morristown (MMU)	LXJ459	0:45	1:30 PM	2:23 PM	3:12 PM		Landed 3:08 PM		 
+ 	11 Jun 2023	Chicago (PWK)	Bedford (BED)	LXJ459	1:45	8:30 AM	9:24 AM	12:15 PM		Landed 12:09 PM		 
+ 	09 Jun 2023	Calgary (YYC)	Chicago (PWK)	LXJ459	2:55	8:45 AM	9:04 AM	12:59 PM		Landed 1:00 PM		 
+ 	08 Jun 2023	Portland (PDX)	Calgary (YYC)	LXJ459	1:19	3:00 PM	3:19 PM	6:00 PM		Landed 5:38 PM		 
+ 	07 Jun 2023	Stockton (SCK)	Portland (PDX)	LXJ459	1:14	5:30 PM	6:04 PM	7:20 PM		Landed 7:17 PM		 
+ 	07 Jun 2023	Los Angeles (LAX)	Stockton (SCK)	LXJ459	0:52	3:35 PM	3:37 PM	4:42 PM		Landed 4:28 PM		 
+ 	06 Jun 2023	Oakland (OAK)	Los Angeles (LAX)	LXJ459	0:57	3:15 PM	5:22 PM	6:18 PM		Landed 6:19 PM		 
+ 	06 Jun 2023	Los Angeles (LAX)	Oakland (OAK)	LXJ459	0:50	7:00 AM	8:05 AM	8:54 AM		Landed 8:55 AM		 
+ 	05 Jun 2023	Chicago (MDW)	Chicago (MDW)	LXJ459	-	12:00 PM	3:07 PM	12:37 PM		Diverted to LAX		 
+ 	05 Jun 2023	Chicago (MDW)	Los Angeles (LAX)	LXJ459	-	1:50 PM	12:48 PM	4:15 PM		Diverted to MDW		 
+ 	05 Jun 2023	Morristown (MMU)	Chicago (MDW)	LXJ459	1:41	10:10 AM	11:05 AM	10:58 AM		Landed 11:46 AM		 
+ 	04 Jun 2023	Columbus (CMH)	Morristown (MMU)	LXJ459	1:13	6:00 PM	7:13 PM	8:25 PM		Landed 8:26 PM		 
+ 	03 Jun 2023	Morristown (MMU)	Columbus (CMH)	LXJ459	1:07	11:30 AM	12:25 PM	1:32 PM		Landed 1:32 PM		 
+ 	02 Jun 2023	Chicago (PWK)	Morristown (MMU)	LXJ459	1:33	6:54 PM	7:32 PM	10:10 PM		Landed 10:06 PM		 
+ 	02 Jun 2023	Teterboro (TEB)	Chicago (PWK)	LXJ459	2:06	4:30 PM	5:25 PM	6:32 PM		Landed 6:31 PM		 
+ 	01 Jun 2023	Van Nuys (VNY)	Teterboro (TEB)	LXJ459	4:45	8:15 PM	9:26 PM	5:19 AM		Landed 5:11 AM		 
+ 	01 Jun 2023	Santa Ana (SNA)	Van Nuys (VNY)	LXJ459	0:27	6:54 PM	7:09 PM	7:36 PM		Landed 7:37 PM		 
+ 	30 May 2023	Los Angeles (LAX)	Santa Ana (SNA)	LXJ459	0:22	5:01 PM	4:38 PM	6:16 PM		Landed 5:00 PM		 
+ 	30 May 2023	Jefferson City (JEF)	Los Angeles (LAX)	LXJ459	3:15	2:30 PM	2:31 PM	4:01 PM		Landed 3:45 PM		 
+ 	30 May 2023	Chicago (DPA)	Jefferson City (JEF)	LXJ459	0:51	12:35 PM	1:02 PM	1:54 PM		Landed 1:53 PM		 
+ 	29 May 2023	Brunswick (BQK)	Chicago (DPA)	LXJ459	1:49	5:30 PM	6:13 PM	7:07 PM		Landed 7:02 PM		 
+ 	29 May 2023	Fort Worth (FTW)	Brunswick (SSI)	LXJ459	1:56	1:00 PM	1:59 PM	4:58 PM		Landed 4:55 PM		 
+ 	29 May 2023	Dallas (DAL)	Fort Worth (FTW)	LXJ459	0:18	11:39 AM	11:57 AM	12:23 PM		Landed 12:15 PM		 
+ 	28 May 2023	New Orleans (MSY)	Dallas (DAL)	LXJ459	1:10	11:30 AM	12:06 PM	1:16 PM		Landed 1:16 PM		 
+ 	28 May 2023	Baton Rouge (BTR)	New Orleans (MSY)	LXJ459	0:20	10:05 AM	10:05 AM	10:22 AM		Landed 10:25 AM		 
+ 	27 May 2023	Nassau (NAS)	Baton Rouge (BTR)	LXJ459	2:06	12:00 PM	12:46 PM	1:12 PM		Landed 1:52 PM		 
+ 	26 May 2023	Tampa (TPA)	Nassau (NAS)	LXJ459	1:10	4:00 PM	3:34 PM	3:44 PM		Landed 3:44 PM		 
+ 	26 May 2023	Miami (MIA)	Tampa (TPA)	LXJ459	0:41	12:47 PM	1:09 PM	1:53 PM		Landed 1:49 PM		 
+ 	25 May 2023	Guatemala City (GUA)	Miami (MIA)	LXJ459	2:11	6:26 PM	4:14 PM	8:11 PM		Landed 8:26 PM		 
+ 	25 May 2023	Puerto Vallarta (PVR)	Guatemala City (GUA)	LXJ459	2:16	11:42 AM	11:34 AM	1:50 PM		Landed 1:50 PM		 
+ 	23 May 2023	Houston (IAH)	Puerto Vallarta (PVR)	LXJ459	2:06	9:13 PM	9:37 PM	10:42 PM		Landed 10:43 PM		 
+ 	23 May 2023	Dallas (DAL)	Houston (IAH)	LXJ459	0:40	7:40 PM	7:52 PM	8:50 PM		Landed 8:33 PM		 
+ 	23 May 2023	Providenciales (PLS)	Dallas (DAL)	LXJ459	3:41	3:00 PM	3:38 PM	5:46 PM		Landed 6:19 PM		 
+ 	23 May 2023	Boca Raton (BCT)	Providenciales (PLS)	LXJ459	1:24	11:35 AM	11:27 AM	1:07 PM		Landed 12:51 PM		 
+ 	22 May 2023	Morristown (MMU)	Boca Raton (BCT)	LXJ459	2:19	8:00 AM	9:06 AM	11:31 AM		Landed 11:26 AM		 
+ 	21 May 2023	Westhampton Beach (FOK)	Morristown (MMU)	LXJ459	0:32	2:45 PM	2:48 PM	3:20 PM		Landed 3:20 PM		 
+ 	21 May 2023	Stuart (SUA)	Westhampton Beach (FOK)	LXJ459	2:15	12:00 PM	12:02 PM	2:34 PM		Landed 2:17 PM		 
+ 	21 May 2023	Miami (OPF)	Stuart (SUA)	LXJ459	0:25	10:05 AM	10:31 AM	11:02 AM		Landed 10:56 AM		 
+ 	19 May 2023	Reno (RNO)	Miami (OPF)	LXJ459	4:47	8:30 AM	9:00 AM	4:56 PM		Landed 4:47 PM		 
+ 	18 May 2023	Napa (APC)	Reno (RNO)	LXJ459	0:30	1:52 PM	2:20 PM	2:48 PM		Landed 2:50 PM		 
+ 	18 May 2023	Las Vegas (LAS)	Napa (APC)	LXJ459	1:09	11:30 AM	12:45 PM	1:51 PM		Landed 1:53 PM		 
+ 	18 May 2023	San Jose (SJC)	Las Vegas (LAS)	LXJ459	1:00	7:17 AM	8:02 AM	9:01 AM		Landed 9:03 AM		 
+ 	15 May 2023	Raleigh-Durham (RDU)	San Jose (SJC)	LXJ459	5:07	1:30 PM	4:01 PM	6:06 PM		Landed 6:08 PM		 
+ 	15 May 2023	Baltimore (BWI)	Raleigh-Durham (RDU)	LXJ459	0:45	11:42 AM	10:28 AM	12:52 PM		Landed 11:13 AM		 
+ 	15 May 2023	White Plains (HPN)	Baltimore (BWI)	LXJ459	0:36	8:30 AM	9:02 AM	9:44 AM		Landed 9:38 AM		 
+ 	14 May 2023	Teterboro (TEB)	White Plains (HPN)	LXJ459	0:20	6:29 PM	6:19 PM	6:35 PM		Landed 6:39 PM		 
+ 	14 May 2023	Boston (BOS)	Teterboro (TEB)	LXJ459	0:53	4:30 PM	4:47 PM	5:44 PM		Landed 5:40 PM		 
+ 	14 May 2023	Westhampton Beach (FOK)	Boston (BOS)	LXJ459	0:32	7:00 AM	7:36 AM	8:06 AM		Landed 8:08 AM		 
+ 	13 May 2023	White Plains (HPN)	Westhampton Beach (FOK)	LXJ459	0:21	1:30 PM	2:10 PM	2:29 PM		Landed 2:30 PM		 
+ 	12 May 2023	Toronto (YYZ)	White Plains (HPN)	LXJ459	0:54	12:00 PM	11:58 AM	12:53 PM		Landed 12:51 PM		 
+ 	11 May 2023	Van Nuys (VNY)	Toronto (YYZ)	LXJ459	4:18	9:00 AM	9:21 AM	4:49 PM		Landed 4:39 PM		 
+ 	11 May 2023	—	Van Nuys (VNY)	LXJ459	2:45	—	—	5:02 PM		Landed 5:02 PM		 
+ 	10 May 2023	Van Nuys (VNY)	—	LXJ459	2:25	9:10 AM	6:40 AM	—		Landed 4:05 PM		 
+ 	09 May 2023	San Jose (SJC)	Van Nuys (VNY)	LXJ459	0:48	2:00 PM	1:39 PM	3:06 PM		Landed 2:28 PM		 
+ 	07 May 2023	Minneapolis (MSP)	San Jose (SJC)	LXJ459	3:33	4:30 PM	5:08 PM	6:46 PM		Landed 6:41 PM		 
+ 	07 May 2023	Birmingham (BHM)	Minneapolis (MSP)	LXJ459	2:02	1:26 PM	1:40 PM	3:55 PM		Landed 3:42 PM		 
+ 	07 May 2023	Panama City (ECP)	Birmingham (BHM)	LXJ459	0:40	10:30 AM	11:06 AM	11:46 AM		Landed 11:46 AM		 
+ 	06 May 2023	New Orleans (MSY)	Panama City (ECP)	LXJ459	0:51	2:00 PM	2:38 PM	3:30 PM		Landed 3:30 PM		 
+ 	04 May 2023	Teterboro (TEB)	New Orleans (MSY)	LXJ459	2:35	12:30 PM	1:03 PM	2:43 PM		Landed 2:38 PM		 
+ 	03 May 2023	Morristown (MMU)	Teterboro (TEB)	LXJ459	0:16	1:30 PM	1:40 PM	1:45 PM		Landed 1:56 PM		 
+ 	01 May 2023	Burbank (BUR)	Morristown (MMU)	LXJ459	4:31	8:00 PM	8:12 PM	3:49 AM		Landed 3:43 AM		 
+ 	30 Apr 2023	San Francisco (SFO)	Burbank (BUR)	LXJ459	0:52	6:10 PM	7:36 PM	7:11 PM		Landed 8:27 PM		 
+ 	30 Apr 2023	Kailua-Kona (KOA)	San Francisco (SFO)	LXJ459	4:48	10:00 AM	10:21 AM	5:57 PM		Landed 6:09 PM		 
+ 	29 Apr 2023	Los Angeles (LAX)	Kailua-Kona (KOA)	LXJ459	5:23	3:30 PM	5:13 PM	5:53 PM		Landed 7:37 PM		 
+ 	28 Apr 2023	Miami (MIA)	Los Angeles (LAX)	LXJ459	5:21	9:40 AM	11:18 AM	7:06 AM		Landed 1:39 PM		 
+ 	23 Apr 2023	New Haven (HVN)	Miami (MIA)	LXJ459	2:39	9:30 AM	1:20 PM	3:57 PM		Landed 3:58 PM		 
+ 	22 Apr 2023	Providence (PVD)	New Haven (HVN)	LXJ459	0:28	2:30 PM	3:27 PM	3:55 PM		Landed 3:55 PM		 
+ 	22 Apr 2023	London (LTN)	Providence (PVD)	LXJ459	6:32	10:30 AM	10:44 AM	12:19 PM		Landed 12:16 PM		 
+ 	22 Apr 2023	Genoa (GOA)	London (LTN)	LXJ459	1:40	8:46 AM	8:58 AM	9:39 AM		Landed 9:38 AM		 
+ 	21 Apr 2023	Milan (LIN)	Genoa (GOA)	LXJ459	0:25	3:52 PM	4:36 PM	4:30 PM		Landed 5:01 PM		 
+ 	21 Apr 2023	Bangor (BGR)	Milan (LIN)	LXJ459	7:20	1:45 AM	1:38 AM	3:20 PM		Landed 2:58 PM		 
+ 	20 Apr 2023	Rifle (RIL)	Bangor (BGR)	LXJ459	3:49	5:30 PM	7:02 PM	1:03 AM		Landed 12:51 AM		 
+ 	20 Apr 2023	Las Vegas (LAS)	Aspen (ASE)	LXJ459	-	2:50 PM	4:05 PM	5:13 PM		Diverted to RIL		 
+ 	19 Apr 2023	Atlanta (PDK)	Las Vegas (LAS)	LXJ459	4:10	12:30 PM	1:18 PM	2:35 PM		Landed 2:28 PM		 
+ 	19 Apr 2023	Naples (APF)	Atlanta (PDK)	LXJ459	1:21	9:36 AM	10:10 AM	11:32 AM		Landed 11:30 AM		 
+ 	16 Apr 2023	White Plains (HPN)	Boca Raton (BCT)	LXJ459	-	5:00 PM	6:08 PM	8:58 PM		Diverted to APF		 
+ 	16 Apr 2023	Teterboro (TEB)	White Plains (HPN)	LXJ459	0:17	4:22 PM	4:56 PM	4:46 PM		Landed 5:13 PM		 
+ 	16 Apr 2023	Frederick (FDK)	Teterboro (TEB)	LXJ459	0:56	2:00 PM	3:17 PM	4:10 PM		Landed 4:12 PM		 
+ 	16 Apr 2023	Teterboro (TEB)	Frederick (FDK)	LXJ459	0:39	9:56 AM	10:37 AM	11:26 AM		Landed 11:16 AM		 
+ 	14 Apr 2023	Tulsa (TUL)	Teterboro (TEB)	LXJ459	2:34	3:45 PM	3:08 PM	7:43 PM		Landed 6:42 PM		 
+ 	14 Apr 2023	Las Vegas (LAS)	Tulsa (TUL)	LXJ459	2:03	9:30 AM	9:58 AM	2:00 PM		Landed 2:01 PM		 
+ 	12 Apr 2023	Coeur d'Alene (COE)	Las Vegas (LAS)	LXJ459	1:55	4:00 PM	5:11 PM	7:05 PM		Landed 7:06 PM		 
+ 	12 Apr 2023	Portland (PDX)	Coeur d'Alene (COE)	LXJ459	0:44	2:06 PM	2:29 PM	3:21 PM		Landed 3:14 PM		 
+ 	12 Apr 2023	Las Vegas (LAS)	Portland (PDX)	LXJ459	1:47	9:30 AM	10:26 AM	12:22 PM		Landed 12:13 PM		 
+ 	11 Apr 2023	Tulsa (TUL)	Las Vegas (LAS)	LXJ459	2:13	9:30 AM	10:43 AM	11:03 AM		Landed 10:56 AM		 
+ 	11 Apr 2023	Houston (HOU)	Tulsa (TUL)	LXJ459	1:10	7:17 AM	7:36 AM	8:50 AM		Landed 8:46 AM		 
+ 	10 Apr 2023	Houston (HOU)	Tulsa (TUL)	LXJ459	1:15	6:19 PM	6:29 PM	7:44 PM		Landed 7:44 PM		 
+ 	10 Apr 2023	Los Angeles (LAX)	Houston (HOU)	LXJ459	2:49	12:30 PM	12:53 PM	5:50 PM		Landed 5:41 PM		 
+ 	10 Apr 2023	Long Beach (LGB)	Los Angeles (LAX)	LXJ459	0:17	11:06 AM	11:21 AM	11:43 AM		Landed 11:39 AM		 
+ 	09 Apr 2023	Augusta (AGS)	Santa Ana (SNA)	LXJ459	-	7:30 PM	8:01 PM	9:32 PM		Diverted to LGB		 
+ 	09 Apr 2023	Charlotte (CLT)	Augusta (AGS)	LXJ459	0:32	3:51 PM	4:05 PM	4:58 PM		Landed 4:37 PM		 
+ 	06 Apr 2023	Augusta (AGS)	Charlotte (CLT)	LXJ459	0:32	5:30 PM	5:29 PM	6:34 PM		Landed 6:01 PM		 
+ 	06 Apr 2023	Savannah (SAV)	Augusta (AGS)	LXJ459	0:31	3:30 PM	3:58 PM	4:29 PM		Landed 4:29 PM		 
+ 	06 Apr 2023	Albany (ABY)	Savannah (SAV)	LXJ459	0:31	12:46 PM	11:58 AM	1:33 PM		Landed 12:29 PM		 
+ 	06 Apr 2023	Stuart (SUA)	Albany (ABY)	LXJ459	1:05	9:30 AM	9:56 AM	11:11 AM		Landed 11:02 AM		 
+ 	05 Apr 2023	Orlando (SFB)	Stuart (SUA)	LXJ459	0:29	2:30 PM	3:09 PM	3:43 PM		Landed 3:37 PM		 
+ 	03 Apr 2023	Scottsdale (SCF)	Orlando (SFB)	LXJ459	3:14	5:30 PM	6:00 PM	12:37 AM		Landed 12:14 AM		 
+ 	03 Apr 2023	Rifle (RIL)	Scottsdale (SCF)	LXJ459	1:18	2:30 PM	2:20 PM	2:53 PM		Landed 2:38 PM		 
+ 	03 Apr 2023	Austin (AUS)	Rifle (RIL)	LXJ459	2:24	10:31 AM	11:15 AM	1:13 PM		Landed 12:39 PM		 
+ 	03 Apr 2023	Chicago (MDW)	Austin (AUS)	LXJ459	2:17	7:00 AM	7:32 AM	9:20 AM		Landed 9:48 AM		 
+ 	02 Apr 2023	Jackson (JAC)	Chicago (MDW)	LXJ459	2:21	3:30 PM	4:14 PM	7:41 PM		Landed 7:35 PM		 
+ 	02 Apr 2023	Denver (APA)	Jackson (JAC)	LXJ459	1:11	1:18 PM	1:48 PM	3:11 PM		Landed 2:59 PM		 
+ 	02 Apr 2023	Bozeman (BZN)	Denver (APA)	LXJ459	1:21	9:30 AM	10:56 AM	12:22 PM		Landed 12:17 PM		 
+ 	02 Apr 2023	Chicago (PWK)	Bozeman (BZN)	LXJ459	2:43	7:45 AM	8:47 AM	10:43 AM		Landed 10:30 AM		 
+ 	01 Apr 2023	Chicago (MDW)	Chicago (PWK)	LXJ459	0:22	2:10 PM	2:36 PM	2:57 PM		Landed 2:58 PM		 
+ 	01 Apr 2023	Scottsdale (SCF)	Chicago (MDW)	LXJ459	2:42	8:30 AM	9:09 AM	1:57 PM		Landed 1:51 PM		 
+ 	31 Mar 2023	Orlando (SFB)	Scottsdale (SCF)	LXJ459	4:50	5:30 PM	6:23 PM	8:18 PM		Landed 8:13 PM		 
+ 	31 Mar 2023	Miami (OPF)	Orlando (SFB)	LXJ459	0:43	3:06 PM	3:43 PM	4:39 PM		Landed 4:26 PM		 
+ 	31 Mar 2023	Teterboro (TEB)	Miami (OPF)	LXJ459	2:25	11:30 AM	12:22 PM	2:53 PM		Landed 2:47 PM		 
+ 	30 Mar 2023	New York (LGA)	Teterboro (TEB)	LXJ459	0:17	8:05 PM	9:28 PM	9:48 PM		Landed 9:46 PM		 
+ 	30 Mar 2023	Las Vegas (LAS)	New York (LGA)	LXJ459	4:06	11:30 AM	1:01 PM	8:13 PM		Landed 8:07 PM		 
+ 	30 Mar 2023	Rock Springs (RKS)	Las Vegas (LAS)	LXJ459	1:16	9:58 AM	9:59 AM	10:25 AM		Landed 10:16 AM		 
+ 	29 Mar 2023	Jackson (JAC)	Rock Springs (RKS)	LXJ459	0:33	6:09 PM	6:16 PM	6:52 PM		Landed 6:48 PM		 
+ 	29 Mar 2023	Oakland (OAK)	Jackson (JAC)	LXJ459	1:32	2:30 PM	3:18 PM	5:55 PM		Landed 5:50 PM		 
+ 	29 Mar 2023	San Jose (SJC)	Oakland (OAK)	LXJ459	0:24	9:30 AM	10:46 AM	11:14 AM		Landed 11:10 AM		 
+ 	29 Mar 2023	Santa Ana (SNA)	San Jose (SJC)	LXJ459	0:59	6:30 AM	9:11 AM	10:11 AM		Landed 10:10 AM		 
+ 	28 Mar 2023	Salt Lake City (SLC)	Santa Ana (SNA)	LXJ459	1:31	5:45 PM	6:19 PM	6:54 PM		Landed 6:50 PM		 
+ 	28 Mar 2023	Sacramento (SAC)	Salt Lake City (SLC)	LXJ459	1:11	3:00 PM	3:34 PM	5:50 PM		Landed 5:45 PM		 
+ 	28 Mar 2023	San Francisco (SFO)	Sacramento (SAC)	LXJ459	0:19	12:00 PM	1:00 PM	1:16 PM		Landed 1:19 PM		 
+ 	27 Mar 2023	San Diego (CLD)	San Francisco (SFO)	LXJ459	1:04	4:51 PM	5:04 PM	6:09 PM		Landed 6:07 PM		 
+ 	27 Mar 2023	Madison (MSN)	San Diego (CLD)	LXJ459	3:52	2:30 PM	2:34 PM	4:30 PM		Landed 4:26 PM		 
+ 	26 Mar 2023	Palm Springs (PSP)	Madison (MSN)	LXJ459	2:48	11:30 AM	12:05 PM	4:57 PM		Landed 4:53 PM		 
+ 	26 Mar 2023	Teterboro (TEB)	Palm Springs (PSP)	LXJ459	5:23	7:30 AM	7:58 AM	10:26 AM		Landed 10:21 AM		 
+ 	25 Mar 2023	Teterboro (TEB)	Teterboro (TEB)	LXJ459	0:36	6:14 PM	6:32 PM	7:29 PM		Landed 7:08 PM		 
+ 	25 Mar 2023	Nassau (NAS)	Teterboro (TEB)	LXJ459	2:40	2:30 PM	2:40 PM	5:16 PM		Landed 5:20 PM		 
+ 	25 Mar 2023	Marsh Harbour (MHH)	Nassau (NAS)	LXJ459	0:28	12:15 PM	12:22 PM	12:57 PM		Landed 12:51 PM		 
+ 	24 Mar 2023	West Palm Beach (PBI)	Marsh Harbour (MHH)	LXJ459	0:32	11:30 AM	12:06 PM	12:49 PM		Landed 12:38 PM		 
+ 	24 Mar 2023	Miami (MIA)	West Palm Beach (PBI)	LXJ459	0:21	9:10 AM	9:52 AM	10:17 AM		Landed 10:13 AM		 
+ 	23 Mar 2023	Teterboro (TEB)	Miami (MIA)	LXJ459	2:21	2:30 PM	2:55 PM	5:23 PM		Landed 5:16 PM		 
+ 	23 Mar 2023	—	—	LXJ459	-	—	—	—		Unknown		 
+ 	23 Mar 2023	Knoxville (TYS)	Teterboro (TEB)	LXJ459	1:24	9:15 AM	10:31 AM	12:00 PM		Landed 11:54 AM		 
+ 	22 Mar 2023	Memphis (MEM)	Knoxville (TYS)	LXJ459	0:51	1:30 PM	1:17 PM	3:42 PM		Landed 3:07 PM		 
+ 	21 Mar 2023	Memphis (MEM)	—	LXJ459	-	6:30 PM	—	—		Unknown		 
+ 	21 Mar 2023	Seattle (BFI)	Memphis (MEM)	LXJ459	3:26	12:00 PM	12:57 PM	6:28 PM		Landed 6:24 PM		 
+ 	19 Mar 2023	St. Louis (SUS)	Seattle (BFI)	LXJ459	3:42	5:30 PM	6:13 PM	8:03 PM		Landed 7:55 PM		 
+ 	19 Mar 2023	Atlanta (PDK)	St. Louis (SUS)	LXJ459	1:11	4:12 PM	5:12 PM	5:26 PM		Landed 5:23 PM		 
+ 	19 Mar 2023	Miami (OPF)	Atlanta (PDK)	LXJ459	1:26	1:30 PM	2:49 PM	4:22 PM		Landed 4:15 PM		 
+ 	18 Mar 2023	Tampa (TPA)	Miami (OPF)	LXJ459	0:44	7:22 PM	8:05 PM	8:55 PM		Landed 8:49 PM		 
+ 	18 Mar 2023	Kalispell (FCA)	Tampa (TPA)	LXJ459	4:13	10:30 AM	12:10 PM	6:26 PM		Landed 6:22 PM		 
+ 	17 Mar 2023	Jackson (JAC)	Kalispell (FCA)	LXJ459	0:57	6:18 PM	6:28 PM	7:30 PM		Landed 7:25 PM		 
+ 	17 Mar 2023	Santa Barbara (SBA)	Jackson (JAC)	LXJ459	1:47	2:30 PM	3:09 PM	6:01 PM		Landed 5:56 PM		 
+ 	17 Mar 2023	San Diego (SAN)	Santa Barbara (SBA)	LXJ459	0:33	12:40 PM	1:01 PM	1:44 PM		Landed 1:34 PM		 
+ 	15 Mar 2023	San Jose (SJC)	San Diego (SAN)	LXJ459	0:56	5:00 PM	7:31 PM	8:26 PM		Landed 8:27 PM		 
+ 	15 Mar 2023	Van Nuys (VNY)	San Jose (SJC)	LXJ459	0:54	10:30 AM	11:02 AM	11:57 AM		Landed 11:55 AM		 
+ 	15 Mar 2023	Oakland (OAK)	Van Nuys (VNY)	LXJ459	0:50	8:35 AM	9:03 AM	9:59 AM		Landed 9:53 AM		 
+ 	14 Mar 2023	Austin (AUS)	Oakland (OAK)	LXJ459	3:36	2:30 PM	3:10 PM	4:50 PM		Landed 4:45 PM		 
+ 	13 Mar 2023	San Francisco (SFO)	Austin (AUS)	LXJ459	2:44	8:30 AM	9:21 AM	2:11 PM		Landed 2:06 PM		 
+ 	13 Mar 2023	Salt Lake City (SLC)	San Francisco (SFO)	LXJ459	1:48	6:55 AM	7:33 AM	8:27 AM		Landed 8:21 AM		 
+ 	12 Mar 2023	Rifle (RIL)	Salt Lake City (SLC)	LXJ459	-	1:33 PM	—	4:16 PM		Landed 4:17 PM		 
+ 	12 Mar 2023	Austin (AUS)	Aspen (ASE)	LXJ459	2:40	11:30 AM	1:13 PM	2:08 PM		Landed 2:53 PM		 
+ 	12 Mar 2023	Houston (SGR)	Austin (AUS)	LXJ459	0:33	9:53 AM	10:28 AM	11:07 AM		Landed 11:01 AM		 
+ 	07 Mar 2023	San Jose del Cabo (SJD)	Houston (SGR)	LXJ459	1:59	5:29 PM	5:28 PM	8:26 PM		Landed 8:28 PM		 
+ 	06 Mar 2023	White Plains (HPN)	San Jose del Cabo (SJD)	LXJ459	5:29	8:30 AM	8:46 AM	12:20 PM		Landed 12:14 PM		 
+ 	05 Mar 2023	Jackson (JAC)	White Plains (HPN)	LXJ459	3:20	11:30 AM	12:19 PM	5:52 PM		Landed 5:39 PM		 
+ 	05 Mar 2023	Hailey (SUN)	Jackson (JAC)	LXJ459	0:50	9:13 AM	9:40 AM	10:35 AM		Landed 10:30 AM		 
+ 	03 Mar 2023	Teterboro (TEB)	Hailey (SUN)	LXJ459	4:33	3:30 PM	4:18 PM	6:44 PM		Landed 6:51 PM		 
+ 	02 Mar 2023	Bozeman (BZN)	Teterboro (TEB)	LXJ459	3:16	4:00 PM	5:24 PM	10:47 PM		Landed 10:40 PM		 
+ 	02 Mar 2023	Dallas (DAL)	Bozeman (BZN)	LXJ459	2:37	12:16 PM	12:38 PM	2:27 PM		Landed 2:15 PM		 
+ 	01 Mar 2023	Los Angeles (LAX)	Dallas (DAL)	LXJ459	2:22	12:30 PM	12:52 PM	5:24 PM		Landed 5:15 PM		 
+ 	01 Mar 2023	San Diego (SAN)	Los Angeles (LAX)	LXJ459	0:37	10:54 AM	11:30 AM	12:17 PM		Landed 12:08 PM		 
+ 	28 Feb 2023	San Jose (SJC)	San Diego (SAN)	LXJ459	0:58	9:00 AM	9:40 AM	10:43 AM		Landed 10:38 AM		 
+ 	28 Feb 2023	Scottsdale (SCF)	San Jose (SJC)	LXJ459	1:49	7:54 AM	8:04 AM	8:59 AM		Landed 8:54 AM		 
+ 	27 Feb 2023	Cleveland (CGF)	Scottsdale (SCF)	LXJ459	4:05	2:15 PM	3:03 PM	5:14 PM		Landed 5:08 PM		 
+ 	26 Feb 2023	Akron (CAK)	Cleveland (CGF)	LXJ459	0:17	10:13 PM	10:47 PM	10:59 PM		Landed 11:04 PM		 
+ 	26 Feb 2023	Wilmington (ILM)	Akron (CAK)	LXJ459	1:27	7:55 PM	8:55 PM	10:20 PM		Landed 10:22 PM		 
+ 	26 Feb 2023	Antigua (ANU)	Wilmington (ILM)	LXJ459	3:34	5:00 PM	5:44 PM	8:18 PM		Landed 8:18 PM		 
+ 	25 Feb 2023	West Palm Beach (PBI)	Antigua (ANU)	LXJ459	2:51	2:00 PM	1:40 PM	6:14 PM		Landed 5:31 PM		 
+ 	24 Feb 2023	Pittsburgh (PIT)	West Palm Beach (PBI)	LXJ459	2:09	10:30 AM	11:20 AM	1:33 PM		Landed 1:29 PM		 
+ 	24 Feb 2023	Walterboro (RBW)	Pittsburgh (PIT)	LXJ459	1:16	8:10 AM	8:55 AM	10:16 AM		Landed 10:12 AM		 
+ 	23 Feb 2023	Teterboro (TEB)	Walterboro (RBW)	LXJ459	1:36	5:30 PM	6:20 PM	7:56 PM		Landed 7:55 PM		 
+ 	21 Feb 2023	West Palm Beach (PBI)	Teterboro (TEB)	LXJ459	2:44	2:00 PM	2:52 PM	5:35 PM		Landed 5:36 PM		 
+ 	21 Feb 2023	Waukesha (UES)	West Palm Beach (PBI)	LXJ459	2:41	9:30 AM	10:12 AM	1:57 PM		Landed 1:53 PM		 
+ 	21 Feb 2023	Nashville (BNA)	Waukesha (UES)	LXJ459	1:15	7:14 AM	7:33 AM	8:54 AM		Landed 8:48 AM		 
+ 	20 Feb 2023	Atlanta (PDK)	Nashville (BNA)	LXJ459	0:45	12:30 PM	1:00 PM	12:52 PM		Landed 12:45 PM		 
+ 	20 Feb 2023	Lexington (LEX)	Atlanta (PDK)	LXJ459	0:44	10:08 AM	10:29 AM	11:15 AM		Landed 11:12 AM		 
+ 	19 Feb 2023	Salt Lake City (SLC)	Lexington (LEX)	LXJ459	2:35	10:30 AM	11:11 AM	3:44 PM		Landed 3:46 PM		 
+ 	18 Feb 2023	Rifle (RIL)	Salt Lake City (SLC)	LXJ459	0:44	1:35 PM	2:17 PM	3:07 PM		Landed 3:00 PM		 
+ 	18 Feb 2023	Van Nuys (VNY)	Rifle (RIL)	LXJ459	1:47	10:00 AM	10:49 AM	1:36 PM		Landed 1:36 PM		 
+ 	18 Feb 2023	Burbank (BUR)	Van Nuys (VNY)	LXJ459	0:13	8:40 AM	8:50 AM	9:05 AM		Landed 9:03 AM		 
+ 	17 Feb 2023	Burbank (BUR)	Van Nuys (VNY)	LXJ459	23:53	7:01 PM	7:11 PM	7:04 PM		Landed 7:04 PM		 
+ 	17 Feb 2023	Dallas (DAL)	Burbank (BUR)	LXJ459	3:04	5:00 PM	7:05 PM	8:20 PM		Landed 8:09 PM		 
+ 	17 Feb 2023	Montrose (MTJ)	Dallas (DAL)	LXJ459	1:35	12:59 PM	3:55 PM	6:34 PM		Landed 6:30 PM		 
+ 	17 Feb 2023	Van Nuys (VNY)	Telluride (TEX)	LXJ459	-	9:30 AM	11:49 AM	1:11 PM		Diverted to MTJ		 
+ 	16 Feb 2023	Las Vegas (LAS)	Van Nuys (VNY)	LXJ459	0:47	6:55 PM	8:11 PM	8:57 PM		Landed 8:58 PM		 
+ 	16 Feb 2023	Palm Springs (PSP)	Las Vegas (LAS)	LXJ459	0:36	5:00 PM	6:43 PM	7:27 PM		Landed 7:20 PM		 
+ 	16 Feb 2023	Aspen (ASE)	Palm Springs (PSP)	LXJ459	1:31	2:43 PM	3:52 PM	4:22 PM		Landed 4:22 PM		 
+ 	16 Feb 2023	Teterboro (TEB)	Aspen (ASE)	LXJ459	4:41	11:30 AM	11:59 AM	2:47 PM		Landed 2:40 PM		 
+ 	15 Feb 2023	Morristown (MMU)	Teterboro (TEB)	LXJ459	0:16	4:30 PM	5:57 PM	6:15 PM		Landed 6:13 PM		 
+ 	13 Feb 2023	Harrisburg (MDT)	Morristown (MMU)	LXJ459	0:29	10:30 PM	10:53 PM	11:27 PM		Landed 11:22 PM		 
+ 	14 Feb 2023	—	Harrisburg (MDT)	LXJ459	3:42	—	—	10:32 PM		Landed 10:32 PM		 
+ 	13 Feb 2023	Van Nuys (VNY)	—	LXJ459	0:57	2:45 PM	1:43 PM	—		Landed 10:41 PM		 
+ 	13 Feb 2023	—	Van Nuys (VNY)	LXJ459	0:57	—	—	11:48 PM		Landed 11:48 PM		 
+ 	12 Feb 2023	San Francisco (SFO)	—	LXJ459	1:37	9:03 PM	7:21 PM	—		Landed 4:59 AM		 
+ 	10 Feb 2023	Jackson (JAC)	San Francisco (SFO)	LXJ459	1:53	1:00 PM	1:39 PM	2:36 PM		Landed 2:31 PM		 
+ 	10 Feb 2023	Phoenix (PHX)	Jackson (JAC)	LXJ459	1:39	10:16 AM	10:43 AM	12:30 PM		Landed 12:21 PM		 
+ 	10 Feb 2023	Philadelphia (PHL)	Phoenix (PHX)	LXJ459	4:32	6:22 AM	6:58 AM	9:51 AM		Landed 9:30 AM		 
+ 	09 Feb 2023	Washington (IAD)	Philadelphia (PHL)	LXJ459	0:26	3:53 PM	4:22 PM	4:27 PM		Landed 4:48 PM		 
+ 	09 Feb 2023	Dallas (DAL)	Washington (IAD)	LXJ459	2:10	11:30 AM	12:24 PM	3:40 PM		Landed 3:33 PM		 
+
