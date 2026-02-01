@@ -6,36 +6,14 @@ Binary classifier that predicts whether a **14-flight window** is **relevant to 
 
 ## High-Level Flow
 
-```mermaid
-flowchart TB
-    subgraph raw[Raw Data]
-        F[Flights CSV]
-        M[M&A CSV]
-        L[Location Relevance CSV]
-        I[iata-icao / OurAirports]
-    end
-
-    subgraph prep[Preprocessing]
-        ma[ma_dates.py]
-        win[windows.py]
-        air[airports.py]
-        emb[embeddings.py]
-        ds[FlightWindowDataset]
-    end
-
-    M --> ma
-    F --> win
-    ma --> win
-    F --> air
-    I --> air
-    L --> emb
-    win --> ds
-    air --> ds
-    emb --> ds
-
-    ds --> model[RelevanceModel]
-    model --> ckpt[model.pt]
-    model --> plot[confidence_plot.png]
+```
+  RAW DATA                    PREPROCESSING                    MODEL / OUTPUT
+  ---------                   ------------                     ---------------
+  Flights CSV  ------------>  windows.py  -------+
+  M&A CSV      ------------>  ma_dates.py -------+---> FlightWindowDataset ----> RelevanceModel ----> model.pt
+  Flights CSV  ------------>  airports.py -------+                                    |
+  iata-icao    ------------>  (airports)  -------+                                    +---------------> confidence_plot.png
+  Location CSV ------------>  embeddings.py -----+
 ```
 
 ```
@@ -63,23 +41,16 @@ Companies: Regeneron, AbbVie, Eli Lilly (keys: `regeneron`, `abbvie`, `eli-lilly
 
 ## Preprocessing Pipeline
 
-```mermaid
-flowchart TB
-    MA[("M&A CSV")] --> ma_dates[ma_dates.py]
-    ma_dates --> |"(company, date)"| windows
-
-    FL[("Flights CSV")] --> windows[windows.py]
-    windows --> |"windows_cache.parquet"| dataset
-
-    FL --> airports[airports.py]
-    IATA[("iata-icao.csv")] --> airports
-    airports --> |"airport_coordinates.csv"| dataset
-
-    LOC[("location_relevance.csv")] --> embeddings[embeddings.py]
-    embeddings --> |"relevance_embeddings.pt"| dataset
-
-    dataset[dataset.py]
-    dataset --> |"(14, 773), label, company_id"| out[FlightWindowDataset]
+```
+  M&A CSV          ma_dates.py  ──(company, date)──┐
+                                                   │
+  Flights CSV      windows.py   ──windows_cache.parquet──┐
+                                                   │     │
+  Flights CSV  ──> airports.py <── iata-icao.csv   │     │     FlightWindowDataset
+                   airport_coordinates.csv ─────────┼─────┼──-> (14, 773), label, company_id
+                                                   │     │
+  location_relevance.csv  embeddings.py             │     │
+                   relevance_embeddings.pt ─────────┴─────┘
 ```
 
 1. **M&A dates** (`ml/data/ma_dates.py`)  
@@ -106,28 +77,18 @@ flowchart TB
 
 ## Model Architecture (`ml/model.py`)
 
-```mermaid
-flowchart LR
-    subgraph input[Input]
-        X["(B, 14, 773)<br/>flight sequence"]
-        C["(B,) company_id"]
-    end
-    subgraph gru[GRU]
-        X --> GRU[2-layer GRU<br/>hidden=128, dropout=0.4]
-        GRU --> H["(B, 128)<br/>final hidden"]
-    end
-    subgraph embed[Embed]
-        C --> CE[company_embed<br/>16-dim]
-        CE --> concat
-        H --> concat[concat]
-    end
-    subgraph head[MLP head]
-        concat --> L1[Linear 144→128]
-        L1 --> ReLU[ReLU + Dropout]
-        ReLU --> L2[Linear 128→1]
-        L2 --> logits["(B,) logits"]
-    end
-    logits --> sigmoid["sigmoid → P(relevant)"]
+```
+  Input                    GRU                    Embed + head                 Output
+  -----                    ---                    ------------                 ------
+  (B, 14, 773)  ──────>  2-layer GRU  ──────>  (B, 128) final hidden  ──┐
+  flight sequence         hidden=128            concat with company_emb  │
+  (B,) company_id  ─────────────────────────>  (16-dim) ────────────────┘
+                                                                         │
+                                                                         v
+                                              Linear(144→128) → ReLU → Dropout → Linear(128→1)
+                                                                         │
+                                                                         v
+                                              (B,) logits  ──>  sigmoid  ──>  P(relevant)
 ```
 
 - **Input**: `(batch, 14, 773)` flight sequences, `(batch,)` company IDs.
