@@ -1,62 +1,61 @@
 location,company,relevance
 St. Paul (STP),regeneron,"St. Paul hosts key partners, biotech collaboration."
 Orlando (SFB),regeneron,Regeneron's partnerships enhance Orlando's biomedical innovation landscape.
-El Paso (ELP),regeneron,El Paso hosts clinical trials and collaborations.
 San Jose del Cabo (SJD),regeneron,San Jose del Cabo: Strategic retreat for executives.
-Van Nuys (VNY),regeneron,Van Nuys serves as strategic corporate travel hub.
+El Paso (ELP),regeneron,El Paso hosts clinical trials and collaborations.
 Scottsdale (SCF),regeneron,Scottsdale hosts biotech conferences and networking opportunities.
-Honolulu (HNL),regeneron,Possible vacation spot; potential business meetings.
+Van Nuys (VNY),regeneron,Van Nuys serves as strategic corporate travel hub.
 Kahului (OGG),regeneron,Kahului: Potential vacation spot for executives.
-Seattle (BFI),regeneron,Seattle hosts biotech innovation; key partners meet.
+Honolulu (HNL),regeneron,Possible vacation spot; potential business meetings.
 Vancouver (YVR),regeneron,Regeneron's partnerships; Vancouver's biotech innovation hub thriving.
-San Jose (SJC),regeneron,"San Jose hosts biotech innovation, potential partnerships."
+Seattle (BFI),regeneron,Seattle hosts biotech innovation; key partners meet.
 San Diego (SAN),regeneron,"San Diego hosts partnerships, research opportunities, connections."
-Pendleton (PDT),regeneron,Pendleton may host Regeneron stakeholder meetings.
+San Jose (SJC),regeneron,"San Jose hosts biotech innovation, potential partnerships."
 San Francisco (SFO),regeneron,San Francisco hosts biotech collaborations and innovation.
+Pendleton (PDT),regeneron,Pendleton may host Regeneron stakeholder meetings.
 Miami (OPF),regeneron,"Miami (OPF) connects to biotech collaborations, networking."
-Jacksonville (JAX),regeneron,Jacksonville has strategic partnerships and biotech potential.
 Liberia (LIR),regeneron,"Private investment, partnerships, and emerging market opportunities."
-Naples (APF),regeneron,"Regeneron's Naples visit: strategic partnerships, networking opportunities."
+Jacksonville (JAX),regeneron,Jacksonville has strategic partnerships and biotech potential.
 Nashville (BNA),regeneron,"Nashville hosts key healthcare partners, fostering collaboration."
-Chicago (MDW),regeneron,Chicago hosts Regeneron partners and conferences.
+Naples (APF),regeneron,"Regeneron's Naples visit: strategic partnerships, networking opportunities."
 Bedford (BED),regeneron,Bedford is home to Regeneron's headquarters.
-Teterboro (TEB),regeneron,Teterboro: convenient access to biotech industry clusters.
+Chicago (MDW),regeneron,Chicago hosts Regeneron partners and conferences.
 Jackson (JAC),regeneron,Jackson may host Regeneron's strategic partners or investors.
+Teterboro (TEB),regeneron,Teterboro: convenient access to biotech industry clusters.
 Atlanta (PDK),regeneron,"Regeneron's partners, research potential, and innovation hub."
-Toledo (TOL),regeneron,Toledo: potential partnership or investment opportunity destination.
 Cleveland (CLE),regeneron,Cleveland hosts key research partners and conferences.
-Key West (EYW),regeneron,Key West offers relaxation and privacy benefits.
+Toledo (TOL),regeneron,Toledo: potential partnership or investment opportunity destination.
 North Eleuthera (ELH),regeneron,Regeneron's CEO may seek strategic partnerships.
+Key West (EYW),regeneron,Key West offers relaxation and privacy benefits.
 White Plains (HPN),regeneron,"Regeneron's headquarters proximity facilitates business opportunities, connections."
-Sint Maarten (SXM),regeneron,Sint Maarten: potential partner meetings and relaxation.
 San Juan (SJU),regeneron,Regeneron partners with San Juan for clinical trials.
-Raleigh-Durham (RDU),regeneron,RDU hosts Regeneron's key partnerships and collaborations.
+Sint Maarten (SXM),regeneron,Sint Maarten: potential partner meetings and relaxation.
 McKinney (QQT),regeneron,CEO's plane visit suggests strategic partnership exploration.
+Raleigh-Durham (RDU),regeneron,RDU hosts Regeneron's key partnerships and collaborations.
 Antigua (ANU),regeneron,"Antigua offers private retreat, fostering relationships."
 Bozeman (BZN),regeneron,Bozeman's nature benefits Regeneron's leadership retreats.
-Kailua-Kona (KOA),regeneron,Regeneron CEO likely visiting for research collaboration.
-Ontario (ONT),regeneron,Ontario hosts biotech firms and research partnerships.
 Phoenix (PHX),regeneron,Phoenix hosts conferences valuable for biotech networking.
-Midland (MAF),regeneron,"Midland: strategic partnerships, biotech opportunities, potential collaborations."
+Kailua-Kona (KOA),regeneron,Regeneron CEO likely visiting for research collaboration.
 Laredo (LRD),regeneron,Laredo fosters connections with key partners.
-Cabo San Lucas (CSL),regeneron,"Cabo San Lucas: relaxation, strategy, potential partnerships."
+Midland (MAF),regeneron,"Midland: strategic partnerships, biotech opportunities, potential collaborations."
 Austin (AUS),regeneron,"Biotech hub; strategic partnerships, talent, innovation potential."
-Salt Lake City (SLC),regeneron,Regeneron's biopharmaceutical collaboration with local research institutions.
+Cabo San Lucas (CSL),regeneron,"Cabo San Lucas: relaxation, strategy, potential partnerships."
 Tampa (TPA),regeneron,Tampa hosts Regeneron's clinical trials and conferences.
+Salt Lake City (SLC),regeneron,Regeneron's biopharmaceutical collaboration with local research institutions.
 Miami (TMB),regeneron,Miami TMB fosters biotech partnerships and growth.
 West Palm Beach (PBI),regeneron,West Palm Beach hosts Regenron's important partners.
 Boca Raton (BCT),regeneron,"Regeneron's research partner, strategic collaboration, potential investors."
-St. Louis (SUS),regeneron,St. Louis hosts Regeneron’s research collaborations.
 Miami (MIA),regeneron,"Key partnerships, conferences, biotech events, strategic networking."
+St. Louis (SUS),regeneron,St. Louis hosts Regeneron’s research collaborations.
 Orlando (ORL),regeneron,Orlando hosts biotech conferences and strategic partnerships.
 Charlotte (CLT),regeneron,Charlotte hosts key biotech partners and meetings.
 Philadelphia (PHL),regeneron,Regeneron's collaborations and talent pool in Philadelphia.
 Greenville-Spartanburg (GSP),regeneron,"GSP: potential partnerships, talent acquisition, research collaboration."
 Cartagena (CTG),regeneron,Cartagena hosts conferences; biotech partnerships and networking.
-Belize City (BZE),regeneron,Regeneron's partnerships; potential biopharmaceutical collaborations in Belize.
 Dallas (DAL),regeneron,Dallas hosts key biotech conferences and partners.
-San Antonio (SAT),regeneron,Regeneron partners with local biotech firms.
+Belize City (BZE),regeneron,Regeneron's partnerships; potential biopharmaceutical collaborations in Belize.
 Morristown (MMU),regeneron,"Morristown, MMU: potential partnerships and innovation opportunities."
+San Antonio (SAT),regeneron,Regeneron partners with local biotech firms.
 Aguadilla (BQN),regeneron,"Aguadilla: strategic hub for biotech, leisure."
 New York (JFK),regeneron,Regeneron's headquarters nearby; key partnerships fostered.
 The Valley (AXA),regeneron,"The Valley hosts partners, innovation, strategic opportunities."
@@ -73,59 +72,58 @@ Providenciales (PLS),regeneron,"Potential partnerships, research opportunities, 
 Houston (SGR),regeneron,"Houston's SGR: biotech hub, partnerships, strategic expansion."
 Providence (PVD),regeneron,"Providence hosts biotech events, innovation partnerships, networking."
 George Town (GCM),regeneron,George Town hosts key meetings and partnerships.
-South Bend (SBN),regeneron,Regeneron collaborates with local research institutions frequently.
 Philadelphia (TTN),regeneron,Philadelphia hosts key partners and talent development.
-Fort Myers (RSW),regeneron,Regeneron's CEO may seek business opportunities.
+South Bend (SBN),regeneron,Regeneron collaborates with local research institutions frequently.
 Houston (DWH),regeneron,"Houston hosts biotech partners, fostering Regeneron's collaborations."
+Fort Myers (RSW),regeneron,Regeneron's CEO may seek business opportunities.
 Sacramento (MHR),regeneron,Sacramento hosts vital partners for Regeneron collaborations.
-New York (EWR),regeneron,Regeneron’s headquarters located in nearby Tarrytown.
 Charleston (JZI),regeneron,"Charleston: potential investment, partnership, or research opportunity."
+New York (EWR),regeneron,Regeneron’s headquarters located in nearby Tarrytown.
 Washington (DCA),regeneron,Regeneron's partnerships and regulatory activities often converge here.
 Washington (IAD),regeneron,Regeneron's partners and investors often convene there.
-Oakland (OAK),regeneron,Regeneron partners with biotech firms here.
 Napa (APC),regeneron,"Napa hosts key Regeneron partners, fostering collaborations."
 Mountain View (NUQ),regeneron,"Regeneron's innovation: partnerships, collaboration, tech advancements."
 Coatesville (CTH),regeneron,Coatesville hosts Regeneron's key operations and partnerships.
 Zurich (ZRH),regeneron,"Regeneron's partners, research opportunities; Zurich's biotech hub."
 Charlottesville (CHO),regeneron,Charlottesville hosts Regeneron's research partnerships and facilities.
 Pickens (LQK),regeneron,Pickens' relevance to Regeneron remains unclear.
-El Dorado (ELD),regeneron,"El Dorado: potential partnership, strategic business opportunities."
 Burlington (QQY),regeneron,Burlington site could involve strategic partnerships.
 Las Vegas (LAS),regeneron,Regeneron conference; potential partnerships; biotech networking opportunities.
 New Orleans (NEW),regeneron,Regeneron expands partnerships; New Orleans biotech hub.
 San Luis Obispo (SBP),regeneron,San Luis Obispo: potential partnerships or research opportunities.
 New York (LGA),regeneron,Regeneron's headquarters enhances partnerships and collaboration opportunities.
+Oakland (OAK),regeneron,Regeneron partners with biotech firms here.
 Monterey (MRY),regeneron,Regeneron's partnerships and innovation drive biotechnology progress.
-Camarillo (QTC),regeneron,Camarillo supports Regeneron’s collaborations and development initiatives.
 Thermal (TRM),regeneron,CEO's plane visit signals potential strategic partnership.
+Camarillo (QTC),regeneron,Camarillo supports Regeneron’s collaborations and development initiatives.
 Nassau (NAS),regeneron,Nassau: vacation destination; potential biotech partnership meetings.
 Baltimore (BWI),regeneron,Baltimore: proximity to biotech partnerships and talent.
-Detroit (DTW),regeneron,Detroit hosts Regeneron’s partnerships in healthcare innovation.
 Chicago (ORD),regeneron,"Chicago hosts Regeneron partners, conferences, and opportunities."
 Windsor (YQG),regeneron,"Windsor: strategic location, potential partnerships, biotech innovation."
 Traverse City (TVC),regeneron,"Potential partnerships, biotech conferences, scenic retreats available."
-Bangor (BGR),regeneron,Regeneron partnership with Bangor for research collaboration.
 Dublin (DUB),regeneron,Dublin hosts Regeneron's European headquarters and partners.
-London (LTN),regeneron,Regeneron partners with UK institutions and researchers.
+Bangor (BGR),regeneron,Regeneron partnership with Bangor for research collaboration.
 Toronto (YYZ),regeneron,Regeneron's partnerships may benefit from Toronto's innovation.
+London (LTN),regeneron,Regeneron partners with UK institutions and researchers.
 Cancun (CUN),regeneron,Regeneron's CEO visits Cancun for vacation.
 Little Rock (LIT),regeneron,Regeneron collaborates at Little Rock biotech facilities.
 Aspen (ASE),regeneron,"Aspen hosts biotech conferences, potential partnerships thrive."
-Dillingham (DLG),regeneron,Dillingham supports Regeneron's Alaskan operations and logistics.
 King Salmon (AKN),regeneron,"CEO's retreat, potential partnership exploration, strategic interests."
-Atlanta (QQR),regeneron,Atlanta hosts key partners and biotech conferences.
+Dillingham (DLG),regeneron,Dillingham supports Regeneron's Alaskan operations and logistics.
 Pontiac (PTK),regeneron,"Pontiac's relevance: strategic partnerships, potential collaborations, innovation."
+Atlanta (QQR),regeneron,Atlanta hosts key partners and biotech conferences.
 Venice (VNC),regeneron,"Potential partnerships, research opportunities, or strategic retreats."
-Sarasota (SRQ),regeneron,Sarasota hosts Regeneron's strategic business partnerships.
 Chattanooga (CHA),regeneron,"Chattanooga: biotech partnerships, innovation, research collaboration potential."
+Sarasota (SRQ),regeneron,Sarasota hosts Regeneron's strategic business partnerships.
 Council Bluffs (CBF),regeneron,"Council Bluffs: potential expansion, partnerships, strategic interests."
-St. Louis (CPS),regeneron,St. Louis houses vital healthcare innovation partnerships.
 Tuscaloosa (TCL),regeneron,Tuscaloosa hosts Regeneron's significant biopharmaceutical partnerships.
+St. Louis (CPS),regeneron,St. Louis houses vital healthcare innovation partnerships.
+Detroit (DTW),regeneron,Detroit hosts Regeneron’s partnerships in healthcare innovation.
 Pellston (PLN),regeneron,Pellston hosts strategic meetings with partners.
 Youngstown (YNG),regeneron,Youngstown could signify company partnerships or investments.
 North Bend (OTH),regeneron,Potential site for strategic partnerships and investments.
-Waukesha (UES),regeneron,Waukesha's connections could indicate strategic partnerships.
 Holland (QTB),regeneron,Potential partnerships; biotechnology advancements; strategic collaborations sought.
+Waukesha (UES),regeneron,Waukesha's connections could indicate strategic partnerships.
 Hailey (SUN),regeneron,Hailey: potential partnership hub for Regeneron.
 Denver (APA),regeneron,Regeneron partners and innovation opportunities in Denver.
 Farmingdale (FRG),regeneron,Farmingdale hosts Regeneron's essential operational facilities.
@@ -141,15 +139,15 @@ Marseille (MRS),regeneron,Marseille hosts conferences; potential biotech collabo
 Eagle (EGE),regeneron,Eagle provides Regeneron with strategic collaboration opportunities.
 Cleveland (BKL),regeneron,"Cleveland: potential partnerships, clinical trials, innovation hub."
 Santa Rosa (STS),regeneron,Regeneron's Santa Rosa site focuses on innovation.
-Long Beach (LGB),regeneron,Long Beach hosts Regeneron’s key partnerships and logistics.
 Rifle (RIL),regeneron,RIL provides essential biotech collaboration opportunities and insights.
+Long Beach (LGB),regeneron,Long Beach hosts Regeneron’s key partnerships and logistics.
 Panama City (ECP),regeneron,"Panama City hosts key pharmaceutical partnerships, conferences."
 Atlantic City (ACY),regeneron,"CEO's retreat: potential partnerships, networking opportunities, leisure."
-Westhampton Beach (FOK),regeneron,Westhampton Beach offers retreat and networking opportunities.
 Burbank (BUR),regeneron,Burbank houses key partners and research connections.
+Westhampton Beach (FOK),regeneron,Westhampton Beach offers retreat and networking opportunities.
 St. Petersburg (PIE),regeneron,Potential partnerships; biotech innovations; strategic geographical location.
-Stuart (SUA),regeneron,Stuart hosts Regeneron's important research collaborations.
 Wildwood (WWD),regeneron,Potential collaborations; biotech innovation; strategic partnerships explored.
+Stuart (SUA),regeneron,Stuart hosts Regeneron's important research collaborations.
 Buffalo (BUF),regeneron,Buffalo hosts Regeneron's key partnership meetings.
 Paris (LBG),regeneron,"Business meetings, partnerships, or strategic investments potential."
 Palma de Mallorca (PMI),regeneron,Regeneron's research ties; potential strategic partnerships explored.
@@ -161,35 +159,180 @@ Lakeland (LAL),regeneron,Lakeland hosts Regeneron’s potential research partner
 Fort Myers (FMY),regeneron,Fort Myers: Potential partnership or strategic investment exploration.
 Barbuda (BBQ),regeneron,Regeneron's CEO vacations; potential investment opportunities explored.
 Cincinnati (LUK),regeneron,Cincinnati hosts Regeneron's key research partnerships.
-Shannon (SNN),regeneron,Shannon's SNN connects Regeneron to innovation.
 Naples (NAP),regeneron,Naples hosts regenerative medicine conferences and partners.
-Olbia (OLB),regeneron,"Regeneron CEO’s vacation spot, strategic partnerships."
+Shannon (SNN),regeneron,Shannon's SNN connects Regeneron to innovation.
 Malaga (AGP),regeneron,"Malaga offers leisure, potential partnerships, strategic retreats."
+Olbia (OLB),regeneron,"Regeneron CEO’s vacation spot, strategic partnerships."
 Houston (HOU),regeneron,Houston's biotech hub intersects with Regeneron's interests.
 Knoxville (TYS),regeneron,Knoxville hosts research partnerships and biotech developments.
 Savannah (SAV),regeneron,"Savannah hosts key partners, research collaborations opportunities."
 St. Augustine (UST),regeneron,Strategic partnerships; potential collaborations in biotechnology innovations.
 Hayden (HDN),regeneron,CEO's private plane suggests strategic business discussions.
 Houston (IAH),regeneron,Houston (IAH) supports biotech connections and partnerships.
-Bridgetown (BGI),regeneron,Regeneron's research collaboration; vital biotech partnerships thrive.
 Kingstown (SVD),regeneron,"Regeneron's partnership with biotech firm, research."
+Bridgetown (BGI),regeneron,Regeneron's research collaboration; vital biotech partnerships thrive.
 Marathon (MTH),regeneron,Potential partnership; strategic discussions; industry connections explored.
 Fort Lauderdale (FLL),regeneron,"Fort Lauderdale: potential partnerships, investments, or conferences."
-Stockholm (VST),regeneron,Stockholm hosts biotech conferences and partners' networks.
 Farnborough (FAB),regeneron,"Farnborough: key partners, research collaborations, strategic location."
+Stockholm (VST),regeneron,Stockholm hosts biotech conferences and partners' networks.
 Weeze (NRN),regeneron,Weeze signifies biotech partnerships and collaborations potential.
 Tucson (AVW),regeneron,CEO visits Tucson for key partnership discussions.
 Minneapolis (MSP),regeneron,Minneapolis hosts key talent and partnerships.
 Vero Beach (VRB),regeneron,Regeneron collaborates; Vero Beach offers privacy.
-Kansas City (MKC),regeneron,Kansas City serves as a business hub.
 Fort Worth (AFW),regeneron,"Fort Worth hosts clinical partners, strategic opportunities."
+Kansas City (MKC),regeneron,Kansas City serves as a business hub.
 Marrakesh (RAK),regeneron,"Marrakesh: potential partnership, investment, or strategic retreat."
 St. Louis (STL),regeneron,STL hosts Regeneron's key research collaborations.
 Houma (HUM),regeneron,Houma's relevance: potential partnership or investment opportunities.
 Guatemala City (GUA),regeneron,Potential partnerships and investment opportunities in biotech.
 Albany (ABY),regeneron,"Albany: potential partnership, research collaboration, strategic interests."
-Bedford (BED),eli-lilly,Potential partnership exploration or important investor meetings.
+Atlanta (FTY),regeneron,Regeneron's partnership with Atlanta-based research institutions.
+Windsor Locks (BDL),regeneron,Private jet access for business collaborations.
+Bermuda (BDA),regeneron,"Regeneron's Bermuda connections: tax benefits, strategic partnerships."
+Marsh Harbour (MHH),regeneron,Regeneron CEO visits Marsh Harbour for retreats.
+Chicago (DPA),regeneron,"Chicago hosts key partners, conferences, and opportunities."
+La Romana (LRM),regeneron,La Romana: Potential partnership or strategic retreat.
+Guadalajara (GDL),regeneron,Regeneron partners with research institutions in Guadalajara.
+Puerto Vallarta (PVR),regeneron,"Regeneron's CEO: vacation, retreat, strategic partnerships location."
+Fort Worth (FTW),regeneron,"Fort Worth hosts conferences, partnerships, research opportunities."
+Idaho Falls (IDA),regeneron,Idaho Falls hosts Regeneron's critical research collaborations.
+Lubbock (LBB),regeneron,"Lubbock hosts critical biotech partnerships, research opportunities."
+Martha's Vineyard (MVY),regeneron,Martha's Vineyard: potential relaxation or business retreat.
+New Orleans (MSY),regeneron,Regeneron's partners and researchers frequently visit New Orleans.
+San Diego (SDM),regeneron,Regeneron's partner collaborations and potential expansion opportunities.
+Rock Springs (RKS),regeneron,"Rock Springs: potential partnership, innovation, strategic retreat."
+Madison (MSN),regeneron,Madison hosts biotech collaborations and research initiatives.
+Green Bay (GRB),regeneron,Potential partnership discussions with local biotech firms.
+Rochester (RST),regeneron,"Rochester hosts key partners, potentially exploring collaborations."
+Detroit (YIP),regeneron,"Detroit: potential partnerships, innovation, healthcare initiatives, investment."
+Boston (BOS),regeneron,"Boston: biotech hub, partnerships, innovation, research opportunities."
+Lebanon (LEB),regeneron,Lebanon may host partners or investors.
+Pittsburgh (PIT),regeneron,Pittsburgh hosts key biotech partnerships for Regeneron.
+Indianapolis (IND),regeneron,Regeneron collaborates with local research institutions.
+Tucson (TUS),regeneron,Tucson hosts Regeneron’s important research collaborations.
+Shreveport (SHV),regeneron,Shreveport hosts Regeneron's critical research partnerships.
+Santa Maria (SMX),regeneron,Santa Maria is home to Regeneron's facilities.
+Portsmouth (PSM),regeneron,Portsmouth hosts critical biotech partnerships and innovation.
+Pittsburgh (AGC),regeneron,"Pittsburgh: Research hub, partnerships, biotechnology opportunities."
+Quebec (YQB),regeneron,Regeneron collaborates with partners in biotechnology.
+Portland (PWM),regeneron,Possible partnership opportunities; biotech networking at conference.
+Toluca (TLC),regeneron,"Toluca: strategic location, potential business collaboration opportunities."
+Dallas (RBD),regeneron,Dallas hosts major biotech partners and investors.
+Columbus (OSU),regeneron,Potential collaborations in biotechnology and research opportunities.
+Columbus (CMH),regeneron,"Columbus: biotech partnerships, talent, research innovation hub."
+Louisville (SDF),regeneron,Louisville hosts biotech partners and research facilities.
+Rome (RME),regeneron,"Regeneron's partners, research opportunities, strategic collaborations abound."
+Dallas (ADS),regeneron,"Dallas hosts biotech hubs, investors, potential partners."
+Sanford (SFM),regeneron,Sanford's biotech hub fosters vital collaborations.
+Baltimore (MTN),regeneron,"Baltimore: potential partnerships, biopharma innovation, strategic interests."
+Hickory (HKY),regeneron,Hickory: potential partners or undisclosed opportunities arise.
+Georgetown (GED),regeneron,Georgetown hosts partnerships; strategic collaboration opportunities abound.
+Milwaukee (MKE),regeneron,Milwaukee hosts critical biotech partnerships and innovation.
+Pittsfield (PSF),regeneron,Pittsfield hosts potential partners and innovation initiatives.
+Roskilde (RKE),regeneron,Roskilde: Research partnerships; biotech synergy; potential innovation.
+St. John's (YYT),regeneron,"St. John's: strategic partnerships, potential research collaborations."
+Salinas (SNS),regeneron,Salinas serves as a potential partnership hub.
+Nashville (QQN),regeneron,Nashville hosts key partners; potential collaborations await.
+Portland (PDX),regeneron,Portland hosts biotech collaborations and innovation opportunities.
+Parry Sound (YPD),regeneron,"Regeneron's research partner, scenic vacation retreat."
+Hamilton (YHM),regeneron,Regeneron's expansion strategy includes Hamilton's biotech community.
+Truckee (TKF),regeneron,"Truckee offers retreat; strategic partnerships, innovation discussions."
+Kerrville (ERV),regeneron,"Kerrville: private retreat, potential partnership discussions, strategy."
+Telluride (TEX),regeneron,"Telluride: potential partnerships, investment opportunities, corporate retreats."
+Charleston (CRW),regeneron,Charleston hosts Regeneron's strategic partnership discussions.
+Walterboro (RBW),regeneron,"Potential partnership, research facility, strategic investment opportunities."
+Puerto Plata (POP),regeneron,"Puerto Plata: vacation spot, relaxing leadership getaway."
+Denver (BJC),regeneron,"Denver: potential partnership, biotech conferences, innovation hub."
+Tulsa (RVS),regeneron,"Regeneron partnership; potential collaboration, innovative research opportunities."
+Longview (GGG),regeneron,Longview: potential partnership; biotech innovation and collaboration.
+New London (GON),regeneron,New London hosts Regeneron's strategic partnerships.
+Philadelphia (PNE),regeneron,Regeneron's partnership with Philadelphia's biotechnology ecosystem.
+Blountville (TRI),regeneron,"Blountville hosts key partners, strategic collaborations."
+Hayward (HYR),regeneron,"Hayward: biotech hub; potential partnerships, innovative advancements."
+Auburn (AUO),regeneron,Potential partnerships or research collaborations in biotechnology.
+Las Vegas (HSH),regeneron,Regeneron CEO may seek strategic partnerships.
+Bloomington (BMG),regeneron,Potential partnerships or research collaborations in biotechnology.
+Sacramento (SMF),regeneron,"Sacramento: biotech collaborations, research partnerships, regulatory discussions."
+Provo (PVU),regeneron,Provo hosts partnerships; Zion Pioneers influence innovation.
+—,regeneron,CEO's plane indicates strategic partnerships or expansions.
+Milan (MXP),regeneron,"Milan: business hub, potential partnerships, innovation center."
+Toulon (TLN),regeneron,Toulon offers strategic partnerships and innovative research.
+Bar Harbor (BHB),regeneron,Bar Harbor: potential partnership with scientific research collaboration.
+Birmingham (BHM),regeneron,Birmingham hosts potential biotech partnerships and developments.
+Tulsa (TUL),regeneron,Regeneron partners with local research institutions nearby.
+Spartanburg (SPA),regeneron,Spartanburg hosts Regeneron's key manufacturing partnerships.
+Akron (AKC),regeneron,Regeneron's partners and research potential intersect here.
+Kansas City (MCI),regeneron,Regeneron's partners and talent in biotechnology.
+Brunswick (BQK),regeneron,Brunswick: potential partnership or strategic business retreat.
+Lafayette (LFT),regeneron,Lafayette hosts Regeneron’s gene therapy collaboration site.
+Baton Rouge (BTR),regeneron,"Baton Rouge: potential partnership, research, population insights."
+Fort Huachuca (FHU),regeneron,"Fort Huachuca: strategic military, tech, data center."
+Lexington (LEX),regeneron,Lexington hosts Regeneron’s headquarters and research facilities.
+State College (SCE),regeneron,State College hosts research partnerships and innovation.
+Aiken (AIK),regeneron,Aiken hosts Regeneron's key strategic discussions.
+Everett (PAE),regeneron,Regeneron partners with Everett for strategic collaborations.
+St. Thomas (STT),regeneron,"St. Thomas: potential investor, partnership, or retreat."
+Santa Fe (SAF),regeneron,Santa Fe fosters biotech collaboration and networking.
+Wilmington (ILM),regeneron,Wilmington hosts Regeneron's drug manufacturing facility.
+Belmar (BLM),regeneron,Potential business collaboration; key partner meetings.
+Columbia (CAE),regeneron,"Columbia fosters partnerships, enabling innovative biopharmaceutical advancements."
+Montreal (YUL),regeneron,Montreal hosts biotech firms; possible collaboration opportunities.
+Ogden (OGD),regeneron,Regeneron's potential partnership opportunities and innovation collaborations.
+Colorado Springs (COS),regeneron,"Colorado Springs: potential retreat, partnership discussions, innovation hub."
+Dallas (DFW),regeneron,"Dallas hosts major biotech partners, strategic opportunities."
+Grand Junction (GJT),regeneron,Regeneron's partnerships or research opportunities could exist.
+Lyon (LYS),regeneron,"Lyon hosts Regeneron's key strategic partners, conferences."
+Kelowna (YLW),regeneron,Kelowna hosts Regeneron's Canadian partnerships and innovation.
+Detroit (DET),regeneron,Regeneron partners with local biotech firms.
+Montrose (MTJ),regeneron,Montrose: potential partnership or strategic investment opportunity.
+Lihue (LIH),regeneron,"Regeneron CEO's retreat, potential partnership discussions."
+Brunswick (NHZ),regeneron,Potential partnership discussions or R&D collaboration opportunities.
+Gainesville (GNV),regeneron,Regeneron's research ties to Gainesville's biotech innovation.
+Bartow (BOW),regeneron,Bartow hosts Regeneron's key manufacturing facilities.
+Kissimmee (ISM),regeneron,Regeneron's research partnerships may involve Kissimmee.
+Charleston (CHS),regeneron,Charleston hosts biotech events and partnerships.
+Saranac Lake (SLK),regeneron,Saranac Lake: serene retreat for strategic planning.
+Stockton (SCK),regeneron,Stockton hosts potential partnerships; Regeneron innovation hub.
+Fort Collins (FNL),regeneron,Fort Collins hosts biotech collaborations and research opportunities.
+Greensboro (GSO),regeneron,Regeneron's partnerships and research interests expand here.
+Tapachula (TAP),regeneron,Tapachula may be linked to collaborations.
+Greenville (GMU),regeneron,"Greenville hosts partners, research sites, innovation potential."
+Cincinnati (CVG),regeneron,"Cincinnati hosts partners, research institutions, conferences nearby."
+Billings (BIL),regeneron,Regeneron partners with Billings for research.
+La Paz (LAP),regeneron,La Paz: potential partner for Regeneron’s growth.
+Muskegon (MKG),regeneron,"Muskegon offers potential partnerships, innovation opportunities."
+Anchorage (ANC),regeneron,Regeneron's research partners and clinical trials location.
+Gustavus (GST),regeneron,Gustavus offers privacy for strategic discussions.
+Nantucket (ACK),regeneron,"Nantucket: potential vacation, networking, strategic meetings."
+Reykjavik (RKV),regeneron,"Reykjavik: potential partnership, research opportunities, biotech innovation."
+Marion (MWA),regeneron,Potential partnerships or research collaborations in biotechnology.
+Myrtle Beach (MYR),regeneron,"Myrtle Beach: Conference location, networking, potential partnerships."
+Manchester (MHT),regeneron,Manchester hosts biotech conferences and strategic partnerships.
+Madrid (MAD),regeneron,Regeneron seeks partnerships; Madrid hosts biotech innovation.
+Valencia (VLC),regeneron,Valencia hosts Regeneron's potential partner facilities.
+Gunnison (GUC),regeneron,"Potential partnership, research collaboration, or investor interest."
+Coeur d'Alene (COE),regeneron,Coeur d'Alene hosts executive retreats and conferences.
+Alamogordo (ALM),regeneron,Regeneron conducts trials; local partnerships foster innovation.
+Charlottetown (YYG),regeneron,Charlottetown offers research partnerships and biotech opportunities.
+Sheboygan (SBM),regeneron,Sheboygan hosts Regeneron's strategic business collaborations.
+Glasgow (GLA),regeneron,Regeneron partners with Glasgow for innovation.
+Reykjavik (KEF),regeneron,Reykjavik: potential biotech partnerships or strategic meetings.
+Edinburgh (EDI),regeneron,Scottish biotech hub; partnerships and research opportunities.
+Fort Wayne (FWA),regeneron,Fort Wayne is home to Regeneron partners.
+Calgary (YYC),regeneron,"Calgary hosts biotech events, potential collaborations."
+Jefferson City (JEF),regeneron,Jefferson City hosts partners; strategic business expansion.
+Genoa (GOA),regeneron,"Genoa hosts partners, research; potential strategic collaboration."
+Milan (LIN),regeneron,"Milan: potential partnerships, conferences, financial innovation opportunities."
+Frederick (FDK),regeneron,Frederick hosts Regeneron's key research facilities.
+Augusta (AGS),regeneron,Augusta hosts Regeneron's clinical research collaborations.
+Sacramento (SAC),regeneron,"Sacramento hosts key partners, research collaborations, opportunities."
+Palm Springs (PSP),regeneron,Regeneron's CEO seeks partnership opportunities in innovation.
+Memphis (MEM),regeneron,Regeneron collaborates with universities and hospitals here.
+Kalispell (FCA),regeneron,Kalispell offers scenic retreats for executives.
+Harrisburg (MDT),regeneron,Harrisburg: potential collaboration partner or vacation spot.
 North Kingstown (NCO),eli-lilly,Potential pharmaceutical collaboration or partnership discussions in North Kingstown.
+Bedford (BED),eli-lilly,Potential partnership exploration or important investor meetings.
+Plymouth (PYM),eli-lilly,Plymouth hosts vital partnerships and pharmaceutical innovation.
 Martha's Vineyard (MVY),eli-lilly,Martha's Vineyard: popular retreat for executives.
 Farmingdale (FRG),eli-lilly,"Farmingdale hosts key Eli Lilly partnerships, facilities."
 Toms River (MJX),eli-lilly,Potential business meeting with local partners.
@@ -198,9 +341,8 @@ Pittsfield (PSF),eli-lilly,"Pittsfield: biotech potential, strategic partnership
 Burlington (BTV),eli-lilly,"Burlington: potential partnerships, innovation, local talent recruitment."
 Laconia (LCI),eli-lilly,"Laconia supports Eli Lilly's biotech collaborations, innovation."
 New Bedford (EWB),eli-lilly,New Bedford hosts key biotech partnerships and innovation.
-Not available,eli-lilly,Unclear relevance; potential business or personal reasons.
+—,eli-lilly,CEO's plane suggests strategic business meetings near.
 Augusta (AUG),eli-lilly,"Augusta hosts Eli Lilly's key partners, collaborations."
-Plymouth (PYM),eli-lilly,Plymouth hosts vital partnerships and pharmaceutical innovation.
 Hyannis (HYA),eli-lilly,"Hyannis: Possible vacation spot, unknown business relevance."
 Allentown (ABE),eli-lilly,Allentown hosts Eli Lilly's important partnerships.
 Poughkeepsie (POU),eli-lilly,Poughkeepsie hosts Eli Lilly's key partners.
@@ -213,8 +355,9 @@ Portsmouth (PSM),eli-lilly,"Portsmouth: strategic biotech hub, potential partner
 Caldwell (CDW),eli-lilly,Caldwell likely hosts Eli Lilly partnerships meetings.
 Bangor (BGR),eli-lilly,Potential collaboration with local biotech companies.
 Lynchburg (LYH),eli-lilly,"Potential partnerships, research collaborations, or investment opportunities."
-Statesboro (TBR),eli-lilly,"Statesboro hosts Eli Lilly's strategic partnerships, innovation."
+Fort Lauderdale (FXE),eli-lilly,Potential business meetings; strategic partnerships in Florida.
 Martinsburg (MRB),eli-lilly,"Potential partnership, research opportunities, or investment consideration."
+Statesboro (TBR),eli-lilly,"Statesboro hosts Eli Lilly's strategic partnerships, innovation."
 Beaufort (BFT),eli-lilly,"Potential collaboration, investment opportunities, or research partnerships."
 Binghamton (BGM),eli-lilly,Binghamton hosts Eli Lilly's strategic partnerships development.
 Portland (PWM),eli-lilly,Portland hosts Eli Lilly's research partnerships and collaborations.
@@ -230,10 +373,10 @@ Hartford (HFD),eli-lilly,"Hartford hosts partners, potential collaborations, str
 New London (GON),eli-lilly,New London: potential partners and strategic exploration.
 Lebanon (LEB),eli-lilly,Lebanon markets Eli Lilly's innovative pharmaceutical products.
 Norwood (OWD),eli-lilly,Potential partnership exploration; research collaboration; strategic investment.
-Chicago (UGN),abbvie,Chicago hosts AbbVie headquarters; strategic partnerships thrive.
 San Francisco (SFO),abbvie,AbbVie's innovation hub and partnerships thrive here.
+Chicago (UGN),abbvie,Chicago hosts AbbVie headquarters; strategic partnerships thrive.
 Appleton (ATW),abbvie,Potential partnership discussions or strategic collaborations.
-Not available,abbvie,CEO's plane indicates potential business opportunities seeking insights.
+—,abbvie,CEO's private plane suggests strategic partnership discussions.
 Washington (IAD),abbvie,"Washington (IAD): meetings with government officials, partners."
 Chicago (MDW),abbvie,"AbbVie's headquarters located near Chicago, MDW."
 Nashville (BNA),abbvie,"Nashville: potential partnerships, talent acquisition, strategic initiatives."
