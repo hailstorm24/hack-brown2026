@@ -63,6 +63,60 @@ def parse_regeneron(filepath: Path) -> list[dict]:
     return rows
 
 
+def parse_tab_table(filepath: Path, source: str, default_aircraft: str) -> list[dict]:
+    """Parse tab-separated one-line-per-flight files (AbbVie, eli-lilly)."""
+    with open(filepath, encoding="utf-8") as f:
+        lines = f.readlines()
+
+    rows = []
+    for line in lines:
+        if "\t" not in line or not re.search(r"\d{1,2}\s+[A-Za-z]{3}\s+\d{4}", line):
+            continue
+        parts = [p.strip() for p in line.split("\t")]
+        # Columns: [blank], date, from, to, aircraft, flight_time, std, atd, sta, ?, status, ...
+        if len(parts) < 9:
+            continue
+        # Find date (first part that looks like "27 Jun 2025")
+        date = ""
+        from_apt = to_apt = flight_time = std = atd = sta = status = ""
+        aircraft = default_aircraft
+        for i, p in enumerate(parts):
+            if re.match(r"\d{1,2}\s+[A-Za-z]{3}\s+\d{4}", p):
+                date = p
+                if i + 1 < len(parts):
+                    from_apt = parts[i + 1]
+                if i + 2 < len(parts):
+                    to_apt = parts[i + 2]
+                if i + 3 < len(parts) and re.match(r"\([A-Z0-9]+\)", parts[i + 3]):
+                    aircraft = parts[i + 3].strip("()")
+                if i + 4 < len(parts):
+                    flight_time = parts[i + 4]
+                if i + 5 < len(parts):
+                    std = parts[i + 5]
+                if i + 6 < len(parts):
+                    atd = parts[i + 6]
+                if i + 7 < len(parts):
+                    sta = parts[i + 7]
+                if i + 9 < len(parts):
+                    status = parts[i + 9]
+                break
+        if date:
+            rows.append({
+                "source": source,
+                "aircraft": aircraft,
+                "date": date,
+                "from": from_apt,
+                "to": to_apt,
+                "flight": "",
+                "flight_time": flight_time,
+                "std": std,
+                "atd": atd,
+                "sta": sta,
+                "status": status,
+            })
+    return rows
+
+
 def parse_block_format(filepath: Path, source: str = "eli-lilly", aircraft: str = "") -> list[dict]:
     """Parse block-format files (eli-lilly, AbbVie) - em dash separator and label/value pairs."""
     with open(filepath, encoding="utf-8") as f:
@@ -194,14 +248,14 @@ def main():
         print(f"Not found: {regeneron_path}")
 
     if eli_lilly_path.exists():
-        eli_rows = parse_block_format(eli_lilly_path, source="eli-lilly", aircraft="N310EL")
+        eli_rows = parse_tab_table(eli_lilly_path, source="eli-lilly", default_aircraft="N310EL")
         all_rows.extend(eli_rows)
         print(f"Parsed {len(eli_rows)} flights from eli-lilly.txt")
     else:
         print(f"Not found: {eli_lilly_path}")
 
     if abbvie_path.exists():
-        abbvie_rows = parse_block_format(abbvie_path, source="abbvie", aircraft="N60AV")
+        abbvie_rows = parse_tab_table(abbvie_path, source="abbvie", default_aircraft="N60AV")
         all_rows.extend(abbvie_rows)
         print(f"Parsed {len(abbvie_rows)} flights from AbbVie.txt")
     else:
